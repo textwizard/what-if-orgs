@@ -147,8 +147,7 @@ for r_, role in enumerate(["home", "products", "news", "about", "careers"]):
         for q in range(random.choice([1, 2, 2, 3])):
             ax.add_patch(Circle((XC(i) - 3 + q * 3, yy + 1.3 - q * 1.6), 1.2, fc=OBS, ec="none", alpha=0.85, zorder=3))
 ax.add_patch(Rectangle((XC(3) - 6, top - 96), 12, 66, fc=PANEL, ec="none", zorder=2)); text(XC(3), top - 101, "pandemic", ha="center", color=FAINT, fontsize=5)
-lines_(px, top - 122, ["every page carries a Common Crawl pointer", "(file, offset, length, digest): anyone can", "fetch the same page and repeat the coding"], dy=7, color=MUTE, fontsize=5.3)
-lines_(px, top - 150, ["per firm and year: 15 to 50 pages read,", "up to 45,000 characters, by page role"], dy=7, color=MUTE, fontsize=5.3)
+lines_(px, top - 122, ["every page carries a Common Crawl pointer (file, offset, length,", "digest), so that anyone can fetch the same page and repeat the coding", "", "per firm and year, 15 to 50 pages are read, up to 45,000 characters,", "with quotas by page role"], dy=7, color=MUTE, fontsize=5.3)
 
 # ---- c measurement ----
 px, py = cells["c"]; px += IN; top = py + PH - 10
@@ -214,7 +213,7 @@ for r_, (lab, ps, rec) in enumerate(mat):
     for j, pv in enumerate(ps):
         ax.add_patch(Rectangle((XM(j) - 8, yy - 6.5), 16, 13, fc=TH[j], alpha=0.12 + pv * 1.3, ec="none", zorder=3)); text(XM(j), yy, f"{int(pv * 100)}", ha="center", fontsize=5.5)
     text(px + 180, yy, "×" if rec else "kept", ha="center", color=RED if rec else MUTE, fontsize=7.5 if rec else 5.5, fontweight="bold" if rec else "normal")
-lines_(px, top - 122, ["one row per product and decision year; the agent", "never sees the year it decides about", "", "every cell keeps the reason the agent gave,", "so a theory can be read at work"], dy=7, color=MUTE, fontsize=5.3)
+lines_(px, top - 122, ["one row per product and decision year; the agent never sees", "the year it decides about", "", "every cell keeps the reason the agent gave, so that a theory", "can be read at work"], dy=7, color=MUTE, fontsize=5.3)
 lines_(px, top - 163, ["BTF behavioral theory · AC absorptive capacity", "ESC escalation · RO real options"], dy=7, color=FAINT, fontsize=5)
 
 # ---- f calibrate, validate ----
