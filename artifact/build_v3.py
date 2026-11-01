@@ -257,6 +257,7 @@ def anchor_contrast(d):
                 "n": int(len(g)), "mean_p": round(float(g.p_drop.mean()), 3), "auc": round(auc(g.p_drop, g.recorded_drop), 3),
                 "logloss": round(float(-np.mean(g.recorded_drop * np.log(g.p_drop.clip(0.02, 0.98)) + (1 - g.recorded_drop) * np.log(1 - g.p_drop.clip(0.02, 0.98)))), 3),
                 "holdout_p": round(float(g[g.window == "holdout"].p_drop.mean()), 3),
+                "auc_holdout": round(auc(g[g.window == "holdout"].p_drop, g[g.window == "holdout"].recorded_drop), 3),
                 "distant": round(float(g[g.relatedness == "distant"].p_drop.mean()), 3),
                 "result": round(float(g[g.result_before].p_drop.mean()), 3)}
     wide = d[d.condition.isin(base + [f"{c}-na" for c in base])].pivot_table(index=["slug", "window", "year", "product"], columns="condition", values="p_drop")
