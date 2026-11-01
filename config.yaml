@@ -92,7 +92,7 @@ record:
   anchors: [web, none, own]          # web: the firm as measured; none: industry and size only; own: each theory without the anchors of its own constructs
   anchors_product: true              # render per product whether it is a line and whether the firm features it
   anchors_none_framings: [F]         # the no-anchor variant is run in the main framing only
-  models: [gpt-5.4, claude-opus-5-5, deepseek-v4-pro]
+  models: [deepseek-v4-pro, claude-opus-5-5, gpt-5.4]   # the open-weight model is the reference; the commercial models are the sensitivity check
   effort: medium
   max_output_tokens: 8000
   coding_dir: coding_opus            # coder whose products, statements, and profiles the agent reads (Opus 5.5)

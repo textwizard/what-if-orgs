@@ -24,7 +24,7 @@ HERE = Path(__file__).parent
 PUBLIC = "--public" in sys.argv
 REC = ROOT / "data" / "closed" / "record"
 CD = ROOT / "data" / "closed" / CONFIG["record"]["coding_dir"]
-MODELS = {"gpt-5.4": "gpt-5.4", "claude-opus-5-5": "Claude Opus 5.5", "deepseek-v4-pro": "DeepSeek V4 Pro"}
+MODELS = {"deepseek-v4-pro": "DeepSeek V4 Pro", "claude-opus-5-5": "Claude Opus 5.5", "gpt-5.4": "gpt-5.4"}
 FRAMINGS = {"F": "Considerations", "B": "Conditions"}
 THEORIES = {"none": "No theory", "btf": "Behavioral theory", "ac": "Absorptive capacity", "esc": "Escalation",
             "ro": "Real options"}
@@ -353,7 +353,7 @@ def costs():
 def main():
     ds = {m: decisions(m) for m in MODELS}
     ds = {m: d for m, d in ds.items() if d is not None}
-    main_model = "claude-opus-5-5" if "claude-opus-5-5" in ds else next(iter(ds))
+    main_model = "deepseek-v4-pro" if "deepseek-v4-pro" in ds else next(iter(ds))
     div = pd.read_csv(ROOT / "data" / "closed" / "division.csv", dtype={"division": str, "division_frame": str})
     prod = pd.read_csv(ROOT / "data" / "closed" / "products.csv")
     slugs = [l.strip() for l in open(ROOT / "data" / "closed" / "sample_final_slugs.txt") if l.strip()]
@@ -361,7 +361,7 @@ def main():
     value_rel = pd.read_csv(ROOT / "data" / "closed" / "funnel" / "value_opus.csv")
     data = {
         "built": date.today().isoformat(), "public": PUBLIC,
-        "models": {m: MODELS[m] for m in ds}, "main_model": main_model, "framings": FRAMINGS, "theories": THEORIES,
+        "models": {m: MODELS[m] for m in MODELS if m in ds}, "main_model": main_model, "framings": FRAMINGS, "theories": THEORIES,
         "theory_texts": {f"{t}_{fr}": (ROOT / "theories" / "variants" / f"{t}_{fr}.txt").read_text().strip()
                          for fr in FRAMINGS for t in THEORIES if t != "none"},
         "funnel": [{"stage": "Archive screens", "firms": 880 + 1275 + 2584, "note": "candidates of the frame enumerated in Common Crawl"},
