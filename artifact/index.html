@@ -3940,7 +3940,7 @@ z
     <div class="crow"><label>Decisions</label><div class="cc"><div class="seg" id="wb-win"></div></div></div>
     <div class="crow"><label>Theories</label><div class="cc"><div class="chips" id="wb-conds"></div></div></div>
     <div class="crow"><label>Texts</label><div class="cc"><div class="seg" id="wb-framing"></div><span id="wb-anchorsrow" style="display:inline-flex;align-items:center;gap:8px"><span class="lab">Web anchors</span><div class="seg" id="wb-anchors"></div></span></div></div>
-    <div class="crow"><label>Model</label><div class="cc"><div class="seg" id="wb-model"></div><span class="lab" id="wb-modelnote"></span></div></div>
+    <div class="crow"><label>Model</label><div class="cc"><div class="seg" id="wb-model"></div></div></div>
     <div class="crow"><label>Output</label><div class="cc"><div class="seg" id="wb-out"></div></div></div>
   </div>
   <div class="card"><h3 id="wb-h"></h3><p class="cap" id="wb-sub"></p><div id="wb-body"></div><p class="note" id="wb-note"></p></div>
@@ -4059,7 +4059,6 @@ function wbControls() {
   $("#wb-anchorsrow").style.display = hasNA() && S.framing === "F" ? "" : "none";
   seg($("#wb-anchors"), [["with", "With", "The agent reads the anchors measured from the firm's website."], ["without", "Without", "The firm reduced to its industry, size, and age."]], Q.anchors, k => { Q.anchors = k; drawSimulator(); });
   seg($("#wb-model"), Object.entries(D.models).map(([k, l]) => [k, l, MODELTIP[k]]), S.model, k => { S.model = k; drawSimulator(); drawValidation(); drawFirms(); });
-  $("#wb-modelnote").textContent = `${(D.counts.decisions[S.model] || 0).toLocaleString()} published decisions.`;
   seg($("#wb-out"), [["levels", "Levels", "Share of product-years withdrawn, each agent against the record."], ["ranking", "Ranking", "Whether the agents rank the withdrawn products above the kept ones."], ["cases", "Decisions", "Every decision of the selection with its probability and reason."], ["hotstove", "Own history", "The three readings of the own-history run; independent of the data selection."]], Q.out, k => { Q.out = k; drawSimulator(); });
 }
 function drawSimulator() {
