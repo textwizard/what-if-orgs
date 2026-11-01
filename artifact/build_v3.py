@@ -192,9 +192,12 @@ def firms(ds):
                 f["values"].setdefault(str(r.year), {})[coder] = {e: {"points": float(getattr(r, e)), "quote": getattr(r, f"{e}_quote")} for e in EMPH}
         for w, p in coded.get("profiles", {}).items():
             c = ctx.get(w)
+            sig = {k: {"value": c.get(k), "quote": c.get(f"{k}_quote")} for k in ("hiring", "expansion", "investment", "growth", "difficulty", "rd", "cooperation")} if c else {}
             f["windows"][w] = {"seed_year": p["seed_year"], "strategy": p["strategy"],
                                "size": p["context"].get("size"), "founded": p["context"].get("founded"),
-                               "industry": p["context"].get("industry"), "situation": context.render(c) if c else None}
+                               "industry": p["context"].get("industry"), "situation": context.render(c) if c else None,
+                               "signals": sig, "employees": c.get("employees") if c else None, "eu_projects": c.get("eu_projects") if c else None,
+                               "products_offered": c.get("products_offered") if c else None, "years_read": c.get("years") if c else None}
         ev = {}
         names = {}
         pr = prod[(prod.slug == s) & prod.innovation].sort_values("entry")

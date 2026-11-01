@@ -106,8 +106,10 @@ pre { font: 11.5px/1.5 ui-monospace, SFMono-Regular, Menlo, monospace; white-spa
   <p class="eyebrow">Simulator</p><h2>The data, the theory, and the model of a what-if organization, with the result.</h2>
   <p class="sub">Computed in the browser from the published decisions; the address of the page carries the selection.</p>
   <div class="card ctl">
-    <div class="crow"><label>Data</label><div class="cc"><div class="seg" id="wb-scope"></div><span id="wb-valuerow"><select id="wb-value"></select></span><span class="sep"></span><span class="lab">Decisions</span><div class="seg" id="wb-win"></div></div></div>
-    <div class="crow"><label>Theory</label><div class="cc"><div class="chips" id="wb-conds"></div><span class="sep"></span><span class="lab">Texts</span><div class="seg" id="wb-framing"></div><span id="wb-anchorsrow"><span class="lab">Web anchors</span> <div class="seg" id="wb-anchors" style="display:inline-flex"></div></span></div></div>
+    <div class="crow"><label>Firms</label><div class="cc"><div class="seg" id="wb-scope"></div><span id="wb-valuerow"><select id="wb-value"></select></span></div></div>
+    <div class="crow"><label>Decisions</label><div class="cc"><div class="seg" id="wb-win"></div></div></div>
+    <div class="crow"><label>Theories</label><div class="cc"><div class="chips" id="wb-conds"></div></div></div>
+    <div class="crow"><label>Texts</label><div class="cc"><div class="seg" id="wb-framing"></div><span id="wb-anchorsrow" style="display:inline-flex;align-items:center;gap:8px"><span class="lab">Web anchors</span><div class="seg" id="wb-anchors"></div></span></div></div>
     <div class="crow"><label>Model</label><div class="cc"><div class="seg" id="wb-model"></div><span class="lab" id="wb-modelnote"></span></div></div>
     <div class="crow"><label>Output</label><div class="cc"><div class="seg" id="wb-out"></div></div></div>
   </div>
@@ -118,7 +120,7 @@ pre { font: 11.5px/1.5 ui-monospace, SFMono-Regular, Menlo, monospace; white-spa
   <p class="eyebrow">Firm database</p><h2 id="firms-h"></h2>
   <p class="sub">One firm at a time, with its record, the decision of each agent on every product with its reason, and the sources.</p>
   <div class="r" style="display:flex;gap:10px;align-items:center;margin-bottom:6px"><label style="font:400 13px var(--font);color:var(--sec)">Firm</label><select id="firm-pick"></select></div>
-  <div class="row c4" id="dbstats"></div>
+  <p class="note" id="dbstats" style="margin:0 0 6px"></p>
   <div id="firmdetail"></div>
   <div class="card" style="padding: 18px 28px 14px"><h3 style="margin-bottom:2px">All firms</h3><p class="cap" style="margin:0 0 8px">The table sorts by any column; a row opens the firm above.</p><div style="overflow:auto;max-height:560px"><table class="t" id="dbtable"></table></div></div>
 </div></section>
@@ -156,7 +158,7 @@ const YEARS = [2018, 2019, 2022, 2023, 2024, 2025, 2026], DEC = {2019: 1, 2024: 
 const LEVEL = ["not mentioned", "mentioned", "page of its own", "home page"], OP = [0.12, 0.38, 0.66, 1];
 const WIN = {exploration: "Products of 2018, decided 2019", holdout: "Products of 2023–24, decided 2024–25"};
 const WINNOTE = {exploration: "fitting set, before the pandemic", holdout: "held out, never used for fitting"};
-const S = {page: "intro", model: D.main_model, framing: "F", firm: null, cohort: "holdout", open: null, layer: "btf"};
+const S = {page: "intro", model: D.main_model, framing: "F", firm: null, cohort: "holdout", open: null, layer: "btf", fwin: "holdout"};
 const Q = {scope: "all", value: "", win: "holdout", conds: ["btf", "ac", "esc", "ro"], anchors: "with", out: "levels", all: false};
 const THEORIES = () => Object.keys(D.theories).filter(t => t !== "none");
 const TIP = {none: "The language model with the firm's anchors and record and no theory text.", btf: "Behavioral theory of the firm: performance against aspirations, search, and slack.", ac: "Absorptive capacity: prior knowledge, relatedness to the established offer, learning.", esc: "Escalation of commitment: sunk costs, responsibility, persistence in the face of weak results.", ro: "Real options reasoning: uncertainty, staged investment, abandonment when the option expires."};
@@ -338,7 +340,7 @@ function drawFirms() {
   const rows = firmRows(), tot = k => rows.reduce((a, r) => a + (r[k] || 0), 0);
   $("#firms-h").textContent = `${rows.length} firms, measured from their archived websites.`;
   const fp = $("#firm-pick"); fp.innerHTML = Object.entries(D.firms).sort((a, b) => a[1].domain.localeCompare(b[1].domain)).map(([k, f]) => `<option value="${k}" ${k === S.firm ? "selected" : ""}>${esc(f.domain)}</option>`).join(""); fp.onchange = e => { S.firm = e.target.value; S.open = null; drawFirms(); setHash(); };
-  $("#dbstats").innerHTML = [[rows.length, "firms"], [tot("pages").toLocaleString(), "archived pages read"], [Math.round(tot("chars") / 1e6).toLocaleString() + " M", "characters of website text"], [tot("products").toLocaleString(), `new products, ${tot("withdrawn")} taken off the market`]].map(([b, s]) => `<div class="card stat" style="margin:0"><b>${b}</b><span>${s}</span></div>`).join("");
+  $("#dbstats").textContent = `${rows.length} firms, ${tot("pages").toLocaleString()} archived pages, ${Math.round(tot("chars") / 1e6)} million characters of website text, ${tot("products").toLocaleString()} new products of which ${tot("withdrawn")} were taken off the market.`;
   const cols = [["domain", "Firm"], ["regime", "Regime"], ["pages", "Pages read", 1], ["products", "New products", 1], ["withdrawn", "Withdrawn", 1], ["cases", "Decisions", 1], ["rec", "Withdrawn, record", 1], ["p", "Withdrawn, theories", 1]];
   rows.sort((a, b) => { const va = a[sortKey], vb = b[sortKey]; return (typeof va === "string" ? va.localeCompare(vb) : (va ?? -1) - (vb ?? -1)) * sortDir; });
   $("#dbtable").innerHTML = `<tr>${cols.map(([k, l, n]) => `<th class="sort ${n ? "num" : ""}" data-k="${k}">${l}${sortKey === k ? (sortDir > 0 ? " ↑" : " ↓") : ""}</th>`).join("")}</tr>` + rows.map(r => `<tr class="pick ${r.slug === S.firm ? "sel" : ""}" data-slug="${r.slug}"><td><b>${esc(r.domain)}</b></td><td style="color:var(--sec)">${esc(r.regime)}</td><td class="num">${r.pages.toLocaleString()}</td><td class="num">${r.products}</td><td class="num">${r.withdrawn}</td><td class="num">${r.cases}</td><td class="num">${pct(r.rec)}</td><td class="num">${pct(r.p)}</td></tr>`).join("");
@@ -353,8 +355,17 @@ function firmCases(slug) { const f = D.firms[slug], C = conds(), used = new Set(
 function drawFirm(slug) {
   const f = D.firms[slug], web = D.web[slug] || {}, YS = Object.keys(web), C = conds().filter(c => base(c) !== "none"), rows = firmCases(slug), n = rows.reduce((a, r) => a + Object.keys(r.years).length, 0), drops = rows.reduce((a, r) => a + Object.values(r.years).filter(y => y.recorded).length, 0);
   const pagesByYear = YS.map(y => web[y]?.pages ?? 0), chars = YS.reduce((a, y) => a + (web[y]?.chars || 0), 0);
-  let h = `<div class="card"><p class="eyebrow" style="margin-bottom:6px">${esc(f.division.regime)} · ${esc(f.division.label)}</p><h3 style="font-size:26px;margin-bottom:14px">${esc(f.domain)}</h3>` +
-    `<div class="row c4">${[[pagesByYear.reduce((a, b) => a + b, 0).toLocaleString(), "archived pages read"], [f.products.length, "new products in the two windows"], [f.products.filter(p => p.drop != null).length, "taken off the market"], [`${n} · ${drops}`, "decision cases · withdrawn in the record"]].map(([b, s]) => `<div class="card stat s" style="margin:0"><b>${b}</b><span>${s}</span></div>`).join("")}</div></div>`;
+  const ws = Object.keys(f.windows), wsel = f.windows[S.fwin] ? S.fwin : ws[ws.length - 1], v = f.windows[wsel], vals = f.values[String(v.seed_year)] || {}, coder = vals.opus ? "opus" : Object.keys(vals)[0], val = vals[coder];
+  const SIG = {hiring: "hiring", expansion: "expanding", investment: "investing", growth: "growing", difficulty: "in difficulty", rd: "own R&D", cooperation: "cooperating"};
+  const chip = (lab, on, q) => `<span title="${esc(q || (on ? "stated on the website" : "not stated on the website"))}" style="display:inline-flex;align-items:center;gap:5px;font:500 12.5px var(--font);color:${on ? "var(--ink)" : "var(--ter)"};border:1px solid ${on ? "var(--sec)" : "var(--hair)"};border-radius:999px;padding:3px 9px">${on ? "✓" : "–"} ${lab}</span>`;
+  const row = (k, val_) => `<div style="display:grid;grid-template-columns:120px 1fr;gap:10px;padding:6px 0;border-top:1px solid var(--hair);font:400 13px/1.45 var(--font)"><span style="color:var(--sec)">${k}</span><span>${val_}</span></div>`;
+  const yrs = YS.map(y => `${y}: ${web[y]?.pages ?? 0}`).join(" · ");
+  let h = `<div class="card"><p class="eyebrow" style="margin-bottom:6px">${esc(f.division.regime)} · ${esc(f.division.label)}</p><h3 style="font-size:26px;margin-bottom:4px">${esc(f.domain)}</h3><p class="cap">${f.products.length} new products in the two windows, ${f.products.filter(p => p.drop != null).length} taken off the market; ${n} decisions, ${drops} withdrawn in the record. Website of <span class="seg" id="fwin-seg" style="vertical-align:middle"></span></p>` +
+    `<div class="row c2" style="gap:28px"><div><p class="k3">What the firm says about itself</p>${["offer", "customers", "why_we_win", "resources", "direction"].map(k => row({offer: "Offer", customers: "Customers", why_we_win: "Why it wins", resources: "Resources", direction: "Direction"}[k], esc(v.strategy[k] || "–"))).join("")}</div>` +
+    `<div><p class="k3">Indicators from the web</p>${row("Signals", Object.entries(SIG).map(([k, lab]) => chip(lab, v.signals && v.signals[k] && v.signals[k].value, v.signals && v.signals[k] && v.signals[k].quote)).join(" "))}${row("Employees", v.employees != null ? v.employees.toLocaleString() : "not stated")}${row("Products offered", v.products_offered != null ? v.products_offered : "–")}${row("EU projects", v.eu_projects != null ? v.eu_projects : "–")}${row("Industry", esc(v.industry || "–"))}` +
+    (val ? row("Theory of value", `<span class="strip" title="${esc(Object.entries(val).map(([e, q]) => `${e} ${Math.round(q.points)}: ${q.quote || ""}`).join("\n"))}" style="width:100%;height:10px;gap:1px">${["performance", "knowledge", "commitment", "experimentation"].map(e => `<i style="width:${val[e].points}%;background:var(--${{performance: "btf", knowledge: "ac", commitment: "esc", experimentation: "ro"}[e]})"></i>`).join("")}</span><span style="font:400 12px var(--font);color:var(--sec)">${["performance", "knowledge", "commitment", "experimentation"].map(e => `${e} ${Math.round(val[e].points)}`).join(" · ")}</span>`) : "") +
+    `${row("Situation", esc(v.situation || "–"))}</div></div>` +
+    `<p class="note" style="margin-top:14px">Web data: ${pagesByYear.reduce((a, b) => a + b, 0).toLocaleString()} archived pages, ${(chars / 1e6).toFixed(1)} million characters, every page with its Common Crawl pointer; pages per year ${yrs}. Signals and quotes come from the website of ${v.seed_year}; the theory of value distributes 100 points over four emphases from the firm's own account of its success, with a quote behind each.</p></div>`;
   // record + results on one timeline
   const left = 280, cw = (W - left - 10) / YEARS.length, rh = 46, top = 44, ph = 0.5;
   let s = ""; YEARS.forEach((y, i) => { const x = left + i * cw; if (DEC[y]) s += `<rect x="${x + 1}" y="${top - 6}" width="${cw - 2}" height="${rows.length * rh + 6}" rx="6" fill="var(--track)"/>`; s += `<text class="t" x="${x + cw / 2}" y="14" text-anchor="middle" style="font-weight:${DEC[y] ? 600 : 400}">${y}</text>` + (DEC[y] ? `<text class="n" x="${x + cw / 2}" y="28" text-anchor="middle">decided</text>` : ""); });
@@ -367,8 +378,9 @@ function drawFirm(slug) {
       C.forEach((c, j) => { const v = d.p[c]; if (v == null) return; const hh = Math.max(1.2, Math.min(v, ph) / ph * 18); s += `<rect x="${x0 + j * (bw + g)}" y="${yb - hh}" width="${bw}" height="${hh}" rx="1" fill="${COL[base(c)]}" ${d.dec[c] === "drop" ? 'stroke="var(--ink)" stroke-width="1"' : ""}/>`; }); });
     s += `</g>`; });
   h += `<div class="card"><h3>The record and the readings under every condition</h3><p class="cap">Each row is a product, with its presence on the archived website shaded by prominence and a red cross in the year it left the market; in the decided years, the bars give each agent's probability that it leaves. A row opens the reasons.</p><div id="hero"></div><div class="legend">${[`<span><i class="sw box" style="background:var(--obs);opacity:.38"></i>mentioned</span>`, `<span><i class="sw box" style="background:var(--obs);opacity:.66"></i>page of its own</span>`, `<span><i class="sw box" style="background:var(--obs)"></i>home page</span>`, `<span><b style="color:var(--red)">×</b> taken off the market</span>`, ...C.map(c => `<span><i class="sw" style="background:${COL[base(c)]}"></i>${NAME(c)}</span>`)].join("")}</div><div id="hero-reasons"></div></div>`;
-  h += `<div class="card"><h3>Sources</h3><p class="cap" style="margin-bottom:8px">Pages read per year, ${YS[0]} to ${YS[YS.length - 1]}: ${pagesByYear.join(" · ")}; ${(chars / 1e6).toFixed(1)} million characters in all, every page with its Common Crawl pointer.</p>` + Object.entries(f.windows).map(([w, v]) => `<p class="cap" style="margin-bottom:6px"><b>Website of ${v.seed_year}.</b> ${esc(v.strategy.offer || "")}</p>`).join("") + `</div>`;
+
   $("#firmdetail").innerHTML = h; svgIn("#hero", s, top + rows.length * rh + 10);
+  seg($("#fwin-seg"), ws.map(w => [w, String(f.windows[w].seed_year), w === "exploration" ? "The website before the first window." : "The website before the second window."]), wsel, k => { S.fwin = k; drawFirm(slug); });
   document.querySelectorAll("#hero g.rowh").forEach(g => g.onclick = () => { S.open = S.open === +g.dataset.row ? null : +g.dataset.row; reasons(rows); });
   if (S.open == null || S.open >= rows.length) { S.open = rows.findIndex(r => Object.values(r.years).some(y => y.recorded)); if (S.open < 0) S.open = 0; } reasons(rows);
 }
