@@ -14,7 +14,6 @@ What-if organizations are language-model agents that represent specific real org
 | `protocols/` | The coding protocols given to the language model |
 | `theories/` | The theory texts in both framings |
 | `data/public/final/` | The public data of the 50 firms |
-| `docs/design.md` | The design record: the decisions that shaped the proof of concept, in the order taken |
 | `config.yaml` | The design of the study: windows and decision years, theories and framings, anchors, models, and the spending limit |
 | `paths.example.yaml` | Template for the local paths to sources that cannot be redistributed |
 
