@@ -33,8 +33,8 @@ h1 { font: 600 36px/1.12 var(--font); letter-spacing: -.024em; margin: 0 0 14px;
 .hero { text-align: left; } .hero h1 { max-width: none; } .hero .lede { max-width: none; margin: 0; }
 .lede { font: 400 17px/1.5 var(--font); color: var(--sec); max-width: 760px; margin: 0 auto; letter-spacing: -.012em; }
 .tbl { overflow-x: auto; } .tbl table { min-width: 100%; }
-h2 { font: 600 28px/1.15 var(--font); letter-spacing: -.02em; margin: 0 0 8px; max-width: 760px; }
-.sub { font: 400 15px/1.5 var(--font); color: var(--sec); margin: 0 0 18px; max-width: 760px; }
+h2 { font: 600 28px/1.15 var(--font); letter-spacing: -.02em; margin: 0 0 8px; }
+.sub { font: 400 15px/1.5 var(--font); color: var(--sec); margin: 0 0 18px; }
 .card { background: var(--card); border: 1px solid var(--hair); border-radius: 18px; padding: 26px 28px; margin-top: 22px; }
 .card h3 { font: 600 20px/1.25 var(--font); letter-spacing: -.016em; margin: 0 0 4px; }
 .card .cap { font: 400 13.5px/1.5 var(--font); color: var(--sec); margin: 0 0 16px; }
@@ -3947,9 +3947,8 @@ z
 
 <section class="page" id="firms"><div class="wrap">
   <p class="eyebrow">Firm database</p><h2 id="firms-h"></h2>
-  <p class="sub">One firm at a time, with its record, the decision of each agent on every product with its reason, and the sources.</p>
+  <p class="sub" id="firms-sub"></p>
   <div class="r" style="display:flex;gap:10px;align-items:center;margin-bottom:6px"><label style="font:400 13px var(--font);color:var(--sec)">Firm</label><select id="firm-pick"></select></div>
-  <p class="note" id="dbstats" style="margin:0 0 6px"></p>
   <div id="firmdetail"></div>
   <div class="card" style="padding: 18px 28px 14px"><h3 style="margin-bottom:2px">All firms</h3><p class="cap" style="margin:0 0 8px">The table sorts by any column; a row opens the firm above.</p><div style="overflow:auto;max-height:560px"><table class="t" id="dbtable"></table></div></div>
 </div></section>
@@ -4169,7 +4168,7 @@ function drawFirms() {
   const rows = firmRows(), tot = k => rows.reduce((a, r) => a + (r[k] || 0), 0);
   $("#firms-h").textContent = `${rows.length} firms, measured from their archived websites.`;
   const fp = $("#firm-pick"); fp.innerHTML = Object.entries(D.firms).sort((a, b) => a[1].domain.localeCompare(b[1].domain)).map(([k, f]) => `<option value="${k}" ${k === S.firm ? "selected" : ""}>${esc(f.domain)}</option>`).join(""); fp.onchange = e => { S.firm = e.target.value; S.open = null; drawFirms(); setHash(); };
-  $("#dbstats").textContent = `${rows.length} firms, ${tot("pages").toLocaleString()} archived pages, ${Math.round(tot("chars") / 1e6)} million characters of website text, ${tot("products").toLocaleString()} new products of which ${tot("withdrawn")} were taken off the market.`;
+  $("#firms-sub").textContent = `One firm at a time, with its record, the decision of each agent on every product with its reason, and the sources: ${tot("pages").toLocaleString()} archived pages and ${Math.round(tot("chars") / 1e6)} million characters of website text, ${tot("products").toLocaleString()} new products of which ${tot("withdrawn")} were taken off the market.`;
   const cols = [["domain", "Firm"], ["regime", "Regime"], ["pages", "Pages read", 1], ["products", "New products", 1], ["withdrawn", "Withdrawn", 1], ["cases", "Decisions", 1], ["rec", "Withdrawn, record", 1], ["p", "Withdrawn, theories", 1]];
   rows.sort((a, b) => { const va = a[sortKey], vb = b[sortKey]; return (typeof va === "string" ? va.localeCompare(vb) : (va ?? -1) - (vb ?? -1)) * sortDir; });
   $("#dbtable").innerHTML = `<tr>${cols.map(([k, l, n]) => `<th class="sort ${n ? "num" : ""}" data-k="${k}">${l}${sortKey === k ? (sortDir > 0 ? " ↑" : " ↓") : ""}</th>`).join("")}</tr>` + rows.map(r => `<tr class="pick ${r.slug === S.firm ? "sel" : ""}" data-slug="${r.slug}"><td><b>${esc(r.domain)}</b></td><td style="color:var(--sec)">${esc(r.regime)}</td><td class="num">${r.pages.toLocaleString()}</td><td class="num">${r.products}</td><td class="num">${r.withdrawn}</td><td class="num">${r.cases}</td><td class="num">${pct(r.rec)}</td><td class="num">${pct(r.p)}</td></tr>`).join("");
@@ -4196,13 +4195,14 @@ function drawFirm(slug) {
     `${row("Situation", esc(v.situation || "–"))}</div></div>` +
     `<p class="note" style="margin-top:14px">Web data: ${pagesByYear.reduce((a, b) => a + b, 0).toLocaleString()} archived pages, ${(chars / 1e6).toFixed(1)} million characters, every page with its Common Crawl pointer; pages per year ${yrs}. Signals and quotes come from the website of ${v.seed_year}; the theory of value distributes 100 points over four emphases from the firm's own account of its success, with a quote behind each.</p></div>`;
   // record + results on one timeline
-  const left = 280, cw = (W - left - 10) / YEARS.length, rh = 46, top = 44, ph = 0.5;
-  let s = ""; YEARS.forEach((y, i) => { const x = left + i * cw; if (DEC[y]) s += `<rect x="${x + 1}" y="${top - 6}" width="${cw - 2}" height="${rows.length * rh + 6}" rx="6" fill="var(--track)"/>`; s += `<text class="t" x="${x + cw / 2}" y="14" text-anchor="middle" style="font-weight:${DEC[y] ? 600 : 400}">${y}</text>` + (DEC[y] ? `<text class="n" x="${x + cw / 2}" y="28" text-anchor="middle">decided</text>` : ""); });
+  const left = 280, GW = 0.5, cw = (W - left - 10) / (YEARS.length + GW), rh = 46, top = 44, ph = 0.5, XS = {}; YEARS.forEach((y, i) => XS[y] = left + (i + (y > 2019 ? GW : 0)) * cw);
+  let s = ""; YEARS.forEach(y => { const x = XS[y]; if (DEC[y]) s += `<rect x="${x + 1}" y="${top - 6}" width="${cw - 2}" height="${rows.length * rh + 6}" rx="6" fill="var(--track)"/>`; s += `<text class="t" x="${x + cw / 2}" y="14" text-anchor="middle" style="font-weight:${DEC[y] ? 600 : 400}">${y}</text>` + (DEC[y] ? `<text class="n" x="${x + cw / 2}" y="28" text-anchor="middle">decided</text>` : ""); });
+  { const gx = XS[2019] + cw; s += `<rect x="${gx + 2}" y="${top - 6}" width="${GW * cw - 4}" height="${rows.length * rh + 6}" rx="4" fill="none" stroke="var(--hair)" stroke-dasharray="3 3"/><text class="n" x="${gx + GW * cw / 2}" y="14" text-anchor="middle" style="font-size:10px">2020–21</text><text class="n" x="${gx + GW * cw / 2}" y="28" text-anchor="middle" style="font-size:10px">no archive</text>`; }
   rows.forEach((r, k) => { const y = top + k * rh, p = r.p;
     s += `<g class="rowh click" data-row="${k}"><rect class="bg" x="-8" y="${y - 2}" width="${W + 8}" height="${rh - 2}" rx="6" fill="transparent"/><text class="t" x="0" y="${y + 12}">${esc((r.name || "").slice(0, 32))}</text><text class="n" x="0" y="${y + 26}">${esc(r.generic.length > 44 ? r.generic.slice(0, 43) + "…" : r.generic)}</text>`;
-    YEARS.forEach((yr, i) => { const x = left + i * cw; if (!p || yr < r.entry || (p.drop != null && yr > p.drop)) return; const l = p.levels[yr];
+    YEARS.forEach(yr => { const x = XS[yr]; if (!p || yr < r.entry || (p.drop != null && yr > p.drop)) return; const l = p.levels[yr];
       if (p.drop === yr) s += `<text x="${x + cw / 2}" y="${y + 12}" text-anchor="middle" style="fill:var(--red);font-weight:700;font-size:15px">×</text>`; else if (l != null) s += `<rect x="${x + 6}" y="${y + 2}" width="${cw - 12}" height="9" rx="2" fill="var(--obs)" opacity="${OP[l]}"/>`; });
-    Object.entries(r.years).forEach(([yr, d]) => { const i = YEARS.indexOf(+yr), x = left + i * cw, bw = 9, g = 3, tot = C.length * bw + (C.length - 1) * g, x0 = x + (cw - tot) / 2, yb = y + rh - 6;
+    Object.entries(r.years).forEach(([yr, d]) => { const x = XS[+yr], bw = 9, g = 3, tot = C.length * bw + (C.length - 1) * g, x0 = x + (cw - tot) / 2, yb = y + rh - 6;
       s += `<line x1="${x0 - 3}" x2="${x0 + tot + 3}" y1="${yb}" y2="${yb}" stroke="var(--hair)" stroke-width="1"/>`;
       C.forEach((c, j) => { const v = d.p[c]; if (v == null) return; const hh = Math.max(1.2, Math.min(v, ph) / ph * 18); s += `<rect x="${x0 + j * (bw + g)}" y="${yb - hh}" width="${bw}" height="${hh}" rx="1" fill="${COL[base(c)]}" ${d.dec[c] === "drop" ? 'stroke="var(--ink)" stroke-width="1"' : ""}/>`; }); });
     s += `</g>`; });
