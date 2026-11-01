@@ -261,7 +261,11 @@ def anchor_contrast(d):
                 "result": round(float(g[g.result_before].p_drop.mean()), 3)}
     wide = d[d.condition.isin(base + [f"{c}-na" for c in base])].pivot_table(index=["slug", "window", "year", "product"], columns="condition", values="p_drop")
     out["correlation"] = {c: round(float(wide[c].corr(wide[f"{c}-na"])), 2) for c in base if f"{c}-na" in wide.columns}
-    out["recorded"] = round(float(d[d.condition == "none"].recorded_drop.mean()), 3)
+    n0 = d[d.condition == "none"]
+    out["recorded"] = round(float(n0.recorded_drop.mean()), 3)
+    out["recorded_distant"] = round(float(n0[n0.relatedness == "distant"].recorded_drop.mean()), 3)
+    out["recorded_result"] = round(float(n0[n0.result_before].recorded_drop.mean()), 3)
+    out["n_distant"] = int((n0.relatedness == "distant").sum()); out["n_result"] = int(n0.result_before.sum())
     return out
 
 

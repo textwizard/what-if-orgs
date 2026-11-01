@@ -224,7 +224,7 @@ lines_(px, top - 163, ["BTF behavioral theory · AC absorptive capacity", "ESC e
 # ---- f calibrate, validate ----
 px, py = cells["f"]; px += IN; top = py + PH - 10
 letter(px, top, "f", "Calibration, validation")
-text(px, top - 14, "fit the mix: products of 2018–19, decided 2019", color=MUTE, fontsize=5.5)
+text(px, top - 14, "fit the mix: products of 2018, decided 2019", color=MUTE, fontsize=5.5)
 for lvl, (lab, ws) in enumerate((("all firms", [0.45, 0.25, 0.12, 0.08, 0.10]), ("by regime", [0.35, 0.30, 0.20, 0.05, 0.10]), ("per firm", [0.55, 0.10, 0.10, 0.15, 0.10]))):
     yy = top - 28 - lvl * 12
     text(px, yy, lab, color=MUTE, fontsize=5.5)
