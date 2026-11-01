@@ -63,9 +63,11 @@ def main(path, name="final"):
         dec = pd.read_csv(d / "decisions.csv")
         dec[dec.slug.isin(slugs)].to_csv(out / f"decisions_{m}.csv", index=False)
         (out / "record" / m).mkdir(parents=True, exist_ok=True)
-        for f in d.glob("*.csv"):
-            if f.name != "decisions.csv":
-                shutil.copy(f, out / "record" / m / f.name)
+        for name in ["weights_common_F.csv", "weights_common_B.csv", "weights_regime_F.csv", "weights_regime_B.csv", "weights_firm_F.csv",
+                     "weights_firm_B.csv", "validation_F.csv", "validation_B.csv", "coherence_F.csv", "coherence_B.csv", "anchor_contrast.csv",
+                     "hotstove.csv", "hotstove_firms.csv", "memory.csv"]:
+            if (d / name).exists():
+                shutil.copy(d / name, out / "record" / m / name)
     # answers of every call that names one of the firms in its purpose, with the prompt removed
     n = 0
     for line in open(llm.LOG):

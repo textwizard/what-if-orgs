@@ -110,7 +110,7 @@ def run(model, wide, framing):
     C = conditions(wide, framing)
     tag = f"_{framing}"
     cal, val = wide[wide.window == "exploration"], wide[wide.window == "holdout"]
-    print(f"exploration {len(cal)}, holdout {len(val)}, gap {int((wide.window == 'gap').sum())} product-years; conditions {C}")
+    print(f"exploration {len(cal)}, holdout {len(val)}; conditions {C}")
     y_cal, y_val = cal.recorded_drop.astype(float).values, val.recorded_drop.astype(float).values
     P_cal, P_val = cal[C].values, val[C].values
 
@@ -145,19 +145,6 @@ def run(model, wide, framing):
                               for i, s in enumerate(val.slug)])
     validation = pd.DataFrame({k: metrics(p, y_val) for k, p in preds.items()}).T
     validation.to_csv(OUT / model / f"validation{tag}.csv")
-    gap = wide[wide.window == "gap"]
-    if len(gap):                                                      # decisions across the pandemic gap, reported, not fitted
-        P_gap, y_gap = gap[C].values, gap.recorded_drop.astype(float).values
-        g = {"base rate": np.full(len(gap), y_cal.mean()), "none": P_gap[:, 0]}
-        g.update({c: P_gap[:, k] for k, c in enumerate(C) if c != "none"})
-        g["common"] = P_gap @ common
-        g["regime"] = np.array([P_gap[i] @ regime.loc[r, C].values.astype(float) if r in regime.index else P_gap[i] @ common
-                                for i, r in enumerate(gap.regime)])
-        g["firm"] = np.array([P_gap[i] @ f_cal.loc[s, C].values.astype(float) if s in f_cal.index else P_gap[i] @ common
-                              for i, s in enumerate(gap.slug)])
-        gap_t = pd.DataFrame({k: metrics(p, y_gap) for k, p in g.items()}).T
-        gap_t.to_csv(OUT / model / f"gap{tag}.csv")
-        print(f"\nPandemic gap set ({len(gap)} product-years decided in {sorted(set(gap.year))}), same predictors:\n" + gap_t.round(3).to_string())
     print("\nValidation on the holdout window (lower log loss and Brier, higher AUC and hit rate are better):\n"
           + validation.round(3).to_string())
 

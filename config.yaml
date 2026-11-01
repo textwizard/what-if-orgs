@@ -24,20 +24,15 @@ llm:
   model: gpt-5.4-mini
   effort: medium
   max_output_tokens: 8000
-  budget_usd: 600          # hard limit on spending since budget_since (raised 2026-10-31 night for the fair-anchor rerun A and the hot stove run B on three models)
+  budget_usd: 600          # limit on spending since budget_since
   budget_since: "2026-10-25T00:00:00"
   batch_chars: 600000      # characters per uploaded part of a batch; larger uploads break off on a slow connection
-  parallel_calls: 6        # parallel single calls for providers without a batch interface (DeepSeek throttles at low balance)
-  prices:                  # USD per 1M tokens (input, cached input, output), OpenAI Standard, read 2026-10-15
-    gpt-5.4-nano: [0.20, 0.02, 1.25]
-    gpt-5.2: [1.75, 0.175, 14.00]
+  parallel_calls: 6        # parallel single calls for providers without a batch interface
+  prices:                  # USD per 1M tokens (input, cached input, output), list prices of October 2026
     gpt-5.4-mini: [0.75, 0.075, 4.50]
     gpt-5.4: [2.50, 0.25, 15.00]
-    gpt-5.5: [5.00, 0.50, 30.00]
-    claude-opus-5-5: [4.00, 0.20, 20.00]     # Anthropic, read 2026-10-29, thinking billed as output
-    claude-haiku-5-5: [0.10, 0.01, 0.50]     # prompts up to 100,000 tokens
-    deepseek-flash: [0.30, 0.006, 1.20]     # DeepSeek peak prices, read 2026-10-27, off-peak half
-    deepseek-v4-pro: [1.32, 0.044, 3.96]
+    claude-opus-5-5: [4.00, 0.20, 20.00]     # thinking billed as output
+    deepseek-v4-pro: [1.32, 0.044, 3.96]   # peak prices
 
 web:
   per_role: {home: 1, imprint: 1, about: 4, career: 6, rnd: 8, offer: 20, news: 10, other: 4}
@@ -66,35 +61,16 @@ products:
   alias_effort: low
   alias_max_tokens: 20000
 
-outcomes:
-  periods: 4
-  share_high: 0.5          # share of products with high potential
-  share_early_failure: 0.5
-  mu: 0.25                 # potential, high +mu and low -mu
-  shift: 0.75              # shift of the first result toward an early failure or success
-  noise: 1.0
-  noise_first: 0.5
-  scale: 40                # result in percent of plan = 100 + scale y
 
-twin:
-  prior: 0.1               # mildly optimistic prior estimate of a new product
-  weight: 1                # weight of the prior, in observations
-  aspiration: 0.0
 
 simulation:
   # Calibration before and validation after the pandemic, each described by the website of the year before its launches.
   windows: {exploration: [2018, 2019], holdout: [2023, 2024]}
   context_years: {exploration: [2017], holdout: [2022]}
   max_products: 6
-  runs: {none: 1, btf: 1, ac: 1, placebo: 1, twin: 1}
-  forgone: [none, btf, ac, twin]
-  workers: 8
 
-analysis:
-  bootstrap: 1000
-  record_end: {exploration: 2019, holdout: 2025}   # fates are observed up to the year before the pandemic
 
-# Technological regimes after Castellacci (2008), as used in Dahlke et al. (2026).
+# Technological regimes after Castellacci (2008).
 regimes:
   knowledge_intensive_business_services: [62, 63, 69, 70, 71, 72, 73, 74, 85, 86, 87, 88]
   specialised_suppliers: [26, 28]
@@ -109,17 +85,17 @@ record:
   # Decisions about the real new products of each firm, year by year, compared with the record (whatif/record.py).
   # Decision years per window: the informative years after launch in which a product can be seen to disappear.
   years: {exploration: [2019, 2022], holdout: [2024, 2025]}   # a drop needs a later archived year, so 2026 cannot be a decision year
-  gap_years: [2022]                  # decisions across the pandemic gap (no archive in 2020 and 2021): simulated and reported as the
-                                     # set 'gap', not used to fit the weights, so that calibration is before the pandemic (2026-10-31)
+  gap_years: [2022]                  # decisions across the pandemic gap (no archive in 2020 and 2021): the second year of the
+                                     # own-history run, not compared with the record and not used to fit the weights
   theories: [btf, ac, esc, ro]       # theories/variants/<theory>_<framing>.txt; none is always run
-  framings: [F, B]                   # F states the considerations, B states the decision (instrument tests 2026-10-29); F is the main framing
+  framings: [F, B]                   # F states the considerations, B the conditions; F is the main framing
   anchors: [web, none, own]          # web: the firm as measured; none: industry and size only; own: each theory without the anchors of its own constructs
-  anchors_product: true              # render per product whether it is a line and whether the firm features it (since 2026-10-31)
+  anchors_product: true              # render per product whether it is a line and whether the firm features it
   anchors_none_framings: [F]         # the no-anchor variant is run in the main framing only
   models: [gpt-5.4, claude-opus-5-5, deepseek-v4-pro]
   effort: medium
   max_output_tokens: 8000
-  coding_dir: coding_opus            # coder whose products, evidence, and profiles the agent reads (Opus 5.5 for the final sample, 2026-10-31)
-  memory:                            # the hot stove run (whatif/memory.py): second decision years with the agent's own first-year history
+  coding_dir: coding_opus            # coder whose products, statements, and profiles the agent reads (Opus 5.5)
+  memory:                            # the own-history run (whatif/memory.py): second decision years with the agent's own first-year decisions
     draws: 10                        # histories drawn from the agent's first-year probabilities, plus the record-as-memory control
     conditions: [none, btf_F, ac_F, esc_F, ro_F]

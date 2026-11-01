@@ -3,9 +3,9 @@
 For one model, compares the conditions with the web anchors (stated strategy, situation of the firm and industry,
 relatedness of the products) with the same conditions where the firm is reduced to industry, size, and age (suffix
 -na in whatif/record.py): the drop level against the record per window, the discrimination (AUC), the log loss, the
-agreement of the firm-level drop shares with the record, and the attention to the cues the product record shows.
+agreement of the firm-level drop shares with the record, and the attention to the product attributes the record shows.
 
-Run from whatif-organizations with PYTHONPATH set: python3 ../09_whatif_pilot/code/58_anchor_contrast.py <model>
+Run from whatif-organizations with PYTHONPATH set: PYTHONPATH=. python analysis/anchor_contrast.py <model>
 Output: printed tables and data/closed/record/<model>/anchor_contrast.csv
 """
 import sys
@@ -19,7 +19,7 @@ from whatif.config import CONFIG, ROOT
 
 import importlib.util
 from pathlib import Path
-spec = importlib.util.spec_from_file_location("diag", Path(__file__).with_name("55_record_diagnostics.py"))
+spec = importlib.util.spec_from_file_location("diag", Path(__file__).with_name("diagnostics.py"))
 diag = importlib.util.module_from_spec(spec)
 _argv, sys.argv = sys.argv, ["x", sys.argv[1]]
 spec.loader.exec_module(diag)
@@ -73,7 +73,7 @@ def main():
     print(f"{MODEL}: anchored against unanchored agents, {d.slug.nunique()} firms\n")
     print(t[["condition", "anchors", "n", "recorded", "mean_p", "mean_p_exploration", "mean_p_holdout", "auc", "auc_holdout", "logloss",
              "firm_rho_exploration", "firm_rho_holdout"]].round(3).to_string(index=False))
-    print("\nAttention to cues, mean probability: distant products, products mentioned only, products with a stated result, "
+    print("\nAttention to product attributes, mean probability: distant products, products mentioned only, products with a stated result, "
           "products three years old")
     print(t[["condition", "anchors", "p_relatedness_distant", "p_last_level_1", "p_result_before_True", "p_age_3"]].round(3).to_string(index=False))
     w, n, o = t[t.anchors == "web"], t[t.anchors == "none"], t[t.anchors == "own removed"]

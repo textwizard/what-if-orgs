@@ -1,14 +1,12 @@
-"""Build the research artifact (v3): one page per component of the proof of concept, from the data of the final sample.
+"""Data of the research artifact.
 
-Writes data_v3.json (or data_public.json with --public) for the page template: funnel and counts, the record of every
-firm, the simulation on the record (levels, ranking, anchor contrasts), weights and validation, the own-history run
-(hot stove measures and cohort survival over time), the theory swap, the firms with their sources, and the methods
-(protocols, prompts, models, release). build_v5.py injects the data into template_v5.html; figures are drawn in the page.
+Writes data.json (or data_public.json with --public) for the page template: the record of every firm, the simulation on
+the record (levels, ranking, anchor contrasts), weights and validation, the own-history run (its three readings and the
+survival of the cohorts over time), the theory swap, the firms with their web indicators and sources, and the methods
+(protocols, prompts, models, release). build_page.py injects the data into the template; figures are drawn in the page.
 
-Run from whatif-organizations with PYTHONPATH set: python3 ../09_whatif_pilot/explorer/build_v3.py [--public]
---public leaves out everything that comes from the closed frame (its NACE code and size class per firm), so that the
-page can be released with the repository; the local build keeps them for the agreement checks.
-Outputs: explorer/index_v3.html (local) or explorer/public/index.html (--public)
+Run from the repository root: PYTHONPATH=. python artifact/build_data.py [--public]
+--public leaves out everything that comes from the closed sample frame, so that the page can be published.
 """
 import json
 import sys
@@ -35,7 +33,7 @@ LEVELS = {0: "not mentioned", 1: "mentioned", 2: "own page", 3: "home page"}
 rng = np.random.default_rng(CONFIG["seed"])
 sys.path.insert(0, str(HERE.parent / "code"))
 import importlib.util
-spec = importlib.util.spec_from_file_location("diag", HERE.parent / "code" / "55_record_diagnostics.py")
+spec = importlib.util.spec_from_file_location("diag", HERE.parent / "analysis" / "diagnostics.py")
 diag = importlib.util.module_from_spec(spec)
 sys.argv_backup, sys.argv = sys.argv, ["x", "claude-opus-5-5"]
 spec.loader.exec_module(diag)
@@ -69,7 +67,7 @@ def decisions(model):
 
 
 def reference(d):
-    """Levels per window with intervals, cue tables, and discrimination, for one model."""
+    """Levels per window with intervals, mean probability by product attribute, and ranking, for one model."""
     conds = ["none"] + [f"{t}_{f}" for f in FRAMINGS for t in THEORIES if t != "none"]
     conds = [c for c in conds if c in set(d.condition)]
     out = {"conditions": conds, "levels": {}, "cues": {}, "auc": {}, "auc_holdout": {}, "n": int(len(d[d.condition == "none"]))}
@@ -289,8 +287,8 @@ def swap(ds):
 
 
 def hotstove(model):
-    """The hot stove run (whatif/memory.py, code/60_hot_stove.py): per condition the within-firm slope, the framing effect,
-    the doubt excess, and the firm-level survival against the record; and the per-firm survival pairs."""
+    """The own-history run (whatif/memory.py, analysis/hot_stove.py): per condition the three readings, persistence, hardening,
+    and timing, and the survival of the cohort per firm-window against the record."""
     f = REC / model / "hotstove.csv"
     if not f.exists():
         return None
@@ -343,10 +341,9 @@ def costs():
     log = pd.read_json(ROOT / "data" / "closed" / "llm_log.jsonl", lines=True)
     log = log[log.time >= CONFIG["llm"]["budget_since"]]
     log["step"] = log.purpose.str.split().str[0]
-    steps = {"coding": "Coding of products, evidence, and profiles", "context": "Situation of the firm", "value": "Theory of value",
-             "division": "NACE division", "aliases": "Product aliases", "relatedness": "Relatedness", "record": "Replay on the record",
-             "simulate": "Simulations on assigned results and instrument tests", "phrasing": "Framing tests", "reidentification": "Re-identification test",
-             "recall": "Recall test"}
+    steps = {"coding": "Coding of products, statements, and profiles", "context": "Situation of the firm", "value": "Theory of value",
+             "division": "NACE division", "aliases": "Product aliases", "relatedness": "Relatedness", "record": "Simulation on the record",
+             "memory": "Simulation on the firm's own history"}
     t = log.groupby("step").agg(calls=("usd", "size"), tokens_in=("tokens_in", "sum"), tokens_out=("tokens_out", "sum"), usd=("usd", "sum"))
     rows = [{"step": steps.get(k, k), "calls": int(r.calls), "tokens_in": int(r.tokens_in), "tokens_out": int(r.tokens_out), "usd": round(float(r.usd), 2)}
             for k, r in t.sort_values("usd", ascending=False).iterrows() if k in steps]
@@ -389,13 +386,9 @@ def main():
                                  "years": CONFIG["record"]["years"], "gap_years": CONFIG["record"].get("gap_years", []), "windows": CONFIG["simulation"]["windows"],
                                  "context_years": CONFIG["simulation"]["context_years"]},
                     "models": {m: {"calls": int(len(d) // 1), "conditions": sorted(set(d.condition))} for m, d in ds.items()}}}
-    strategy = (HERE / "strategy_v3.svg").read_text() if (HERE / "strategy_v3.svg").exists() else ""
-    page = (HERE / "template_v3.html").read_text().replace("/*STRATEGY*/", strategy).replace("/*DATA*/null", json.dumps(data, ensure_ascii=False, default=str))
-    out = HERE / "public" / "index.html" if PUBLIC else HERE / "index_v3.html"
-    out.parent.mkdir(exist_ok=True)
-    out.write_text(page)
-    (HERE / ("data_public.json" if PUBLIC else "data_v3.json")).write_text(json.dumps(data, ensure_ascii=False, default=str))
-    print(f"{out}, {len(page) / 1e6:.1f} MB, models {list(ds)}, {len(data['firms'])} firms")
+    out = HERE / ("data_public.json" if PUBLIC else "data.json")
+    out.write_text(json.dumps(data, ensure_ascii=False, default=str))
+    print(f"{out}, {out.stat().st_size / 1e6:.1f} MB, models {list(ds)}, {len(data['firms'])} firms")
 
 
 if __name__ == "__main__":

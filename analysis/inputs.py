@@ -1,23 +1,14 @@
-"""Inputs of the reference organizations for the final sample: firm profiles, context, and yearly theory of value.
+"""Inputs of the reference organizations: NACE division, firm profiles, situation of the firm, and theory of value.
 
-The final sample (data/sample/companies_final.csv, code/51_select_final.py) is coded once more for what the agent reads
-and for the coherence check, all through the batch interfaces of whatif/llm.py and then from the cache:
+For the firms of the study, each input is coded from the archived website through whatif/llm.py and then read from the
+cache:
+  division   NACE division of the firm from its website in the context years (whatif/division.py, protocols/division.md)
+  profiles   stated strategy and characteristics per window (protocols/firm.md), written into the codings
+  context    signals of the situation of the firm (protocols/context.md), industry indicators, EU projects, and the
+             relatedness of the new products to the established offer (whatif/context.py)
+  value      theory of value (protocols/value.md) in every archived year, for the coherence check
 
-  division   NACE division of the firm from its website in the context years (whatif/division.py), used for the
-             industry label, the industry indicators, and the regime when config coding.division_source is web
-  profiles   stated strategy and characteristics per window (protocols/firm.md) from the latest codeable context year,
-             with gpt-5.4, written into the coder's codings as "profiles" (data/closed/<coding_dir>/<slug>.json)
-  context    signals of the situation of the firm (protocols/context.md, Opus, from the double coding of
-             code/50_funnel_coding.py), industry indicators, EU projects, and relatedness of the new products
-             (whatif/context.py) -> data/closed/context/<slug>.json
-  value      theory of value (protocols/value.md) in every archived year with gpt-5.4, for the coherence check with the
-             year before each decision -> data/closed/funnel/value_gpt54_years.csv. The context years 2017 and 2022 are
-             also coded by Opus in the double coding (value_opus.csv).
-
-Run from whatif-organizations with PYTHONPATH set to it:
-  python3 ../09_whatif_pilot/code/53_final_inputs.py <division|profiles|context|value|all> [slugs file, default
-  data/closed/sample_final.csv]
-The coder whose products and codings the agent reads is config record.coding_dir (gpt-5.4-mini in the funnel).
+Run from the repository root: PYTHONPATH=. python analysis/inputs.py <division|profiles|context|value|all> [firms.csv]
 """
 import json
 import sys

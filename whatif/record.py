@@ -1,6 +1,6 @@
 """Decisions of the what-if organizations about the real new products of their firms, year by year, against the record.
 
-For each firm and window (config simulation.windows), the agent receives the firm as in simulate.py: its stated
+For each firm and window (config simulation.windows), the agent receives the firm as described: its stated
 strategy and characteristics from the context year, and the situation of its industry and of the firm (context.py). It
 receives the innovations of the window with their relatedness to the earlier offer. For each decision year of the window
 (config record.years) it sees, for every product that the record shows on the market in that year, what the website
@@ -29,8 +29,43 @@ import pandas as pd
 
 from whatif import context, llm
 from whatif.config import CONFIG, ROOT
+
+LABELS = "ABCDEFGHIJ"
+
+ROLE = ("You act as the management of a German firm and decide about the new products it has launched. You will be "
+        "given a description of the firm, its new products, and their results in each period. Based on this "
+        "description{} your general knowledge of firms in the German economy, you decide as the management of "
+        "this type of firm would.")
+RULES = ["Base your decisions on the description of the firm, the results of its products{}, and your general "
+         "knowledge of similar firms in the German economy.",
+         "Do not search the web or use any external information.",
+         "Respond with a JSON object in the format specified and nothing else."]
+
+
+def age(founded, seed_year):
+    if not isinstance(founded, int) or not seed_year:
+        return None
+    years = seed_year - founded
+    return "under 5 years" if years < 5 else "5 to 20 years" if years <= 20 else "more than 20 years"
+
+
+def describe(profile):
+    s, c, seed_year = profile["strategy"], profile["context"], profile["seed_year"]
+    facts = [f"Industry: {c['industry']}" if c.get("industry") else None,
+             f"Size: {c['size']} firm" if c.get("size") else None,
+             "Location: Germany",
+             f"Age: {age(c.get('founded'), seed_year)}" if age(c.get("founded"), seed_year) else None]
+    lines = [". ".join(f for f in facts if f) + "."]
+    for key, label in (("offer", "What the firm offers"), ("customers", "Its customers"),
+                       ("why_we_win", "Why it expects to succeed"), ("resources", "Its key resources"),
+                       ("direction", "Where it is heading")):
+        if s.get(key):
+            lines.append(f"{label}: {s[key]}")
+    if profile.get("situation"):
+        lines += ["", "Situation of the industry and the firm", profile["situation"]]
+    return "\n".join(lines)
+
 from whatif.products import OUT as PRODUCTS
-from whatif.simulate import LABELS, ROLE, RULES, describe
 
 R = CONFIG["record"]
 S = CONFIG["simulation"]
@@ -72,7 +107,7 @@ TYPES = {"result": "result", "problem": "problem", "launch": "launch", "investme
 
 
 def system_prompt(condition):
-    """Role, theory text in the version of considerations, and rules, as in simulate.py."""
+    """Role, theory text, and rules of the system prompt."""
     condition, _ = anchored(condition)
     if condition == "none":
         rules = ["Reason over the description of the firm, its situation, and what its website showed about its "

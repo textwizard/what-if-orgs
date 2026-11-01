@@ -7,5 +7,9 @@ __pycache__/
 data/*
 !data/public/
 data/public/*
-!data/public/pilot_firms.csv
 !data/public/final/
+# Build outputs of the artifact; the published page index.html is kept.
+artifact/data.json
+artifact/data_public.json
+artifact/index_local.html
+figures/

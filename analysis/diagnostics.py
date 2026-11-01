@@ -1,7 +1,7 @@
-"""Diagnostics of a replay on the record: discrimination, cue tables per theory, firm-level agreement, and a cue
-benchmark that bounds how predictable the recorded drops are from what the agent saw.
+"""Diagnostics of the simulation on the record: ranking per condition, mean probability by product attribute and condition,
+firm-level agreement, and the regression on the product record that bounds how predictable the recorded withdrawals are.
 
-Run from whatif-organizations with PYTHONPATH set: python3 ../09_whatif_pilot/code/55_record_diagnostics.py <model>
+Run from the repository root: PYTHONPATH=. python analysis/diagnostics.py <model>
 Output: printed tables and data/closed/record/<model>/diagnostics.txt
 """
 import json
@@ -70,7 +70,7 @@ def main():
     pr("\nDiscrimination (AUC, tie-corrected) and mean probability by condition, all product-years:")
     for c, g in d.groupby("condition"):
         pr(f"  {c:6s} auc {auc(g.p_drop, g.recorded_drop):.3f}  mean p {g.p_drop.mean():.3f}  drops {(g.decision == 'drop').mean():.3f}")
-    pr("\nMean probability by cue and condition (record in the last column):")
+    pr("\nMean probability by product attribute and condition (record in the last column):")
     conds = ["none"] + [f"{t}_{f}" for f in CONFIG["record"]["framings"] for t in CONFIG["record"]["theories"]]
     conds = [c for c in conds if c in set(d.condition)]
     for col in ("last_level", "result_before", "relatedness", "age"):
@@ -87,7 +87,7 @@ def main():
             rho, pv = spearmanr(f.p, f.rec)
             line.append(f"{c} {rho:+.2f}")
         pr(f"  {w} ({len(f)}): " + ", ".join(line))
-    pr("\nCue benchmark: logistic regression of the recorded drop on the cues the agent saw, fitted on exploration, "
+    pr("\nRegression on the product record, fitted on the 2019 decisions, "
        "tested on holdout:")
     X = pd.get_dummies(d[d.condition == "none"][["last_level", "result_before", "relatedness", "age", "window", "recorded_drop", "slug"]]
                        .assign(last_level=lambda x: x.last_level.astype(str), age=lambda x: x.age.clip(upper=4).astype(str)),
@@ -102,7 +102,7 @@ def main():
         return minimize(f, np.zeros(A.shape[1]), method="L-BFGS-B").x
     b = fit(cal[cols].values, cal.recorded_drop.astype(float).values)
     pv = 1 / (1 + np.exp(-np.column_stack([np.ones(len(val)), val[cols].values]) @ b))
-    pr(f"  holdout AUC from cues alone {auc(pv, val.recorded_drop):.3f}; in-sample exploration AUC "
+    pr(f"  held-out AUC of the regression {auc(pv, val.recorded_drop):.3f}; in-sample AUC on the 2019 decisions "
        f"{auc(1 / (1 + np.exp(-np.column_stack([np.ones(len(cal)), cal[cols].values]) @ b)), cal.recorded_drop):.3f}")
     (REC / "diagnostics.txt").write_text("\n".join(out))
 

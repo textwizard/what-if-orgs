@@ -8,54 +8,37 @@ What-if organizations are language-model agents that represent specific real org
 
 | Path | Content |
 |---|---|
-| `whatif/` | The pipeline as a Python package; each module documents its step in its docstring |
-| `config.yaml` | Design of the study: windows and decision years, theories and framings, anchors, models and settings, the spending limit |
-| `protocols/` | Coding protocols given to the language model (products and statements per year, situation, strategy, theory of value, NACE division, relatedness, aliases) |
-| `theories/` | Theory texts in both framings, considerations (F) and conditions (B) |
-| `pilot/` | Numbered analysis scripts of the proof of concept (diagnostics, anchor contrast, hot stove analysis, figures) |
-| `artifact/` | The research artifact: the built page (`index.html`, served at https://textwizard.github.io/what-if-orgs/), its template, and the build scripts |
-| `data/public/final/` | The public data of the 50 firms (see Data) |
-| `docs/design.md` | The design record: every decision of the design with its reasons, in the order taken |
+| `whatif/` | The pipeline as a Python package, one module per step |
+| `analysis/` | The scripts that produce the reported results and figures |
+| `artifact/` | The research artifact: the published page, its template, and the build scripts |
+| `protocols/` | The coding protocols given to the language model |
+| `theories/` | The theory texts in both framings |
+| `data/public/final/` | The public data of the 50 firms |
+| `docs/design.md` | The design record: the decisions that shaped the proof of concept, in the order taken |
+| `config.yaml` | The design of the study: windows and decision years, theories and framings, anchors, models, and the spending limit |
 | `paths.example.yaml` | Template for the local paths to sources that cannot be redistributed |
 
-## The pipeline
-
-| Module | Step |
-|---|---|
-| `whatif/eurostat.py` | Download of the Eurostat turnover tables |
-| `whatif/sample.py` | Sample frame and draws |
-| `whatif/web.py` | Selection, retrieval, and cleaning of archived pages from Common Crawl pointers |
-| `whatif/llm.py` | Interface to the language models: batch calls, response cache keyed by the hash of model, settings, and prompt, call log, spending limit |
-| `whatif/coding.py` | Coding of products, statements with quotes, strategy, and characteristics from the pages |
-| `whatif/context.py` | Situation of the industry and the firm in the context year |
-| `whatif/division.py` | NACE division of the firm inferred from its website |
-| `whatif/products.py` | Product trajectories: prominence by year, innovations, lapses, and drops |
-| `whatif/record.py` | The simulation on the record: decisions about the real new products of each firm, year by year, under no theory and each theory, with and without anchors |
-| `whatif/memory.py` | The simulation on the firm's own history: the second decision year with the agent's own first-year decisions as its past, drawn from its probabilities, and the record-as-memory control |
-| `whatif/weights.py` | Mixing weights of the conditions per firm, their validation after the pandemic, the pandemic gap set, and the coherence with the theory of value |
-| `whatif/release.py` | Export of the public data |
-
-Older modules of the instrument tests (`simulate.py`, `outcomes.py`, `twin.py`, `probes.py`, `analysis.py`) are kept for the record of the design.
+Each folder carries a README that describes its files.
 
 ## Reproduction
 
 ```
 pip install -r requirements.txt
-cp paths.example.yaml paths.yaml                 # set the local paths
-python -m whatif.web firms.csv                    # pages from the Common Crawl pointers (a CSV with a column domain)
-python -m whatif.coding slugs.txt                 # add --plan for a dry run without model calls
-python -m whatif.products slugs.txt
-python -m whatif.record firms.csv [--plan]        # the simulation on the record; --plan prints the cost
-python -m whatif.memory firms.csv [--plan]        # the simulation on the firm's own history
+cp paths.example.yaml paths.yaml                      # set the local paths
+export PYTHONPATH=.
+python -m whatif.web data/public/final/firms.csv       # pages from the Common Crawl pointers
+python -m whatif.coding firms.txt                      # add --plan for a dry run without model calls
+python -m whatif.products firms.txt
+python -m whatif.record data/public/final/firms.csv    # the simulation on the record; --plan prints the cost
+python -m whatif.memory data/public/final/firms.csv    # the simulation on the firm's own history
 python -m whatif.weights claude-opus-5-5
-PYTHONPATH=. python pilot/55_record_diagnostics.py claude-opus-5-5   # the pilot scripts import the package from the repository root
-python pilot/58_anchor_contrast.py claude-opus-5-5
-python pilot/60_hot_stove.py claude-opus-5-5
+python analysis/diagnostics.py claude-opus-5-5
+python analysis/anchor_contrast.py claude-opus-5-5
+python analysis/hot_stove.py claude-opus-5-5
+python artifact/build_data.py --public && python artifact/build_page.py --public
 ```
 
-The enumeration of the Common Crawl index, which lists the captures of each firm, uses a shared client of the authors and is released separately; the pointers it produced are published, so the pages can be rebuilt without it.
-
-Two paths lead to the results. The quick path reads the published decisions and tables in `data/public/final/` and rebuilds every figure of the artifact without a model key. The full path rebuilds the pages from the published Common Crawl pointers, runs the coding and the simulations from the published model answers, which are keyed by the hash of their prompt, and reruns any call live with a key. Every call of the proof of concept went through the batch interface of its provider and is cached, so that the pipeline runs from the cache once the answers exist.
+Two paths lead to the results. The quick path reads the published decisions and tables in `data/public/final/` and rebuilds every figure of the artifact without a model key. The full path rebuilds the pages from the published Common Crawl pointers, runs the coding and the simulations from the published model answers, which are keyed by the hash of their prompt, and reruns any call live with a key. Every call of the proof of concept went through the batch interface of its provider, or through parallel single calls where the provider offers none, and is cached, so that the pipeline runs from the cache once the answers exist. The enumeration of the Common Crawl index, which lists the captures of each firm, uses a shared client of the authors and is released separately; the pointers it produced are published.
 
 ## Data
 

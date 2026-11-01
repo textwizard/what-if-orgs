@@ -1,12 +1,8 @@
-"""Figure 2 of the proposal and the platform diagram of the artifact: the empirical strategy as run.
+"""Figure 2 of the proposal: the empirical strategy as run.
 
-Three panels in the style of the journal figures (Helvetica, panel letters, black rules, measured in navy, simulated
-in violet, checks in grey): (a) the record, measured from archived websites, (b) the reference organization simulated
-under theories and its what-if variants, (c) weights fitted on the exploration window, validation on the holdout
-window, coherence with the stated theory of value. Values are illustrative; the artifact carries the data.
-
-Run from 09_whatif_pilot: python3 code/59_strategy_figure_v3.py
-Outputs: analysis/figures/empirical_strategy_v3.{pdf,svg,png}, explorer/strategy_v3.svg (for the page)
+Three panels in the style of the journal figures (Helvetica, panel letters, black rules, measured in navy, simulated in
+the colours of the theories). Run from the repository root: python analysis/figure_strategy.py
+Outputs: figures/empirical_strategy.{pdf,svg,png}
 """
 from pathlib import Path
 
@@ -111,8 +107,7 @@ text(508, 132, "the agent with its own earlier decisions as its past:", fontsize
 text(508, 108, "Checks: coherence, re-identification, look-ahead", fontsize=5.4, color=MUTE)
 arrow(490, 200, 500, 200)
 
-out = HERE / "analysis" / "figures"
+out = HERE / "figures"
 for ext in ("pdf", "svg", "png"):
-    fig.savefig(out / f"empirical_strategy_v3.{ext}", dpi=300, bbox_inches="tight")
-fig.savefig(HERE / "explorer" / "strategy_v3.svg", bbox_inches="tight")
-print("saved", out / "empirical_strategy_v3.pdf")
+    fig.savefig(out / f"empirical_strategy.{ext}", dpi=300, bbox_inches="tight")
+print("saved", out / "empirical_strategy.pdf")

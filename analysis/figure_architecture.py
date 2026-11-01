@@ -1,12 +1,8 @@
-"""Empirical strategy figure, v5, drawn from scratch to Nature's artwork rules (183 mm wide, under 170 mm high, Helvetica,
-8 pt bold lowercase panel letters, all other text 5 to 7 pt, no coloured text, colour only in marks).
+"""Figure 1 of the artifact: the architecture of the instrument and what the data look like at each stage.
 
-a  The architecture in one strip: six components in three stages (measure, simulate, compare), each a symbol with a name
-   and a short line, connected by arrows.
-b–g  What the data look like at each component, one panel each, in a 3 x 2 grid in the same order. All values illustrative.
-
-Run from 09_whatif_pilot: python3 code/62_strategy_figure_v5.py
-Outputs: analysis/figures/architecture.{pdf,svg,png}, explorer/architecture.svg, submission figures folder (architecture.pdf)
+Drawn to journal artwork conventions (183 mm wide, Helvetica, panel letters, colour only in marks). Values in panels b to g
+are illustrative. Run from the repository root: python analysis/figure_architecture.py
+Outputs: figures/architecture.{pdf,svg,png} and artifact/architecture.svg
 """
 import random
 import shutil
@@ -202,7 +198,7 @@ rbox(px, top - 172, PW - 2 * IN, 46, fc=PAPER, ec=HAIR, lw=0.5, r=2, z=2)
 text(px + 4, top - 134, "A   keep    p = 0.15", fontsize=5.5); text(px + 4, top - 144, "B   drop    p = 0.60", fontsize=5.5)
 lines_(px + 4, top - 155, ["“B falls short of aspiration and ties up resources", "the core line needs …”    p: probability of withdrawal"], dy=7, color=MUTE, fontsize=5, style="italic")
 
-# ---- e replay ----
+# ---- e simulate ----
 px, py = cells["e"]; px += IN; top = py + PH - 10
 letter(px, top, "e", "Simulate under theories")
 text(px, top - 14, "probability of withdrawal in year t, five copies of one firm", color=MUTE, fontsize=5.5)
@@ -272,11 +268,8 @@ for q, lab, col in ((0.91, "ESC", THEORY["esc"]), (0.83, "record", OBS), (0.76, 
     text(gx1 + 3, gy0 + sc(q) * (gy1 - gy0), lab, fontsize=5, color=col)
 lines_(px + 138, top - 100, ["the agent decides year 1,", "then carries its own", "decisions into year 2;", "the cohort is compared", "with the record", "", "escalation persists,", "the behavioral theory", "withdraws on weak results"], dy=7, color=MUTE, fontsize=4.8)
 
-out = HERE / "analysis" / "figures"; out.mkdir(parents=True, exist_ok=True)
+out = HERE / "figures"; out.mkdir(parents=True, exist_ok=True)
 for ext in ("pdf", "svg", "png"):
     fig.savefig(out / f"architecture.{ext}", dpi=300 if ext == "png" else None)
-shutil.copy(out / "architecture.svg", HERE / "explorer" / "architecture.svg")
-prop = HERE.parent / "org_sci" / "org_sci_sub" / "What_If_Organizations" / "figures"
-if prop.exists():
-    shutil.copy(out / "architecture.pdf", prop / "architecture.pdf")
-print("written", out / "architecture.*", "and explorer/architecture.svg")
+shutil.copy(out / "architecture.svg", HERE / "artifact" / "architecture.svg")
+print("written", out / "architecture.*", "and artifact/architecture.svg")

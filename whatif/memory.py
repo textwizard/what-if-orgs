@@ -29,7 +29,7 @@ import pandas as pd
 
 from whatif import llm, record
 from whatif.config import CONFIG
-from whatif.simulate import LABELS, describe
+from whatif.record import LABELS, describe
 
 R = CONFIG["record"]
 M = R.get("memory", {"draws": 10, "conditions": None})

@@ -19,7 +19,7 @@ Three readings per condition of the main framing, on the products the agent kept
                 against the record, per firm-window with equal weights
 The control branch (the firm's actual decisions presented as the agent's own) is reported as the framing check.
 
-Run: python code/60_hot_stove.py <model>
+Run from the repository root: PYTHONPATH=. python analysis/hot_stove.py <model>
 """
 import sys
 from pathlib import Path
