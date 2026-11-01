@@ -1,0 +1,1185 @@
+{
+ "slug": "stema-de",
+ "profiles": {
+  "exploration": {
+   "strategy": {
+    "offer": "Road transport equipment for passenger cars, plus accessories, spare parts, documentation, warranty handling, and after-sales service through workshops and support channels.",
+    "customers": "Private users, professional users, dealers, and retail channels needing reliable transport solutions for varied hauling tasks.",
+    "why_we_win": "The firm emphasizes quality, reliability, fairness, safety, continual product improvement, and short delivery times enabled by efficient production and distribution.",
+    "resources": "Its basis is skilled employees, production know-how, training, responsibility, efficient production logistics, and a nationwide service and transport network.",
+    "direction": "It aims for sustainable profitable growth, broader international expansion, and ongoing adaptation of products and structures to changing market needs."
+   },
+   "context": {
+    "size": "medium",
+    "founded": 1951,
+    "industry": "Manufacture of motor vehicles, trailers and semi-trailers"
+   },
+   "seed_year": 2017
+  },
+  "holdout": {
+   "strategy": {
+    "offer": "Light-vehicle trailers and transport solutions, plus covers, accessories, spare parts, retrofit components, brochures, configuration, and online purchasing support.",
+    "customers": "Professional users, private DIY customers, sports and leisure users, and trailer owners needing replacement parts, accessories, and service support.",
+    "why_we_win": "It expects trust from quality, honest practical staff, and continual innovation to drive demand and help it surprise the market with new solutions.",
+    "resources": "An experienced manufacturing workforce, in-house cover production, broad model range, and continuously developed product, service, and organizational capabilities.",
+    "direction": "It is expanding and continuously developing products, services, and structures toward larger, more individualized transport solutions and ongoing innovation."
+   },
+   "context": {
+    "size": "medium",
+    "founded": null,
+    "industry": "Manufacture of motor vehicles, trailers and semi-trailers"
+   },
+   "seed_year": 2022
+  }
+ },
+ "years": [
+  {
+   "year": 2017,
+   "codeable": true,
+   "products": [
+    {
+     "name": "SySTEMA",
+     "generic": "a modular car trailer system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": true
+    },
+    {
+     "name": "XXL-SySTEMA",
+     "generic": "a large modular car trailer",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "WOM",
+     "generic": "a lowerable platform trailer",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": true
+    },
+    {
+     "name": "WOM XT",
+     "generic": "a lowerable platform trailer",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "TRIUS 3-Seiten-Kipper",
+     "generic": "a three-way tipping car trailer",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Carrier XL",
+     "generic": "a vehicle transport trailer",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "MINI 350",
+     "generic": "a small car trailer",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "BLUE MAN",
+     "generic": "a car trailer",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "GREEN KEEPER",
+     "generic": "a garden and landscaping trailer",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "MT CLASSIC",
+     "generic": "a motorcycle transport trailer",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "MT SySTEMA",
+     "generic": "a modular motorcycle transport trailer",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "MU.T",
+     "generic": "a tipping trailer",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "REX",
+     "generic": "a tipping trailer",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Rocko",
+     "generic": "a rear-tipping trailer",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    }
+   ],
+   "evidence": [
+    {
+     "product": "WOM XT",
+     "type": "launch",
+     "strength": 3,
+     "quote": "STEMA ist mit dem absenkbaren Alleskönner, dem neuen Absenkanhänger WOM XT dabei."
+    },
+    {
+     "product": "XXL-SySTEMA",
+     "type": "launch",
+     "strength": 2,
+     "quote": "Die neuen XXL-SySTEMA-Anhänger von STEMA wurden auf einem der härtesten Gelände, dem Rábatestring, getest, geprüft und haben bestanden."
+    }
+   ],
+   "success": []
+  },
+  {
+   "year": 2018,
+   "codeable": true,
+   "products": [
+    {
+     "name": "WOM XT",
+     "generic": "a lowerable car trailer",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": true
+    },
+    {
+     "name": "SLIM LINE",
+     "generic": "a slim variant of a lowerable trailer",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "red snapper cruiser",
+     "generic": "a water sports and angling product",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": true
+    },
+    {
+     "name": "STEMA RETRO",
+     "generic": "a retro-design car trailer",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": true
+    },
+    {
+     "name": "BAUMA",
+     "generic": "a construction machinery transport trailer",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "SySTEMA",
+     "generic": "a modular car trailer system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Green Keeper",
+     "generic": "a garden trailer",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "MINI 350",
+     "generic": "a small box car trailer",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "CARRIER XL",
+     "generic": "a vehicle transport trailer",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "BLUE MAN",
+     "generic": "a car trailer",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "FT-Serie",
+     "generic": "a low-bed trailer series for dealers",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "MU.T",
+     "generic": "a tipping trailer",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "REX",
+     "generic": "a tipping trailer",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Rocko",
+     "generic": "a rear tipping trailer",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "TRIUS",
+     "generic": "a car trailer",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "MT CLASSIC",
+     "generic": "a motorcycle transport trailer",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "OPTI",
+     "generic": "a box car trailer",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Basic",
+     "generic": "a box car trailer",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Variolux",
+     "generic": "a car trailer",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "VoluMax",
+     "generic": "a transport sack for trailers",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "TYRE FIX",
+     "generic": "a tyre tie-down strap",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "TexGrip",
+     "generic": "a side-wall lashing strap",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Safety Box XL",
+     "generic": "an anti-theft device for trailer couplings",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    }
+   ],
+   "evidence": [
+    {
+     "product": "STEMA RETRO",
+     "type": "launch",
+     "strength": 3,
+     "quote": "10.03.2018 — Der neue STEMA RETRO geht in Serie"
+    },
+    {
+     "product": "SLIM LINE",
+     "type": "launch",
+     "strength": 3,
+     "quote": "18.05.2018 — Alles Neue macht der Mai - Die SLIM LINE für Absenkanhänger WOM XT"
+    },
+    {
+     "product": "red snapper cruiser",
+     "type": "launch",
+     "strength": 3,
+     "quote": "Weltneuheit - red snapper cruiser (21.03.17) Download Weltneuheit aus Großenhain - Der „red snapper cruiser“ ist ein völlig neue Produkt im Bereich Wassersport & Angeln."
+    },
+    {
+     "product": "red snapper cruiser",
+     "type": "launch",
+     "strength": 3,
+     "quote": "06.09.2017 — Der red snapper cruiser - direkt hier bestellen"
+    },
+    {
+     "product": "BAUMA",
+     "type": "launch",
+     "strength": 2,
+     "quote": "Er bietet ab sorfort wesentlich mehr Ladefläche für Kleinbagger (3,60m x 1,80m LxB) und vor allem für die komfortable Ablage der Baggerschaufeln."
+    }
+   ],
+   "success": []
+  },
+  {
+   "year": 2019,
+   "codeable": true,
+   "products": [
+    {
+     "name": "SySTEMA",
+     "generic": "a modular car trailer series",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": true
+    },
+    {
+     "name": "Variolux 750",
+     "generic": "an unbraked car box trailer",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Green Keeper",
+     "generic": "a trailer for garden waste transport",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "WOM XT",
+     "generic": "a lowerable platform trailer",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "SLIM LINE",
+     "generic": "a slim variant of a lowerable trailer",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Carrier XL",
+     "generic": "a platform trailer for small vehicles",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "RETRO",
+     "generic": "a retro-styled car trailer",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Red Snapper",
+     "generic": "a boat trailer",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "REX",
+     "generic": "a tipper trailer",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "MU.T",
+     "generic": "a multifunction tipper trailer",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Rocko",
+     "generic": "a tipper trailer",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "FT-Serie",
+     "generic": "a low-bed car trailer series",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Basic 750",
+     "generic": "an unbraked car box trailer",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Opti 750",
+     "generic": "an unbraked car box trailer",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    }
+   ],
+   "evidence": [
+    {
+     "product": "Variolux 750",
+     "type": "result",
+     "strength": 2,
+     "quote": "Testsieger ist der STEMA Variolux 750, so lautet das unabhängige Urteil des ADAC."
+    },
+    {
+     "product": "RETRO",
+     "type": "launch",
+     "strength": 3,
+     "quote": "10.03.2018 — Der neue STEMA RETRO geht in Serie"
+    },
+    {
+     "product": "SLIM LINE",
+     "type": "launch",
+     "strength": 3,
+     "quote": "18.05.2018 — Alles Neue macht der Mai - Die SLIM LINE für Absenkanhänger WOM XT"
+    }
+   ],
+   "success": []
+  },
+  {
+   "year": 2022,
+   "codeable": true,
+   "products": [
+    {
+     "name": "SySTEMA Tieflader",
+     "generic": "a low-bed car trailer series",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "S-BOX",
+     "generic": "an enclosed box car trailer",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": true
+    },
+    {
+     "name": "RETRO",
+     "generic": "a classic-style car trailer",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "REX",
+     "generic": "a tipper car trailer series",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "MU.T",
+     "generic": "a multi-purpose tipper car trailer",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Trius",
+     "generic": "a car trailer series",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Rocko",
+     "generic": "a tipper car trailer series",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "SHDK",
+     "generic": "a three-sided tipper trailer model",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "SHRK",
+     "generic": "a tipper trailer model",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "FHAK / FTAK",
+     "generic": "a car transporter trailer",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "STLP 850",
+     "generic": "a motorcycle transport trailer",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    }
+   ],
+   "evidence": [
+    {
+     "product": "S-BOX",
+     "type": "launch",
+     "strength": 2,
+     "quote": "Der neue Kofferanhänger ist eine konstruktive Neuentwicklung mit einer eigenen Formensprache."
+    }
+   ],
+   "success": []
+  },
+  {
+   "year": 2023,
+   "codeable": true,
+   "products": [
+    {
+     "name": "SySTEMA",
+     "generic": "modular low-bed car trailer series",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": true
+    },
+    {
+     "name": "SySTEMA light",
+     "generic": "light box car trailer series",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "S-BOX",
+     "generic": "enclosed box car trailer",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": true
+    },
+    {
+     "name": "RETRO DELUXE",
+     "generic": "retro-styled car trailer",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Blue Man",
+     "generic": "box car trailer",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Green Keeper",
+     "generic": "box car trailer with high sides",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "FT",
+     "generic": "single-axle box car trailer series",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "FT 7.5-20-10.1B BLACK WEEK",
+     "generic": "special edition box car trailer",
+     "seasonal": true,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Woodoxx",
+     "generic": "box car trailer",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "mini",
+     "generic": "small box car trailer",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "BMAT",
+     "generic": "tandem construction machinery transport trailer series",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "CARRIER XL",
+     "generic": "machinery transport trailer with ramps",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "FHAK Autotransporter",
+     "generic": "tandem car transport trailer",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "FTAK Autotransporter",
+     "generic": "car transport trailer",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "WOM",
+     "generic": "hydraulic tilting platform vehicle transport trailer series",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "REX",
+     "generic": "tipper trailer",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "MU.T",
+     "generic": "multifunction tipper trailer",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Rocko",
+     "generic": "tipper trailer series",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Hochplane PREMIUM",
+     "generic": "high trailer cover series",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    }
+   ],
+   "evidence": [
+    {
+     "product": "S-BOX",
+     "type": "launch",
+     "strength": 2,
+     "quote": "Der neue Kofferanhänger S-BOX Der neue Kofferanhänger ist eine konstruktive Neuentwicklung mit einer eigenen Formensprache."
+    }
+   ],
+   "success": []
+  },
+  {
+   "year": 2024,
+   "codeable": true,
+   "products": [
+    {
+     "name": "P-BOX Plywood",
+     "generic": "a plywood box car trailer",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": true
+    },
+    {
+     "name": "SySTEMA Tieflader",
+     "generic": "a low-bed box car trailer",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "SySTEMA light",
+     "generic": "a single-wall trailer side wall extension",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Variolux 750",
+     "generic": "a car trailer",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "ROCKO II",
+     "generic": "a tipper car trailer",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Rocko 1",
+     "generic": "a tipper car trailer",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "REX",
+     "generic": "a dump car trailer",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "MU.T",
+     "generic": "a dump car trailer",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Green Keeper",
+     "generic": "a garden and landscaping car trailer",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "RETRO DELUXE",
+     "generic": "a retro-style car trailer",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Safety Box plus",
+     "generic": "a trailer coupling anti-theft device",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Safety-Box II",
+     "generic": "a trailer coupling anti-theft device",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "BLACK NOSE",
+     "generic": "a trailer coupling protection cap",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    }
+   ],
+   "evidence": [
+    {
+     "product": "P-BOX Plywood",
+     "type": "launch",
+     "strength": 2,
+     "quote": "Die neuen Kofferanhänger P-BOX Plywood"
+    },
+    {
+     "product": "Variolux 750",
+     "type": "result",
+     "strength": 2,
+     "quote": "VARIOLUX 750 proclaimed ADAC test winner"
+    },
+    {
+     "product": "ROCKO II",
+     "type": "result",
+     "strength": 2,
+     "quote": "Bombastus as a producer of herbal remedies relies on a customised tipper from STEMA for its sage harvesting."
+    }
+   ],
+   "success": []
+  },
+  {
+   "year": 2025,
+   "codeable": true,
+   "products": [
+    {
+     "name": "SySTEMA",
+     "generic": "a modular car trailer series, low and high loaders",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": true
+    },
+    {
+     "name": "Green Keeper",
+     "generic": "a garden trailer with mesh ramp tailgate",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "STEMA Retro",
+     "generic": "a retro-styled car trailer",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "P-BOX Plywood",
+     "generic": "a plywood luggage trailer",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "REX",
+     "generic": "a car trailer model",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "FTAK / FHAK",
+     "generic": "a car transporter trailer",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "SySTEMA light",
+     "generic": "a single-wall side wall extension for trailers",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "backlit light Plane",
+     "generic": "an illuminable high cover for box trailers",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Hochplane PREMIUM",
+     "generic": "a premium high tarpaulin cover for trailers",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    }
+   ],
+   "evidence": [
+    {
+     "product": "P-BOX Plywood",
+     "type": "launch",
+     "strength": 3,
+     "quote": "12.02.2024 — The new P-BOX Plywood luggage trailers"
+    }
+   ],
+   "success": []
+  },
+  {
+   "year": 2026,
+   "codeable": true,
+   "products": [
+    {
+     "name": "Carrier XXL",
+     "generic": "a large car box trailer",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": true
+    },
+    {
+     "name": "MU.T",
+     "generic": "a car tipper trailer",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "RKE",
+     "generic": "a rear tipping car trailer",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "KT",
+     "generic": "a three-sided tipper car trailer",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Basic STL",
+     "generic": "a light car box trailer",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "P-BOX",
+     "generic": "an enclosed box car trailer",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": true
+    },
+    {
+     "name": "FT",
+     "generic": "a small car box trailer",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "RETRO ADVANCED 850 PLUS",
+     "generic": "a retro-style enclosed car trailer",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Green Keeper",
+     "generic": "a garden low-loader car trailer with ramp",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "ROCKO Smart II",
+     "generic": "a hydraulic rear tipper car trailer",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "VARIOLUX 750",
+     "generic": "a car box trailer",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "SySTEMA",
+     "generic": "a modular platform car trailer",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "REX",
+     "generic": "a car tipper trailer",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "TRIUS",
+     "generic": "a three-sided tipper car trailer",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "STP",
+     "generic": "a platform low-loader car trailer",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    }
+   ],
+   "evidence": [
+    {
+     "product": "P-BOX",
+     "type": "launch",
+     "strength": 3,
+     "quote": "Der Kofferanhänger STEMA P-BOX wurde weiterentwickelt und ist jetzt in über 50 Ausstattungsvarianten erhältlich."
+    },
+    {
+     "product": "P-BOX",
+     "type": "launch",
+     "strength": 3,
+     "quote": "Auch eine Hochladerbaureihe des beliebten Modells ist nun erhältlich."
+    },
+    {
+     "product": "RETRO ADVANCED 850 PLUS",
+     "type": "launch",
+     "strength": 2,
+     "quote": "Unsere Neuheiten RKE O2 13-27-15.1 Nutzmaß (L x B): 271 × 153 cm Bordwandhöhe: 30 cm Gesamtgewicht: 1300 kg Nutzlast: 785 kg 4.100,00 € 3.490,00 € RETRO ADVANCED 850 PLUS"
+    },
+    {
+     "product": "RKE",
+     "type": "launch",
+     "strength": 2,
+     "quote": "Unsere Neuheiten RKE O2 13-27-15.1"
+    },
+    {
+     "product": "VARIOLUX 750",
+     "type": "result",
+     "strength": 2,
+     "quote": "VARIOLUX 750 proclaimed ADAC test winner"
+    },
+    {
+     "product": "ROCKO Smart II",
+     "type": "result",
+     "strength": 2,
+     "quote": "Der Naturheilmittelhersteller Bombastus setzt bei der Salbei-Ernte auf einen individualisierten Kipper von STEMA."
+    }
+   ],
+   "success": []
+  }
+ ]
+}

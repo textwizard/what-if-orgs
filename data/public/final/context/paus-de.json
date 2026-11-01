@@ -1,0 +1,93 @@
+{
+ "slug": "paus-de",
+ "windows": {
+  "exploration": {
+   "years": [
+    2017
+   ],
+   "industry": {
+    "turnover": "grew",
+    "rd": "more",
+    "patents": "more",
+    "universities": "more"
+   },
+   "employees": null,
+   "hiring": true,
+   "hiring_quote": "Fachinformatiker/in Systemintegration Allgemeine Informationen: - Ausbildungsdauer: 3 Jahre",
+   "expansion": false,
+   "expansion_quote": null,
+   "investment": false,
+   "investment_quote": null,
+   "growth": false,
+   "growth_quote": null,
+   "difficulty": false,
+   "difficulty_quote": null,
+   "rd": true,
+   "rd_quote": "One great example of this is the unveiling of the Paus PTK 25 trailer crane, which was showcased in March 2013.",
+   "cooperation": false,
+   "cooperation_quote": null,
+   "eu_projects": 0,
+   "products_offered": 8,
+   "new": [
+    "underground mining load-haul-dump loaders",
+    "underground mining dump trucks",
+    "underground mining utility vehicle series",
+    "telescopic swivel wheel loader",
+    "telescopic wheel loader",
+    "underground mining scaling vehicle"
+   ],
+   "relatedness": [
+    "close",
+    "close",
+    "close",
+    "related",
+    "related",
+    "close"
+   ]
+  },
+  "holdout": {
+   "years": [
+    2022
+   ],
+   "industry": {
+    "turnover": "grew",
+    "rd": "more",
+    "patents": "more",
+    "universities": "more"
+   },
+   "employees": null,
+   "hiring": true,
+   "hiring_quote": "Would you be interested in becoming part of our success? Then find out more about the wide variety of career opportunities at Paus on the following pages!",
+   "expansion": false,
+   "expansion_quote": null,
+   "investment": false,
+   "investment_quote": null,
+   "growth": false,
+   "growth_quote": null,
+   "difficulty": false,
+   "difficulty_quote": null,
+   "rd": true,
+   "rd_quote": "Paus zeigt während der bauma 2022 eine „preview“ seines neuen Anhängerkrans mit der Modellbezeichnung PTK XX. Das neue Spitzenmodell ist eine komplette Neuentwicklung",
+   "cooperation": false,
+   "cooperation_quote": null,
+   "eu_projects": 0,
+   "products_offered": 5,
+   "new": [
+    "compact dumper with rotating skip",
+    "articulated construction dumper",
+    "underground mine rescue vehicle",
+    "compact telescopic loader",
+    "construction site material lift",
+    "compact underground mining loader"
+   ],
+   "relatedness": [
+    "related",
+    "related",
+    "distant",
+    "related",
+    "close",
+    "distant"
+   ]
+  }
+ }
+}

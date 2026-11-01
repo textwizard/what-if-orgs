@@ -1,0 +1,83 @@
+{
+ "slug": "jena-optronik-de",
+ "windows": {
+  "exploration": {
+   "years": [
+    2017
+   ],
+   "industry": {
+    "turnover": "grew",
+    "rd": "more",
+    "patents": "more",
+    "universities": "more"
+   },
+   "employees": null,
+   "hiring": false,
+   "hiring_quote": null,
+   "expansion": false,
+   "expansion_quote": null,
+   "investment": false,
+   "investment_quote": null,
+   "growth": false,
+   "growth_quote": null,
+   "difficulty": false,
+   "difficulty_quote": null,
+   "rd": true,
+   "rd_quote": "In diesem Jahr haben wir im Rahmen der Konferenz zwei Vorträge platzieren können und unsere Neuentwicklungen ASTROgyro sowie unseren RVS3000 präsentiert.",
+   "cooperation": true,
+   "cooperation_quote": "Eight leading Thuringian Photonics companies and two prestigious research institutes have teamed up in the »Innovative Regional Growth Core« fo+ [freeform optics plus]",
+   "eu_projects": 1,
+   "products_offered": 11,
+   "new": [
+    "LiDAR sensor with 3D pose estimation"
+   ],
+   "relatedness": [
+    "related"
+   ]
+  },
+  "holdout": {
+   "years": [
+    2022
+   ],
+   "industry": {
+    "turnover": "grew",
+    "rd": "more",
+    "patents": "more",
+    "universities": "more"
+   },
+   "employees": 250,
+   "hiring": true,
+   "hiring_quote": "We offer paid internships in the field of electronic development, mechanics and optics, software development or within our projects.",
+   "expansion": false,
+   "expansion_quote": null,
+   "investment": false,
+   "investment_quote": null,
+   "growth": false,
+   "growth_quote": null,
+   "difficulty": false,
+   "difficulty_quote": null,
+   "rd": true,
+   "rd_quote": "Die neueste Entwicklung ist der hochgenaue autonome Sternsensor ASTRO XP. Kern der Innovation ist ein neues Optiksystem.",
+   "cooperation": true,
+   "cooperation_quote": "Die Entwicklung von ASTRO XP wurde im Rahmen eines Programms der Europäischen Weltraumorganisation durchgeführt und von ihr finanziert.",
+   "eu_projects": 1,
+   "products_offered": 18,
+   "new": [
+    "Space navigation and observation camera",
+    "Modular space navigation camera",
+    "Space situational awareness sensor suite",
+    "Miniaturized space-qualified LiDAR sensor",
+    "Radiation-hard space camera",
+    "Asteroid navigation and imaging camera"
+   ],
+   "relatedness": [
+    "close",
+    "close",
+    "related",
+    "close",
+    "close",
+    "related"
+   ]
+  }
+ }
+}

@@ -1,0 +1,93 @@
+{
+ "slug": "conterra-de",
+ "windows": {
+  "exploration": {
+   "years": [
+    2017
+   ],
+   "industry": {
+    "turnover": "grew",
+    "rd": "more",
+    "patents": "about as",
+    "universities": "more"
+   },
+   "employees": 135,
+   "hiring": false,
+   "hiring_quote": null,
+   "expansion": false,
+   "expansion_quote": null,
+   "investment": false,
+   "investment_quote": null,
+   "growth": false,
+   "growth_quote": null,
+   "difficulty": false,
+   "difficulty_quote": null,
+   "rd": true,
+   "rd_quote": "24.05.2017 map.apps 4.1 – Volle Integration in die ArcGIS PlattformMit der neuen Version map.apps 4.1 bietet con terra dem Nutzer eine Reihe neuer Funktionen und Möglichkeiten.",
+   "cooperation": false,
+   "cooperation_quote": null,
+   "eu_projects": 0,
+   "products_offered": 14,
+   "new": [
+    "chart visualization plugin for web maps",
+    "hierarchical search plugin for web maps",
+    "mobile map layer control component",
+    "software platform for building GIS solutions",
+    "mobile field data capture software",
+    "search extension for web map apps"
+   ],
+   "relatedness": [
+    "related",
+    "close",
+    "related",
+    "close",
+    "close",
+    "close"
+   ]
+  },
+  "holdout": {
+   "years": [
+    2022
+   ],
+   "industry": {
+    "turnover": "grew",
+    "rd": "more",
+    "patents": "about as",
+    "universities": "more"
+   },
+   "employees": 190,
+   "hiring": false,
+   "hiring_quote": null,
+   "expansion": false,
+   "expansion_quote": null,
+   "investment": false,
+   "investment_quote": null,
+   "growth": false,
+   "growth_quote": null,
+   "difficulty": false,
+   "difficulty_quote": null,
+   "rd": true,
+   "rd_quote": "Geoinformationen einfach finden 18.01.2022 Neue smart.finder-Version punktet mit Gebietssuche.",
+   "cooperation": false,
+   "cooperation_quote": null,
+   "eu_projects": 0,
+   "products_offered": 13,
+   "new": [
+    "data format reader and writer plug-ins",
+    "building data digital twin service",
+    "authentication and identity delegation service",
+    "open GIS application development framework",
+    "identity and access service for GIS applications",
+    "geodata business process consulting workshop"
+   ],
+   "relatedness": [
+    "related",
+    "related",
+    "close",
+    "close",
+    "close",
+    "related"
+   ]
+  }
+ }
+}

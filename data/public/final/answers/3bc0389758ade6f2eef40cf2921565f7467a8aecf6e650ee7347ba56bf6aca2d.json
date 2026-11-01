@@ -1,0 +1,1 @@
+{"model": "deepseek-v4-pro", "effort": "medium", "answer": {"decisions": [{"product": "A", "probability_dropped": 20, "decision": "keep", "reason": "The product is an early option with unresolved prospects, fits existing display capabilities, and costs little to keep, so real options reasoning favors keeping it open."}]}}

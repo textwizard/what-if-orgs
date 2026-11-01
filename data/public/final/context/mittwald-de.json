@@ -1,0 +1,89 @@
+{
+ "slug": "mittwald-de",
+ "windows": {
+  "exploration": {
+   "years": [
+    2017
+   ],
+   "industry": {
+    "turnover": "grew",
+    "rd": "about as",
+    "patents": "about as",
+    "universities": "about as"
+   },
+   "employees": 130,
+   "hiring": true,
+   "hiring_quote": "Unser Marketingteam sucht zu Dezember/Januar einen Redakteur für Online und Print (m/w) zunächst auf zwei Jahre befristet (Elternzeitvertretung).",
+   "expansion": false,
+   "expansion_quote": null,
+   "investment": false,
+   "investment_quote": null,
+   "growth": false,
+   "growth_quote": null,
+   "difficulty": false,
+   "difficulty_quote": null,
+   "rd": true,
+   "rd_quote": "In allen vier Quartalen haben wir reichlich neue Produkte und Funktionen entwickelt und veröffentlicht. Über unsere Mittwald Labs können Sie gezielt Kontakt zu den jeweiligen Ansprechpartnern aufnehmen.",
+   "cooperation": false,
+   "cooperation_quote": null,
+   "eu_projects": 0,
+   "products_offered": 21,
+   "new": [
+    "online shop design template",
+    "responsive website template",
+    "premium customer support",
+    "software version management tool",
+    "online tool for creating data processing contracts",
+    "scalable hosting for agencies"
+   ],
+   "relatedness": [
+    "close",
+    "close",
+    "close",
+    "related",
+    "distant",
+    "close"
+   ]
+  },
+  "holdout": {
+   "years": [
+    2022
+   ],
+   "industry": {
+    "turnover": "grew",
+    "rd": "more",
+    "patents": "less",
+    "universities": "less"
+   },
+   "employees": null,
+   "hiring": false,
+   "hiring_quote": null,
+   "expansion": false,
+   "expansion_quote": null,
+   "investment": false,
+   "investment_quote": null,
+   "growth": false,
+   "growth_quote": null,
+   "difficulty": false,
+   "difficulty_quote": null,
+   "rd": true,
+   "rd_quote": "An alle Neos Websitebetreiber: Wir stellen euch eine selbst entworfene Cookie-Consent-Banner-Lösung kostenfrei zur Verfügung!",
+   "cooperation": false,
+   "cooperation_quote": null,
+   "eu_projects": 0,
+   "products_offered": 10,
+   "new": [
+    "data processing agreement management software",
+    "web hosting management platform",
+    "configurable managed hosting plan",
+    "extended PHP security support"
+   ],
+   "relatedness": [
+    "close",
+    "related",
+    "close",
+    "related"
+   ]
+  }
+ }
+}

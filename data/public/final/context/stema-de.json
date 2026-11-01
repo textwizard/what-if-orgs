@@ -1,0 +1,83 @@
+{
+ "slug": "stema-de",
+ "windows": {
+  "exploration": {
+   "years": [
+    2017
+   ],
+   "industry": {
+    "turnover": "stayed about level",
+    "rd": "more",
+    "patents": "more",
+    "universities": "more"
+   },
+   "employees": 120,
+   "hiring": true,
+   "hiring_quote": "Wir suchen Auszubildende für folgende Bereiche: | Ausbildung (m/w) zum Fertigungsmechaniker",
+   "expansion": false,
+   "expansion_quote": null,
+   "investment": false,
+   "investment_quote": null,
+   "growth": false,
+   "growth_quote": null,
+   "difficulty": false,
+   "difficulty_quote": null,
+   "rd": true,
+   "rd_quote": "Die neuen XXL-SySTEMA-Anhänger von STEMA wurden auf einem der härtesten Gelände, dem Rábatestring, getest, geprüft und haben bestanden.",
+   "cooperation": false,
+   "cooperation_quote": null,
+   "eu_projects": 0,
+   "products_offered": 12,
+   "new": [
+    "trailer coupling protection cap",
+    "transport sack for trailers",
+    "car box trailer series",
+    "side-wall lashing strap",
+    "tyre tie-down strap",
+    "trailer coupling anti-theft device"
+   ],
+   "relatedness": [
+    "related",
+    "related",
+    "close",
+    "related",
+    "related",
+    "related"
+   ]
+  },
+  "holdout": {
+   "years": [
+    2022
+   ],
+   "industry": {
+    "turnover": "grew",
+    "rd": "more",
+    "patents": "more",
+    "universities": "about as"
+   },
+   "employees": 150,
+   "hiring": false,
+   "hiring_quote": null,
+   "expansion": false,
+   "expansion_quote": null,
+   "investment": false,
+   "investment_quote": null,
+   "growth": false,
+   "growth_quote": null,
+   "difficulty": false,
+   "difficulty_quote": null,
+   "rd": true,
+   "rd_quote": "Der neue Kofferanhänger ist eine konstruktive Neuentwicklung mit einer eigenen Formensprache.",
+   "cooperation": false,
+   "cooperation_quote": null,
+   "eu_projects": 0,
+   "products_offered": 10,
+   "new": [
+    "enclosed box car trailer series"
+   ],
+   "relatedness": [
+    "close"
+   ]
+  }
+ }
+}

@@ -1,0 +1,683 @@
+{
+ "slug": "cmd-natur-de",
+ "profiles": {
+  "exploration": {
+   "strategy": {
+    "offer": "Certified natural cosmetics and wellness products for face, body, and specialized skin needs, including vegan options, trial sizes, gift items, and professional-use products.",
+    "customers": "Consumers seeking gentle, effective skincare for varied skin types, plus business buyers such as retailers, hotels, and beauty professionals.",
+    "why_we_win": "The company argues that natural and organic ingredients, skin-friendly formulas, concentrated actives, and economical use deliver effective, trustworthy care.",
+    "resources": "Its basis is long experience in developing and producing certified natural cosmetics, a broad vegan assortment, and capability to serve both online and professional channels.",
+    "direction": null
+   },
+   "context": {
+    "size": null,
+    "founded": null,
+    "industry": "Manufacture of chemicals and chemical products"
+   },
+   "seed_year": 2017
+  },
+  "holdout": {
+   "strategy": {
+    "offer": "Certified natural skincare and personal care products, including vegan options, for different skin, hair, and body needs, plus trial sizes and larger packs.",
+    "customers": "Consumers seeking gentle, natural care, and business buyers such as retailers, beauty professionals, and hospitality providers.",
+    "why_we_win": "It believes simpler formulas, strict raw-material selection, freshness from smaller batches, transparency, and personal advice create trust, tolerability, and product effectiveness.",
+    "resources": "Its basis is know-how, long-term supplier relationships, high-quality sustainable ingredients, and integrated in-house capabilities from development and production to order handling and shipping.",
+    "direction": "It is moving toward more sustainable packaging, continued product innovation, and more open, transparent production."
+   },
+   "context": {
+    "size": "small",
+    "founded": 1994,
+    "industry": "Manufacture of chemicals and chemical products"
+   },
+   "seed_year": 2022
+  }
+ },
+ "years": [
+  {
+   "year": 2017,
+   "codeable": true,
+   "products": [
+    {
+     "name": "Rügener Kreide",
+     "generic": "a skincare line with healing chalk",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Sandorini",
+     "generic": "a sea buckthorn organic skincare line",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Neutral Körperlotion",
+     "generic": "a fragrance-free natural body lotion",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    }
+   ],
+   "evidence": [],
+   "success": []
+  },
+  {
+   "year": 2018,
+   "codeable": true,
+   "products": [
+    {
+     "name": "Natural Serum Deluxe",
+     "generic": "a natural cosmetic serum care series",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Neutral",
+     "generic": "a fragrance-free natural cosmetics care series",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Rio de Coco",
+     "generic": "a coconut oil based natural cosmetics series",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Rosé Exclusive",
+     "generic": "a wild rose oil natural cosmetics series",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Royale Essence",
+     "generic": "a pomegranate extract natural cosmetics series",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Royale Essence 24h Aufbaucreme",
+     "generic": "a natural 24-hour facial care cream",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Rügener Kreide",
+     "generic": "a healing chalk skincare series for oily skin",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Sandorini",
+     "generic": "a sea buckthorn oil natural cosmetics series",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Sandorini After Sun Lotion",
+     "generic": "a vegan natural after-sun lotion",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Teebaumöl Classic",
+     "generic": "a tea tree oil natural cosmetics series",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": true
+    },
+    {
+     "name": "Family Packs",
+     "generic": "bulk refill canisters for shampoos and lotions",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    }
+   ],
+   "evidence": [],
+   "success": []
+  },
+  {
+   "year": 2019,
+   "codeable": true,
+   "products": [
+    {
+     "name": "Teebaumöl",
+     "generic": "natural cosmetics series with tea tree oil",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": true
+    },
+    {
+     "name": "Rügener Kreide",
+     "generic": "natural cosmetics series with healing chalk",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Sandorini",
+     "generic": "natural cosmetics series with sea buckthorn oil",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Sandorini After Sun Lotion",
+     "generic": "natural after-sun lotion",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Sandorini Reinigungsschaum",
+     "generic": "natural facial cleansing foam",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Rio de Coco",
+     "generic": "natural cosmetics series with coconut oil",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Neutral",
+     "generic": "fragrance-free natural cosmetics series",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Royale Essence",
+     "generic": "vegan anti-aging natural skincare series",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Royale Essence 24h Aufbaucreme",
+     "generic": "vegan repair face cream",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Natural Serum Deluxe",
+     "generic": "natural facial serum series",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Sunny Sports",
+     "generic": "shower gel and shampoo line",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    }
+   ],
+   "evidence": [
+    {
+     "product": "Royale Essence 24h Aufbaucreme",
+     "type": "result",
+     "strength": 2,
+     "quote": "100 % Wirkstoffe, 100% vegan, zertifizierte Naturkosmetik und jetzt ausgezeichnet mit dem FOGS Leserpreis: Die 24h Aufbaucreme der neuen Royale Essence Serie"
+    },
+    {
+     "product": "Royale Essence",
+     "type": "launch",
+     "strength": 2,
+     "quote": "Die 24h Aufbaucreme der neuen Royale Essence Serie von CMD Naturkosmetik"
+    },
+    {
+     "product": "Sandorini Reinigungsschaum",
+     "type": "launch",
+     "strength": 2,
+     "quote": "Unsere Sandorini-Serie hat \"Nachwuchs\" bekommen: Der Sandorini Reinigungsschaum erg�nzt als neueste Entwicklung"
+    }
+   ],
+   "success": []
+  },
+  {
+   "year": 2022,
+   "codeable": true,
+   "products": [
+    {
+     "name": "Sandorini-Serie",
+     "generic": "a sea buckthorn natural skincare series",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Sandorini Reinigungsschaum",
+     "generic": "a natural facial cleansing foam",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Royale Essence Serie",
+     "generic": "a vegan natural skincare series",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "24h Aufbaucreme",
+     "generic": "a vegan natural 24-hour face cream",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Teebaumöl-Kosmetikserie",
+     "generic": "a tea tree oil cosmetics series",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": true
+    },
+    {
+     "name": "Rose Serum",
+     "generic": "a natural facial serum",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Family Packs",
+     "generic": "large refill packs of care products",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    }
+   ],
+   "evidence": [
+    {
+     "product": "24h Aufbaucreme",
+     "type": "result",
+     "strength": 2,
+     "quote": "jetzt ausgezeichnet mit dem FOGS Leserpreis: Die 24h Aufbaucreme der neuen Royale Essence Serie von CMD Naturkosmetik wird zum"
+    },
+    {
+     "product": "Royale Essence Serie",
+     "type": "launch",
+     "strength": 1,
+     "quote": "Die 24h Aufbaucreme der neuen Royale Essence Serie von CMD Naturkosmetik"
+    }
+   ],
+   "success": []
+  },
+  {
+   "year": 2023,
+   "codeable": true,
+   "products": [
+    {
+     "name": "Sandorini After Sun Lotion",
+     "generic": "a natural cosmetic after-sun lotion",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Rügener Kreide",
+     "generic": "a natural cosmetic care series with healing chalk",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    }
+   ],
+   "evidence": [],
+   "success": []
+  },
+  {
+   "year": 2024,
+   "codeable": true,
+   "products": [
+    {
+     "name": "Teebaumöl",
+     "generic": "tea tree oil natural cosmetics care series",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": true
+    },
+    {
+     "name": "Rügener Kreide",
+     "generic": "healing chalk skincare series for oily skin",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Sandorini",
+     "generic": "sea buckthorn oil skincare series",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Rio de Coco",
+     "generic": "coconut oil skincare series",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Neutral",
+     "generic": "fragrance-free sensitive skin care series",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Royale Essence",
+     "generic": "anti-aging natural skincare series",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Natural Serum Deluxe",
+     "generic": "natural facial serum care series",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Sunny Sports",
+     "generic": "shower gel and shampoo products",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Coffea Arabica",
+     "generic": "coffee-based men's care series",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Sandorini Reinigungsschaum",
+     "generic": "vegan facial cleansing foam",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Sandorini After Sun Lotion",
+     "generic": "natural after-sun body lotion",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Aloe Vera Reinigungsöl",
+     "generic": "facial cleansing oil, two-phase cleansing",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Aloe Vera Glow Serum",
+     "generic": "aloe and hyaluronic acid facial serum",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Family Packs",
+     "generic": "refill canisters for shampoo, shower gel, lotion",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    }
+   ],
+   "evidence": [
+    {
+     "product": "Coffea Arabica",
+     "type": "launch",
+     "strength": 2,
+     "quote": "Die neue Pflegeserie Coffea Arabica von CMD Naturkosmetik überzeugt mit einer aktivierenden, regenerierenden Wirkung."
+    },
+    {
+     "product": "Sandorini Reinigungsschaum",
+     "type": "launch",
+     "strength": 2,
+     "quote": "Neuheit: Der vegane Sandorini Reinigungsschaum ergänzt die Sandorini-Serie und bietet eine Alternative zur Reinigungsmilch."
+    },
+    {
+     "product": "Rügener Kreide",
+     "type": "launch",
+     "strength": 2,
+     "quote": "Unsere bisherige Pflegerserie \"Mineral\" mit Original Rügener Heilkreide als Hauptwirkstoff heißt nun \"Rügener Kreide\"."
+    }
+   ],
+   "success": []
+  },
+  {
+   "year": 2025,
+   "codeable": true,
+   "products": [
+    {
+     "name": "Teebaumöl",
+     "generic": "a natural cosmetics care series with tea tree oil",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": true
+    },
+    {
+     "name": "Rügener Kreide",
+     "generic": "a natural skincare series with healing chalk",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Sandorini",
+     "generic": "a natural skincare series with sea buckthorn",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Rio de Coco",
+     "generic": "a natural skincare series with coconut",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Neutral",
+     "generic": "a fragrance-free natural skincare series",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Royale Essence",
+     "generic": "a natural anti-aging skincare series",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Natural Serum Deluxe",
+     "generic": "a natural skincare serum series",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Sunny Sports",
+     "generic": "a shower gel and shampoo line",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Coffea Arabica",
+     "generic": "a coffee-based natural care series for men",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Aloe Vera Glow Serum",
+     "generic": "a natural anti-aging facial serum",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Aloe Vera Reinigungsmilch",
+     "generic": "a natural facial cleansing milk",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Sandorini Reinigungsschaum",
+     "generic": "a vegan facial cleansing foam",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    }
+   ],
+   "evidence": [
+    {
+     "product": "Sandorini Reinigungsschaum",
+     "type": "launch",
+     "strength": 2,
+     "quote": "Neuheit: Der vegane Sandorini Reinigungsschaum ergänzt die Sandorini-Serie und bietet eine Alternative zur Reinigungsmilch."
+    },
+    {
+     "product": "Coffea Arabica",
+     "type": "launch",
+     "strength": 2,
+     "quote": "Die neue Pflegeserie Coffea Arabica von CMD Naturkosmetik überzeugt mit einer aktivierenden, regenerierenden Wirkung."
+    },
+    {
+     "product": "Rügener Kreide",
+     "type": "launch",
+     "strength": 2,
+     "quote": "Unsere bisherige Pflegerserie \"Mineral\" mit Original Rügener Heilkreide als Hauptwirkstoff heißt nun \"Rügener Kreide\"."
+    }
+   ],
+   "success": []
+  },
+  {
+   "year": 2026,
+   "codeable": true,
+   "products": [
+    {
+     "name": "Teebaumölkosmetik",
+     "generic": "a natural cosmetics series based on tea tree oil",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": true
+    },
+    {
+     "name": "Aloe Studioline",
+     "generic": "a natural facial care line with aloe vera",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Aloe Vera Glow Serum",
+     "generic": "a facial serum with aloe and hyaluronic acid",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Aloe Vera Glow Pflegecreme",
+     "generic": "a facial care cream for dry skin",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    }
+   ],
+   "evidence": [],
+   "success": []
+  }
+ ]
+}

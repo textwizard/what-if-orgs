@@ -1,0 +1,1 @@
+{"model": "deepseek-v4-pro", "effort": "medium", "answer": {"decisions": [{"product": "A", "probability_dropped": 10, "decision": "keep", "reason": "Because A closely builds on the firm's existing maritime management knowledge, the firm can readily assimilate and apply early results, making a near-term drop unlikely."}]}}

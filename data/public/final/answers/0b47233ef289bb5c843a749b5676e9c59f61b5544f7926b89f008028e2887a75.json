@@ -1,0 +1,1 @@
+{"model": "deepseek-v4-pro", "effort": "medium", "answer": {"decisions": [{"product": "A", "probability_dropped": 10, "decision": "keep", "reason": "Product A remains close to the firm's established offering and is still presented as a new solution, so keeping it incurs low carrying costs while uncertainty about its value is not yet resolved."}]}}

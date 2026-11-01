@@ -1,0 +1,693 @@
+{
+ "slug": "baeckerei-baerenhecke-de",
+ "profiles": {
+  "exploration": {
+   "strategy": {
+    "offer": "Traditional bakery and confectionery goods, seasonal specialties, gifts, online ordering, and catered event space with tours and café services.",
+    "customers": "Consumers seeking everyday and festive baked goods at home, plus families and businesses needing venues, refreshments, or workshops.",
+    "why_we_win": "They combine heritage recipes, mostly regional ingredients, skilled handwork, and convenient access, creating authentic quality and memorable experiences.",
+    "resources": "Long baking tradition, experienced craft knowledge, traditional recipes, hand-finishing, ingredient sourcing, and facilities for production, hospitality, and events.",
+    "direction": null
+   },
+   "context": {
+    "size": null,
+    "founded": null,
+    "industry": "Manufacture of food products"
+   },
+   "seed_year": 2017
+  },
+  "holdout": {
+   "strategy": {
+    "offer": "Traditional bakery and confectionery goods, including breads, cakes, cookies, seasonal holiday pastries, regional gift assortments, online ordering, and catered event or meeting services.",
+    "customers": "Households buying everyday or seasonal baked goods, gift purchasers, nearby retail shoppers, online buyers, and families or companies needing event space and catering.",
+    "why_we_win": "It expects success from combining traditional recipes, skilled handcraft, trusted quality, largely regional ingredients, and convenient access through local outlets and home ordering.",
+    "resources": "Its basis is baking and confectionery know-how, long experience, established recipes, manual production, production facilities, local outlets, an online shop, and regional supplier relationships.",
+    "direction": null
+   },
+   "context": {
+    "size": null,
+    "founded": null,
+    "industry": "Manufacture of food products"
+   },
+   "seed_year": 2022
+  }
+ },
+ "years": [
+  {
+   "year": 2017,
+   "codeable": true,
+   "products": [
+    {
+     "name": "Spenden-Stollen",
+     "generic": "a charity Christmas stollen edition",
+     "seasonal": true,
+     "stage": "market",
+     "scale": "single",
+     "featured": true
+    },
+    {
+     "name": "Premium Butterstollen",
+     "generic": "a premium butter Christmas stollen",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Bärenhecker Mandelstollen",
+     "generic": "an almond Christmas stollen",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Geschenkbox \"Herren\"",
+     "generic": "a bakery gift box for men",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Geschenkbox \"Rot\"",
+     "generic": "a bakery gourmet gift box",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Geschenkbox \"Weiß\"",
+     "generic": "a bakery gourmet gift box",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Mühlenromantik in Sachsen",
+     "generic": "a gift item about mills",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Original Bärenhecker Erzgebirgs-Gewürzmischung",
+     "generic": "a stollen spice blend",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Mühlensaal",
+     "generic": "a historic hall for event rental",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    }
+   ],
+   "evidence": [
+    {
+     "product": "Spenden-Stollen",
+     "type": "launch",
+     "strength": 3,
+     "quote": "Spenden-Stollen zu Gunsten des Kinderhilfsfonds Sachsen 2017 Das Lachen eines Kindes sagt mehr als 1.000 Worte – auch 2017 wieder!"
+    }
+   ],
+   "success": []
+  },
+  {
+   "year": 2018,
+   "codeable": true,
+   "products": [
+    {
+     "name": "Spenden-Stollen",
+     "generic": "a charity Christmas stollen",
+     "seasonal": true,
+     "stage": "market",
+     "scale": "single",
+     "featured": true
+    },
+    {
+     "name": "Bärenhecker Mühlenbrot",
+     "generic": "a hearty bread loaf",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Bärentatzen",
+     "generic": "a sweet pastry",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Bärenhecker Mandelstollen",
+     "generic": "an almond Christmas stollen",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Bärenhecker Mühlentour",
+     "generic": "a guided tour of a historic mill",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    }
+   ],
+   "evidence": [],
+   "success": []
+  },
+  {
+   "year": 2019,
+   "codeable": true,
+   "products": [
+    {
+     "name": "Bärenhecker Mandelstollen",
+     "generic": "an almond Christmas stollen",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Bärenhecker Mohnstollen",
+     "generic": "a poppy seed Christmas stollen",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Premiumstollen",
+     "generic": "a premium Christmas stollen",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Spenden-Stollen",
+     "generic": "a charity Christmas stollen edition",
+     "seasonal": true,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Bärenhecker Mühlenbrot",
+     "generic": "a hearty mill-style bread loaf",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Bärentatzen",
+     "generic": "a sweet pastry",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Wriezener Landbrot",
+     "generic": "a country-style bread loaf",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Bärenhecker Bauernkruste",
+     "generic": "a crusty farmhouse bread",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Mühlen-Café",
+     "generic": "a bakery café at the mill",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    }
+   ],
+   "evidence": [
+    {
+     "product": "Bärenhecker Mandelstollen",
+     "type": "result",
+     "strength": 3,
+     "quote": "Unser Mandelstollen 2018 - Gold prämiert"
+    },
+    {
+     "product": "Bärenhecker Mohnstollen",
+     "type": "result",
+     "strength": 3,
+     "quote": "Unser Mohnstollen 2018 - Gold prämiert"
+    },
+    {
+     "product": "Premiumstollen",
+     "type": "result",
+     "strength": 3,
+     "quote": "Unser Premiumstollen 2018 - Gold prämiert"
+    },
+    {
+     "product": "Spenden-Stollen",
+     "type": "launch",
+     "strength": 3,
+     "quote": "Spenden-Stollen zu Gunsten des Kinderhilfsfonds Sachsen 2019"
+    }
+   ],
+   "success": []
+  },
+  {
+   "year": 2022,
+   "codeable": true,
+   "products": [
+    {
+     "name": "Bärenhecker Mandelstollen",
+     "generic": "an almond Christmas stollen",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Bärenhecker Mohnstollen",
+     "generic": "a poppy seed Christmas stollen",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Premium Butterstollen",
+     "generic": "a premium butter Christmas stollen",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Oma's Winterplätzchen",
+     "generic": "butter cookies with lemon glaze",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Geschenkbox für Genießer",
+     "generic": "a gift box of regional specialties",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Spendenstollen",
+     "generic": "a charity stollen supporting a children's fund",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    }
+   ],
+   "evidence": [
+    {
+     "product": "Premium Butterstollen",
+     "type": "result",
+     "strength": 3,
+     "quote": "Unser Premiumstollen 2021 - Gold prämiert"
+    },
+    {
+     "product": "Bärenhecker Mandelstollen",
+     "type": "result",
+     "strength": 3,
+     "quote": "Unser Mandelstollen 2021 - Gold prämiert"
+    },
+    {
+     "product": "Bärenhecker Mohnstollen",
+     "type": "result",
+     "strength": 3,
+     "quote": "Unser Mohnstollen 2021 - Gold prämiert"
+    },
+    {
+     "product": "Premium Butterstollen",
+     "type": "result",
+     "strength": 3,
+     "quote": "Unser Premiumstollen 2020 - Gold prämiert"
+    },
+    {
+     "product": "Bärenhecker Mandelstollen",
+     "type": "result",
+     "strength": 3,
+     "quote": "Unser Mandelstollen 2020 - Gold prämiert"
+    },
+    {
+     "product": "Bärenhecker Mohnstollen",
+     "type": "result",
+     "strength": 3,
+     "quote": "Unser Mohnstollen 2020 - Gold prämiert"
+    },
+    {
+     "product": "Spendenstollen",
+     "type": "result",
+     "strength": 2,
+     "quote": "Mit dem Kauf jedes Spendenstollens der sächsischen Traditionsbäckerei Bärenhecke wird der DRK Kinderhilfsfonds mit 50 CENT unterstützt. Das Unternehmen hat den Betrag auf 2.500 Euro aufgerundet."
+    }
+   ],
+   "success": []
+  },
+  {
+   "year": 2023,
+   "codeable": true,
+   "products": [
+    {
+     "name": "Bärenhecker Landbrot",
+     "generic": "a rye country bread with malt",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Bärenkruste",
+     "generic": "a rye mixed bread with sunflower seeds",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Malfa-Kraftma-Brot",
+     "generic": "a dark barley malt rye bread",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Urkorn-Brot",
+     "generic": "an ancient grain bread",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Bärenhecker Mandelstollen",
+     "generic": "an almond Christmas stollen",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Bärenhecker Rosinenstollen Premium",
+     "generic": "a premium raisin Christmas stollen",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    }
+   ],
+   "evidence": [
+    {
+     "product": "Bärenhecker Mandelstollen",
+     "type": "result",
+     "strength": 2,
+     "quote": "erhielt unser Mandelstollen erneut die Goldmedaille vom Deutschen Brotinstitutes e.V."
+    },
+    {
+     "product": "Bärenhecker Rosinenstollen Premium",
+     "type": "result",
+     "strength": 2,
+     "quote": "erhielt unser Rosinenstollen Premium erneut die Goldmedaille vom Deutschen Brotinstitutes e.V."
+    },
+    {
+     "product": "Urkorn-Brot",
+     "type": "launch",
+     "strength": 1,
+     "quote": "Fein vermahlen verbirgt sich Emmer, Einkorn, Dinkel und Waldstaudenroggen ganz ursprünglich und natürlich in unserem neuesten Meisterstück."
+    }
+   ],
+   "success": []
+  },
+  {
+   "year": 2024,
+   "codeable": true,
+   "products": [
+    {
+     "name": "Bärenhecker Mühlenbrot",
+     "generic": "a hearty bread loaf",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Bärentatzen",
+     "generic": "a sweet pastry",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Malfa-Kraftma-Brot",
+     "generic": "a dark rye bread with barley malt",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Bärenhecker Mandelstollen",
+     "generic": "an almond Christmas stollen",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Bärenhecker Rosinenstollen Premium",
+     "generic": "a premium raisin Christmas stollen",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Bärenhecker Roggenmischbrot",
+     "generic": "a mixed rye bread",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Bärenhecker Weizenbrot",
+     "generic": "a wheat bread",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    }
+   ],
+   "evidence": [
+    {
+     "product": "Bärenhecker Roggenmischbrot",
+     "type": "result",
+     "strength": 2,
+     "quote": "Als Anerkennung der gleichbleibenden sehr guten Quatlität des Roggenmischbrotes wurde uns die Goldmedaille verliehen."
+    },
+    {
+     "product": "Bärenhecker Weizenbrot",
+     "type": "result",
+     "strength": 2,
+     "quote": "Als Anerkennung der gleichbleibenden sehr guten Quatlität des Weizenbrotes wurde uns die Goldmedaille verliehen."
+    },
+    {
+     "product": "Bärenhecker Rosinenstollen Premium",
+     "type": "result",
+     "strength": 2,
+     "quote": "Bärenhecker Rosinenstollen Premium mit Gold ausgezeichnet"
+    }
+   ],
+   "success": []
+  },
+  {
+   "year": 2025,
+   "codeable": true,
+   "products": [
+    {
+     "name": "Bärenhecker Mandelstollen",
+     "generic": "an almond Christmas stollen",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Oma's Winterplätzchen",
+     "generic": "butter cookies with lemon glaze",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Mühlen-Café",
+     "generic": "a bakery café with regional specialty shop",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Mühlensaal",
+     "generic": "a hall rental for events and meetings",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    }
+   ],
+   "evidence": [],
+   "success": []
+  },
+  {
+   "year": 2026,
+   "codeable": true,
+   "products": [
+    {
+     "name": "Bärenhecker Mandelstollen",
+     "generic": "an almond Christmas stollen",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": true
+    },
+    {
+     "name": "Bärenhecker Mohnstollen",
+     "generic": "a poppy seed Christmas stollen",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": true
+    },
+    {
+     "name": "Bärenhecker Rosinenstollen Premium",
+     "generic": "a premium raisin Christmas stollen",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": true
+    },
+    {
+     "name": "Marzipanstollen",
+     "generic": "a marzipan Christmas stollen",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Bärenhecker Mühlenbrot",
+     "generic": "a hearty traditional bread loaf",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Bärentatzen",
+     "generic": "a sweet pastry",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Mühlensaal",
+     "generic": "event hall rental with catering",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    }
+   ],
+   "evidence": [
+    {
+     "product": "Bärenhecker Rosinenstollen Premium",
+     "type": "result",
+     "strength": 3,
+     "quote": "Unser Premiumstollen 2025 - Gold prämiert"
+    },
+    {
+     "product": "Bärenhecker Mandelstollen",
+     "type": "result",
+     "strength": 3,
+     "quote": "Unser Mandelstollen 2025 - Gold prämiert"
+    },
+    {
+     "product": "Bärenhecker Mohnstollen",
+     "type": "result",
+     "strength": 3,
+     "quote": "Unser Mohnstollen 2025 - Gold prämiert"
+    },
+    {
+     "product": "Marzipanstollen",
+     "type": "result",
+     "strength": 3,
+     "quote": "Unser Marzipanstollen 2024 - Gold prämiert"
+    },
+    {
+     "product": "Bärenhecker Rosinenstollen Premium",
+     "type": "result",
+     "strength": 3,
+     "quote": "Unser Premiumstollen 2024 - Gold prämiert"
+    },
+    {
+     "product": "Bärenhecker Mandelstollen",
+     "type": "result",
+     "strength": 3,
+     "quote": "Unser Mandelstollen 2024 - Gold prämiert"
+    },
+    {
+     "product": "Bärenhecker Mohnstollen",
+     "type": "result",
+     "strength": 3,
+     "quote": "Unser Mohnstollen 2024 - Gold prämiert"
+    },
+    {
+     "product": "Bärenhecker Rosinenstollen Premium",
+     "type": "result",
+     "strength": 2,
+     "quote": "Bärenhecker Rosinenstollen Premium mit Gold ausgezeichnet"
+    },
+    {
+     "product": "Bärenhecker Mandelstollen",
+     "type": "result",
+     "strength": 2,
+     "quote": "Bärenhecker Mandelstollen mit Gold ausgezeichnet"
+    }
+   ],
+   "success": []
+  }
+ ]
+}

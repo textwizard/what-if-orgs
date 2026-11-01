@@ -1,0 +1,1 @@
+{"model": "gpt-5.4", "effort": "medium", "answer": {"decisions": [{"product": "A", "probability_dropped": 25, "decision": "keep", "reason": "As a newly launched software API with still-limited learning after one year and likely low carrying cost for a large established German tech firm, it is rational to keep the option open while more market evidence emerges."}]}}

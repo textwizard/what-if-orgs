@@ -1,0 +1,647 @@
+{
+ "slug": "planoptik-com",
+ "profiles": {
+  "exploration": {
+   "strategy": {
+    "offer": "Standard and custom glass, quartz, carrier and compound wafers, including structured, coated, polished and cleanroom-packaged substrates for semiconductor and microsystems manufacturing.",
+    "customers": "Semiconductor, MEMS, optoelectronics and microfluidics manufacturers needing precision substrates, packaging wafers and thin-wafer handling for industrial, consumer, automotive and scientific applications.",
+    "why_we_win": "It argues precise tolerances, high-quality surfaces, material matching, flexible customization, and process integration improve yield, reliability and manufacturability in demanding wafer-level processes.",
+    "resources": "Basis includes advanced polishing, etching, drilling and measurement technologies, broad materials know-how, cleanroom packaging, direct technical support, and trained production specialists.",
+    "direction": "Expanding thinner and larger-format substrates, reusable carriers and multifunctional packaging wafers for increasingly complex semiconductor and microsystems applications."
+   },
+   "context": {
+    "size": null,
+    "founded": 1972,
+    "industry": "Manufacture of other non-metallic mineral products"
+   },
+   "seed_year": 2017
+  },
+  "holdout": {
+   "strategy": {
+    "offer": "Customized precision wafers, packaging and carrier solutions, interconnect substrates, microfluidic components, and related processing, prototyping, and manufacturing services.",
+    "customers": "Industrial customers in electronics, automotive, aerospace, chemicals, pharmaceuticals, medical, and sensor markets, from development projects to direct mass-production supply.",
+    "why_we_win": "It combines application-specific design, very high surface precision, tight tolerances, functional integration, and customer collaboration with manufacturing suited for volume production.",
+    "resources": "In-house polishing and patterning know-how, long glass and quartz processing experience, certified quality systems, group manufacturing capabilities, and direct plus online sales channels.",
+    "direction": "Expand higher-value applications and proprietary products, invest in newer processing technologies and capacity, grow complete systems, and shift simpler standard production to lower-cost manufacturing."
+   },
+   "context": {
+    "size": null,
+    "founded": null,
+    "industry": "Manufacture of computer, electronic and optical products"
+   },
+   "seed_year": 2022
+  }
+ },
+ "years": [
+  {
+   "year": 2017,
+   "codeable": true,
+   "products": [
+    {
+     "name": "MDF polishing",
+     "generic": "a low-roughness, defect-free wafer polishing process",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": true
+    },
+    {
+     "name": "USHD (ultra sonic high speed drilling)",
+     "generic": "an ultrasonic drilling process for glass wafers",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    }
+   ],
+   "evidence": [],
+   "success": []
+  },
+  {
+   "year": 2018,
+   "codeable": true,
+   "products": [
+    {
+     "name": "Through Glass Vias (TGV)",
+     "generic": "glass-silicon wafers with vertical through contacts",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Carriers for chemical release",
+     "generic": "perforated reusable glass carrier for thin wafers",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Carriers for mechanical release",
+     "generic": "reusable carrier for thin wafer handling",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Adapter Carriers",
+     "generic": "carrier wafer for handling smaller diameter wafers",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    }
+   ],
+   "evidence": [
+    {
+     "product": "Carriers for chemical release",
+     "type": "launch",
+     "strength": 3,
+     "quote": "From now on Plan Optik AG, the leading manufacturer of glass and quartz wafers, offers re-usable carriers for thin wafer handling which can be used for chemical release of device wafers."
+    },
+    {
+     "product": "Adapter Carriers",
+     "type": "launch",
+     "strength": 3,
+     "quote": "25.01.2018 • Plan Optik AG now offers Carrier Wafers which enable handling of smaller diameter wafers.."
+    },
+    {
+     "product": "Carriers for mechanical release",
+     "type": "launch",
+     "strength": 3,
+     "quote": "Carriers for mechanical release 21.02.2018 • Plan Optik AG offers re-usable carriers for thin wafer handling which can be..."
+    }
+   ],
+   "success": []
+  },
+  {
+   "year": 2019,
+   "codeable": true,
+   "products": [
+    {
+     "name": "Wafer Universe",
+     "generic": "brand for off-the-shelf glass and quartz wafers",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": true
+    },
+    {
+     "name": "Cu-Interposer",
+     "generic": "drilled glass interposer wafer with copper layer",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": true
+    },
+    {
+     "name": "MDF polishing",
+     "generic": "micro-damage-free wafer polishing finish",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": true
+    },
+    {
+     "name": "Glass-Circuit-Boards (GCB)",
+     "generic": "glass-based circuit boards",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    }
+   ],
+   "evidence": [
+    {
+     "product": "Cu-Interposer",
+     "type": "launch",
+     "strength": 3,
+     "quote": "has launched its new Cu-Interposer technology at SEMICON Europa 2019"
+    },
+    {
+     "product": "Wafer Universe",
+     "type": "launch",
+     "strength": 2,
+     "quote": "Plan Optik AG has founded a new brand called Wafer Universe, to provide off the shelf products."
+    }
+   ],
+   "success": []
+  },
+  {
+   "year": 2022,
+   "codeable": true,
+   "products": [
+    {
+     "name": "Cu-Interposer",
+     "generic": "copper-coated glass interposer for 3D packaging",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": true
+    },
+    {
+     "name": "Wafer Universe",
+     "generic": "online-sold standard glass and quartz wafers",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "AIRTUNE",
+     "generic": "an odor elimination system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "MDF polishing",
+     "generic": "micro-damage-free wafer surface polishing process",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    }
+   ],
+   "evidence": [
+    {
+     "product": "Cu-Interposer",
+     "type": "launch",
+     "strength": 3,
+     "quote": "has launched its new Cu-Interposer technology at SEMICON Europa 2019."
+    },
+    {
+     "product": "Cu-Interposer",
+     "type": "investment",
+     "strength": 2,
+     "quote": "In den kommenden 12 bis 18 Monaten wird Plan Optik eine eigene Produktion für die gemeinsamen Anwendungen aufbauen."
+    },
+    {
+     "product": "AIRTUNE",
+     "type": "result",
+     "strength": 3,
+     "quote": "2018 konnte der Umsatz des selbstentwickelten Geruchsbeseitigungssystems um über 50% auf TEUR 178 gesteigert werden (2017: TEUR 114)."
+    },
+    {
+     "product": "AIRTUNE",
+     "type": "result",
+     "strength": 2,
+     "quote": "So wurde mit Carglass ein neuer Vertriebspartner für den Einsatzbereich in Fahrzeugen gewonnen."
+    },
+    {
+     "product": "Wafer Universe",
+     "type": "launch",
+     "strength": 3,
+     "quote": "Seit März werden die Produkte unter der eigenen Marke „Wafer Universe“ über die Website www.waferuniverse.com im Internet vertrieben."
+    },
+    {
+     "product": "Wafer Universe",
+     "type": "result",
+     "strength": 3,
+     "quote": "Im Vergleich zum Vorjahr erhöhte sich der Absatz standardisierter Wafer in den ersten fünf Monaten daraufhin um rund 20%."
+    },
+    {
+     "product": "Wafer Universe",
+     "type": "investment",
+     "strength": 2,
+     "quote": "plant der Vorstand, das unter der Eigenmarke „Wafer Universe“ vertriebene Onlineangebot im Bereich Standardwafer entsprechend der ansteigenden Nachfrage deutlich auszuweiten."
+    }
+   ],
+   "success": []
+  },
+  {
+   "year": 2023,
+   "codeable": true,
+   "products": [
+    {
+     "name": "Wafer Universe",
+     "generic": "online brand for off-the-shelf stock glass wafers",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": true
+    },
+    {
+     "name": "Advanced Conncectivity Technology (ACT)",
+     "generic": "copper coated glass wafers and copper interposers",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": true
+    }
+   ],
+   "evidence": [
+    {
+     "product": "Wafer Universe",
+     "type": "result",
+     "strength": 2,
+     "quote": "Schon in der Vergangenheit wurden regelmäßig neue Produkte gelauncht, deren Absatz sich nach einer anfänglichen Corona-Delle in den vergangenen Monaten gut entwickelt hat."
+    },
+    {
+     "product": "Wafer Universe",
+     "type": "investment",
+     "strength": 3,
+     "quote": "plant der Vorstand, das unter der Eigenmarke „Wafer Universe“ vertriebene Onlineangebot im Bereich Standardwafer entsprechend der ansteigenden Nachfrage deutlich auszuweiten."
+    },
+    {
+     "product": "Advanced Conncectivity Technology (ACT)",
+     "type": "launch",
+     "strength": 1,
+     "quote": "With it’s new “Advanced Conncectivity Technology (ACT)” Plan Optik developed a solution to create or refine products for 3D-Integration, 5G or other connectivity and high frequency applications."
+    }
+   ],
+   "success": []
+  },
+  {
+   "year": 2024,
+   "codeable": true,
+   "products": [
+    {
+     "name": "Wafer Universe",
+     "generic": "off-the-shelf standardized glass and quartz wafers",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": true
+    },
+    {
+     "name": "Volume Laser Induced Structuring (VLIS)",
+     "generic": "laser-based glass structuring for through-glass vias",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": true
+    },
+    {
+     "name": "Advanced Conncectivity Technology (ACT)",
+     "generic": "glass wafer technology for high-frequency interconnects",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": true
+    },
+    {
+     "name": "Cu-Interposer",
+     "generic": "copper-coated glass interposer wafer",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": true
+    },
+    {
+     "name": "MDF (micro-damage-free) polishing",
+     "generic": "low-damage wafer surface polishing process",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    }
+   ],
+   "evidence": [
+    {
+     "product": "Wafer Universe",
+     "type": "launch",
+     "strength": 2,
+     "quote": "Plan Optik AG is excited to introduce Wafer Universe, crafted to meet the urgent needs for standardized wafers with a focus on streamlining procurement and ensuring rapid delivery."
+    },
+    {
+     "product": "Volume Laser Induced Structuring (VLIS)",
+     "type": "launch",
+     "strength": 2,
+     "quote": "Plan Optik AG presents Volume Laser Induced Structuring (VLIS), a next-generation solution designed to meet the demands of cutting-edge semiconductor applications."
+    }
+   ],
+   "success": []
+  },
+  {
+   "year": 2025,
+   "codeable": true,
+   "products": [
+    {
+     "name": "Advanced Connectivity Technology (ACT)",
+     "generic": "copper-metallized glass substrates for advanced packaging",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": true
+    },
+    {
+     "name": "Wafer Universe",
+     "generic": "brand for off-the-shelf glass and quartz wafers",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "MDF polishing",
+     "generic": "micro-damage-free wafer polishing process",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "MR-LAB Series",
+     "generic": "glass microreactors for laboratory flow chemistry",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "MR-LAB-Kat-G",
+     "generic": "glass micromixer with integrated catalyst channel",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "MR-LAB-VS",
+     "generic": "borosilicate glass micromixer reactor",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "MR-PILOT Series",
+     "generic": "glass microreactors for pilot-scale mixing",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "MR-Pilot-2",
+     "generic": "borosilicate glass micromixer for delay time",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "MR-Pilot-4",
+     "generic": "borosilicate glass micromixer for dwell time",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "MR-XXL SERIES",
+     "generic": "large glass microreactors with heat exchange",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "XXL-S-02",
+     "generic": "glass microreactor with preheating and holding line",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "XXL-ST-01",
+     "generic": "glass microreactor with integrated heat exchanger",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "XXL-KOE-01",
+     "generic": "glass microreactor with integrated heat exchanger",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "HTM Series",
+     "generic": "glass microreactors with heat exchanger layer",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "HTM-ST-3-1",
+     "generic": "three-inlet glass microreactor with heat exchanger",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "FLOW CHEMISTRY STARTER SET",
+     "generic": "starter kit for laboratory flow chemistry",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "NANOPARTICLE STARTER SET",
+     "generic": "starter kit for nanoparticle synthesis",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "PHOTOCHEMISTRY STARTER SET",
+     "generic": "starter kit for photochemical flow reactions",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "LTF RS reactors",
+     "generic": "glass flow microreactor",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Herringbone Chip",
+     "generic": "microfluidic mixing chip",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    }
+   ],
+   "evidence": [
+    {
+     "product": "Advanced Connectivity Technology (ACT)",
+     "type": "launch",
+     "strength": 2,
+     "quote": "PLANOPTIK has developed Advanced Connectivity Technology (ACT), a cutting-edge solution for 3D integration and high-frequency applications."
+    }
+   ],
+   "success": []
+  },
+  {
+   "year": 2026,
+   "codeable": true,
+   "products": [
+    {
+     "name": "Wafer Universe",
+     "generic": "a brand for off-the-shelf glass and quartz wafers",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "MDF polishing",
+     "generic": "an ultra-precision wafer surface polishing process",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Advanced Conncectivity Technology (ACT)",
+     "generic": "a glass wafer technology for high-frequency interconnects",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": true
+    },
+    {
+     "name": "HTM-KOE",
+     "generic": "a glass micromixer for residence time conditioning",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "HTM-S",
+     "generic": "a glass micromixer for higher flow rates",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "HTM-ST",
+     "generic": "a glass micromixer for small intensive mixing volumes",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "HTM-ST-2-1",
+     "generic": "a glass micromixer with longer mixing distance",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "HTM-ST-3-1",
+     "generic": "a glass micromixer with additional inlet",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "HTM-X",
+     "generic": "a glass micromixer for mixing-intensive substances",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "LTF RS T",
+     "generic": "a glass micromixer",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "MR-LAB Series",
+     "generic": "a series of laboratory-scale glass microreactors",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "MR-PILOT Series",
+     "generic": "a series of pilot-scale glass microreactors",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "MR-XXL SERIES",
+     "generic": "a series of large-scale glass microreactors",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    }
+   ],
+   "evidence": [],
+   "success": []
+  }
+ ]
+}

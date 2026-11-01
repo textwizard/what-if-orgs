@@ -1,0 +1,1 @@
+{"model": "deepseek-v4-pro", "effort": "medium", "answer": {"decisions": [{"product": "A", "probability_dropped": 15, "decision": "keep", "reason": "Product A builds directly on the firm's existing glass-substrate and metallization expertise, so the firm can assimilate early results and improve it, consistent with its absorptive capacity."}]}}

@@ -1,0 +1,887 @@
+{
+ "slug": "datron-de",
+ "profiles": {
+  "exploration": {
+   "strategy": {
+    "offer": "High-speed manufacturing equipment, precision tools, accessories, application consulting, training, maintenance, spare parts, and process support for milling, dental production, and dispensing.",
+    "customers": "Industrial manufacturers and laboratories needing efficient, accurate machining, digital fabrication, bonding, sealing, and related workflow support.",
+    "why_we_win": "It couples rapid innovation and customer-focused design with configurable systems, efficient operation, optimized tools, and responsive service to improve customers’ productivity, quality, and reliability.",
+    "resources": "A sizable R&D team, experienced specialists, application know-how, in-house testing and quality control, modular engineering, training capabilities, spare parts, and a global sales/service network.",
+    "direction": "It is advancing future-oriented production solutions, digital workflows, and materials processing while expanding customized, efficient, and reliable manufacturing support."
+   },
+   "context": {
+    "size": "medium",
+    "founded": 1969,
+    "industry": "Manufacture of machinery and equipment n.e.c."
+   },
+   "seed_year": 2017
+  },
+  "holdout": {
+   "strategy": {
+    "offer": "Advanced manufacturing systems, software, tools, accessories, automation options, and lifecycle services for machining, dispensing, and digital production workflows.",
+    "customers": "Industrial manufacturers and professional production users, including dental businesses, needing reliable, efficient, digitally supported manufacturing solutions and support.",
+    "why_we_win": "They combine technical consulting, innovative equipment, accessories, software, and responsive service to improve productivity, quality, process reliability, and customer satisfaction.",
+    "resources": "Qualified committed employees, cooperative leadership, process-oriented quality management, in-house development and testing, application know-how, service infrastructure, and spare-parts availability.",
+    "direction": "Pursue sustainable profitable growth through continuous improvement, stronger digitalization, smarter automation, remote services, and expanded digital communication tools."
+   },
+   "context": {
+    "size": null,
+    "founded": null,
+    "industry": "Manufacture of machinery and equipment n.e.c."
+   },
+   "seed_year": 2022
+  }
+ },
+ "years": [
+  {
+   "year": 2017,
+   "codeable": true,
+   "products": [
+    {
+     "name": "DATRON next",
+     "generic": "a CNC machine control software",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "DATRON M7/M75",
+     "generic": "a high-speed CNC milling machine",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "DATRON M8Cube",
+     "generic": "a high-speed CNC milling machine",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "DATRON M10 Pro",
+     "generic": "a high-precision CNC milling machine",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "DATRON neo",
+     "generic": "a compact CNC milling machine",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "DATRON MLCube",
+     "generic": "a large-format CNC milling machine",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "DATRON MLCube LS",
+     "generic": "a large-format CNC milling machine",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "DATRON C5",
+     "generic": "a 5-axis simultaneous milling machine",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "DATRON D5",
+     "generic": "a 5-axis dental milling machine",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "DATRON D5 Linear Scales",
+     "generic": "a dental milling machine for implant prosthetics",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "VacuCard++",
+     "generic": "a vacuum clamping system for milling machines",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    }
+   ],
+   "evidence": [],
+   "success": []
+  },
+  {
+   "year": 2018,
+   "codeable": true,
+   "products": [
+    {
+     "name": "DATRON next",
+     "generic": "a CNC milling machine control software",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "DATRON neo",
+     "generic": "a compact CNC milling machine",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "VacuCard++",
+     "generic": "a vacuum clamping system for milling machines",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "DATRON 4-in-1 Einschneider",
+     "generic": "a single-flute solid carbide milling cutter",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    }
+   ],
+   "evidence": [],
+   "success": []
+  },
+  {
+   "year": 2019,
+   "codeable": true,
+   "products": [
+    {
+     "name": "M10 Pro",
+     "generic": "a high-precision CNC milling machine",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "DATRON D5",
+     "generic": "a five-axis dental milling machine",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "DATRON C5",
+     "generic": "a five-axis simultaneous CNC milling machine",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "M8Cube",
+     "generic": "a high-speed gantry milling machine",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "DATRON neo",
+     "generic": "an entry-level compact milling machine",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "DATRON next",
+     "generic": "a milling machine control software",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "VacuCard++",
+     "generic": "a vacuum workpiece clamping system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Axis4",
+     "generic": "a fourth rotary axis accessory",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "DATRON Hybrid Production",
+     "generic": "milling post-processing of additively manufactured parts",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    }
+   ],
+   "evidence": [],
+   "success": []
+  },
+  {
+   "year": 2022,
+   "codeable": true,
+   "products": [
+    {
+     "name": "DATRON next",
+     "generic": "a touchscreen CNC machine control software",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": true
+    },
+    {
+     "name": "DATRON M8Cube",
+     "generic": "a high-speed CNC milling machine",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "DATRON MLCube",
+     "generic": "a high-speed CNC milling machine",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "DATRON MXCube",
+     "generic": "a high-speed CNC milling machine",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "DATRON ToolAssist",
+     "generic": "an automatic tool change system for milling machines",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "DATRON Smart Services",
+     "generic": "remote machine monitoring and support services",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "DATRON Automation Modules",
+     "generic": "modules connecting robots to CNC machines",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "DATRON next REST API",
+     "generic": "a software interface to machine control data",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "DATRON Automatic doors",
+     "generic": "automatic machine doors for loading",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "DATRON Live Maschinen-Apps",
+     "generic": "mobile apps for remote machine control",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "DATRON Service Helpdesk",
+     "generic": "an online service ticket platform",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "DATRON neo",
+     "generic": "a compact CNC milling machine",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "DATRON Dental",
+     "generic": "a dental CAD/CAM milling machine",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "DATRON Consulting Day",
+     "generic": "a monthly in-person technology consulting service",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "DATRON regrinding service",
+     "generic": "a milling tool regrinding service",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    }
+   ],
+   "evidence": [
+    {
+     "product": "DATRON Service Helpdesk",
+     "type": "launch",
+     "strength": 2,
+     "quote": "Mit dem neuen kostenlosen DATRON Service Helpdesk bieten wir Ihnen ab sofort eine zentrale Plattform für Ihre (An-)Fragen, Störungsmeldungen, Ersatzteilbestellungen und Reklamationen."
+    },
+    {
+     "product": "DATRON Consulting Day",
+     "type": "launch",
+     "strength": 2,
+     "quote": "Dann nutzen Sie ab sofort den DATRON Consulting Day im TZ Ulm."
+    }
+   ],
+   "success": []
+  },
+  {
+   "year": 2023,
+   "codeable": true,
+   "products": [
+    {
+     "name": "DATRON M10 Pro",
+     "generic": "a high-speed CNC milling machine",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "M8Cube",
+     "generic": "a compact high-speed CNC milling machine",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "DATRON MXCube",
+     "generic": "an industrial high-speed CNC milling machine",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "DATRON next",
+     "generic": "a touch-based CNC machine control software",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": true
+    },
+    {
+     "name": "DATRON Live",
+     "generic": "a remote machine status monitoring app",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "DATRON Remote Help",
+     "generic": "a mixed reality remote service support app",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "DATRON Smart Services",
+     "generic": "digital services for machine monitoring and support",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "DATRON Nachschleifservice",
+     "generic": "a milling tool regrinding service",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "DATRON Tech Academy",
+     "generic": "machine operator training programme",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    }
+   ],
+   "evidence": [
+    {
+     "product": "M8Cube",
+     "type": "launch",
+     "strength": 2,
+     "quote": "The M8Cube is one of the latest additions to our wide range of compact high-speed CNC machines for any milling requirement."
+    },
+    {
+     "product": "DATRON Live",
+     "type": "launch",
+     "strength": 1,
+     "quote": "with the DATRON Live Apps you will soon have everything in view at any time on PC, tablet and smartphone."
+    }
+   ],
+   "success": []
+  },
+  {
+   "year": 2024,
+   "codeable": true,
+   "products": [
+    {
+     "name": "DATRON neo",
+     "generic": "a compact CNC milling machine",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": true
+    },
+    {
+     "name": "DATRON neo+",
+     "generic": "a compact CNC milling machine",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "DATRON evo 600",
+     "generic": "an industrial dispensing machine",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": true
+    },
+    {
+     "name": "DATRON MXCube",
+     "generic": "a high-speed CNC milling machine",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "DATRON M8Cube",
+     "generic": "a high-speed CNC milling machine",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "DATRON MLCube",
+     "generic": "a high-speed CNC milling machine",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "DATRON ShuttleLoad",
+     "generic": "a dual-table loading system for milling machines",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "DATRON CoboLoad",
+     "generic": "a collaborative robot for machine loading",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "DATRON ToolAssist",
+     "generic": "a tool change system for milling machines",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "DATRON next",
+     "generic": "a touchscreen CNC machine control software",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": true
+    },
+    {
+     "name": "DATRON Smart Services",
+     "generic": "digital remote monitoring and support services",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "DATRON Remote Help",
+     "generic": "a mixed reality remote support app",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "DATRON Live",
+     "generic": "a machine status monitoring service",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "DATRON Service Helpdesk",
+     "generic": "an online service ticket platform",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "VacuCards",
+     "generic": "a sacrificial layer for vacuum clamping",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "DATRON Tech Academy",
+     "generic": "a training program for machine operators",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    }
+   ],
+   "evidence": [
+    {
+     "product": "DATRON evo 600",
+     "type": "result",
+     "strength": 3,
+     "quote": "datron-evo-600-dispensing-machine-honored-with-red-dot-design-award-2024"
+    },
+    {
+     "product": "DATRON Service Helpdesk",
+     "type": "launch",
+     "strength": 2,
+     "quote": "With the new free DATRON Service Helpdesk we now offer you a central platform for your inquiries, questions, fault reports, spare parts orders and criticism."
+    }
+   ],
+   "success": []
+  },
+  {
+   "year": 2025,
+   "codeable": true,
+   "products": [
+    {
+     "name": "DATRON neo",
+     "generic": "a compact CNC milling machine",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": true
+    },
+    {
+     "name": "DATRON evo 600",
+     "generic": "a CNC dispensing machine",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": true
+    },
+    {
+     "name": "DATRON next",
+     "generic": "a touch-based CNC machine control software",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": true
+    },
+    {
+     "name": "M8Cube",
+     "generic": "a high-speed CNC milling machine",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "MLCube",
+     "generic": "a high-speed CNC milling machine",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "MXCube",
+     "generic": "a high-speed CNC milling machine",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "ShuttleLoad",
+     "generic": "a dual-table loading extension for milling machines",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "CoboLoad",
+     "generic": "a collaborative robot machine loading system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "ToolAssist",
+     "generic": "a tool change system for milling machines",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "DATRON Live",
+     "generic": "a machine status monitoring app suite",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "DATRON Remote Help",
+     "generic": "a mixed reality remote support app",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "DATRON Smart Services",
+     "generic": "digital services for machine monitoring and support",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "DATRON Tech Academy",
+     "generic": "a training program for machine operators",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "4-in-1 single-flute end mill",
+     "generic": "a single-flute end mill for deburring",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "PerfectCut",
+     "generic": "a machine control engraving function",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "DATRON neo Starter Set",
+     "generic": "an accessory starter kit for milling machine",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "DATRON 3D probe",
+     "generic": "a workpiece measuring probe",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    }
+   ],
+   "evidence": [
+    {
+     "product": "DATRON evo 600",
+     "type": "launch",
+     "strength": 2,
+     "quote": "NEW: DATRON evo 600 Experience the future of DATRON dispensing technology"
+    },
+    {
+     "product": "M8Cube",
+     "type": "launch",
+     "strength": 1,
+     "quote": "The M8Cube is one of the latest additions to our wide range of compact high-speed CNC machines for any milling requirement."
+    },
+    {
+     "product": "DATRON Live",
+     "type": "launch",
+     "strength": 1,
+     "quote": "with the DATRON Live Apps you will soon have everything in view at any time on PC, tablet and smartphone."
+    }
+   ],
+   "success": []
+  },
+  {
+   "year": 2026,
+   "codeable": true,
+   "products": [
+    {
+     "name": "DATRON neo",
+     "generic": "a compact 3-axis high-speed CNC milling machine",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": true
+    },
+    {
+     "name": "DATRON neo Series 2",
+     "generic": "an upgraded compact high-speed CNC milling machine",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "DATRON evo 600",
+     "generic": "an industrial volumetric dispensing machine",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": true
+    },
+    {
+     "name": "DATRON MXCube",
+     "generic": "an industrial high-speed CNC milling machine",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "DATRON M8Cube",
+     "generic": "a high-speed CNC milling machine",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "DATRON MLCube",
+     "generic": "a large-format high-speed CNC milling machine",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "DATRON next",
+     "generic": "a touch-based CNC machine control software",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": true
+    },
+    {
+     "name": "DATRON ToolAssist",
+     "generic": "an automatic tool changer for milling machines",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "DATRON Smart Services",
+     "generic": "remote machine monitoring and support services",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "DATRON Tech Academy",
+     "generic": "operator training for CNC milling machines",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    }
+   ],
+   "evidence": [],
+   "success": []
+  }
+ ]
+}

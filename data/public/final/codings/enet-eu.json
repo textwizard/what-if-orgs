@@ -1,0 +1,1408 @@
+{
+ "slug": "enet-eu",
+ "profiles": {
+  "exploration": {
+   "strategy": {
+    "offer": "Software, SaaS, web services, market data, analyses, outsourced operational services, consulting, and training for regulated energy-market processes.",
+    "customers": "Energy companies, especially network operators, suppliers, balancing roles, and other organizations needing calculation, data management, compliance, and digitization support.",
+    "why_we_win": "It claims integrated data, applications, and services simplify complex legal and operational tasks, improve data quality, and save customers time, risk, and follow-on costs.",
+    "resources": "Its basis is long-built industry databases, analytical know-how, software development, an internal data center, certified information security, and staff expertise.",
+    "direction": "It is moving toward a fuller digital platform model: more SaaS, modular process-based applications, standardized data exchange, and broader end-to-end service provision."
+   },
+   "context": {
+    "size": "medium",
+    "founded": 2002,
+    "industry": "Computer programming, consultancy and related activities"
+   },
+   "seed_year": 2017
+  },
+  "holdout": {
+   "strategy": {
+    "offer": "Software, databases, web services, analyses, operational services and training that digitize energy-sector sales, billing, market communication and related business processes.",
+    "customers": "Energy-sector companies, especially utilities, suppliers and other market participants needing tariff, network, billing and market-process support.",
+    "why_we_win": "Daily updated reliable market data, precise calculations, personal support, configurable integrations and a central platform combining internal and third-party applications.",
+    "resources": "Experienced staff, maintained market-data databases, certified data-capture and quality processes, hosting capabilities, industry know-how, and the ability to build standard or custom solutions.",
+    "direction": "Expanding a central platform for everyday operations, adding integrated applications and services, and strengthening customers’ digital transformation capabilities."
+   },
+   "context": {
+    "size": "medium",
+    "founded": 2002,
+    "industry": "Computer programming, consultancy and related activities"
+   },
+   "seed_year": 2022
+  }
+ },
+ "years": [
+  {
+   "year": 2017,
+   "codeable": true,
+   "products": [
+    {
+     "name": "ene't Navigator",
+     "generic": "a cloud platform integrating energy industry applications",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": true
+    },
+    {
+     "name": "NetKalk.Netze",
+     "generic": "software for calculating grid usage charges",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "NetKalk.Tarife",
+     "generic": "software for energy tariff calculation",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "GABi Gas für Netzbetreiber und Lieferanten / Transportkunden",
+     "generic": "outsourced gas balancing and clearing service",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "ene't campus",
+     "generic": "seminar program for energy industry digitalization",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    }
+   ],
+   "evidence": [
+    {
+     "product": "ene't Navigator",
+     "type": "launch",
+     "strength": 3,
+     "quote": "Seit Mai 2017 steht eine neue Generation des ene't Navigator® zur Verfügung, die nun vor allem auf flexibles, prozessorientiertes und modularisiertes Arbeiten setzt."
+    },
+    {
+     "product": "GABi Gas für Netzbetreiber und Lieferanten / Transportkunden",
+     "type": "launch",
+     "strength": 3,
+     "quote": "Neu: GABi Gas für Netzbetreiber und Lieferanten / Transportkunden 04. Dezember 2017"
+    },
+    {
+     "product": "NetKalk.Tarife",
+     "type": "launch",
+     "strength": 3,
+     "quote": "Das optionale Add-on Tarifoptimierung für VERIVOX-Rankings erweitert den Funktionsumfang von NetKalk.Tarife."
+    }
+   ],
+   "success": []
+  },
+  {
+   "year": 2018,
+   "codeable": true,
+   "products": [
+    {
+     "name": "ene't Navigator®",
+     "generic": "process-oriented software platform for energy utilities",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": true
+    },
+    {
+     "name": "ene't campus",
+     "generic": "further training seminar program for energy industry",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": true
+    },
+    {
+     "name": "Manager Digitale Transformation Energie",
+     "generic": "certified continuing education course in digital transformation",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "NetKalk.dbr.Strom",
+     "generic": "contribution margin calculation software for electricity sales",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "NetKalk.dbr.Gas",
+     "generic": "contribution margin calculation software for gas sales",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "NetKalk.Netze",
+     "generic": "network usage charge calculation software",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "NetKalk.Tarife",
+     "generic": "end customer tariff calculation software",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "NetKalk.edm",
+     "generic": "energy data management software",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Netznutzung Strom",
+     "generic": "database of electricity network usage charges",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Netznutzung Gas",
+     "generic": "database of gas network usage charges",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Endkundentarife Strom",
+     "generic": "database of electricity end customer tariffs",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Endkundentarife Gas",
+     "generic": "database of gas end customer tariffs",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Webservice Preisblätter",
+     "generic": "web service retrieving network operator price sheet data",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Adressvalidierung",
+     "generic": "address validation web service",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "ene't Bonitätsprüfung",
+     "generic": "credit rating check service for business customers",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "MaBiS-Service",
+     "generic": "balancing group settlement service for grid operators",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Grundversorgung ermitteln",
+     "generic": "app identifying local default energy supplier and tariff",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    }
+   ],
+   "evidence": [
+    {
+     "product": "ene't campus",
+     "type": "result",
+     "strength": 3,
+     "quote": "Bereits im ersten Jahr wurden mehr als 50 Seminar-Veranstaltungen in mehreren deutschen Städten angeboten."
+    },
+    {
+     "product": "ene't campus",
+     "type": "launch",
+     "strength": 3,
+     "quote": "18. Januar 2017 „ene't campus“ bietet bundesweites Seminarprogramm an Die ene't GmbH eröffnet mit dem „ene't campus“ einen neuen…"
+    },
+    {
+     "product": "Manager Digitale Transformation Energie",
+     "type": "launch",
+     "strength": 3,
+     "quote": "Der ene't campus bietet ab Herbst 2018 erstmals eine zertifizierte Weiterbildung zum „Manager Digitale Transformation Energie“ an."
+    },
+    {
+     "product": "Grundversorgung ermitteln",
+     "type": "launch",
+     "strength": 3,
+     "quote": "Zusätzlich stellt Ihnen diese Ausgabe die App Grundversorgung ermitteln vor, die Ihnen adressscharf detaillierte Informationen zum ansässigen Grundversorger und dessen Grundversorgungstarif bietet."
+    },
+    {
+     "product": "Netznutzung Strom",
+     "type": "result",
+     "strength": 2,
+     "quote": "Grundlage dieses Beitrags des Bayerischen Rundfunks waren auch Daten der ene't Datenbank Netznutzung Strom."
+    }
+   ],
+   "success": []
+  },
+  {
+   "year": 2019,
+   "codeable": true,
+   "products": [
+    {
+     "name": "ene't MaKo+",
+     "generic": "outsourced energy market communication and balancing service",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": true
+    },
+    {
+     "name": "ene't Navigator®",
+     "generic": "process-oriented SaaS platform for utility business processes",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": true
+    },
+    {
+     "name": "ene't campus",
+     "generic": "professional training seminars for energy industry staff",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "NetKalk.edm.Gas",
+     "generic": "energy data management software for gas",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "NetKalk.Netze",
+     "generic": "grid usage fee calculation software",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "NetKalk.Tarife",
+     "generic": "end-customer tariff calculation software",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "NetCard",
+     "generic": "geovisualisation software for grid and tariff areas",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Webservice Adressauswahl",
+     "generic": "address autocompletion web service",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Adressvalidierung",
+     "generic": "automated address data validation service",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Webservice Hochlastzeitfensterermittlung",
+     "generic": "web service determining grid peak load time windows",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Webservice Postleitzahl-Ort-Ermittlung",
+     "generic": "postal code and town lookup web service",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Webservice Individuell",
+     "generic": "custom-built hosted data web services",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Endkundentarife Gas",
+     "generic": "database of retail gas tariffs",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Endkundentarife Strom",
+     "generic": "database of retail electricity tariffs",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Netznutzung Gas",
+     "generic": "database of gas grid usage fees",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Netznutzung Gas Österreich",
+     "generic": "database of Austrian gas grid fees",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Netznutzung Strom",
+     "generic": "database of electricity grid usage fees",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Netznutzung Strom Österreich",
+     "generic": "database of Austrian electricity grid fees",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    }
+   ],
+   "evidence": [
+    {
+     "product": "Webservice Adressauswahl",
+     "type": "launch",
+     "strength": 3,
+     "quote": "Neuer Webservice Adressauswahl 08. Juni 2018"
+    },
+    {
+     "product": "ene't campus",
+     "type": "launch",
+     "strength": 3,
+     "quote": "Seit 2018 bietet dieser zusätzlich eine Weiterbildungsmöglichkeit für das Management von Digitalisierungsprozessen in EVUs an."
+    }
+   ],
+   "success": []
+  },
+  {
+   "year": 2022,
+   "codeable": true,
+   "products": [
+    {
+     "name": "ene't Navigator®",
+     "generic": "industry software platform for energy utilities",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": true
+    },
+    {
+     "name": "ene't MaKo+",
+     "generic": "load profile and balancing process service",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": true
+    },
+    {
+     "name": "Manager Digitale Transformation Energie (zert.)",
+     "generic": "certified continuing education course for energy professionals",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "ene't campus",
+     "generic": "continuing education program for energy sector employees",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Marktdaten Netznutzung (Gas)",
+     "generic": "gas grid usage market database",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Marktdaten Netznutzung (Strom)",
+     "generic": "electricity grid usage market database",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Marktdaten Endkundentarife",
+     "generic": "end customer energy tariff database",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Netznutzung Strom und Gas Österreich",
+     "generic": "Austrian grid usage databases for power and gas",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Hochlastzeitfenster ermitteln (Strom)",
+     "generic": "app determining grid peak load time windows",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Adresskorrektur",
+     "generic": "address verification and correction app",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Analyse atypische Netznutzung (Strom)",
+     "generic": "app analysing atypical grid usage from load profiles",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Bündelkalkulation (Strom)",
+     "generic": "bulk grid cost calculation app for supply points",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Fremdkosten RLM (Gas)",
+     "generic": "third-party cost calculator for metered gas customers",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Fremdkosten RLM (Strom)",
+     "generic": "third-party cost calculator for metered power customers",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Fremdkosten SLP (Gas)",
+     "generic": "third-party cost calculator for standard-profile gas customers",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Fremdkosten SLP (Strom)",
+     "generic": "third-party cost calculator for standard-profile power customers",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Grundversorgung ermitteln (Gas)",
+     "generic": "app identifying default gas supplier and tariff",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Grundversorgung ermitteln (Strom)",
+     "generic": "app identifying default power supplier and tariff",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Tarifoptimierung Wettbewerb",
+     "generic": "tariff optimisation app with competitor comparison",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Regionale Positionsanalyse",
+     "generic": "regional tariff ranking position analysis app",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    }
+   ],
+   "evidence": [
+    {
+     "product": "ene't Navigator®",
+     "type": "launch",
+     "strength": 2,
+     "quote": "Nutzer der Plattform ene't Navigator® können den Prozess der Tarifkalkulation nun um einen tagesaktuellen Wettbewerbsvergleich anhand von Preisdaten von Verivox erweitern."
+    }
+   ],
+   "success": []
+  },
+  {
+   "year": 2023,
+   "codeable": true,
+   "products": [
+    {
+     "name": "ene't Navigator®",
+     "generic": "an energy industry software platform",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": true
+    },
+    {
+     "name": "ene't MaKo+",
+     "generic": "market communication process services for utilities",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": true
+    },
+    {
+     "name": "ene't campus",
+     "generic": "professional training seminars for energy industry",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": true
+    },
+    {
+     "name": "NetKalk.edm.Strom",
+     "generic": "energy data management software for electricity",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "NetKalk.dbr.Strom",
+     "generic": "electricity contribution margin calculation software",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Regionen",
+     "generic": "app for defining regional areas",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Adresskorrektur",
+     "generic": "address validation and correction app",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Analyse atypische Netznutzung (Strom)",
+     "generic": "app analysing atypical grid usage from load profiles",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Regionale Angebotskalkulation (Strom/Gas)",
+     "generic": "app for regional energy tariff calculation",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Regionaler Tarifvergleich",
+     "generic": "app for regional competitor tariff comparison",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Standortbasierter Tarifvergleich (Strom/Gas)",
+     "generic": "app for site-specific tariff comparison",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Lokationsbasierter Tarifvergleich (Gas)",
+     "generic": "app for location-based tariff comparison",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Webservicepaket Grundversorgungsermittlung (Gas)",
+     "generic": "web service identifying default energy supplier",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Webservice Preisblätter",
+     "generic": "web service for grid operator price sheets",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Webservices Netznutzung Strom und Gas",
+     "generic": "web services for grid usage fee data",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Datenbank Netznutzung Gas Österreich",
+     "generic": "database of Austrian gas grid fees",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Datenbank Marktdaten Netznutzung Strom",
+     "generic": "database of electricity grid fee data",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Datenbank Marktdaten",
+     "generic": "database of energy tariffs and market data",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Lastgangdatenverwaltung",
+     "generic": "load profile data management service",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "MaBiS-Dienstleistung",
+     "generic": "balancing settlement process service for utilities",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Webservice zur Adressvalidierung",
+     "generic": "REST web service for address validation",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "App zur Bündelkalkulation",
+     "generic": "app calculating fees for bundled large customers",
+     "seasonal": false,
+     "stage": "pilot",
+     "scale": "single",
+     "featured": false
+    }
+   ],
+   "evidence": [
+    {
+     "product": "Datenbank Netznutzung Gas Österreich",
+     "type": "result",
+     "strength": 1,
+     "quote": "tatsächlich machen einige deutsche Versorgungsunternehmen bereits Gebrauch von COSIMA. Die Datenbank Netznutzung Gas Österreich bietet dabei eine wichtige Grundlage"
+    },
+    {
+     "product": "Webservice Preisblätter",
+     "type": "launch",
+     "strength": 2,
+     "quote": "Neuer Webservice Preisblätter ab sofort verfügbar"
+    },
+    {
+     "product": "App zur Bündelkalkulation",
+     "type": "investment",
+     "strength": 1,
+     "quote": "Mit einer derzeit entwickelten App zur Bündelkalkulation wird auf dem ene't Navigator® ebenfalls eine komfortable Ermittlung von Netzentgelten, Umlagen und Abgaben"
+    },
+    {
+     "product": "Webservice zur Adressvalidierung",
+     "type": "launch",
+     "strength": 1,
+     "quote": "Haben Sie Interesse an unserem neuen Webservice? Fordern Sie einfach ein unverbindliches Angebot an"
+    }
+   ],
+   "success": []
+  },
+  {
+   "year": 2024,
+   "codeable": true,
+   "products": [
+    {
+     "name": "ene't Navigator®",
+     "generic": "a software platform for energy market applications",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": true
+    },
+    {
+     "name": "ene't MaKo+",
+     "generic": "a market communication outsourcing service for utilities",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": true
+    },
+    {
+     "name": "ene't StromCommunity®",
+     "generic": "a white-label energy sharing platform",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": true
+    },
+    {
+     "name": "Regionale Angebotskalkulation (Strom)",
+     "generic": "an app for regional tariff calculation",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Regionaler Tarifvergleich",
+     "generic": "an app for regional tariff comparison",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Standortbasierter Tarifvergleich",
+     "generic": "an app for location-specific tariff comparison",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Rohmargenanalyse Wettbewerb (Strom)",
+     "generic": "an app for competitive gross margin analysis",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Regionale Positionsanalyse",
+     "generic": "an app for regional tariff ranking analysis",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Tarifoptimierung Wettbewerb",
+     "generic": "an app for competitive tariff optimization",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Angebotskalkulation Elektromobilität",
+     "generic": "an app for calculating electric mobility tariffs",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Tarifanalyse Elektromobilität",
+     "generic": "an app for analysing electric mobility tariffs",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Regionale Rohmargenanalyse (Strom)",
+     "generic": "an app for regional gross margin analysis",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Adresskorrektur",
+     "generic": "an app for address verification and correction",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Webservice Adressauswahl",
+     "generic": "a REST web service for address autocompletion",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Webservice Preisblätter",
+     "generic": "a web service for network price sheet data",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Webservices Netznutzung Strom und Gas",
+     "generic": "web services for grid usage fee data",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Marktdaten Netznutzung",
+     "generic": "a database of grid fees and network data",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Marktdaten Endkundentarife",
+     "generic": "a database of retail energy tariffs",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Netznutzung Strom und Gas Österreich",
+     "generic": "a database of Austrian grid fees",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "ene't campus",
+     "generic": "a professional training and seminar offering",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "MaBiS-Dienstleistung",
+     "generic": "a balancing process service for distribution grid operators",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    }
+   ],
+   "evidence": [
+    {
+     "product": "Webservice Adressauswahl",
+     "type": "launch",
+     "strength": 2,
+     "quote": "Die ene't GmbH hat einen neuen Webservice entwickelt, der zur Adressvervollständigung in beliebige Web-Anwendungen integriert werden kann."
+    },
+    {
+     "product": "Webservice Preisblätter",
+     "type": "launch",
+     "strength": 2,
+     "quote": "Neuer Webservice Preisblätter ab sofort verfügbar"
+    },
+    {
+     "product": "ene't campus",
+     "type": "launch",
+     "strength": 2,
+     "quote": "hat der ene't campus ein neues Seminar in sein Veranstaltungsportfolio aufgenommen, das Sie ab sofort buchen können."
+    },
+    {
+     "product": "ene't Navigator®",
+     "type": "launch",
+     "strength": 2,
+     "quote": "Nutzer der Plattform ene't Navigator® können den Prozess der Tarifkalkulation nun um einen tagesaktuellen Wettbewerbsvergleich anhand von Preisdaten von Verivox erweitern."
+    }
+   ],
+   "success": []
+  },
+  {
+   "year": 2025,
+   "codeable": true,
+   "products": [
+    {
+     "name": "ene't Navigator®",
+     "generic": "industry software platform for energy suppliers",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": true
+    },
+    {
+     "name": "ene't MaKo+",
+     "generic": "market communication service portfolio for utilities",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": true
+    },
+    {
+     "name": "ene't StromCommunity®",
+     "generic": "white-label energy sharing platform",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": true
+    },
+    {
+     "name": "NetKalk",
+     "generic": "grid fee calculation software",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "NetKalk Tarife",
+     "generic": "tariff calculation software",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Bündelkalkulation (Gas)",
+     "generic": "bulk network cost calculation app for gas",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Fremdkosten RLM (Gas)",
+     "generic": "third-party cost calculator for metered gas customers",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Fremdkosten SLP (Strom)",
+     "generic": "third-party cost calculator for standard-load electricity customers",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Hochlastzeitfenster ermitteln (Strom)",
+     "generic": "app determining peak load time windows",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Lokationsbasierter Tarifvergleich (Gas)",
+     "generic": "location-based gas tariff comparison app",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Marktdaten Netznutzung Österreich (Gas)",
+     "generic": "Austrian gas network fee database",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Marktdaten Netznutzung Österreich (Strom)",
+     "generic": "Austrian electricity network fee database",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Marktdaten Netznutzung (Strom)",
+     "generic": "electricity network fee database",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Datenbank Netznutzung Gas",
+     "generic": "gas network fee database",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Marktdaten Endkundentarife Strom und Gas",
+     "generic": "end-customer energy tariff databases",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Regionale Angebotskalkulation (Strom)",
+     "generic": "regional electricity tariff offer calculation app",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Regionale Positionsanalyse (Strom)",
+     "generic": "tariff ranking position analysis app",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Regionale Veränderungsanalyse Netznutzung SLP (Strom)",
+     "generic": "network fee change analysis app",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Webservice Hochlastzeitfensterermittlung (Strom)",
+     "generic": "web service determining peak load windows",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "ene't Vergleichsrechner",
+     "generic": "embeddable tariff comparison calculator for utility websites",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Webservicepaket Marktpartnerermittlung (Gas)",
+     "generic": "web service identifying market partners by address",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Adresskorrektur",
+     "generic": "address validation and correction app",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    }
+   ],
+   "evidence": [],
+   "success": []
+  },
+  {
+   "year": 2026,
+   "codeable": true,
+   "products": [
+    {
+     "name": "ene't Navigator®",
+     "generic": "a platform of energy industry software apps",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": true
+    },
+    {
+     "name": "ene't StromCommunity®",
+     "generic": "a white-label energy sharing platform",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": true
+    },
+    {
+     "name": "ene't MaKo+",
+     "generic": "market communication and balancing process services",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": true
+    },
+    {
+     "name": "NetKalk",
+     "generic": "network charge calculation software",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "NetKalk Tarife",
+     "generic": "energy tariff calculation software",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Webservice Adressauswahl",
+     "generic": "an address autocomplete REST web service",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Regionale Angebotskalkulation (Strom/Gas)",
+     "generic": "an app for regional energy tariff calculation",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Regionaler Tarifvergleich",
+     "generic": "an app for regional competitor tariff comparison",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Standortbasierter Tarifvergleich (Strom/Gas)",
+     "generic": "an app for site-specific tariff comparison",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Fremdkosten RLM (Gas)",
+     "generic": "an app calculating third-party costs for industrial gas",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Fremdkosten SLP (Gas)",
+     "generic": "an app calculating third-party costs for standard gas customers",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Grundversorgung ermitteln (Strom)",
+     "generic": "an app identifying default electricity supplier and tariff",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Lokationsbasierte Margenanalyse SLP (Strom)",
+     "generic": "an app for customer-level margin analysis",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Lokationsbasierter Tarifvergleich (Strom)",
+     "generic": "an app for bulk location tariff comparison",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Marktdaten Netznutzung Österreich (Strom)",
+     "generic": "a database of Austrian electricity network charges",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Netznutzung Gas Österreich",
+     "generic": "a database of Austrian gas network charges",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Marktdaten Netznutzung (Strom)",
+     "generic": "a database of electricity network charges and operators",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Marktteilnehmer ermitteln (Gas)",
+     "generic": "an app identifying market participants by address",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Preisanpassung Bestandskunden SLP (Gas)",
+     "generic": "an app determining price adjustments for existing customers",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Regionale Netzpreisanalyse RLM (Gas)",
+     "generic": "an app for regional gas network cost analysis",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Regionale Netzpreisanalyse RLM (Strom)",
+     "generic": "an app for regional electricity network cost analysis",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    }
+   ],
+   "evidence": [
+    {
+     "product": "Webservice Adressauswahl",
+     "type": "launch",
+     "strength": 2,
+     "quote": "Die ene't GmbH hat einen neuen Webservice entwickelt, der zur Adressvervollständigung in beliebige Web-Anwendungen integriert werden kann."
+    },
+    {
+     "product": "NetKalk",
+     "type": "launch",
+     "strength": 1,
+     "quote": "Mit dem neuen Mietmodell gibt es praktisch keinen administrativen Aufwand aufseiten des Anwenders mehr."
+    },
+    {
+     "product": "Netznutzung Gas Österreich",
+     "type": "result",
+     "strength": 1,
+     "quote": "tatsächlich machen einige deutsche Versorgungsunternehmen bereits Gebrauch von COSIMA. Die Datenbank Netznutzung Gas Österreich bietet dabei eine wichtige Grundlage"
+    }
+   ],
+   "success": []
+  }
+ ]
+}

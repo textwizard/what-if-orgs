@@ -1,0 +1,93 @@
+{
+ "slug": "kobil-com",
+ "windows": {
+  "exploration": {
+   "years": [
+    2017
+   ],
+   "industry": {
+    "turnover": "grew",
+    "rd": "more",
+    "patents": "about as",
+    "universities": "more"
+   },
+   "employees": 120,
+   "hiring": false,
+   "hiring_quote": null,
+   "expansion": false,
+   "expansion_quote": null,
+   "investment": false,
+   "investment_quote": null,
+   "growth": false,
+   "growth_quote": null,
+   "difficulty": false,
+   "difficulty_quote": null,
+   "rd": true,
+   "rd_quote": "Nearly half of our employees work in R&D. We play a crucial role in the development of new encryption standards.",
+   "cooperation": false,
+   "cooperation_quote": null,
+   "eu_projects": 0,
+   "products_offered": 15,
+   "new": [
+    "encrypted secondary communication channel",
+    "mobile PDF digital signature function",
+    "multi-layer end-to-end security architecture",
+    "secure email-to-app message delivery robot",
+    "QR-code-based hardware signature token",
+    "payment network security compliance suite"
+   ],
+   "relatedness": [
+    "related",
+    "close",
+    "related",
+    "related",
+    "close",
+    "related"
+   ]
+  },
+  "holdout": {
+   "years": [
+    2022
+   ],
+   "industry": {
+    "turnover": "grew",
+    "rd": "more",
+    "patents": "about as",
+    "universities": "more"
+   },
+   "employees": null,
+   "hiring": false,
+   "hiring_quote": null,
+   "expansion": false,
+   "expansion_quote": null,
+   "investment": false,
+   "investment_quote": null,
+   "growth": false,
+   "growth_quote": null,
+   "difficulty": false,
+   "difficulty_quote": null,
+   "rd": true,
+   "rd_quote": "For the 16 million inhabitants of the Turkish metropolis of Istanbul, the German company KOBIL from Worms has developed a super app",
+   "cooperation": false,
+   "cooperation_quote": null,
+   "eu_projects": 0,
+   "products_offered": 9,
+   "new": [
+    "secure payment and wallet framework",
+    "software connector between identity components",
+    "application shielding security library",
+    "secure platform for building multi-service mobile apps",
+    "NFC tag based login authenticator",
+    "identity-linked mobile payment software module"
+   ],
+   "relatedness": [
+    "related",
+    "close",
+    "close",
+    "close",
+    "related",
+    "related"
+   ]
+  }
+ }
+}

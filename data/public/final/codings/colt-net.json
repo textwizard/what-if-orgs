@@ -1,0 +1,1246 @@
+{
+ "slug": "colt-net",
+ "profiles": {
+  "exploration": {
+   "strategy": {
+    "offer": "Managed network, voice, data centre, cloud and IT infrastructure services, including software-defined, on-demand connectivity and professional support.",
+    "customers": "Medium and large enterprises, multinationals, information-intensive businesses, and service providers; smaller businesses reached through channel partners.",
+    "why_we_win": "It combines owned infrastructure, broad international reach, low-latency reliable performance, flexible scaling, and strong multilingual support to simplify complex communications and IT needs.",
+    "resources": "Owned fibre networks, metropolitan footprints, carrier-neutral data centres, software platforms, specialist engineers, regulatory know-how, and round-the-clock service operations.",
+    "direction": "It is moving toward smarter software-defined, high-bandwidth, integrated infrastructure services with real-time provisioning and support for cloud adoption and digital growth."
+   },
+   "context": {
+    "size": "large",
+    "founded": 1999,
+    "industry": "Telecommunications"
+   },
+   "seed_year": 2017
+  },
+  "holdout": {
+   "strategy": {
+    "offer": "Managed connectivity, voice, cloud access, cybersecurity, contact centre and unified communications services, with self-service and on-demand options.",
+    "customers": "Organisations needing secure business communications and digital infrastructure, including enterprises, public-facing operations, and service providers operating across multiple sites or countries.",
+    "why_we_win": "It argues customers prefer a single provider combining strong service experience, intelligent automation, reliable performance, security, and consistent delivery across regions.",
+    "resources": "Its basis is owned network infrastructure, software-defined capabilities, broad cloud and technology partnerships, operational support tools, and a large multilingual workforce.",
+    "direction": "It aims to expand connectivity coverage and become the industry's most customer-oriented partner for digital transformation and hybrid cloud working."
+   },
+   "context": {
+    "size": "large",
+    "founded": null,
+    "industry": "Telecommunications"
+   },
+   "seed_year": 2022
+  }
+ },
+ "years": [
+  {
+   "year": 2017,
+   "codeable": true,
+   "products": [
+    {
+     "name": "SD WAN",
+     "generic": "software-defined wide area network service",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": true
+    },
+    {
+     "name": "On Demand Services",
+     "generic": "real-time self-service bandwidth connectivity service",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": true
+    },
+    {
+     "name": "Colt IQ Network",
+     "generic": "software-defined intelligent telecommunications network",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": true
+    },
+    {
+     "name": "Ethernet Services",
+     "generic": "business Ethernet connectivity service family",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "LANLink Point-to-Point (E-Line)",
+     "generic": "point-to-point Ethernet line service",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "LANLink Hub and Spoke (E-Access)",
+     "generic": "hub and spoke Ethernet access service",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Private Ethernet",
+     "generic": "private Ethernet network service",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Ethernet VPN",
+     "generic": "Ethernet virtual private network service",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Dedicated Cloud Access",
+     "generic": "dedicated connectivity to cloud providers",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "DC Net",
+     "generic": "data centre interconnect network service",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "DDoS Mitigation",
+     "generic": "distributed denial of service protection service",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "IP VPN",
+     "generic": "managed IP virtual private network",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "IP Access",
+     "generic": "business internet access service",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Private Wave",
+     "generic": "private optical wavelength service",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Wave",
+     "generic": "high bandwidth optical wavelength service",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Voice On Demand",
+     "generic": "on-demand business voice service",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Service Access Numbers",
+     "generic": "international freephone and service number service",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Cloud UC",
+     "generic": "cloud unified communications service",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "ISDN Voice Services",
+     "generic": "pan-European business ISDN telephony",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "PrizmNet Portal",
+     "generic": "financial community network portal",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Ultra Low Latency",
+     "generic": "ultra low latency trading connectivity",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Financial Extranet",
+     "generic": "financial markets extranet connectivity service",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Colt Dark Fibre",
+     "generic": "dark fibre leasing service",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "SIP Trunking Solution",
+     "generic": "SIP trunking voice over IP service",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "White Label Solutions",
+     "generic": "white label voice services for resellers",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Diamond Telecoms Expense Management",
+     "generic": "telecom expense management tool",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Colt VoiceLINE",
+     "generic": "direct PBX voice connection service",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Cocom",
+     "generic": "B2B billing data interface",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "IN over Carrier VoIP",
+     "generic": "intelligent network services over carrier VoIP",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Number Hosting",
+     "generic": "telephone number hosting service",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    }
+   ],
+   "evidence": [],
+   "success": []
+  },
+  {
+   "year": 2018,
+   "codeable": true,
+   "products": [
+    {
+     "name": "Colt IQ Network",
+     "generic": "a cloud-integrated high-bandwidth business network",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": true
+    },
+    {
+     "name": "Ethernet Line",
+     "generic": "a managed point-to-point ethernet connectivity service",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Ethernet VPN",
+     "generic": "a layer 2 multi-site ethernet VPN service",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Ethernet Hub & Spoke",
+     "generic": "a managed point-to-multipoint ethernet WAN service",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Private Ethernet",
+     "generic": "a dedicated fibre layer 2 point-to-point service",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "IP VPN",
+     "generic": "an MPLS-based IP virtual private network service",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "IP Access",
+     "generic": "a business internet access service",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "VoIP Access",
+     "generic": "a telephony service over IP connection",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Voice Connect",
+     "generic": "a carrier pre-selection telephony service",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Voice Line",
+     "generic": "a direct voice network connection service",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Cloud UC",
+     "generic": "a cloud-based unified communications and telephony service",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Colt Audio and WebEx Conference Call Services",
+     "generic": "an audio and web conferencing service",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Wave",
+     "generic": "an optical wavelength connectivity service",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Private Wave",
+     "generic": "a dedicated private optical network service",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Spectrum",
+     "generic": "an ultra-high bandwidth optical spectrum service",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "DC Net",
+     "generic": "a data centre interconnection service",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Dedicated Cloud Access",
+     "generic": "a private connectivity service to cloud providers",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "On Demand",
+     "generic": "a software-defined on-demand network connectivity service",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": true
+    },
+    {
+     "name": "Colt PrizmNet",
+     "generic": "a financial extranet for capital markets",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "MarketPrizm",
+     "generic": "market data feeds for financial exchanges",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "IN over Carrier VoIP",
+     "generic": "a wholesale inbound number VoIP service",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Number Hosting",
+     "generic": "a white-label VoIP reseller service",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Voice On Demand",
+     "generic": "a scalable cloud contact centre voice service",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Colt Hong Kong Metro",
+     "generic": "a metropolitan data centre connection network",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    }
+   ],
+   "evidence": [
+    {
+     "product": "On Demand",
+     "type": "result",
+     "strength": 3,
+     "quote": "On Demand and Dedicated Cloud Access services recognised at Network Transformation Awards"
+    },
+    {
+     "product": "Dedicated Cloud Access",
+     "type": "result",
+     "strength": 3,
+     "quote": "Colt has picked up two awards at the Network Transformation Awards, which took place in The Hague last night as part of SDN NFV World Congress 2018."
+    },
+    {
+     "product": "Colt PrizmNet",
+     "type": "result",
+     "strength": 2,
+     "quote": "Our financial extranet, Colt PrizmNet, connects a global capital markets ecosystem of 100+ exchanges, venues and service providers; and 10,000+ participants."
+    },
+    {
+     "product": "Colt Hong Kong Metro",
+     "type": "result",
+     "strength": 2,
+     "quote": "Colt Hong Kong Metro is adopted as a network for connection between data centres and financial hub…"
+    }
+   ],
+   "success": []
+  },
+  {
+   "year": 2019,
+   "codeable": true,
+   "products": [
+    {
+     "name": "Colt IQ Network",
+     "generic": "a high-bandwidth global fibre network",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": true
+    },
+    {
+     "name": "Colt On Demand Services",
+     "generic": "real-time software-defined network connectivity service",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": true
+    },
+    {
+     "name": "Colt Intelligent Communications",
+     "generic": "cloud collaboration and enterprise communications service",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Colt Cloud UC",
+     "generic": "managed cloud telephony and unified communications service",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Voice On Demand",
+     "generic": "self-service portal for ordering voice numbers",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Dedicated Cloud Access",
+     "generic": "private connectivity service to public clouds",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "DC Net",
+     "generic": "data centre interconnection service",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Colt Spectrum",
+     "generic": "optical spectrum connectivity service for DWDM",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Private Wave",
+     "generic": "dedicated optical wavelength service",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Wave",
+     "generic": "optical wavelength connectivity service",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "PrizmNet Portal",
+     "generic": "customer network management portal",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Colt Intelligent Network (IN) Services",
+     "generic": "managed inbound voice and access number services",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "IN over Carrier VoIP",
+     "generic": "wholesale inbound VoIP number service",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "White Label",
+     "generic": "white-label voice services for resellers",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Number Hosting",
+     "generic": "phone number hosting service for VoIP operators",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Colt Ethernet Line",
+     "generic": "point-to-point Ethernet connectivity service",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Colt Ethernet Hub & Spoke",
+     "generic": "hub-and-spoke Ethernet network service",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Private Ethernet",
+     "generic": "dedicated private Ethernet network service",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Ethernet VPN",
+     "generic": "multipoint Ethernet virtual private network service",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Colt IP VPN",
+     "generic": "business IP virtual private network service",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "SD WAN as a Service",
+     "generic": "managed software-defined wide area network service",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Colt ISDN over SIP",
+     "generic": "ISDN voice service delivered over SIP",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Colt Voice Encryption",
+     "generic": "end-to-end encryption for voice services",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Financial Extranet",
+     "generic": "network connecting financial market participants",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    }
+   ],
+   "evidence": [
+    {
+     "product": "Colt On Demand Services",
+     "type": "result",
+     "strength": 3,
+     "quote": "On Demand and Dedicated Cloud Access services recognised at Network Transformation Awards"
+    },
+    {
+     "product": "Dedicated Cloud Access",
+     "type": "result",
+     "strength": 3,
+     "quote": "Colt has picked up two awards at the Network Transformation Awards, which took place in The Hague last night as part of SDN NFV World Congress 2018."
+    },
+    {
+     "product": "Dedicated Cloud Access",
+     "type": "result",
+     "strength": 2,
+     "quote": "Dedicated Cloud Access is the last piece of the puzzle and has enabled us to move completely off-premise.Stefan Truthaen\nCEO, HP Berlin"
+    }
+   ],
+   "success": []
+  },
+  {
+   "year": 2022,
+   "codeable": true,
+   "products": [
+    {
+     "name": "Colt SASE Gateway",
+     "generic": "an integrated secure access service edge solution",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": true
+    },
+    {
+     "name": "Colt Spectrum",
+     "generic": "an ultra high bandwidth managed fibre spectrum service",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Ethernet Line",
+     "generic": "a point-to-point layer 2 managed ethernet service",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Ethernet Line Encryption",
+     "generic": "an encryption add-on for ethernet connectivity",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Colt Internet Access",
+     "generic": "a business internet access service with guaranteed bandwidth",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Colt Cloud UC",
+     "generic": "a managed cloud telephony and unified communications service",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Colt Intelligent Network (IN) Services",
+     "generic": "a managed portfolio of inbound voice number services",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "IN over Carrier VoIP",
+     "generic": "a wholesale VoIP dial-in number service for providers",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Cloud SBC",
+     "generic": "a cloud session border controller for direct routing",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Dedicated Cloud Access",
+     "generic": "a direct private connectivity service to cloud providers",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "On Demand Services",
+     "generic": "real-time self-service network connectivity provisioning",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Edge Compute",
+     "generic": "a cloud platform replacing on-premise customer equipment",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Colt ISDN over SIP",
+     "generic": "an ISDN service delivered over SIP trunking",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Cocom",
+     "generic": "a B2B interface providing call detail records",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    }
+   ],
+   "evidence": [
+    {
+     "product": "Colt SASE Gateway",
+     "type": "launch",
+     "strength": 2,
+     "quote": "with the launch of its new Colt SASE Gateway solution offering organisations protection from malware and threats"
+    }
+   ],
+   "success": []
+  },
+  {
+   "year": 2023,
+   "codeable": true,
+   "products": [
+    {
+     "name": "Colt Voice On Demand",
+     "generic": "an online portal for ordering voice numbers",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Colt Cloud UC",
+     "generic": "a managed cloud unified communications service",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Colt Contact Centre as a Service (CCaaS)",
+     "generic": "a cloud omni-channel contact centre service",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Colt Spectrum",
+     "generic": "a managed high bandwidth fibre spectrum service",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Colt IQ Network",
+     "generic": "a global fibre telecommunications network",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": true
+    },
+    {
+     "name": "On Demand Services",
+     "generic": "real-time provisioned network connectivity services",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Edge Compute",
+     "generic": "a cloud platform replacing on-premise customer equipment",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "White Label Services",
+     "generic": "outsourced invoicing for reseller voice services",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Colt Online",
+     "generic": "a customer self-service management portal",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Service Test Portal",
+     "generic": "an online network service testing tool",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Colt Intelligent Number Routing Platform",
+     "generic": "a call number routing platform",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Colt e-Mail Invoice Delivery",
+     "generic": "an electronic invoice delivery service",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    }
+   ],
+   "evidence": [],
+   "success": []
+  },
+  {
+   "year": 2024,
+   "codeable": true,
+   "products": [
+    {
+     "name": "Colt IQ Network",
+     "generic": "a global fibre-based enterprise network infrastructure",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": true
+    },
+    {
+     "name": "Colt Spectrum",
+     "generic": "a managed spectrum service over long-haul fibre",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Colt Ethernet Line",
+     "generic": "a point-to-point ethernet connectivity service",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Colt Ethernet Hub & Spoke",
+     "generic": "a hub-and-spoke ethernet connectivity service",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Colt Cloud UC",
+     "generic": "a cloud-based telephony and unified communications service",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Colt Intelligent Network (IN) Services",
+     "generic": "managed inbound voice and toll-free number services",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Colt ISDN over SIP",
+     "generic": "an ISDN service delivered over SIP trunking",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "On Demand Services",
+     "generic": "real-time provisioned network and cloud connectivity",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Edge Compute",
+     "generic": "a cloud edge platform replacing on-premise equipment",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Colt Intelligent Number Routing Platform",
+     "generic": "a voice call number routing platform",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    }
+   ],
+   "evidence": [],
+   "success": []
+  },
+  {
+   "year": 2025,
+   "codeable": true,
+   "products": [
+    {
+     "name": "Colt IQ Network",
+     "generic": "a global fibre digital infrastructure network",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": true
+    },
+    {
+     "name": "Colt Spectrum",
+     "generic": "an ultra high bandwidth optical spectrum service",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "On Demand Services",
+     "generic": "real-time network-as-a-service connectivity provisioning",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Colt Versa SD WAN & SASE",
+     "generic": "a managed SD-WAN and secure access service",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Dedicated Cloud Access",
+     "generic": "a private cloud connectivity service",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Ethernet VPN",
+     "generic": "a multipoint ethernet virtual private network service",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Ethernet Line",
+     "generic": "a point-to-point ethernet connectivity service",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Edge Compute",
+     "generic": "a cloud platform replacing on-premise customer equipment",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Colt Operator Connect",
+     "generic": "a cloud voice service for collaboration platforms",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "IP Access",
+     "generic": "a business internet access service",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "IPVPN",
+     "generic": "an IP virtual private network service",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "SIP Trunking",
+     "generic": "a business voice trunking service",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    }
+   ],
+   "evidence": [
+    {
+     "product": "Colt IQ Network",
+     "type": "result",
+     "strength": 3,
+     "quote": "27k+ Customers getting the industry-leading Colt experience across 40 countries worldwide"
+    }
+   ],
+   "success": []
+  },
+  {
+   "year": 2026,
+   "codeable": true,
+   "products": [
+    {
+     "name": "Colt IQ Network",
+     "generic": "a global high bandwidth fibre network",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "On Demand Services",
+     "generic": "real-time provisioned Ethernet, IP and cloud connectivity",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Colt Cloud UC",
+     "generic": "managed cloud telephony and unified communications service",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Colt Intelligent Network (IN) Services",
+     "generic": "managed inbound voice and toll-free number services",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Colt ISDN over SIP",
+     "generic": "ISDN service delivered over SIP trunking",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Colt Edge",
+     "generic": "virtualised edge computing platform replacing premise equipment",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Colt Cloud Manager",
+     "generic": "portal for managing cloud connectivity to providers",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Numbers on Demand",
+     "generic": "online self-service phone number ordering",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Voice on Demand",
+     "generic": "online self-service voice service ordering",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    }
+   ],
+   "evidence": [
+    {
+     "product": "Colt Cloud Manager",
+     "type": "launch",
+     "strength": 2,
+     "quote": "Google Cloud Platform now available through Colt Cloud Manager"
+    }
+   ],
+   "success": []
+  }
+ ]
+}

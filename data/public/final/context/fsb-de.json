@@ -1,0 +1,93 @@
+{
+ "slug": "fsb-de",
+ "windows": {
+  "exploration": {
+   "years": [
+    2017
+   ],
+   "industry": {
+    "turnover": "grew",
+    "rd": "about as",
+    "patents": "about as",
+    "universities": "about as"
+   },
+   "employees": 700,
+   "hiring": false,
+   "hiring_quote": null,
+   "expansion": false,
+   "expansion_quote": null,
+   "investment": false,
+   "investment_quote": null,
+   "growth": false,
+   "growth_quote": null,
+   "difficulty": false,
+   "difficulty_quote": null,
+   "rd": true,
+   "rd_quote": "The upshot is our system range comprising unique, systemically harmonised and patented hardware solutions that meet all the requirements for the modern digital organisation of buildings",
+   "cooperation": false,
+   "cooperation_quote": null,
+   "eu_projects": 0,
+   "products_offered": 21,
+   "new": [
+    "classic door lever handle",
+    "door lever handle family (1)",
+    "door handle design (1)",
+    "door handle design (2)",
+    "door lever handle family (2)",
+    "electronic access system"
+   ],
+   "relatedness": [
+    "close",
+    "close",
+    "close",
+    "close",
+    "close",
+    "close"
+   ]
+  },
+  "holdout": {
+   "years": [
+    2022
+   ],
+   "industry": {
+    "turnover": "grew",
+    "rd": "about as",
+    "patents": "about as",
+    "universities": "about as"
+   },
+   "employees": 500,
+   "hiring": true,
+   "hiring_quote": "Mitarbeiter im Bereich Aluminium-Schleiferei (m/w/d)",
+   "expansion": false,
+   "expansion_quote": null,
+   "investment": false,
+   "investment_quote": null,
+   "growth": false,
+   "growth_quote": null,
+   "difficulty": false,
+   "difficulty_quote": null,
+   "rd": true,
+   "rd_quote": "We have developed a safe solution for the new requirements in the form of FSB 1287.",
+   "cooperation": false,
+   "cooperation_quote": null,
+   "eu_projects": 0,
+   "products_offered": 13,
+   "new": [
+    "door and window handle collection",
+    "colored architectural hardware collection",
+    "dark patinated bronze finish",
+    "light patinated bronze finish",
+    "door lever handle",
+    "flat square door push handles"
+   ],
+   "relatedness": [
+    "close",
+    "related",
+    "related",
+    "related",
+    "close",
+    "related"
+   ]
+  }
+ }
+}

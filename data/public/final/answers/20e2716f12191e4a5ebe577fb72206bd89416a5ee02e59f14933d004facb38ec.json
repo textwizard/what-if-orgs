@@ -1,0 +1,1 @@
+{"model": "deepseek-v4-pro", "effort": "medium", "answer": {"decisions": [{"product": "A", "probability_dropped": 10, "decision": "keep", "reason": "Because Product A is close to the firm's established vessel-management knowledge and is a strategic focus, the firm can interpret early results and learn from them, making a drop unlikely."}]}}

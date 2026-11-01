@@ -1,0 +1,1 @@
+{"model": "gpt-5.4-mini", "effort": "medium", "answer": {"products": [{"label": "A", "relatedness": "related", "reason": "The firm already offered spacecraft LiDAR rendezvous and docking sensors, so a LiDAR sensor with 3D pose estimation builds on the same sensing technology and navigation use case, though with a broader pose-estimation function."}]}}

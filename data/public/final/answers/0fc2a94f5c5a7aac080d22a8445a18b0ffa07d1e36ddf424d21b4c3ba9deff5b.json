@@ -1,0 +1,1 @@
+{"model": "deepseek-v4-pro", "effort": "medium", "answer": {"decisions": [{"product": "A", "probability_dropped": 10, "decision": "keep", "reason": "The product is only one year old with highly uncertain prospects and low keeping costs relative to a large firm's resources, so there is no evidence yet that its value is unlikely and the option should be kept open."}]}}

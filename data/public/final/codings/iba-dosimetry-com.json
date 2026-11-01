@@ -1,0 +1,2155 @@
+{
+ "slug": "iba-dosimetry-com",
+ "profiles": {
+  "exploration": {
+   "strategy": {
+    "offer": "Integrated quality assurance, calibration, measurement devices, software, markers, training, and support services for radiation therapy and medical imaging.",
+    "customers": "Healthcare professionals and clinical departments using radiation in therapy or imaging who need safe, efficient, compliant operations.",
+    "why_we_win": "It argues connected, intuitive workflows, precise reliable measurements, and strong post-sale support reduce errors, downtime, and compliance burden while improving patient safety.",
+    "resources": "It cites decades of dosimetry experience, accredited calibration capabilities, certified physicists and engineers, training programs, and worldwide service teams with round-the-clock support.",
+    "direction": "Toward a unified, cloud-enabled QA platform connecting applications, users, devices, and data for broader visibility, benchmarking, and workflow control."
+   },
+   "context": {
+    "size": null,
+    "founded": null,
+    "industry": "Manufacture of computer, electronic and optical products"
+   },
+   "seed_year": 2017
+  },
+  "holdout": {
+   "strategy": {
+    "offer": "Independent quality assurance software, instruments, calibration, and support services for radiation therapy, proton therapy, and medical imaging.",
+    "customers": "Medical physicists and healthcare providers that need dependable quality control, commissioning, verification, and ongoing equipment support in radiation-based care.",
+    "why_we_win": "It combines independent, precise, integrated QA with flexible workflows, automation, predictive analysis, and always-available expert service to improve efficiency and patient safety.",
+    "resources": "Decades of scientific dosimetry experience, clinically trained physicists and engineers, a global support organization, software integration capabilities, and accredited calibration laboratory services.",
+    "direction": "Advance independent QA through convergence of machine and patient QA, driven by measurement, integration, automation, and prediction."
+   },
+   "context": {
+    "size": null,
+    "founded": null,
+    "industry": "Manufacture of computer, electronic and optical products"
+   },
+   "seed_year": 2022
+  }
+ },
+ "years": [
+  {
+   "year": 2017,
+   "codeable": true,
+   "products": [
+    {
+     "name": "Dolphin",
+     "generic": "online transmission detector for radiotherapy QA",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": true
+    },
+    {
+     "name": "myQA",
+     "generic": "integrated software platform for radiotherapy quality assurance",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": true
+    },
+    {
+     "name": "myQA Accept",
+     "generic": "beam scanning and commissioning software",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "myQA Cloud",
+     "generic": "cloud service for benchmarking QA data",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "myQA Cockpit",
+     "generic": "browser-based QA status dashboard",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "myQA Machines",
+     "generic": "protocol-based linac machine QA software",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "myQA Patients",
+     "generic": "software for gamma verification of dose distributions",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "myQA Coverage",
+     "generic": "service and software update contract package",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "CAREprogram",
+     "generic": "customer care program with training and services",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": true
+    },
+    {
+     "name": "Blue Phantom²",
+     "generic": "3D water phantom for beam scanning",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Blue Phantom COMPACT",
+     "generic": "two-dimensional radiation field analyzer",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Blue Phantom Helix",
+     "generic": "water phantom for helical tomotherapy dosimetry",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "RAZOR Nano Chamber",
+     "generic": "small-field ionization chamber",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "VISICOIL",
+     "generic": "flexible linear fiducial marker for radiotherapy",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "MagicMaX",
+     "generic": "x-ray multimeter for imaging beam verification",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "MagicMaX Current Probe",
+     "generic": "x-ray tube current measurement probe",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Ionization Chamber DCT10-RS Lemo",
+     "generic": "CT ionization chamber for DLP measurements",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "LXcan / LXchroma",
+     "generic": "spot luminance meter for x-ray QA",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Illuminance-Detector-LX-LS",
+     "generic": "ambient light detector for display QA",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "KermaX plus TinO",
+     "generic": "dose-area-product meter and real-time dosimeter",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "IQ Analyzer Primus",
+     "generic": "automatic image quality analysis software",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "DisplayQ Expert Smart PDF",
+     "generic": "PDF test report for medical display testing",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "DisplayQ Expert DICOM Curve",
+     "generic": "software for display luminance curve measurement",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "DisplayQ Daily",
+     "generic": "daily constancy test software for displays",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "IBA rad/flu 150",
+     "generic": "acceptance test kit for radiography systems",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Test Phantom Primus A",
+     "generic": "x-ray image quality test phantom",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Primus L Test phantom",
+     "generic": "x-ray constancy test phantom",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "StarTrack",
+     "generic": "detector array for linac QA",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "MatriXX",
+     "generic": "2D ionization chamber array detector",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    }
+   ],
+   "evidence": [
+    {
+     "product": "myQA",
+     "type": "result",
+     "strength": 3,
+     "quote": "myQA® has been selected by 1,000 customers around the world as their trusted global QA platform to integrate quality assurance applications, people, and know-how."
+    },
+    {
+     "product": "RAZOR Nano Chamber",
+     "type": "launch",
+     "strength": 3,
+     "quote": "IBA releases the world’s smallest ionization chamber – The RAZOR Nano Chamber enables more precise stereotactic beam scanning"
+    },
+    {
+     "product": "Blue Phantom²",
+     "type": "result",
+     "strength": 3,
+     "quote": "the first Varian Halcyon™ machine in Europe to go clinical, at the hospital UZ Leuven in Belgium, using IBA Dosimetry’s Blue Phantom water phantom system"
+    },
+    {
+     "product": "Dolphin",
+     "type": "result",
+     "strength": 3,
+     "quote": "High-end QA equipment, including Dolphin® transmission detector, position Puebla hospital as a leading healthcare center in Latin America"
+    },
+    {
+     "product": "myQA",
+     "type": "launch",
+     "strength": 3,
+     "quote": "The newest release of myQA, enables users to integrate IBA’s Dolphin Transmission Detector measurements into their linac machine QA dosimetry tests."
+    }
+   ],
+   "success": []
+  },
+  {
+   "year": 2018,
+   "codeable": true,
+   "products": [
+    {
+     "name": "myQA",
+     "generic": "integrated quality assurance software platform",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": true
+    },
+    {
+     "name": "myQA Daily",
+     "generic": "daily linac morning QA device",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": true
+    },
+    {
+     "name": "SMARTSCAN",
+     "generic": "automated beam scanning workflow solution",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": true
+    },
+    {
+     "name": "SciMoCa",
+     "generic": "Monte Carlo secondary dose check software",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": true
+    },
+    {
+     "name": "VISICOIL",
+     "generic": "flexible linear fiducial marker for radiotherapy",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "VISICOIL MR",
+     "generic": "MR-compatible linear fiducial marker",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "VISICOIL TwinLine MR",
+     "generic": "fiducial marker for robotic radiosurgery",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Blue Phantom 2",
+     "generic": "3D water phantom for beam scanning",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Blue Phantom COMPACT",
+     "generic": "compact 2D radiation field analyzer",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Blue Phantom Helix",
+     "generic": "3D water phantom for tomotherapy",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Blue Phantom PT",
+     "generic": "water phantom for particle therapy scanning",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "myQA Accept",
+     "generic": "beam scanning and analysis software",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "COMPASS",
+     "generic": "patient dose plan verification system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "CC04 Ionization Chamber",
+     "generic": "small volume ionization chamber",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "CC08 Ionization chamber",
+     "generic": "small volume ionization chamber",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "CC13 Ionization Chamber",
+     "generic": "standard clinical ionization chamber",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "CC13-S Ionization Chamber",
+     "generic": "ionization chamber for relative dosimetry",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "CC25 Ionization Chamber",
+     "generic": "small volume ionization chamber",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "MagicMaX rad/flu/dent",
+     "generic": "x-ray imaging beam quality multimeter",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "MagicMaX Current Probe",
+     "generic": "x-ray tube current measurement probe",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "IQ Analyzer Primus",
+     "generic": "automatic digital image quality analysis software",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "DisplayQ Expert Smart PDF",
+     "generic": "PDF test report for display testing",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "DisplayQ Expert DICOM Curve",
+     "generic": "display luminance curve measurement software",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Illuminance-Detector-LX-LS",
+     "generic": "ambient light detector for displays",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "myQA Coverage",
+     "generic": "software and equipment service contract package",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Dolphin",
+     "generic": "transmission detector for patient QA",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "MatriXX",
+     "generic": "universal 2D detector array",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "RAZOR Chamber",
+     "generic": "small field ionization chamber",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Stealth Chamber",
+     "generic": "transmission reference chamber for beam scanning",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "StingRay",
+     "generic": "large area chamber for proton beams",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    }
+   ],
+   "evidence": [
+    {
+     "product": "myQA",
+     "type": "result",
+     "strength": 3,
+     "quote": "Over 1,000 healthcare centers in the world trust myQA as their global QA Platform."
+    },
+    {
+     "product": "VISICOIL",
+     "type": "result",
+     "strength": 3,
+     "quote": "VISICOIL fiducial markers are widely used in radiation therapy and IGRT. Over 10,000 patients annually benefit from higher targeting accuracy."
+    },
+    {
+     "product": "Blue Phantom PT",
+     "type": "launch",
+     "strength": 3,
+     "quote": "*Not for sale in the US; to be released in Q1/2019"
+    }
+   ],
+   "success": []
+  },
+  {
+   "year": 2019,
+   "codeable": true,
+   "products": [
+    {
+     "name": "myQA Daily",
+     "generic": "a daily linac quality assurance device and software",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": true
+    },
+    {
+     "name": "SMARTSCAN",
+     "generic": "a beam scanning system for radiotherapy commissioning",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": true
+    },
+    {
+     "name": "myQA iON",
+     "generic": "patient QA software for proton therapy",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": true
+    },
+    {
+     "name": "SciMoCa",
+     "generic": "Monte Carlo secondary dose check software",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": true
+    },
+    {
+     "name": "myQA",
+     "generic": "an integrated quality assurance software platform",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": true
+    },
+    {
+     "name": "myQA Cloud",
+     "generic": "cloud-based QA data benchmarking service",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "myQA Cockpit",
+     "generic": "browser-based QA status overview dashboard",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "myQA Machines",
+     "generic": "protocol-based radiotherapy machine QA software",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "myQA Patients",
+     "generic": "patient-specific radiotherapy QA software",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "myQA HALO Package",
+     "generic": "commissioning and beam data collection package",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "VISICOIL TwinLine MR",
+     "generic": "an MR-compatible fiducial marker for radiosurgery",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "VISICOIL",
+     "generic": "fiducial markers for image-guided radiotherapy",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "EFD 3G-pSi electron diode field detector",
+     "generic": "a silicon diode detector for electron beams",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "PFD 3G-pSi Photon diode field detector",
+     "generic": "a silicon diode detector for photon beams",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "RFD 3G-pSi diode reference detector",
+     "generic": "a silicon diode reference detector",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "NACP Plane Parallel Chamber",
+     "generic": "a plane parallel ionization chamber",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "DisplayQ Expert DICOM Curve",
+     "generic": "software for display luminance curve measurement",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "DisplayQ Expert Smart PDF",
+     "generic": "PDF test report for display testing",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "IQ Analyzer Primus",
+     "generic": "software for automatic image quality analysis",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Illuminance-Detector-LX-LS",
+     "generic": "an ambient light detector for displays",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "MagicMaX rad/flu/dent",
+     "generic": "an x-ray beam quality assurance multimeter",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "MagicMaX Current Probe",
+     "generic": "an x-ray tube current measurement probe",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "RAZOR Nano Chamber",
+     "generic": "a small-field ionization chamber",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Stealth Chamber",
+     "generic": "a beam-transparent reference signal chamber",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "MatriXX",
+     "generic": "a two-dimensional radiation detector array",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "MULTICube Phantom",
+     "generic": "a phantom for IMRT patient QA",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "MiniPhantom",
+     "generic": "a compact phantom for 2D patient QA",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Blue Phantom 2",
+     "generic": "a water phantom beam scanning system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Dolphin",
+     "generic": "a transmission detector for patient QA",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "COMPASS",
+     "generic": "a patient dose verification software system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    }
+   ],
+   "evidence": [
+    {
+     "product": "myQA Daily",
+     "type": "launch",
+     "strength": 3,
+     "quote": "If the morning makes the day, the new myQA Daily solution will boost your day-to-day #RadiationTherapy morning machine QA!"
+    }
+   ],
+   "success": []
+  },
+  {
+   "year": 2022,
+   "codeable": true,
+   "products": [
+    {
+     "name": "myQA SRS",
+     "generic": "high-resolution patient QA detector for stereotactic radiotherapy",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": true
+    },
+    {
+     "name": "myQA",
+     "generic": "integrated quality assurance software platform for radiotherapy",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": true
+    },
+    {
+     "name": "myQA Accept",
+     "generic": "beam scanning and commissioning software",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "myQA iON",
+     "generic": "patient QA software for proton therapy",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": true
+    },
+    {
+     "name": "Sphinx Compact",
+     "generic": "daily QA device for pencil beam scanning",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "EFD 3G-pSi",
+     "generic": "electron diode field detector",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "PFD 3G-pSi",
+     "generic": "photon diode field detector",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "IQ Analyzer Primus",
+     "generic": "software for automatic digital image quality analysis",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "MagicMaX rad/flu/dent",
+     "generic": "x-ray beam verification multimeter",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "MagicMaX Current Probe",
+     "generic": "x-ray tube current measurement probe",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "MagicMaX Universal",
+     "generic": "multimeter for beam QA of x-ray modalities",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "myQA HALO Package",
+     "generic": "commissioning and beam data collection package",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "RAZOR Nano Chamber",
+     "generic": "small ionization chamber for small field dosimetry",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Stealth Chamber",
+     "generic": "reference signal chamber for relative dosimetry",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Blue Phantom²",
+     "generic": "water phantom for radiotherapy beam scanning",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "DigiPhant PT",
+     "generic": "water phantom with detector array for proton QA",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Dolphin",
+     "generic": "transmission detector for patient QA",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Dose 2",
+     "generic": "portable dual-channel reference electrometer",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "DVT-3D",
+     "generic": "test device for 3D image quality",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "LDA-99SC",
+     "generic": "one-dimensional diode multi-detector array",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "MatriXX Resolution",
+     "generic": "ionization chamber array for patient QA",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "miniPhantom",
+     "generic": "solid phantom for treatment plan verification",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "miniPhantom R",
+     "generic": "elliptical solid phantom for patient QA",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "myQA Cockpit",
+     "generic": "browser-based QA data overview application",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "myQA Daily",
+     "generic": "daily linac QA device and software",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "SMARTSCAN",
+     "generic": "automated water phantom system for beam commissioning",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": true
+    },
+    {
+     "name": "myQA Coverage",
+     "generic": "software support and update package",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "KermaX plus",
+     "generic": "dose area product meter",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    }
+   ],
+   "evidence": [
+    {
+     "product": "MatriXX Resolution",
+     "type": "launch",
+     "strength": 2,
+     "quote": "NEW - The next generation MatriXX detector offering unrivaled resolution and workflow efficiency."
+    },
+    {
+     "product": "SMARTSCAN",
+     "type": "launch",
+     "strength": 2,
+     "quote": "SMARTSCAN is the new, premium water phantom solution from IBA Dosimetry."
+    },
+    {
+     "product": "myQA Daily",
+     "type": "launch",
+     "strength": 1,
+     "quote": "The newest solution for daily QA"
+    },
+    {
+     "product": "myQA Daily",
+     "type": "result",
+     "strength": 2,
+     "quote": "\"myQA Daily has really simplified our linac morning QA process and workflow, and we are now able to save QA time every day compared to our previous solution”"
+    },
+    {
+     "product": "Dolphin",
+     "type": "result",
+     "strength": 2,
+     "quote": "See how Dolphin setup is completed in one minute by the hospital staff at the Klinikum Bayreuth, Germany."
+    }
+   ],
+   "success": []
+  },
+  {
+   "year": 2023,
+   "codeable": true,
+   "products": [
+    {
+     "name": "myQA SRS",
+     "generic": "patient QA detector for stereotactic radiotherapy",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": true
+    },
+    {
+     "name": "DOSE-X",
+     "generic": "portable single-channel reference class electrometer",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": true
+    },
+    {
+     "name": "myQA iON",
+     "generic": "patient QA software for proton therapy",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": true
+    },
+    {
+     "name": "myQA",
+     "generic": "integrated quality assurance software platform",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": true
+    },
+    {
+     "name": "MatriXX Resolution",
+     "generic": "ionization chamber array for patient QA",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": true
+    },
+    {
+     "name": "myQA PROactive",
+     "generic": "prospective risk management software for radiation oncology",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "WP1D",
+     "generic": "one-dimensional water phantom for reference dosimetry",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Sphinx Compact",
+     "generic": "daily QA device for pencil beam scanning",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "EFD 3G-pSi",
+     "generic": "electron diode field detector",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "PFD 3G-pSi",
+     "generic": "photon diode field detector",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "IQ Analyzer Primus",
+     "generic": "image analysis software for digital imaging QA",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "MagicMaX rad/flu/dent",
+     "generic": "x-ray beam verification multimeter",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "myQA HALO Package",
+     "generic": "commissioning and beam data collection package",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "RAZOR Nano Chamber",
+     "generic": "small ionization chamber for small field dosimetry",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Stealth Chamber",
+     "generic": "transmission reference signal chamber",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Blue Phantom COMPACT",
+     "generic": "compact two-dimensional water phantom",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Blue Phantom Helix",
+     "generic": "3D water phantom for helical therapy systems",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Blue Phantom PT",
+     "generic": "water phantom for proton pencil beam scanning",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "CC04",
+     "generic": "small volume ionization chamber",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "CC13",
+     "generic": "standard thimble ionization chamber",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "CC25",
+     "generic": "thimble ionization chamber",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "DigiPhant PT",
+     "generic": "water phantom with detector array for proton QA",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Dolphin",
+     "generic": "transmission detector for patient QA monitoring",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "DOSE 1",
+     "generic": "single-channel reference class electrometer",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Dose 2",
+     "generic": "dual-channel reference class electrometer",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "FC65-G / FC65-P",
+     "generic": "Farmer type ionization chambers",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Giraffe",
+     "generic": "multi-layer ionization chamber for Bragg peak measurement",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Beam Data Verification Audit",
+     "generic": "Monte Carlo based beam data audit service",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "myQA Accept",
+     "generic": "water phantom scanning and analysis software",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Illuminance-Detector-LX-LS",
+     "generic": "ambient light detector for display QA",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    }
+   ],
+   "evidence": [
+    {
+     "product": "Blue Phantom PT",
+     "type": "launch",
+     "strength": 2,
+     "quote": "Our newest solution for depth dose measurements, the Blue Phantom PT, is specifically designed for Proton Therapy (PT) Pencil Beam Scanning (PBS)."
+    },
+    {
+     "product": "Beam Data Verification Audit",
+     "type": "launch",
+     "strength": 2,
+     "quote": "IBA Dosimetry now offers a unique and independent audit as a service to verify the accuracy of your beam data."
+    },
+    {
+     "product": "Dolphin",
+     "type": "result",
+     "strength": 2,
+     "quote": "See how Dolphin setup is completed in one minute by the hospital staff at the Klinikum Bayreuth, Germany."
+    }
+   ],
+   "success": []
+  },
+  {
+   "year": 2024,
+   "codeable": true,
+   "products": [
+    {
+     "name": "myQA",
+     "generic": "an integrated software platform for radiotherapy QA",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": true
+    },
+    {
+     "name": "myQA SRS",
+     "generic": "a high-resolution detector for stereotactic patient QA",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": true
+    },
+    {
+     "name": "DOSE-X",
+     "generic": "a portable reference class electrometer",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": true
+    },
+    {
+     "name": "myQA iON",
+     "generic": "patient QA software for proton therapy",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": true
+    },
+    {
+     "name": "Blue Phantom²",
+     "generic": "a water phantom for radiotherapy beam scanning",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Blue Phantom PT",
+     "generic": "a water phantom for proton pencil beam scanning",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "myQA Accept",
+     "generic": "beam scanning software for water phantoms",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "COMPASS",
+     "generic": "a patient dose plan verification system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "CT-IQ",
+     "generic": "a CT image quality test phantom",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "DigiPhant PT",
+     "generic": "a water phantom with detector array for proton patient QA",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Dolphin",
+     "generic": "a transmission detector for patient QA",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "DVT-3D",
+     "generic": "a test device for 3D image quality",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "FC23-C",
+     "generic": "a Farmer-type ionization chamber",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "MAM accreditation FF phantom",
+     "generic": "a full field mammography test phantom",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Illuminance-Detector-LX-LS",
+     "generic": "an illuminance meter for display QA",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "DCT10",
+     "generic": "an ionization chamber for CT dose measurement",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Lynx PT",
+     "generic": "a scintillator detector for proton machine QA",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Sphinx",
+     "generic": "a phantom for daily proton range QA",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "MatriXX Resolution",
+     "generic": "an ionization chamber detector array",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "MatriXX ONE",
+     "generic": "an ionization chamber detector array",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "MatriXX PT",
+     "generic": "an ionization chamber array for proton therapy",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "myQA Daily",
+     "generic": "a daily linac QA detector and software",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "myQA Machines",
+     "generic": "machine QA software with test plug-ins",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "myQA Patients",
+     "generic": "patient QA software for plan verification",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "myQA Cockpit",
+     "generic": "a QA data overview dashboard",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Stingray",
+     "generic": "a large ionization chamber for Bragg peak measurement",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "MagicMaX",
+     "generic": "a multimeter for diagnostic radiology QA",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "RAZOR Chamber",
+     "generic": "a small-volume ionization chamber",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "LXcan",
+     "generic": "a display QA measurement device",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "KermaX plus TinO",
+     "generic": "a patient dose area product meter",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    }
+   ],
+   "evidence": [
+    {
+     "product": "MatriXX Resolution",
+     "type": "launch",
+     "strength": 2,
+     "quote": "NEW - The next generation MatriXX detector offering unrivaled resolution and workflow efficiency."
+    },
+    {
+     "product": "Blue Phantom PT",
+     "type": "launch",
+     "strength": 2,
+     "quote": "Our newest solution for depth dose measurements, the Blue Phantom PT, is specifically designed for Proton Therapy (PT) Pencil Beam Scanning (PBS)."
+    },
+    {
+     "product": "myQA Daily",
+     "type": "launch",
+     "strength": 1,
+     "quote": "The newest solution for daily QA"
+    },
+    {
+     "product": "myQA Daily",
+     "type": "result",
+     "strength": 2,
+     "quote": "\"myQA Daily has really simplified our linac morning QA process and workflow, and we are now able to save QA time every day compared to our previous solution”"
+    },
+    {
+     "product": "myQA SRS",
+     "type": "launch",
+     "strength": 2,
+     "quote": "myQA SRS now also available for use with CyberKnife®"
+    },
+    {
+     "product": "myQA SRS",
+     "type": "launch",
+     "strength": 1,
+     "quote": "The new myQA SRS solution uniquely combines:"
+    },
+    {
+     "product": "myQA Patients",
+     "type": "launch",
+     "strength": 2,
+     "quote": "New: support of SRS and SBRT Patient QA with the myQA SRS film-class detector"
+    },
+    {
+     "product": "MatriXX Resolution",
+     "type": "launch",
+     "strength": 2,
+     "quote": "Now fully compatible with your Varian Halcyon® and Ethos™ treatment machines"
+    },
+    {
+     "product": "Blue Phantom²",
+     "type": "result",
+     "strength": 2,
+     "quote": "providing high quality dosimetry equipment and services to more than 4,000 satisfied water phantom users worldwide."
+    }
+   ],
+   "success": []
+  },
+  {
+   "year": 2025,
+   "codeable": true,
+   "products": [
+    {
+     "name": "QUASAR® GRID3D Advantage",
+     "generic": "MR image distortion analysis QA system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": true
+    },
+    {
+     "name": "myQA® PROactive",
+     "generic": "risk management software for radiation oncology",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "WP1D",
+     "generic": "water phantom for reference dosimetry",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Sphinx Compact",
+     "generic": "daily QA device for proton pencil beams",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "EFD 3G-pSi",
+     "generic": "electron diode field detector",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "PFD 3G-pSi",
+     "generic": "photon diode field detector",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "MagicMaX Current Probe",
+     "generic": "x-ray tube current measurement probe",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "MagicMaX rad/flu/dent",
+     "generic": "x-ray imaging beam QA multimeter",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "myQA HALO Package",
+     "generic": "commissioning and beam data collection package",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "RAZOR Nano Chamber",
+     "generic": "small-field ionization chamber",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Stealth Chamber",
+     "generic": "transmission reference ionization chamber",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Beam Data Verification Audit",
+     "generic": "independent Monte Carlo beam data audit service",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Blue Phantom²",
+     "generic": "water phantom for radiotherapy beam scanning",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Blue Phantom PT",
+     "generic": "water phantom for proton therapy commissioning",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "CC04",
+     "generic": "small-volume ionization chamber",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "CC08",
+     "generic": "small-volume ionization chamber",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "CC13",
+     "generic": "standard ionization chamber for water phantoms",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "COMPASS",
+     "generic": "patient dose QA plan verification software",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "DigiPhant PT",
+     "generic": "water phantom with chamber array for patient QA",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "FC23-C",
+     "generic": "Farmer-type ionization chamber",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Giraffe",
+     "generic": "multi-layer ionization chamber for Bragg peak measurement",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "IBA MAM Accreditation FF Phantom",
+     "generic": "mammography image quality phantom",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Illuminance-Detector-LX-LS",
+     "generic": "ambient illuminance detector for display QA",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "LXcan",
+     "generic": "spot luminance meter for display QA",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "MatriXX Resolution",
+     "generic": "ionization chamber detector array for patient QA",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "MTK Messtechnische Kontrolle",
+     "generic": "metrological inspection service for therapy dosimeters",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "myQA Accept",
+     "generic": "beam scanning and commissioning software",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "myQA Cockpit",
+     "generic": "browser-based QA data overview software",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "DOSE-X",
+     "generic": "dosimetry electrometer device",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "KermaX® plus TinO",
+     "generic": "patient dose area product meter",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    }
+   ],
+   "evidence": [
+    {
+     "product": "MatriXX Resolution",
+     "type": "launch",
+     "strength": 1,
+     "quote": "NEW - The next generation MatriXX detector offering unrivaled resolution and workflow efficiency."
+    }
+   ],
+   "success": []
+  },
+  {
+   "year": 2026,
+   "codeable": true,
+   "products": [
+    {
+     "name": "myQA",
+     "generic": "radiation therapy machine and patient QA tools",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": true
+    },
+    {
+     "name": "QUASAR",
+     "generic": "phantoms for radiotherapy quality assurance",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": true
+    },
+    {
+     "name": "Radcal",
+     "generic": "medical imaging quality assurance instruments",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": true
+    },
+    {
+     "name": "PhantomX",
+     "generic": "realistic phantoms for imaging and AI testing",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": true
+    },
+    {
+     "name": "QUASAR Penta-Guide Performance Phantom",
+     "generic": "imaging and machine QA phantom",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "myQA Blue Phantom³",
+     "generic": "water phantom for linac dosimetry",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "QUASAR MRI4D Motion Phantom",
+     "generic": "MR-safe programmable motion phantom",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "QUASAR Penta-Guide Tilt Plate",
+     "generic": "couch adjustment verification plate",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "QUASAR MRgRT Insight Phantom",
+     "generic": "QA phantom for MR-guided radiotherapy systems",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Accu-Gold T3",
+     "generic": "X-ray QA measurement system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "EFD 3G-pSi electron diode field detector",
+     "generic": "electron diode field detector",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "QA plus",
+     "generic": "calibration service for QA equipment",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Beam Data Verification Audit with Monte Carlo",
+     "generic": "independent beam data audit service",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "CC13 Ionization Chamber",
+     "generic": "compact cylindrical ionization chamber",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "DigiPhant PT",
+     "generic": "water phantom with detector array for proton QA",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "DOSE-X",
+     "generic": "reference class electrometer",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Giraffe",
+     "generic": "multi-layer ionization chamber for Bragg peaks",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "MatriXX PT/ONE",
+     "generic": "ionization chamber detector array for proton QA",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "myQA Cockpit",
+     "generic": "browser-based QA data overview software",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "myQA iON",
+     "generic": "patient QA software with Monte Carlo dose",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "myQA MatriXX AiR",
+     "generic": "wireless ion chamber detector array",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "myQA Patients",
+     "generic": "patient QA gamma verification software",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "myQA Phoenix",
+     "generic": "high-resolution digital detector array for proton commissioning",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "myQA PROactive",
+     "generic": "risk management software for radiation oncology",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "myQA SRS for CyberKnife",
+     "generic": "film-class digital detector for stereotactic QA",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "QUASAR GRID3D Advantage",
+     "generic": "MR image distortion analysis phantom system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Gold Standard Ion Chamber",
+     "generic": "ion chamber for X-ray dose measurement",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    }
+   ],
+   "evidence": [
+    {
+     "product": "QUASAR Penta-Guide Performance Phantom",
+     "type": "launch",
+     "strength": 2,
+     "quote": "IBA Launches QUASAR® Penta-Guide Performance Phantom"
+    },
+    {
+     "product": "QUASAR GRID3D Advantage",
+     "type": "launch",
+     "strength": 2,
+     "quote": "IBA launches QUASAR® GRID3D Advantage Image Distortion Analysis System"
+    }
+   ],
+   "success": []
+  }
+ ]
+}

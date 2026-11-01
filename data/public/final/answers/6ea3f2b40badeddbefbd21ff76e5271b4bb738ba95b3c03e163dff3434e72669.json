@@ -1,0 +1,1 @@
+{"model": "deepseek-v4-pro", "effort": "medium", "answer": {"decisions": [{"product": "A", "probability_dropped": 10, "decision": "keep", "reason": "After only one year, uncertainty about the SMS API's value is still high and keeping costs are low relative to the firm's resources, so the option should be kept open."}]}}

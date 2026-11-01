@@ -1,0 +1,93 @@
+{
+ "slug": "schoepe-display-com",
+ "windows": {
+  "exploration": {
+   "years": [
+    2017
+   ],
+   "industry": {
+    "turnover": "stayed about level",
+    "rd": "about as",
+    "patents": "more",
+    "universities": "less"
+   },
+   "employees": 300,
+   "hiring": false,
+   "hiring_quote": null,
+   "expansion": false,
+   "expansion_quote": null,
+   "investment": false,
+   "investment_quote": null,
+   "growth": false,
+   "growth_quote": null,
+   "difficulty": false,
+   "difficulty_quote": null,
+   "rd": true,
+   "rd_quote": "Selbststehende Standfigur - Schoepe Display GmbH\nEuropäisches Patent 2 514 342 - Deutsches Gebrauchsmuster 202011000043.5",
+   "cooperation": false,
+   "cooperation_quote": null,
+   "eu_projects": 0,
+   "products_offered": 2,
+   "new": [
+    "adjustable cardboard shelf display quarter pallet",
+    "cardboard shelf display with pegboard back",
+    "cardboard shelf display quarter pallet",
+    "cardboard shelf display eighth pallet",
+    "a wooden display pallet",
+    "cardboard quarter-pallet display for media products"
+   ],
+   "relatedness": [
+    "close",
+    "close",
+    "close",
+    "close",
+    "related",
+    "close"
+   ]
+  },
+  "holdout": {
+   "years": [
+    2022
+   ],
+   "industry": {
+    "turnover": "grew",
+    "rd": "about as",
+    "patents": "more",
+    "universities": "less"
+   },
+   "employees": 200,
+   "hiring": true,
+   "hiring_quote": "Wir suchen Auszubildende für 2022!",
+   "expansion": false,
+   "expansion_quote": null,
+   "investment": true,
+   "investment_quote": "Der Austausch von Druckdaten findet ab sofort ausschließlich über E-Mail oder unser neues Datenaustauschportal statt.",
+   "growth": false,
+   "growth_quote": null,
+   "difficulty": false,
+   "difficulty_quote": null,
+   "rd": true,
+   "rd_quote": "Unsere 3D-Standfigur ist wirklich etwas ganz Besonderes! Deshalb haben wir darauf auch ein europäisches Patent angemeldet und es als deutsches Gebrauchsmuster schützen lassen.",
+   "cooperation": false,
+   "cooperation_quote": null,
+   "eu_projects": 0,
+   "products_offered": 2,
+   "new": [
+    "cardboard stacking tray for pallet display",
+    "Online customer portal",
+    "Cardboard packaging display solution",
+    "a quarter-pallet cardboard pegboard display",
+    "a small cardboard counter display",
+    "a large freestanding cardboard information display"
+   ],
+   "relatedness": [
+    "related",
+    "distant",
+    "related",
+    "close",
+    "close",
+    "close"
+   ]
+  }
+ }
+}

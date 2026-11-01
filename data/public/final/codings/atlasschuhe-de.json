@@ -1,0 +1,1795 @@
+{
+ "slug": "atlasschuhe-de",
+ "profiles": {
+  "exploration": {
+   "strategy": {
+    "offer": "Safety and occupational footwear, plus accessories, product technologies, and digital fitting support for workplace use.",
+    "customers": "Workers, employers, and trade channels across industrial sectors needing protective shoes for varied jobs and environments.",
+    "why_we_win": "It expects to win by pairing protection with strong fit, comfort, climate, and modern design, while continuously introducing new technologies and services.",
+    "resources": "Footwear specialization, product development, materials know-how, digital service tools, advanced prototyping, and an engaged team supporting innovation.",
+    "direction": "To shape future workplace footwear through ongoing innovation and broaden recognition and reach in domestic and international markets."
+   },
+   "context": {
+    "size": null,
+    "founded": null,
+    "industry": "Manufacture of leather and related products"
+   },
+   "seed_year": 2017
+  },
+  "holdout": {
+   "strategy": {
+    "offer": "Manufactures protective footwear, complemented by workwear, accessories, foot-measurement tools, product information, and training services.",
+    "customers": "Serves industrial employers, workers needing reliable protection, and specialist retail partners.",
+    "why_we_win": "Expects to succeed through high quality, continuous innovation, tailored solutions, and unusually flexible production and logistics enabling fast, dependable delivery.",
+    "resources": "Built on experienced specialists, end-to-end in-house manufacturing, selected materials, product development, advanced production technology, large inventory, and responsive sales and service networks.",
+    "direction": "Aims to keep advancing responsible, sustainable operations while developing tomorrow’s footwear innovations for evolving workplace needs."
+   },
+   "context": {
+    "size": "large",
+    "founded": 1910,
+    "industry": "Manufacture of leather and related products"
+   },
+   "seed_year": 2022
+  }
+ },
+ "years": [
+  {
+   "year": 2017,
+   "codeable": true,
+   "products": [
+    {
+     "name": "Flash 4000",
+     "generic": "ESD safety shoe",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": true
+    },
+    {
+     "name": "Flash 1000",
+     "generic": "safety shoe",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": true
+    },
+    {
+     "name": "Flash 2000",
+     "generic": "safety shoe",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": true
+    },
+    {
+     "name": "Flash 2600",
+     "generic": "safety shoe",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": true
+    },
+    {
+     "name": "Alu-tec",
+     "generic": "safety shoe series with aluminium toe cap",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "ANATOMIC BAU",
+     "generic": "safety boot series for construction work",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "CF FUTURELINE",
+     "generic": "safety shoe series",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "DUOSOFT",
+     "generic": "safety shoe series",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "ERGO-MED",
+     "generic": "orthopaedic safety shoe series",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "SportLine",
+     "generic": "sporty safety shoe series",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "TX 2.0",
+     "generic": "safety shoe series",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "XP",
+     "generic": "puncture-resistant safety shoe series",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Office Collection",
+     "generic": "safety shoes for office wear",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Clean & white",
+     "generic": "white work shoes for hygiene areas",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Snow & Rain",
+     "generic": "weatherproof safety shoes",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "BIG SIZE",
+     "generic": "safety shoes in large sizes",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Scan your feet",
+     "generic": "foot scanning app for retailers",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    }
+   ],
+   "evidence": [
+    {
+     "product": "Flash 4000",
+     "type": "launch",
+     "strength": 3,
+     "quote": "Zur Messe haben wir exklusiv die neuen Produkt-Highlights Flash 1000, Flash 2000, Flash 2600 und Flash 4000 vorgestellt"
+    },
+    {
+     "product": "Flash 1000",
+     "type": "launch",
+     "strength": 3,
+     "quote": "Zur Messe haben wir exklusiv die neuen Produkt-Highlights Flash 1000, Flash 2000, Flash 2600 und Flash 4000 vorgestellt"
+    },
+    {
+     "product": "Flash 2000",
+     "type": "launch",
+     "strength": 3,
+     "quote": "Zur Messe haben wir exklusiv die neuen Produkt-Highlights Flash 1000, Flash 2000, Flash 2600 und Flash 4000 vorgestellt"
+    },
+    {
+     "product": "Flash 2600",
+     "type": "launch",
+     "strength": 3,
+     "quote": "Zur Messe haben wir exklusiv die neuen Produkt-Highlights Flash 1000, Flash 2000, Flash 2600 und Flash 4000 vorgestellt"
+    },
+    {
+     "product": "Scan your feet",
+     "type": "result",
+     "strength": 2,
+     "quote": "Entsprechend wurde ATLAS® vor allem für den innovativen Fachhandelservice mit der App „Scan your feet“ sowie den fortschrittlichen Einsatz von 3D-Druckern in der Entwicklung geehrt."
+    }
+   ],
+   "success": []
+  },
+  {
+   "year": 2018,
+   "codeable": true,
+   "products": [
+    {
+     "name": "Flash",
+     "generic": "a series of ESD safety shoes",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": true
+    },
+    {
+     "name": "SPORTLINE 3.0",
+     "generic": "a series of sporty safety shoes",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "TX 2.0",
+     "generic": "a series of safety shoes and boots",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "alu-tec",
+     "generic": "safety shoes with aluminium toe caps",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "ANATOMIC BAU",
+     "generic": "a series of construction safety boots",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "DUOSOFT",
+     "generic": "safety shoes with heat-resistant sole technology",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "ERGO-MED",
+     "generic": "ergonomic insoles and special-width safety shoes",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "clean & white",
+     "generic": "white safety shoes for hygiene areas",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "snow & rain",
+     "generic": "a series of winter and wet-weather safety boots",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "City Style",
+     "generic": "a series of stylish safety shoes",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Sneaker Line",
+     "generic": "a series of sneaker-style safety shoes",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "CF FUTURELINE",
+     "generic": "a series of safety shoes",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "CX Office Collection",
+     "generic": "a series of office-style safety shoes",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "BIG SIZE",
+     "generic": "safety shoes in large sizes",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "XP",
+     "generic": "metal-free puncture-resistant sole technology",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "clima-stream",
+     "generic": "a shoe climate regulation concept",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Klima Komfort",
+     "generic": "a comfort insole for safety shoes",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "ATLAS Scansystem",
+     "generic": "a mobile foot measuring system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Scan your feet",
+     "generic": "a foot scanning app for retailers",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    }
+   ],
+   "evidence": [
+    {
+     "product": "Flash",
+     "type": "launch",
+     "strength": 3,
+     "quote": "Zur Messe haben wir exklusiv die neuen Produkt-Highlights Flash 1000, Flash 2000, Flash 2600 und Flash 4000 vorgestellt"
+    },
+    {
+     "product": "City Style",
+     "type": "launch",
+     "strength": 2,
+     "quote": "Die neuen Modelle im City Style garantieren einen stilsicheren Auftritt für das Team."
+    },
+    {
+     "product": "Scan your feet",
+     "type": "result",
+     "strength": 2,
+     "quote": "Tilsvarende blev ATLAS® kåret for den innovative service overfor forhandlere med App’en ”Scan your feet”"
+    }
+   ],
+   "success": []
+  },
+  {
+   "year": 2019,
+   "codeable": true,
+   "products": [
+    {
+     "name": "SPORTLINE",
+     "generic": "a series of sporty safety shoes",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "FLASH",
+     "generic": "a series of ESD safety shoes",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "TX 2.0",
+     "generic": "a series of safety shoes",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "alu-tec",
+     "generic": "a series of safety shoes with aluminium toecaps",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "ANATOMIC BAU",
+     "generic": "a series of construction safety shoes",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "CITY STYLE",
+     "generic": "a series of casual-style safety shoes",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "clean & white",
+     "generic": "a series of white hygiene-area safety shoes",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "snow & rain",
+     "generic": "a series of winter and wet-weather safety shoes",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "DUOSOFT",
+     "generic": "a series of cushioned safety shoes",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "XR - NEXT REVOLUTION",
+     "generic": "a series of safety shoes",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "BIG SIZE",
+     "generic": "a series of safety shoes in large sizes",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Ergo-Med Einlegesohlen",
+     "generic": "orthopaedic insoles for safety shoes",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "ERGO-MED - die Spezialweiten",
+     "generic": "safety shoes in special widths",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Malocher 09",
+     "generic": "a football-club branded S3 safety shoe",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": true
+    },
+    {
+     "name": "XP",
+     "generic": "a non-metallic puncture-resistant shoe midsole",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "clima-stream",
+     "generic": "a climate-regulating material system for shoes",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Klima Komfort Einlegesohle",
+     "generic": "a climate-regulating insole",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "MPU",
+     "generic": "a two-layer polyurethane sole system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "ATLAS Scansystem",
+     "generic": "a mobile foot scanning measurement system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Scan your feet",
+     "generic": "a foot measurement app for retailers",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    }
+   ],
+   "evidence": [
+    {
+     "product": "Malocher 09",
+     "type": "launch",
+     "strength": 2,
+     "quote": "JETZT NEU! BVB Sicherheitsschuh MALOCHER 09"
+    },
+    {
+     "product": "Scan your feet",
+     "type": "result",
+     "strength": 2,
+     "quote": "Tilsvarende blev ATLAS® kåret for den innovative service overfor forhandlere med App’en ”Scan your feet”"
+    },
+    {
+     "product": "MPU",
+     "type": "investment",
+     "strength": 2,
+     "quote": "Et multifunktionelt polyurethanskum,forkortet MPU®, er også grundlaget for ATLAS® high-tech sålesystem på denne maskine."
+    }
+   ],
+   "success": []
+  },
+  {
+   "year": 2022,
+   "codeable": true,
+   "products": [
+    {
+     "name": "GX 390 | ESD",
+     "generic": "an ESD safety shoe",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "CL 370 | ESD",
+     "generic": "an ESD safety shoe",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Thermo Tech 800 HI HRO",
+     "generic": "an insulated winter safety boot",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Thermo Tech 9800 BOA HI HRO",
+     "generic": "an insulated winter safety boot with dial closure",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "BS 4000 | ESD",
+     "generic": "an ESD safety shoe",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "BS 60 | ESD",
+     "generic": "an ESD safety shoe",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "BS 46 | ESD",
+     "generic": "an ESD safety shoe",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "BS 30 red | ESD",
+     "generic": "an ESD safety shoe",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "BS 40 | ESD",
+     "generic": "an ESD safety shoe",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "ERGO-MED",
+     "generic": "an ergonomic insole for safety shoes",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Thermo-Einlegesohle | ESD",
+     "generic": "a thermal ESD insole",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "FLASH-Serie",
+     "generic": "a breathable safety shoe series",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": true
+    },
+    {
+     "name": "ATLAS® GORE-TEX",
+     "generic": "a waterproof lined safety shoe range",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": true
+    },
+    {
+     "name": "ATLAS® BOA",
+     "generic": "a safety shoe range with dial lacing",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "MPU®",
+     "generic": "a multifunctional polyurethane sole system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "ATLAS® App",
+     "generic": "a foot-scanning and product advice mobile app",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "ATLAS® Scanplatte",
+     "generic": "a foot measurement scanning pad",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Profi-Regen Shell Jacke",
+     "generic": "a rain shell work jacket",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Profi Bundhose",
+     "generic": "work trousers",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "KLIMASOCKE Thermo Cool",
+     "generic": "a climate-regulating work sock",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "WORKWEAR Funktionssocke",
+     "generic": "a functional work sock",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Fresh & Active Schuh-Desinfektionsspray",
+     "generic": "a shoe disinfectant spray",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Waterstop",
+     "generic": "leather care creams",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "MultiWaterstop Imprägnierspray",
+     "generic": "a waterproofing spray for shoes",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    }
+   ],
+   "evidence": [
+    {
+     "product": "ATLAS® App",
+     "type": "launch",
+     "strength": 2,
+     "quote": "Die neue ATLAS®-App hat ein umfangreiches Update erhalten: Mit der vereinfachten Navigation findest Du noch schneller die neuesten Top-Seller"
+    },
+    {
+     "product": "FLASH-Serie",
+     "type": "launch",
+     "strength": 1,
+     "quote": "De nye FLASH-modeller er de ultimative ledsagere i arbejdshverdagen."
+    }
+   ],
+   "success": []
+  },
+  {
+   "year": 2023,
+   "codeable": true,
+   "products": [
+    {
+     "name": "FLASH 3305 BOA",
+     "generic": "safety shoe with rotary dial lacing",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": true
+    },
+    {
+     "name": "FIT INSOLE",
+     "generic": "individually moulded insole for safety shoes",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": true
+    },
+    {
+     "name": "XT EXTRAGUARD",
+     "generic": "waterproof robust lightweight safety shoes",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": true
+    },
+    {
+     "name": "Recycling Safety Shoe (RUNNER 75 GREEN S1P)",
+     "generic": "safety shoe made from recycled materials",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": true
+    },
+    {
+     "name": "RUNNER SERIES",
+     "generic": "knit-upper sneaker-style safety shoes",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "BLACKLINE",
+     "generic": "safety shoe product line",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "FIRE & RESCUE",
+     "generic": "boots for firefighters and rescue services",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "GX 390 ESD",
+     "generic": "antistatic safety shoe",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "CL 370 ESD",
+     "generic": "antistatic safety shoe",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Thermo Tech 800 HI HRO",
+     "generic": "insulated heat-resistant winter safety boot",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Thermo Tech 9800 BOA HI HRO",
+     "generic": "insulated winter safety boot with dial lacing",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "BS 4000 ESD",
+     "generic": "antistatic occupational shoe",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "BS 46 ESD",
+     "generic": "antistatic occupational shoe",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "BS 40 ESD",
+     "generic": "antistatic occupational shoe",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "BS 30 red ESD",
+     "generic": "antistatic occupational shoe",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "ERGO-MED",
+     "generic": "ergonomic insoles for safety shoes",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "ERGO COMFORT INSOLE",
+     "generic": "comfort insole for work shoes",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "ERGO PRO INSOLE",
+     "generic": "supportive insole for work shoes",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Recycling Insole Clima Comfort",
+     "generic": "insole made from recycled foam",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "WORKWEAR SOCK",
+     "generic": "functional work socks",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Waterstop",
+     "generic": "leather care creams",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "MultiWaterstop Imprägnierspray",
+     "generic": "waterproofing spray for shoes",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Fresh & Active Schuh-Desinfektionsspray",
+     "generic": "shoe disinfectant spray",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    }
+   ],
+   "evidence": [
+    {
+     "product": "Recycling Safety Shoe (RUNNER 75 GREEN S1P)",
+     "type": "launch",
+     "strength": 3,
+     "quote": "Mit unserer neuesten Innovation machen wir unser hohes Bewusstsein für eine nachhaltige Zukunft 2023 erstmalig im Produktportfolio anfassbar."
+    },
+    {
+     "product": "Recycling Safety Shoe (RUNNER 75 GREEN S1P)",
+     "type": "launch",
+     "strength": 2,
+     "quote": "„Nachhaltigkeit zum Anfassen“ - Der neue ATLAS® Recycling Safety Shoe besteht nicht nur aus recycelten Materialien."
+    }
+   ],
+   "success": []
+  },
+  {
+   "year": 2024,
+   "codeable": true,
+   "products": [
+    {
+     "name": "XT EXTRAGUARD",
+     "generic": "robust lightweight waterproof safety shoes",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": true
+    },
+    {
+     "name": "FIT INSOLE",
+     "generic": "custom-moulded semi-orthopaedic insole",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": true
+    },
+    {
+     "name": "RUNNER SERIES",
+     "generic": "knit-upper sporty safety shoes",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": true
+    },
+    {
+     "name": "RUNNER S3",
+     "generic": "knit-upper S3 safety shoes",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "RUNNER 75 | RECYCLING SAFETY SHOE",
+     "generic": "safety shoe made from recycled materials",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": true
+    },
+    {
+     "name": "BLACKLINE",
+     "generic": "lightweight performance safety shoe series",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Flash 6105 XP | ESD",
+     "generic": "ESD safety shoe",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Flash 6805 XP | ESD",
+     "generic": "ESD safety boot",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Flash 6405 XP BOA | ESD",
+     "generic": "ESD safety shoe with dial closure",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Flash 6905 XP BOA | ESD",
+     "generic": "ESD safety boot with dial closure",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "FLASH 3300 BOA",
+     "generic": "safety shoe with dial closure",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "XT 550 BOA GTX",
+     "generic": "waterproof safety boot with dial closure",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "FIRE & RESCUE",
+     "generic": "firefighter and rescue safety boots",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "GX 390 | ESD",
+     "generic": "ESD safety shoe",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "CL 370 | ESD",
+     "generic": "ESD safety shoe",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Thermo Tech 800 HI HRO",
+     "generic": "insulated heat-resistant winter safety boot",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Thermo Tech 9800 BOA HI HRO",
+     "generic": "insulated winter safety boot with dial closure",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "ERGO COMFORT INSOLE",
+     "generic": "comfort insole for safety shoes",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "ERGO PRO INSOLE",
+     "generic": "supportive insole for safety shoes",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "ERGO-MED",
+     "generic": "ergonomic insoles in several versions",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Recycling Insole Clima Comfort",
+     "generic": "insole made from recycled foam",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "WORKWEAR SOCK",
+     "generic": "work socks in several styles",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Fresh & Active Schuh-Hygienespray",
+     "generic": "shoe hygiene spray",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Waterstop Lederpflegecreme",
+     "generic": "leather care cream",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "MultiWaterstop Imprägnierspray",
+     "generic": "waterproofing spray for shoes",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "FIT-DAY®",
+     "generic": "on-site foot analysis and insole fitting service",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    }
+   ],
+   "evidence": [
+    {
+     "product": "RUNNER 75 | RECYCLING SAFETY SHOE",
+     "type": "launch",
+     "strength": 3,
+     "quote": "Mit unserer neuesten Innovation machen wir unser hohes Bewusstsein für eine nachhaltige Zukunft 2023 erstmalig im Produktportfolio anfassbar."
+    },
+    {
+     "product": "RUNNER S3",
+     "type": "launch",
+     "strength": 2,
+     "quote": "mit den neuen RUNNER-S3-Modellen sind künftig noch mehr Arbeitsbereiche sportlich unterwegs."
+    },
+    {
+     "product": "FIT-DAY®",
+     "type": "result",
+     "strength": 2,
+     "quote": "Der Tag bei der ALBA Braunschweig GmbH war ein voller Erfolg."
+    },
+    {
+     "product": "FIT INSOLE",
+     "type": "result",
+     "strength": 2,
+     "quote": "Für den FIT-DAY® bei ALBA Braunschweig fiel die Entscheidung auf die umfassende Fußvermessung und die individuelle Einlegesohlenversorgung mit der FIT Insole"
+    }
+   ],
+   "success": []
+  },
+  {
+   "year": 2025,
+   "codeable": true,
+   "products": [
+    {
+     "name": "FIT INSOLE",
+     "generic": "a custom heat-moulded work shoe insole",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": true
+    },
+    {
+     "name": "MAX Series",
+     "generic": "a series of high-protection safety shoes",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "FAST Series",
+     "generic": "a series of safety shoes",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "FLASH Series",
+     "generic": "a series of sporty safety shoes",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "BOA Series",
+     "generic": "a series of safety shoes with dial lacing",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "WOMEN series",
+     "generic": "a series of women's safety shoes",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "A Series",
+     "generic": "a series of safety shoes",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "CI Shoe",
+     "generic": "a corporate-identity customised safety shoe",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "XT EXTRAGUARD Series",
+     "generic": "a series of rugged safety boots",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "XT 550 BOA GTX",
+     "generic": "a waterproof safety boot with dial lacing",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "RUNNER 75",
+     "generic": "a recyclable safety shoe",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "RUNNER Series",
+     "generic": "a series of lightweight safety shoes",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "FIRE & RESCUE Series",
+     "generic": "a series of firefighter and rescue boots",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "BLACKLINE",
+     "generic": "a line of black safety shoes",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "GX 390 | ESD",
+     "generic": "an antistatic safety shoe",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "CL 370 | ESD",
+     "generic": "an antistatic safety shoe",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Thermo Tech 800 HI HRO",
+     "generic": "an insulated heat-resistant safety boot",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Thermo Tech 9800 BOA HI HRO",
+     "generic": "an insulated safety boot with dial lacing",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "ERGO COMFORT INSOLE",
+     "generic": "a comfort insole for work shoes",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "ERGO PRO INSOLE",
+     "generic": "a supportive insole for work shoes",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "ERGO-MED",
+     "generic": "a range of orthopaedic work shoe insoles",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "WORKWEAR SOCK",
+     "generic": "a range of work socks",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Waterstop",
+     "generic": "a range of leather care and waterproofing products",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "ProTraX",
+     "generic": "a lightweight durable shoe upper material",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "INNOFLEX SYSTEM",
+     "generic": "an ergonomic outsole system for safety shoes",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "XR",
+     "generic": "a nitrile and polyurethane outsole system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "SPORTY",
+     "generic": "a sneaker-style polyurethane outsole system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "MPU",
+     "generic": "a multifunctional polyurethane sole material",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "FIT-DAY",
+     "generic": "an on-site insole fitting service for companies",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Innovation Days",
+     "generic": "free sales training seminars for retailers",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    }
+   ],
+   "evidence": [
+    {
+     "product": "MAX Series",
+     "type": "launch",
+     "strength": 2,
+     "quote": "Maximum Protection: ATLAS launcht MAX Series"
+    },
+    {
+     "product": "ProTraX",
+     "type": "launch",
+     "strength": 2,
+     "quote": "Neues Obermaterial ProTraX®– halb so schwer, doppelt so stark!"
+    },
+    {
+     "product": "FIT INSOLE",
+     "type": "result",
+     "strength": 2,
+     "quote": "Wir haben das BVB-Greenkeeping-Team direkt am Trainingsgelände mit unseren FIT Insoles ausgestattet"
+    },
+    {
+     "product": "INNOFLEX SYSTEM",
+     "type": "launch",
+     "strength": 1,
+     "quote": "Das neue INNOFLEX SYSTEM® versteht sich als ganzheitliches Laufsohlenkonzept"
+    },
+    {
+     "product": "XR",
+     "type": "launch",
+     "strength": 1,
+     "quote": "Mit dem neuen XR®-Laufsohlensystem von ATLAS® kommen Sie trittsicher ans Ziel."
+    },
+    {
+     "product": "SPORTY",
+     "type": "launch",
+     "strength": 1,
+     "quote": "Das neue Laufsohlen-System „SPORTY“ garantiert maximale Performance und einen trendigen Sneaker-Look"
+    }
+   ],
+   "success": []
+  },
+  {
+   "year": 2026,
+   "codeable": true,
+   "products": [
+    {
+     "name": "MAX Series",
+     "generic": "robust lightweight safety shoes for extreme environments",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": true
+    },
+    {
+     "name": "XT EXTRAGUARD Series",
+     "generic": "robust lightweight safety shoes with reinforced upper",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": true
+    },
+    {
+     "name": "FIT-DAY",
+     "generic": "on-site custom insole fitting service for companies",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": true
+    },
+    {
+     "name": "RUNNER Series",
+     "generic": "sporty safety shoe series",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "FAST Series",
+     "generic": "safety shoe series",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "FLASH Series",
+     "generic": "safety shoe series",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "BOA Series",
+     "generic": "safety shoes with dial lacing system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "WOMEN series",
+     "generic": "safety shoes designed for women's feet",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "A Series",
+     "generic": "safety shoe series",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "ERGO Series",
+     "generic": "ergonomic safety shoe series",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "CI Shoe",
+     "generic": "cold-insulated safety shoe",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "RUNNER 75 | RECYCLING SAFETY SHOE",
+     "generic": "safety shoe made with recycled materials",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "FIRE & RESCUE Series",
+     "generic": "firefighter and rescue safety boots",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "FIT INSOLE",
+     "generic": "individually fitted insole for safety shoes",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "ERGO-MED",
+     "generic": "orthopaedic insoles for safety shoes",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "ERGO COMFORT INSOLE",
+     "generic": "comfort insole for safety shoes",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "ERGO PRO INSOLE",
+     "generic": "supportive insole for safety shoes",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Thermo Tech 800 HI HRO",
+     "generic": "heat-insulated safety boot for hot environments",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Thermo Tech 9800 BOA HI HRO",
+     "generic": "heat-insulated safety boot with dial lacing",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "GX 390 | ESD",
+     "generic": "ESD occupational shoe",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "CL 370 | ESD",
+     "generic": "ESD occupational shoe",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "BS 150 | ESD",
+     "generic": "ESD work clog or shoe",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "ATLAS Sneaker",
+     "generic": "sneaker-style shoe",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "WORKWEAR SOCK",
+     "generic": "work socks",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Waterstop",
+     "generic": "leather care cream",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "MultiWaterstop",
+     "generic": "waterproofing spray for shoes",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Fresh & Active",
+     "generic": "shoe hygiene spray",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "GetSteps",
+     "generic": "custom certified insole service for safety shoes",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "ATLAS App",
+     "generic": "mobile app for safety shoe customers",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Malocher 09 S3",
+     "generic": "co-branded special edition safety shoe",
+     "seasonal": true,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    }
+   ],
+   "evidence": [
+    {
+     "product": "FIT INSOLE",
+     "type": "result",
+     "strength": 2,
+     "quote": "We have equipped the BVB greenkeeping team with our FIT Insoles directly at the training ground"
+    },
+    {
+     "product": "FIT-DAY",
+     "type": "result",
+     "strength": 2,
+     "quote": "FIT-DAY® at Feyenoord Rotterdam"
+    },
+    {
+     "product": "FIT-DAY",
+     "type": "result",
+     "strength": 2,
+     "quote": "FIT-DAY® at Waggonwerk Brühl GmbH: Customised solutions for healthy feet"
+    },
+    {
+     "product": "FIT-DAY",
+     "type": "investment",
+     "strength": 1,
+     "quote": "The new FIT trailer"
+    }
+   ],
+   "success": []
+  }
+ ]
+}

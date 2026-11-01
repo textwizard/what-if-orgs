@@ -1,0 +1,1184 @@
+{
+ "slug": "boen-com",
+ "profiles": {
+  "exploration": {
+   "strategy": {
+    "offer": "Premium wood flooring collections, plus accessories, surface options, installation guidance, maintenance products, technical documentation and digital tools.",
+    "customers": "Homeowners, renovators, architects, interior-focused consumers and trade professionals seeking floors matched to design styles and practical installation needs.",
+    "why_we_win": "They translate global interior trends into durable, natural-looking floors that simplify choice and support customers from inspiration through installation and care.",
+    "resources": "In-house production, wood-surface know-how, trend research, product development, technical service, multilingual content, and an international retailer network across many countries.",
+    "direction": "Expand trend-led, style-oriented flooring with more natural aesthetics, calm finishes and easy-care performance for contemporary interiors."
+   },
+   "context": {
+    "size": null,
+    "founded": null,
+    "industry": "Manufacture of wood and of products of wood and cork, except furniture; manufacture of articles of straw and plaiting materials"
+   },
+   "seed_year": 2017
+  },
+  "holdout": {
+   "strategy": {
+    "offer": "Wood flooring systems, matching accessories, surface-treatment options, technical guidance, and digital tools for selecting, ordering, installing, and maintaining floors.",
+    "customers": "Homeowners, retailers, trade buyers, architects, designers, installers, and project developers in residential, commercial, and sports venues worldwide.",
+    "why_we_win": "It expects growth through durable, attractive, sustainably made floors, broad design choice, close customer relationships, and continued investment in production and innovation.",
+    "resources": "Long wood-processing know-how, manufacturing sites, sales offices, partner network, certified sourcing systems, and specialised technical, design, and digital capabilities.",
+    "direction": "It is moving toward more digital customer journeys, ongoing product and process innovation, wider international reach, and more fully certified sustainable sourcing."
+   },
+   "context": {
+    "size": null,
+    "founded": 1641,
+    "industry": "Manufacture of wood and of products of wood and cork, except furniture; manufacture of articles of straw and plaiting materials"
+   },
+   "seed_year": 2022
+  }
+ },
+ "years": [
+  {
+   "year": 2017,
+   "codeable": true,
+   "products": [
+    {
+     "name": "Live Pure",
+     "generic": "a natural-look surface treatment for wood floors",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": true
+    },
+    {
+     "name": "Chalet",
+     "generic": "an extra long and wide oak plank floor",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Chaletino",
+     "generic": "a wide oak plank parquet floor",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "BOEN X-PRESS",
+     "generic": "a click-installed engineered hardwood floor",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "BOEN Prestige",
+     "generic": "an engineered hardwood floor",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Maxi",
+     "generic": "an engineered hardwood floor, 10mm",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Traffic",
+     "generic": "an engineered hardwood floor",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "BOEN Economy",
+     "generic": "an engineered hardwood floor, 9.6mm",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Castle plank",
+     "generic": "a wide oak plank floor format",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Oak Andante white",
+     "generic": "a light white oak plank floor",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Oak Smoked Andante",
+     "generic": "a smoked oak plank floor",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Oak Pearl",
+     "generic": "a light lacquered oak 3-strip floor",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Oak Vivo",
+     "generic": "an oak plank floor",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Oak Traditional White",
+     "generic": "a white-toned oak plank floor",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Oak Mild Grey",
+     "generic": "a grey-toned oak plank floor",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Oak Brown Jasper",
+     "generic": "an oiled brown oak floor",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    }
+   ],
+   "evidence": [
+    {
+     "product": "Live Pure",
+     "type": "launch",
+     "strength": 2,
+     "quote": "BOEN celebrates the growing trend for natural materials by launching Live Pure,..."
+    },
+    {
+     "product": "Live Pure",
+     "type": "launch",
+     "strength": 2,
+     "quote": "Live Pure, a completely new surface treatment"
+    },
+    {
+     "product": "Oak Mild Grey",
+     "type": "launch",
+     "strength": 2,
+     "quote": "Our new products in Live Pure surface reflects our instinctive need to calm down."
+    }
+   ],
+   "success": []
+  },
+  {
+   "year": 2018,
+   "codeable": true,
+   "products": [
+    {
+     "name": "Live Pure",
+     "generic": "ultra-matt protective surface treatment for parquet",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": true
+    },
+    {
+     "name": "Live Matt",
+     "generic": "low-gloss six-layer lacquer for wood floors",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Live Satin",
+     "generic": "hard-wearing six-layer silk lacquer for parquet",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Live Natural",
+     "generic": "natural oil surface finish for parquet",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": true
+    },
+    {
+     "name": "Fashion Collection",
+     "generic": "designer hardwood flooring collection",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": true
+    },
+    {
+     "name": "Chalet",
+     "generic": "extra-long wide oak plank flooring",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Chaletino",
+     "generic": "wide oak plank flooring",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "BOEN X press Clic",
+     "generic": "click joint system for floating parquet",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "BOEN Sport",
+     "generic": "tailor-made indoor sports flooring",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "BOEN Polish Live Pure",
+     "generic": "maintenance polish for treated wood floors",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "T79 Sport lacquer",
+     "generic": "lacquer finish for sports floors",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Eiche Espressivo Castle",
+     "generic": "oak parquet floor",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Oak Mystic Jungle",
+     "generic": "oak parquet floor",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    }
+   ],
+   "evidence": [
+    {
+     "product": "Live Pure",
+     "type": "launch",
+     "strength": 2,
+     "quote": "Pause is a lifestyle trend that is about deep relaxation. Our new products in Live Pure surface reflects our instinctive need to calm down."
+    },
+    {
+     "product": "Live Pure",
+     "type": "launch",
+     "strength": 1,
+     "quote": "BOEN celebrates the growing trend for natural materials by launching Live Pure,..."
+    },
+    {
+     "product": "Live Natural",
+     "type": "launch",
+     "strength": 1,
+     "quote": "The newest product developments from BOEN include the introduction of the ready-to-use natural oil surface Live Natural"
+    },
+    {
+     "product": "Fashion Collection",
+     "type": "launch",
+     "strength": 1,
+     "quote": "exclusive product innovations such as the Fashion Collection"
+    }
+   ],
+   "success": []
+  },
+  {
+   "year": 2019,
+   "codeable": true,
+   "products": [
+    {
+     "name": "BOEN Chevron",
+     "generic": "chevron pattern hardwood parquet floor",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": true
+    },
+    {
+     "name": "Oak Elephant Grey",
+     "generic": "dark grey-brown oak hardwood floor",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": true
+    },
+    {
+     "name": "Actiflex Stadium",
+     "generic": "area elastic click-installed sports floor",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Boflex Stadium",
+     "generic": "shock-absorbing area elastic hardwood sports floor",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Boflex Olympia",
+     "generic": "shock-absorbing area elastic hardwood sports floor",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Boflex Champion",
+     "generic": "shock-absorbing sports floor with elastic surface",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Arenaflex Elevation Stadium",
+     "generic": "sports floor on adjustable cradle system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Arenaflex Elevation Olympia",
+     "generic": "sports floor on adjustable cradle system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Arenaflex Flexbat Stadium",
+     "generic": "sports floor on rubber-padded battens",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Arenaflex Flexbat Olympia",
+     "generic": "sports floor on rubber-padded battens",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Elastflex Stadium",
+     "generic": "low-height area elastic sports floor",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Elastflex Olympia",
+     "generic": "low-height area elastic sports floor",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Elastflex Champion",
+     "generic": "low-height sports floor with elastic layers",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Singleflex Stadium",
+     "generic": "hardwood sports floor",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Singleflex Olympia",
+     "generic": "hardwood sports floor",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Singleflex Athletic",
+     "generic": "hardwood sports floor",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "BOEN Sport Squash Surface",
+     "generic": "squash court floor surface finish",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Boflex Skirtings - Design 45",
+     "generic": "oak skirting for sports floors",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Live Natural oil",
+     "generic": "natural oil surface treatment for wood floors",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Live Matt lacquer",
+     "generic": "matt lacquer finish for wood floors",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Live Pure lacquer",
+     "generic": "invisible lacquer finish for wood floors",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Live Satin lacquer",
+     "generic": "satin lacquer finish for wood floors",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    }
+   ],
+   "evidence": [
+    {
+     "product": "Oak Elephant Grey",
+     "type": "launch",
+     "strength": 2,
+     "quote": "Our new floors: Oak Elephant Grey"
+    },
+    {
+     "product": "Boflex Stadium",
+     "type": "result",
+     "strength": 3,
+     "quote": "Product: Boflex Stadium Oak M2 Installed: 1,600m2 Date of Installation: March 2017"
+    }
+   ],
+   "success": []
+  },
+  {
+   "year": 2022,
+   "codeable": true,
+   "products": [
+    {
+     "name": "Chalet",
+     "generic": "a large-format hardwood plank flooring collection",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Chaletino",
+     "generic": "a large-format hardwood plank flooring collection",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Live Pure",
+     "generic": "an ultra-matt lacquer surface finish for wood floors",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": true
+    },
+    {
+     "name": "Live Natural",
+     "generic": "a natural oil surface finish for wood floors",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Live Matt",
+     "generic": "a low-gloss lacquer surface finish for floors",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Live Satin",
+     "generic": "an abrasion-resistant lacquer finish for wood floors",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Oak Authentic",
+     "generic": "an oak hardwood floor with fresh-sawn look",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "BOEN Sport",
+     "generic": "a range of area-elastic sports floors",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Boflex",
+     "generic": "an area-elastic sports floor system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Elastflex",
+     "generic": "an area-elastic sports floor system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Singleflex",
+     "generic": "an area-elastic sports floor system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Arenaflex Elevation",
+     "generic": "a mobile sports floor system for arenas",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Arenaflex Flexbat",
+     "generic": "a mobile sports floor system for arenas",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Actiflex",
+     "generic": "an area-elastic sports floor system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    }
+   ],
+   "evidence": [
+    {
+     "product": "Oak Authentic",
+     "type": "launch",
+     "strength": 2,
+     "quote": "Vores nye trægulve: Eg Authentic"
+    }
+   ],
+   "success": []
+  },
+  {
+   "year": 2023,
+   "codeable": true,
+   "products": [
+    {
+     "name": "Chalet",
+     "generic": "a wide-plank hardwood floor format",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Chaletino",
+     "generic": "a large wide-plank hardwood floor format",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Live Natural Oil",
+     "generic": "a natural oil surface treatment for wood floors",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Live Pure Lacquer",
+     "generic": "an ultra matt lacquer for wood floors",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Live Matt Lacquer",
+     "generic": "a low-gloss lacquer finish for wood floors",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Live Matt Plus Lacquer",
+     "generic": "an extra matt lacquer finish for wood floors",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Handcrafted",
+     "generic": "a hand-processed hardwood flooring range",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Oak Espressivo Castle",
+     "generic": "a hand-processed oiled oak floor plank",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Oak Coral",
+     "generic": "a natural-look oak floor plank",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Oak Pearl",
+     "generic": "a bright wide oak floor plank",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Oak Sand",
+     "generic": "an oak floor plank",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    }
+   ],
+   "evidence": [
+    {
+     "product": "Oak Espressivo Castle",
+     "type": "result",
+     "strength": 2,
+     "quote": "Hans Bollen laid the 18 square metres of his statement floor without difficulty"
+    },
+    {
+     "product": "Live Matt Plus Lacquer",
+     "type": "launch",
+     "strength": 1,
+     "quote": "This attractive and protective surface treatment can now also be applied to brushed surfaces, giving the floor even greater impact"
+    }
+   ],
+   "success": []
+  },
+  {
+   "year": 2024,
+   "codeable": true,
+   "products": [
+    {
+     "name": "BOEN Sport",
+     "generic": "indoor sports wood flooring systems",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Prestige",
+     "generic": "two-layer tongue-and-groove parquet strip",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Chalet",
+     "generic": "large-format wide hardwood floor planks",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Chaletino",
+     "generic": "long wide hardwood floor planks",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Plank Castle",
+     "generic": "wide multi-layer hardwood floor plank format",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Plank Chevron",
+     "generic": "chevron pattern hardwood floor plank format",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Live Natural Oil",
+     "generic": "natural oil surface treatment for wood floors",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Live Pure Lacquer",
+     "generic": "ultra-matt lacquer surface treatment for wood floors",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Live Matt Lacquer",
+     "generic": "low-gloss lacquer surface treatment for wood floors",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Live Matt Plus Lacquer",
+     "generic": "extra-matt lacquer surface treatment for wood floors",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "BOEN Floor Soap",
+     "generic": "cleaning soap for wood floors",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "BOEN Oil Freshen Up",
+     "generic": "care product for oiled wood floors",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    }
+   ],
+   "evidence": [
+    {
+     "product": "Live Matt Plus Lacquer",
+     "type": "launch",
+     "strength": 2,
+     "quote": "This attractive and protective surface treatment can now also be applied to brushed surfaces, giving the floor even greater impact, and intensifying its soft matt quality."
+    }
+   ],
+   "success": []
+  },
+  {
+   "year": 2025,
+   "codeable": true,
+   "products": [
+    {
+     "name": "BOEN Sport",
+     "generic": "area elastic hardwood sports floor systems",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": true
+    },
+    {
+     "name": "Actiflex Stadium",
+     "generic": "hardwood sports floor system for venues",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Chalet",
+     "generic": "large-format wide hardwood floor plank",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Chaletino",
+     "generic": "large-format hardwood floor plank",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Plank Castle",
+     "generic": "wide three-layer parquet plank format",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Live Natural oil",
+     "generic": "natural oil surface treatment for parquet",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Live Matt lacquer",
+     "generic": "matt lacquer surface treatment for parquet",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Live Pure",
+     "generic": "invisible-look lacquer surface treatment for parquet",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "BOEN Underlay Polynorm Maxima",
+     "generic": "high density floor underlay foam",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "BOEN Underlay Boengard",
+     "generic": "floor underlay with moisture protection",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "BOEN Floor Soap",
+     "generic": "cleaning soap for wooden floors",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "BOEN Oil Freshen Up",
+     "generic": "care product for oiled wood floors",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "BOEN Natural Oil",
+     "generic": "maintenance oil for wooden floors",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    }
+   ],
+   "evidence": [],
+   "success": []
+  },
+  {
+   "year": 2026,
+   "codeable": true,
+   "products": [
+    {
+     "name": "Live Natural Oil",
+     "generic": "natural oil surface treatment for wood floors",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Live Pure Lacquer",
+     "generic": "ultra matt lacquer surface for oak floors",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Live Matt Lacquer",
+     "generic": "low-gloss lacquer finish for wood floors",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Live Matt Plus Lacquer",
+     "generic": "extra matt lacquer finish for wood floors",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Chalet",
+     "generic": "oversized wide long hardwood floor planks",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Chaletino",
+     "generic": "long wide hardwood floor planks",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Chevron",
+     "generic": "chevron pattern parquet collection",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "BOEN Sport",
+     "generic": "area elastic hardwood sports flooring systems",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Actiflex Stadium",
+     "generic": "hardwood sports floor system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Oak Adagio",
+     "generic": "oak parquet floor",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Oak Animoso",
+     "generic": "oak parquet floor",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Oak Andante",
+     "generic": "oak parquet floor",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Oak Pearl",
+     "generic": "oiled oak parquet floor",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Oak Brown Jasper",
+     "generic": "dark brown oak parquet floor",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Oak Sand",
+     "generic": "oak parquet floor",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Ash White Marcato",
+     "generic": "white lacquered ash three-strip parquet",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Oak White Vivo",
+     "generic": "white oiled oak parquet plank",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Castle Plank",
+     "generic": "wide three-layer parquet plank format",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "BOEN Underlay Boengard",
+     "generic": "floor underlay with moisture protection",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "BOEN Underlay Polynorm Maxima",
+     "generic": "high density floor underlay",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "BOEN Floor Soap",
+     "generic": "cleaning soap for wood floors",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "BOEN Natural Oil",
+     "generic": "finishing oil for wooden surfaces",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "BOEN Oil Freshen up",
+     "generic": "care product for oiled floors",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    }
+   ],
+   "evidence": [
+    {
+     "product": "Chaletino",
+     "type": "result",
+     "strength": 1,
+     "quote": "Designer Ekaterina Gracheva has mixed elegant and playful interior elements together with the floor Oak Sand, Chaletino."
+    }
+   ],
+   "success": []
+  }
+ ]
+}

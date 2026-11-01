@@ -1,0 +1,880 @@
+{
+ "slug": "jansen-com",
+ "profiles": {
+  "exploration": {
+   "strategy": {
+    "offer": "Develops, manufactures and sells steel tubes, building systems, plastic products, and related system solutions and services for construction and industrial applications.",
+    "customers": "Construction and industrial customers worldwide seeking tailored products, installations, and technical support.",
+    "why_we_win": "It expects success through customer orientation, high quality, technological maturity, and individualized solutions that create tangible added value.",
+    "resources": "Its basis is materials expertise, integrated production competence, experience, technologies, innovation capability, quality management, and service and logistics know-how.",
+    "direction": "It is moving toward continued innovation in products, technology, and services while deepening customized solutions around customer needs."
+   },
+   "context": {
+    "size": "large",
+    "founded": 1923,
+    "industry": "Manufacture of basic metals"
+   },
+   "seed_year": 2017
+  },
+  "holdout": {
+   "strategy": {
+    "offer": "Develops, manufactures and supplies technical system solutions for buildings, utilities and industrial applications, plus planning, processing and maintenance services.",
+    "customers": "Serves construction and infrastructure professionals, fabricators, installers and other customers needing tailored technical systems and project support.",
+    "why_we_win": "Expects to succeed through cooperative problem-solving, customized solutions, dependable quality, and support spanning design, production, logistics and aftersales.",
+    "resources": "Relies on engineering know-how, modern production resources, efficient processes, in-house development, certified quality management and integrated logistics capabilities.",
+    "direction": "Continue developing innovative, tailored system portfolios and services for changing project requirements and sustainable performance."
+   },
+   "context": {
+    "size": "large",
+    "founded": null,
+    "industry": "Manufacture of fabricated metal products, except machinery and equipment"
+   },
+   "seed_year": 2022
+  }
+ },
+ "years": [
+  {
+   "year": 2017,
+   "codeable": true,
+   "products": [
+    {
+     "name": "Janisol Arte 2.0",
+     "generic": "thermally insulated steel window profile system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": true
+    },
+    {
+     "name": "CONNEX bloc",
+     "generic": "wood-metal window system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "CONNEX cube",
+     "generic": "wood-metal window system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Connex Hebeschiebetüren",
+     "generic": "lift-and-slide door system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Connex wood",
+     "generic": "traditional wooden window system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "VISS Plus Aufsatzkonstruktion",
+     "generic": "add-on facade mullion-transom construction",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "JANSEN prima",
+     "generic": "multifunctional plumbing and heating pipe installation system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Q-Bic Plus",
+     "generic": "stormwater infiltration and retention crate system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    }
+   ],
+   "evidence": [
+    {
+     "product": "Q-Bic Plus",
+     "type": "result",
+     "strength": 3,
+     "quote": "Für die stattliche Grundfläche des «Ebisquares» wurden zwei unabhängige Retentionsanlagen von insgesamt 141 m3 (94 m3 & 47 m3) errechnet; bestehend aus total 420 Korbelementen Q-Bic Plus."
+    },
+    {
+     "product": "Q-Bic Plus",
+     "type": "launch",
+     "strength": 3,
+     "quote": "Besuchen Sie uns an der architect@work vom 10. – 11. Mai 2017 in Zürich und erfahren Sie mehr über unser neues, innovatives Versickerungs- und Retentionssystem Q-Bic Plus."
+    },
+    {
+     "product": "Janisol Arte 2.0",
+     "type": "launch",
+     "strength": 2,
+     "quote": "Die zweite Generation des Fenstersystems Janisol Arte wartet neu mit Profilen in Edelstahl sowie Corten-Stahl und einem breiteren Profilsortiment auf."
+    },
+    {
+     "product": "CONNEX bloc",
+     "type": "launch",
+     "strength": 1,
+     "quote": "Mit CONNEX bloc vergrössert sich unsere Systemfamilie der Holz/Metall-Fenster um ein weiteres Produkthighlight."
+    },
+    {
+     "product": "VISS Plus Aufsatzkonstruktion",
+     "type": "launch",
+     "strength": 2,
+     "quote": "Neu: VISS Plus Aufsatzkonstruktion"
+    }
+   ],
+   "success": []
+  },
+  {
+   "year": 2018,
+   "codeable": true,
+   "products": [
+    {
+     "name": "Janisol Arte 2.0",
+     "generic": "steel profile system for windows",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": true
+    },
+    {
+     "name": "VISS Plus",
+     "generic": "add-on facade construction for heavy glazing",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "VISS Dachverglasung",
+     "generic": "insulated steel roof glazing system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Janisol Fingerschutztüre",
+     "generic": "steel door with finger protection",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Jansen Multifunktionstüre",
+     "generic": "tested multifunction steel door system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "JANIsoft",
+     "generic": "planning and calculation software for profile systems",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    }
+   ],
+   "evidence": [
+    {
+     "product": "VISS Plus",
+     "type": "launch",
+     "strength": 3,
+     "quote": "Die Highlights 2017 umfassen unter anderem die neue Aufsatzkonstruktion VISS Plus"
+    },
+    {
+     "product": "Janisol Arte 2.0",
+     "type": "launch",
+     "strength": 2,
+     "quote": "Mit Janisol Arte 2.0 wurde das bei Renovationen und im modernen Wohnungsbau bewährte System Janisol Arte weiterentwickelt."
+    },
+    {
+     "product": "Jansen Multifunktionstüre",
+     "type": "launch",
+     "strength": 2,
+     "quote": "Erstmals als geprüftes System erhältlich, deckt die Jansen Multifunktionstüre ie Anforderungen hinsichtlich Flucht- und Rettungswegnormen sowie einbruchhemmenwden Widerstandsklassen ab."
+    },
+    {
+     "product": "JANIsoft",
+     "type": "launch",
+     "strength": 3,
+     "quote": "Das JANIsoft 2017 R2 Update ist verfügbar und beinhaltet neu folgende Features"
+    }
+   ],
+   "success": []
+  },
+  {
+   "year": 2019,
+   "codeable": true,
+   "products": [
+    {
+     "name": "JANSEN hipress",
+     "generic": "a high-pressure geothermal borehole heat exchanger probe",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "JANSEN shark",
+     "generic": "a pipe surface technology for geothermal probes",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Q-Bic Plus",
+     "generic": "a plastic stormwater infiltration and retention box",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "JANIsoft",
+     "generic": "design and pricing software for profile systems",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    }
+   ],
+   "evidence": [
+    {
+     "product": "JANSEN hipress",
+     "type": "result",
+     "strength": 3,
+     "quote": "Dieses Jahr sind wir, die Jansen AG, die glücklichen Gewinner und wurden für die JANSEN hipress Erdwärmesonde ausgezeichnet."
+    },
+    {
+     "product": "JANSEN hipress",
+     "type": "result",
+     "strength": 3,
+     "quote": "begründet die Jury ihre Entscheidung, wieso gerade die JANSEN hipress zum Gewinner des Abends wurde."
+    },
+    {
+     "product": "Q-Bic Plus",
+     "type": "result",
+     "strength": 3,
+     "quote": "two independent retention systems totalling 141 m3 (94 m3 & 47 m3); this required 420 Q-Bic Plus box elements."
+    },
+    {
+     "product": "JANIsoft",
+     "type": "launch",
+     "strength": 3,
+     "quote": "Das neue JANIsoft Update 2018 R2 ist da! Das neue JANIsoft-Software-Update steht nun zur Installation bereit."
+    },
+    {
+     "product": "JANIsoft",
+     "type": "launch",
+     "strength": 3,
+     "quote": "The new JANIsoft Update 2018 R1 is available! The new JANIsoft software update ist now ready for installation."
+    }
+   ],
+   "success": []
+  },
+  {
+   "year": 2022,
+   "codeable": true,
+   "products": [
+    {
+     "name": "VISS",
+     "generic": "thermally insulated steel mullion-transom facade system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Janisol Arte 2.0",
+     "generic": "slim steel door profile system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "CONNEX",
+     "generic": "wood-metal window profile system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "JANSEN geotwin shark",
+     "generic": "PE-RT geothermal borehole heat exchanger probe",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "JANSEN powerwave single-u",
+     "generic": "single-U geothermal borehole heat exchanger probe",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Q-Bic Plus",
+     "generic": "modular rainwater infiltration and retention system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Jansen BIM Cloud",
+     "generic": "online BIM data service for planners",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "JANIsoft",
+     "generic": "planning and calculation software for profile systems",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    }
+   ],
+   "evidence": [
+    {
+     "product": "JANSEN geotwin shark",
+     "type": "result",
+     "strength": 3,
+     "quote": "Die Gesamtlösung aus hochtemperaturbeständigem PE-RT-Material umfasste 310 Erdwärmesonden JANSEN geotwin shark für eine Gesamtbohrlänge von 32'800 Meter"
+    },
+    {
+     "product": "Q-Bic Plus",
+     "type": "launch",
+     "strength": 2,
+     "quote": "kam für das Lagerhaus des Opernhauses JANSEN Q-Bic Plus, ein neues Versickerungs- und Regenwasserbewirtschaftungssystem, zum Einsatz."
+    },
+    {
+     "product": "Q-Bic Plus",
+     "type": "result",
+     "strength": 2,
+     "quote": "entschied sich der Auftraggeber, die Stadt Zürich, für das nachhaltige Versickerungs- und Rückhaltesystem Q-Bic Plus einzusetzen."
+    }
+   ],
+   "success": []
+  },
+  {
+   "year": 2023,
+   "codeable": true,
+   "products": [
+    {
+     "name": "Janisol Arte",
+     "generic": "slimline steel profile system for windows",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Janisol Arte 2.0 door",
+     "generic": "slimline steel profile door system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": true
+    },
+    {
+     "name": "Janisol",
+     "generic": "thermally insulated steel profile system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Janisol HI",
+     "generic": "highly insulated steel window profile system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Janisol 2 EI30",
+     "generic": "fire protection steel door profile system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Janisol C4",
+     "generic": "fire protection steel profile system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Economy 50/60",
+     "generic": "steel door profile system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "CONNEX",
+     "generic": "wood and metal window system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "JANIsoft",
+     "generic": "design and calculation software for metal construction",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Jansen BIMCloud",
+     "generic": "online library of BIM building objects",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Q-Bic Plus",
+     "generic": "modular rainwater infiltration and retention system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "JANSEN powerwave single-u",
+     "generic": "geothermal ground source heat loop probe",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    }
+   ],
+   "evidence": [
+    {
+     "product": "Q-Bic Plus",
+     "type": "result",
+     "strength": 2,
+     "quote": "A new JANSEN Q-Bic Plus infiltration and rainwater management system was installed for Opernhaus Zurich’s Kügeliloo warehouse on behalf of the city authorities."
+    },
+    {
+     "product": "JANSEN powerwave single-u",
+     "type": "result",
+     "strength": 2,
+     "quote": "JANSEN powerwave single-u ground source heat loops were used in order to achieve the required heat output from fewer and shorter boreholes."
+    },
+    {
+     "product": "Janisol Arte",
+     "type": "result",
+     "strength": 2,
+     "quote": "The architects opted to update the large window areas in keeping with the style using a steel profile system which was developed by Jansen"
+    },
+    {
+     "product": "Janisol HI",
+     "type": "result",
+     "strength": 2,
+     "quote": "Das Janisol Stahlprofilsystem in Form der verwendeten Janisol HI Fensterelemente sowie Janisol 2 EI30 Brandschutzschiebetüren decken die Anforderungen an die Gebäudehülle eines Forschungsgebäudes ab."
+    }
+   ],
+   "success": []
+  },
+  {
+   "year": 2024,
+   "codeable": true,
+   "products": [
+    {
+     "name": "JANSEN geotwin shark",
+     "generic": "a geothermal ground heat probe",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "JANSEN shark",
+     "generic": "a geothermal probe surface technology",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "JANSEN powerwave single-u",
+     "generic": "a single-U geothermal ground heat loop",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "JANSEN hipress",
+     "generic": "a high-pressure geothermal probe for deep drilling",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "JANSEN Q-Bic Plus",
+     "generic": "a modular rainwater infiltration and retention system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "AquaCell NG",
+     "generic": "a drainage infiltration system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Janisol Arte 2.0",
+     "generic": "a slim steel profile system for windows",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Janisol",
+     "generic": "a steel door profile system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Janisol 2 EI30",
+     "generic": "a fire-resistant steel door profile system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Economy 50/60",
+     "generic": "a non-insulated steel door profile system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "CONNEX",
+     "generic": "a wood-metal window and facade system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "JANIsoft",
+     "generic": "a planning and calculation software for fabricators",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    }
+   ],
+   "evidence": [
+    {
+     "product": "JANSEN geotwin shark",
+     "type": "result",
+     "strength": 3,
+     "quote": "Die Gesamtlösung aus hochtemperaturbeständigem PE-RT-Material umfasste 310 Erdwärmesonden JANSEN geotwin shark für eine Gesamtbohrlänge von 32'800 Meter"
+    },
+    {
+     "product": "JANSEN Q-Bic Plus",
+     "type": "result",
+     "strength": 3,
+     "quote": "Lediglich zwei Tage wurden benötigt, um die Retentionsanlage mit 550 Korbelementen zu verlegen."
+    },
+    {
+     "product": "JANSEN powerwave single-u",
+     "type": "result",
+     "strength": 2,
+     "quote": "Um die benötigte Heizleistung mit weniger und kurzen Bohrungen zu erreichen, kam die Erdwärmesonde JANSEN powerwave single-u zum Einsatz."
+    },
+    {
+     "product": "AquaCell NG",
+     "type": "launch",
+     "strength": 2,
+     "quote": "Product novelty AQUACELL NG AquaCell NG ('New Generation') is the innovative new solution for drainage…"
+    }
+   ],
+   "success": []
+  },
+  {
+   "year": 2025,
+   "codeable": true,
+   "products": [
+    {
+     "name": "Janisol Arte",
+     "generic": "a slimline steel window profile system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "JANSEN powerwave single-u",
+     "generic": "a geothermal ground source heat probe",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "AquaCell NG",
+     "generic": "a modular plastic rainwater infiltration box system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "JANIsoft",
+     "generic": "design and calculation software for metal construction",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "CONNEX",
+     "generic": "a wood-metal window profile system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    }
+   ],
+   "evidence": [],
+   "success": []
+  },
+  {
+   "year": 2026,
+   "codeable": true,
+   "products": [
+    {
+     "name": "Janisol Arte 2.0",
+     "generic": "a thermally insulated steel profile system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Janisol Arte 2.0 RC",
+     "generic": "a burglar-resistant steel door/window profile system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Janisol Arte 66",
+     "generic": "a steel window profile system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Janisol Arte",
+     "generic": "a steel window profile system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Janisol HI",
+     "generic": "a thermally insulated steel window profile system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Janisol 2 EI30 Fingerschutztüre",
+     "generic": "a fire-rated anti-finger-trap steel door",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Janisol 2 EI30 Brandschutzschiebetüre",
+     "generic": "a fire-rated steel sliding door",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Janisol 2 Brandschutztür EI30",
+     "generic": "a fire-rated steel door system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Janisol C4 Fire protection door EI60/EI90",
+     "generic": "a high-rating fire protection steel door",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Jansen-Economy 50",
+     "generic": "a non-insulated steel door profile system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Jansen Multifunktionstüre",
+     "generic": "a multifunction steel door",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Jansen Art'System",
+     "generic": "a decorative steel profile surface system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Jansen Art'15",
+     "generic": "a slim steel profile system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "VISS RC4",
+     "generic": "a burglar-resistant steel facade system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "VISS Fire Fassade",
+     "generic": "a fire-rated mullion-transom facade system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "VISS Fire facade EI30 RC2/3",
+     "generic": "a fire- and burglar-resistant facade system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "CONNEX",
+     "generic": "a wood-metal window and facade system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "RSL 3025",
+     "generic": "a motor-driven rotating frame welding gauge",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "JANIsoft",
+     "generic": "a planning and calculation software for fabricators",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "JANSEN powerwave single-u",
+     "generic": "a geothermal borehole heat exchanger probe",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "JANSEN shark",
+     "generic": "a geothermal probe technology",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "JANSEN hipress",
+     "generic": "a high-pressure geothermal probe for deep boreholes",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    }
+   ],
+   "evidence": [
+    {
+     "product": "VISS Fire facade EI30 RC2/3",
+     "type": "launch",
+     "strength": 2,
+     "quote": "Jansen has developed a façade system that meets these requirements: the VISS Fire facade EI30 RC2/3. This innovation is a significant advance in the construction industry"
+    }
+   ],
+   "success": []
+  }
+ ]
+}

@@ -1,0 +1,93 @@
+{
+ "slug": "kelvion-com",
+ "windows": {
+  "exploration": {
+   "years": [
+    2017
+   ],
+   "industry": {
+    "turnover": "grew",
+    "rd": "more",
+    "patents": "more",
+    "universities": "more"
+   },
+   "employees": null,
+   "hiring": true,
+   "hiring_quote": "Career Portal\nWorldwide job offers\nJob offers: 22",
+   "expansion": false,
+   "expansion_quote": null,
+   "investment": false,
+   "investment_quote": null,
+   "growth": false,
+   "growth_quote": null,
+   "difficulty": false,
+   "difficulty_quote": null,
+   "rd": true,
+   "rd_quote": "NF100M – from Kelvion, the new heat exchanger plate for viscous and particle-containing media",
+   "cooperation": false,
+   "cooperation_quote": null,
+   "eu_projects": 1,
+   "products_offered": 23,
+   "new": [
+    "certified gasketed plate heat exchangers for HVAC",
+    "marine box cooler system",
+    "marine cooling unit",
+    "compact oil cooler",
+    "finned tube for air coolers",
+    "enhanced heat exchanger tubes"
+   ],
+   "relatedness": [
+    "close",
+    "related",
+    "related",
+    "related",
+    "related",
+    "related"
+   ]
+  },
+  "holdout": {
+   "years": [
+    2022
+   ],
+   "industry": {
+    "turnover": "grew",
+    "rd": "more",
+    "patents": "more",
+    "universities": "more"
+   },
+   "employees": null,
+   "hiring": true,
+   "hiring_quote": "Job offers: 42- Company:",
+   "expansion": true,
+   "expansion_quote": "22. September 2021KELVION to expand operations with second production facility in Knoxville, Tennessee",
+   "investment": true,
+   "investment_quote": "18. October 2021$6M investment in North American facility will increase manufacturing and create jobs",
+   "growth": false,
+   "growth_quote": null,
+   "difficulty": false,
+   "difficulty_quote": null,
+   "rd": true,
+   "rd_quote": "Kelvion Holding GmbH - Country: - Bochum, Germany (DE) - : - Function: Product development",
+   "cooperation": true,
+   "cooperation_quote": "11. June 2021KELVION PARTNERS WITH HELMHOLTZ ZENTRUM TO TEST FUTURE POWER TECHNOLOGY",
+   "eu_projects": 1,
+   "products_offered": 5,
+   "new": [
+    "single-tube air fin cooler",
+    "single-tube air cooled condenser (1)",
+    "single-tube air cooled condenser (2)",
+    "liner for corroded heat exchanger tubes",
+    "customized industrial air cooler",
+    "heat exchanger tube end repair inserts"
+   ],
+   "relatedness": [
+    "close",
+    "close",
+    "close",
+    "related",
+    "close",
+    "related"
+   ]
+  }
+ }
+}

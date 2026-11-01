@@ -1,0 +1,89 @@
+{
+ "slug": "bs-shipmanagement-com",
+ "windows": {
+  "exploration": {
+   "years": [
+    2017
+   ],
+   "industry": {
+    "turnover": "grew",
+    "rd": "less",
+    "patents": "less",
+    "universities": "more"
+   },
+   "employees": 1500,
+   "hiring": false,
+   "hiring_quote": null,
+   "expansion": true,
+   "expansion_quote": "To further expand the scope of services offered to customers, BSM has formed a joint venture with Optimum Ship Management",
+   "investment": false,
+   "investment_quote": null,
+   "growth": false,
+   "growth_quote": null,
+   "difficulty": false,
+   "difficulty_quote": null,
+   "rd": false,
+   "rd_quote": null,
+   "cooperation": false,
+   "cooperation_quote": null,
+   "eu_projects": 0,
+   "products_offered": 2,
+   "new": [
+    "offshore vessel management service",
+    "crew and corporate travel management",
+    "online vessel information portal",
+    "mobile vessel performance app"
+   ],
+   "relatedness": [
+    "close",
+    "related",
+    "related",
+    "related"
+   ]
+  },
+  "holdout": {
+   "years": [
+    2022
+   ],
+   "industry": {
+    "turnover": "grew",
+    "rd": "less",
+    "patents": "less",
+    "universities": "less"
+   },
+   "employees": 2000,
+   "hiring": true,
+   "hiring_quote": "Part time\nIntern/Trainee\nHamburg, Freie und Hansestadt\nGermany\nBSM",
+   "expansion": true,
+   "expansion_quote": "05 April 2022\nBernhard Schulte Shipmanagement (BSM) and the Norwegian ammonia specialist Amon Maritime have announced the creation of a 50/50 joint venture “Ula Ship Management”",
+   "investment": true,
+   "investment_quote": "working to implement digital Environmental Record Books on all of its over 400 fully managed vessels by mid-2022. It’s a huge digitalisation project",
+   "growth": false,
+   "growth_quote": null,
+   "difficulty": false,
+   "difficulty_quote": null,
+   "rd": true,
+   "rd_quote": "12 April 2022\nAs part of a research and development project, Bernhard Schulte Shipmanagement (BSM) has for the first time investigated the influence of the behavioural change of individual seafarers",
+   "cooperation": false,
+   "cooperation_quote": null,
+   "eu_projects": 0,
+   "products_offered": 6,
+   "new": [
+    "healthcare and hospitality recruitment service",
+    "superyacht crew recruitment service",
+    "maritime education programme",
+    "emissions monitoring and compliance services",
+    "emissions compliance dashboard",
+    "emissions compliance cost simulation tool"
+   ],
+   "relatedness": [
+    "distant",
+    "related",
+    "related",
+    "close",
+    "related",
+    "related"
+   ]
+  }
+ }
+}

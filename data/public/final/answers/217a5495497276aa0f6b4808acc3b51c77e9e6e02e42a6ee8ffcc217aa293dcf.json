@@ -1,0 +1,1 @@
+{"model": "deepseek-v4-pro", "effort": "medium", "answer": {"decisions": [{"product": "A", "probability_dropped": 5, "decision": "keep", "reason": "Product A builds directly on the firm's existing optoelectronic sensor knowledge for satellite rendezvous and docking, so its absorptive capacity is high and the firm can learn from early results to improve it."}]}}

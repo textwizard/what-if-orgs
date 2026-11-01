@@ -1,0 +1,1 @@
+{"model": "deepseek-v4-pro", "effort": "medium", "answer": {"decisions": [{"product": "A", "probability_dropped": 15, "decision": "keep", "reason": "The firm has invested in a dedicated product page and only launched in 2018, so escalation of commitment favors persisting with this publicly visible LiDAR product despite limited time to prove results."}]}}

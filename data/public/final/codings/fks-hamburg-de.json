@@ -1,0 +1,1743 @@
+{
+ "slug": "fks-hamburg-de",
+ "profiles": {
+  "exploration": {
+   "strategy": {
+    "offer": "Post-press equipment for folding, bookletmaking, binding, cutting, multifinishing, embellishment, plus used machines, maintenance, training, and spare parts.",
+    "customers": "Commercial and digital print providers seeking efficient finishing, distribution preparation, and reliable machine support.",
+    "why_we_win": "It argues that automation, productivity, quality, and preventive service reduce downtime, preserve asset value, and help customers differentiate and save time.",
+    "resources": "Basis is long experience, specialist technicians, original parts, broad finishing portfolio, live demonstrations, and complementary capabilities across an affiliated group.",
+    "direction": "Expand around digital print finishing, integrated automation, and value-adding embellishment while supporting customers from equipment selection through lifecycle service."
+   },
+   "context": {
+    "size": null,
+    "founded": 1954,
+    "industry": "Wholesale trade, except of motor vehicles and motorcycles"
+   },
+   "seed_year": 2017
+  },
+  "holdout": {
+   "strategy": {
+    "offer": "Machines, systems, supplies, service, and training for print finishing, enhancement, booklet making, binding, cutting, folding, and inline postpress automation.",
+    "customers": "Digital and offset printers seeking efficient production of brochures, books, and other finished print products, including short runs and variable jobs.",
+    "why_we_win": "It promises faster setup, fewer manual steps, reliable quality, broad format flexibility, and workflow integration that reduces waste, labor, and turnaround time.",
+    "resources": "Broad postpress portfolio, modular systems, automation features, service technicians, maintenance packages, consumables, spare parts, training, and practical application know-how.",
+    "direction": "Advancing toward more automated, software-connected, digitally oriented finishing workflows spanning prepress to finished product across inline and nearline production."
+   },
+   "context": {
+    "size": null,
+    "founded": null,
+    "industry": "Wholesale trade, except of motor vehicles and motorcycles"
+   },
+   "seed_year": 2022
+  }
+ },
+ "years": [
+  {
+   "year": 2017,
+   "codeable": true,
+   "products": [
+    {
+     "name": "iSaddle",
+     "generic": "an automatic booklet making and collating system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "iSaddle Digital Pro",
+     "generic": "a booklet maker for digital print sheets",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "System 6000i",
+     "generic": "a fully automatic booklet making system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Digital System 6000 Pro",
+     "generic": "a booklet maker with high-speed sheet feeder",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Digital System 3500",
+     "generic": "an entry-level digital booklet making system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "System 3500",
+     "generic": "a booklet system with spine pressing",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "System 150C",
+     "generic": "a compact booklet making system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Digital System 1500",
+     "generic": "a compact booklet system for short runs",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Esper DM-230V",
+     "generic": "a collating machine for direct marketing materials",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "PrintJog JL-400",
+     "generic": "a paper jogger for finishing machines",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "DuSense DDC-810",
+     "generic": "a UV spot coating system for print",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": true
+    },
+    {
+     "name": "Fullmatic 52",
+     "generic": "a UV coating system for printed sheets",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Sagitta 52/76",
+     "generic": "a high-end laminating system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Delta 52/76",
+     "generic": "a high-performance laminating system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Amiga 36/56/76",
+     "generic": "a compact laminating system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "DF-1200",
+     "generic": "a tabletop folding machine with suction feeder",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "DocuCutter DC-645",
+     "generic": "a used multifinishing cutting and creasing system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "System 5000",
+     "generic": "a used booklet maker with collating tower",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Digital System 5000",
+     "generic": "a used booklet maker with digital feeder",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "PrintBind KB-4000 PUR",
+     "generic": "a PUR perfect binding machine",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "PrintBind KB-3500 PUR",
+     "generic": "a single-clamp PUR perfect binder",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "PrintBind KB-1000 PUR",
+     "generic": "an on-demand PUR book binder",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "DuBinder DPB-500 EVA",
+     "generic": "a hotmelt perfect binding machine",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "DocuCutter DC-746",
+     "generic": "a multifinisher for cutting, creasing and perforating",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": true
+    },
+    {
+     "name": "DocuCutter DC-646 Pro",
+     "generic": "a combined cutter, creaser and perforator",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "DocuCutter DC-616 Pro",
+     "generic": "a multifunctional finisher for digital print",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "DuCreaser DC-446",
+     "generic": "an automatic creasing machine with suction feeder",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Foldmaster Touchline",
+     "generic": "a modular creasing, perforating and folding machine series",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "BC-330",
+     "generic": "an automatic three-knife trimmer",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Cutter 56D/66D/80D – ECO/PLUS",
+     "generic": "a series of paper guillotine cutters",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    }
+   ],
+   "evidence": [
+    {
+     "product": "DuSense DDC-810",
+     "type": "launch",
+     "strength": 3,
+     "quote": "Seit September steht mit der FKS/Duplo DuSense DDC-810 eine UV-Spotlackiermaschine im Portfolio der Firma FKS zur Verfügung"
+    },
+    {
+     "product": "DocuCutter DC-746",
+     "type": "launch",
+     "strength": 2,
+     "quote": "ist die konsequente Weiterentwicklung des ausgezeichneten DocuCutter DC-646 Pro und stellt somit das neue Flaggschiff der DocuCutter-Serie dar."
+    }
+   ],
+   "success": []
+  },
+  {
+   "year": 2018,
+   "codeable": true,
+   "products": [
+    {
+     "name": "KB-4000 PUR",
+     "generic": "an automatic PUR perfect binding machine",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": true
+    },
+    {
+     "name": "KB-1000 PUR",
+     "generic": "an entry-level PUR perfect binding machine",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "KB-3500 PUR",
+     "generic": "an automatic PUR perfect binding machine",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Duplo DuBinder DPB-500",
+     "generic": "a high-performance perfect binding machine",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "C.P. Bourg BB3002 PUR/EVA",
+     "generic": "a fully automatic on-demand perfect binder",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "C.P. Bourg BM-e",
+     "generic": "a fully automatic booklet maker",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Foldmaster Touchline CP375&TCF375",
+     "generic": "a combined creasing, perforating and folding machine",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Duplo DuSense DDC-810",
+     "generic": "a digital UV spot varnishing system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": true
+    },
+    {
+     "name": "Komfi-Systeme",
+     "generic": "laminating and foiling systems for digital print",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Duplo DocuCutter DC-746",
+     "generic": "a multifinisher for cutting, creasing and perforating",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Duplo iSaddle Duetto Pro",
+     "generic": "a hybrid saddle stitching booklet system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "DSF-6000",
+     "generic": "a digital sheet feeder",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    }
+   ],
+   "evidence": [
+    {
+     "product": "Duplo DuSense DDC-810",
+     "type": "launch",
+     "strength": 2,
+     "quote": "Als Highlight-System galt das vor kurzem gelaunchte UV-Spotlackiersystem FKS/Duplo DuSense DDC-810"
+    },
+    {
+     "product": "Duplo DuSense DDC-810",
+     "type": "result",
+     "strength": 2,
+     "quote": "Davon überzeugt werden konnte auch die Firma Klartext GmbH aus Kassel, welche die europaweit erste DuSense noch vor Ort auf der Open House abgenommen haben"
+    },
+    {
+     "product": "Duplo DuSense DDC-810",
+     "type": "result",
+     "strength": 3,
+     "quote": "der mit unserer Open House Einladung mit dem Edelmeister Award 2018 ausgezeichnet wurde."
+    },
+    {
+     "product": "Duplo DocuCutter DC-746",
+     "type": "result",
+     "strength": 1,
+     "quote": "der mehrfach ausgezeichnete Multifinisher FKS/Duplo DocuCutter DC-746"
+    }
+   ],
+   "success": []
+  },
+  {
+   "year": 2019,
+   "codeable": true,
+   "products": [
+    {
+     "name": "FKS/Duplo DocuCutter DC-746",
+     "generic": "a multifinisher for cutting, creasing, perforating digital prints",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": true
+    },
+    {
+     "name": "FKS/Duplo DocuCutter DC-616 Pro",
+     "generic": "an entry-level multifinisher for digital print sheets",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "FKS/Duplo DocuCutter DC-646 Pro",
+     "generic": "a high-performance cutting, creasing, perforating finisher",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "FKS PrintBind KB-3500 PUR",
+     "generic": "a single-clamp PUR perfect binder",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "KB-4000 PUR",
+     "generic": "a single-clamp PUR perfect binder",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": true
+    },
+    {
+     "name": "KB-1000 PUR",
+     "generic": "an entry-level PUR perfect binder",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "FKS/Komfi Amiga 36/52/76",
+     "generic": "a compact laminating system in several formats",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "FKS/Komfi Delta 52/76",
+     "generic": "a high-performance laminating system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "FKS/C.P. Bourg BB3002 PUR/EVA",
+     "generic": "a fully automatic on-demand perfect binder",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "FKS/Mohr BC-330",
+     "generic": "an automatic three-side book trimmer",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "FKS/C.P. Bourg BM-e",
+     "generic": "an inline and nearline booklet maker",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "FKS/Foldmaster Touchline CPC375",
+     "generic": "a sheet cutting, perforating and creasing machine",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "FKS/Foldmaster Touchline CF375",
+     "generic": "an automatic creasing and folding machine",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "FKS/Duplo DuCreaser DC-446",
+     "generic": "an automatic bar creasing machine with suction feeder",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "FKS/Duplo DF-1200",
+     "generic": "a tabletop folding machine with suction feeder",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "FKS/Duplo DF-980",
+     "generic": "a tabletop folding machine with friction feeder",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "FKS/Duplo Digital System 1500",
+     "generic": "a compact booklet making system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "FKS/Duplo Digital System 3500",
+     "generic": "an entry booklet making system for digital print",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "FKS/Duplo Direktmarketing System",
+     "generic": "a collating system for direct marketing materials",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "FKS/Duplo DuBinder DPB-500 EVA",
+     "generic": "a hotmelt high-performance perfect binder",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "FKS/Duplo System 6000i",
+     "generic": "a booklet making system with collating tower",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "FKS/Duplo DuSense DDC-810",
+     "generic": "a digital spot coating embellishment system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    }
+   ],
+   "evidence": [
+    {
+     "product": "FKS/Duplo DocuCutter DC-746",
+     "type": "launch",
+     "strength": 2,
+     "quote": "Der FKS/Duplo DocuCutter DC-746 ist die konsequente Weiterentwicklung des DocuCutter DC-646 Pro und des DC-745 und stellt somit das neue Flaggschiff der DocuCutter-Serie dar."
+    },
+    {
+     "product": "FKS/Duplo System 6000i",
+     "type": "result",
+     "strength": 3,
+     "quote": "Beide Maschinen wurden geordert und im November 2018 geliefert."
+    },
+    {
+     "product": "FKS/Foldmaster Touchline CF375",
+     "type": "result",
+     "strength": 3,
+     "quote": "Beide Maschinen wurden geordert und im November 2018 geliefert."
+    },
+    {
+     "product": "FKS/Duplo DocuCutter DC-616 Pro",
+     "type": "result",
+     "strength": 2,
+     "quote": "Seit 2017 hat Kümmel gute Erfahrungen mit dem FKS/Duplo DocuCutter DC-616 der Firma FKS aus der Nähe von Hamburg gemacht."
+    },
+    {
+     "product": "FKS/Duplo DuSense DDC-810",
+     "type": "result",
+     "strength": 2,
+     "quote": "Zum Jahresende investierten sie in die Anschaffung der FKS/Duplo DuSense DDC-810, um sich und ihren Kunden völlig neue haptische Momente zu bescheren."
+    }
+   ],
+   "success": []
+  },
+  {
+   "year": 2022,
+   "codeable": true,
+   "products": [
+    {
+     "name": "iSaddle",
+     "generic": "an automatic saddle stitcher for booklets",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "DocuCutter",
+     "generic": "a multifinisher for cutting, creasing, perforating",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": true
+    },
+    {
+     "name": "DocuCutter DC-618",
+     "generic": "a compact entry-level multifinisher for digital print",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "DocuCutter DC-616 Pro",
+     "generic": "a multifinisher for digital print",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "PFi Blade B2+",
+     "generic": "a digital cutting table for B2 format",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "PFi Blade B3+",
+     "generic": "a digital cutting table for B3 format",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Touchline",
+     "generic": "a family of creasing, perforating and folding machines",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Touchline CPC375 XPro",
+     "generic": "a multifinisher for cutting, creasing, perforating",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Touchline CP375 DUO",
+     "generic": "a creasing and perforating machine",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Touchline CF375",
+     "generic": "an automatic creasing and folding machine",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Touchline TF375",
+     "generic": "a folding unit for paper sheets",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "KB-1000 PUR",
+     "generic": "an automatic PUR perfect binder",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "PrintBind KB-4000 PUR",
+     "generic": "a PUR perfect binder for short runs",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "DuBinder DPB-500",
+     "generic": "a high-performance perfect binder",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "System 6000i",
+     "generic": "a booklet making system with collator",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "DuCreaser DC-446",
+     "generic": "an automatic bar creasing machine with suction feeder",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "BM-e",
+     "generic": "an automatic booklet maker for inline and nearline",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Digital System 1500",
+     "generic": "a compact booklet system for digital print",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Digital System 3500",
+     "generic": "an entry-level booklet system for digital print",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Digital System 6000 Pro",
+     "generic": "a high-speed booklet system for digital print",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Digital System 5000 Pro",
+     "generic": "a high-speed booklet system for digital print",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "System 3500",
+     "generic": "a booklet system with spine pressing",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "System 1500",
+     "generic": "a compact booklet system with collating tower",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Challenge CMT-130TC",
+     "generic": "a modular three-knife trimmer for books",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "C.P. Bourg BB3002",
+     "generic": "a perfect binder",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    }
+   ],
+   "evidence": [
+    {
+     "product": "iSaddle",
+     "type": "result",
+     "strength": 3,
+     "quote": "updruck in Hameln erhöht die Fertigungstiefe des eigenen Unternehmens mit der Installation des Sammelhefters FKS/Duplo iSaddle"
+    },
+    {
+     "product": "DocuCutter",
+     "type": "result",
+     "strength": 3,
+     "quote": "Die FKS/Duplo DocuCutter-Serie mit nahezu 1.000 zufriedenen Kunden ist ein bewährtes, speziell für den Digitaldruck entwickeltes Highlight im Bereich der Multifinisher."
+    },
+    {
+     "product": "DocuCutter DC-618",
+     "type": "launch",
+     "strength": 3,
+     "quote": "Neu in der DocuCutter-Familie ist der kompakte FKS/Duplo DocuCutter DC-618."
+    },
+    {
+     "product": "Touchline CPC375 XPro",
+     "type": "launch",
+     "strength": 3,
+     "quote": "Die bewährte FKS/Multigraf Touchline-Familie bekommt mit dem neuen Multifinisher FKS/Multigraf CPC375 XPro leistungsstarken Zuwachs."
+    },
+    {
+     "product": "PFi Blade B2+",
+     "type": "launch",
+     "strength": 3,
+     "quote": "Nach dem digitalen Schneidetisch FKS/PFi Blade B3+ folgt nun der FKS/PFi Blade B2+"
+    },
+    {
+     "product": "DocuCutter",
+     "type": "launch",
+     "strength": 2,
+     "quote": "Dank der neuesten Software-Entwicklung und Anbindung an die EFI Fiery Command WorkStation beginnt die Automatisierung des FKS/Duplo DocuCutter Workflows nun bereits in der Druckvorstufe."
+    }
+   ],
+   "success": []
+  },
+  {
+   "year": 2023,
+   "codeable": true,
+   "products": [
+    {
+     "name": "FKS/Multigraf Touchline CPC375 XPro",
+     "generic": "a sheet cutting, creasing and perforating multifinisher",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "FKS/Multigraf Touchline TCF375",
+     "generic": "a creasing and folding unit add-on",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "FKS/Multigraf Touchline CP375 Duo",
+     "generic": "a perforating and creasing machine",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "FKS/Multigraf Touchline CF375",
+     "generic": "a creasing and folding machine",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Touchline",
+     "generic": "a series of print finishing machines",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "FKS/Duplo DuSense DDC-8000",
+     "generic": "a digital UV spot varnishing and foiling system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": true
+    },
+    {
+     "name": "FKS/Duplo DuSense DDC-810",
+     "generic": "a digital UV spot varnishing system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "FKS/Duplo System DC-20K",
+     "generic": "a B2-format multifinisher system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": true
+    },
+    {
+     "name": "FKS/Duplo DocuCutter DC-746",
+     "generic": "a sheet cutting and creasing multifinisher",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "FKS/Duplo DocuCutter DC-648",
+     "generic": "a sheet cutting and creasing multifinisher",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "FKS/Duplo DocuCutter DC-618",
+     "generic": "a compact all-in-one finishing machine",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "FKS/Duplo DocuCutter DC-646 Pro",
+     "generic": "a cutter, creaser and perforator",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "FKS/Duplo DocuCutter DC-616 Pro",
+     "generic": "a multifunction finishing machine",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "DocuCutter",
+     "generic": "a series of multifinishers",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "FKS/Duplo System 6000i",
+     "generic": "an automatic saddle-stitched booklet system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "FKS/Duplo System 7000i",
+     "generic": "an automatic booklet production system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "FKS/Duplo iSaddle 5.0",
+     "generic": "a hybrid automatic saddle stitcher",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "FKS/PFi Blade B3+",
+     "generic": "a digital cutting table",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "FKS/PFi Blade B2+",
+     "generic": "a B2-format digital cutting table",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "FKS/Komfi Sagitta 76",
+     "generic": "a thermal film laminating system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    }
+   ],
+   "evidence": [
+    {
+     "product": "FKS/Multigraf Touchline CPC375 XPro",
+     "type": "result",
+     "strength": 3,
+     "quote": "Die Kombination aus FKS/Multigraf Touchline CPC375 XPro und TCF375 erlaubt das Rillen, Perforieren, Schneiden und Falzen seit Mai bei Kolumbus in Dietzenbach in einem Arbeitsgang"
+    },
+    {
+     "product": "FKS/Multigraf Touchline TCF375",
+     "type": "result",
+     "strength": 3,
+     "quote": "Die Kombination aus FKS/Multigraf Touchline CPC375 XPro und TCF375 erlaubt das Rillen, Perforieren, Schneiden und Falzen seit Mai bei Kolumbus in Dietzenbach in einem Arbeitsgang"
+    },
+    {
+     "product": "FKS/Duplo DuSense DDC-8000",
+     "type": "launch",
+     "strength": 3,
+     "quote": "Am Mittwoch, den 23. August 2023 fand bei LIMEGO GmbH in Gelsenkirchen ein spannender Veranstaltungstag statt. Im Fokus dabei die Deutschlandpremiere der FKS/Duplo DuSense DDC-8000."
+    },
+    {
+     "product": "FKS/Duplo System DC-20K",
+     "type": "launch",
+     "strength": 3,
+     "quote": "FKS/Duplo System DC-20K – Die neue B2-Lösung im Bereich Multifinishing 01. März 2023"
+    },
+    {
+     "product": "FKS/Duplo DuSense DDC-810",
+     "type": "result",
+     "strength": 3,
+     "quote": "So übernimmt die FKS/Duplo DuSense DDC-810 bei Hemmersbach Druck einen Großteil der Spotlack-Aufträge, die zuvor im Siebdruck produziert wurden."
+    },
+    {
+     "product": "FKS/PFi Blade B3+",
+     "type": "launch",
+     "strength": 1,
+     "quote": "Wenn Sie mehr zum neuen digitalen Schneidetisch erfahren wollen, melden Sie sich gerne hier zu unserem Webinar „Kreativ & Vielseitig – Der neue FKS/PFi Blade B3+“ an."
+    }
+   ],
+   "success": []
+  },
+  {
+   "year": 2024,
+   "codeable": true,
+   "products": [
+    {
+     "name": "FKS/Multigraf Touchline",
+     "generic": "a family of creasing, perforating and folding machines",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "FKS/Multigraf Touchline CPC375 XPro",
+     "generic": "a multifinisher for cutting, creasing and perforating",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "FKS/Multigraf Touchline CP375 Duo",
+     "generic": "a creasing and perforating machine",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "FKS/Multigraf Touchline TCF375",
+     "generic": "a creasing and folding machine",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "FKS/Multigraf Touchline CF375",
+     "generic": "an automatic creasing and folding machine",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Touchline TF375",
+     "generic": "a folding unit for sheet finishing",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "FKS/Duplo DSM-1000",
+     "generic": "a digital flatbed die cutter for packaging",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "FKS/Duplo DocuCutter",
+     "generic": "a series of multifinishers for digital print",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "FKS/Duplo DocuCutter DC-618",
+     "generic": "an entry-level multifinisher for digital print",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "FKS/Duplo DocuCutter DC-616 Pro",
+     "generic": "a multifinisher for cutting, creasing and perforating",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "KB-1000 PUR",
+     "generic": "an automatic perfect binder with PUR glue",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "KB-4000 PUR",
+     "generic": "a single-clamp perfect binder with PUR glue",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "FKS/Duplo DuBinder DPB-500",
+     "generic": "a high-performance perfect binder",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "FKS/Duplo System 6000i",
+     "generic": "a booklet making system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "FKS/Duplo iSaddle",
+     "generic": "a saddle stitcher for brochures",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "FKS/C.P. Bourg BM-e",
+     "generic": "an automatic booklet maker",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "FKS/C.P. Bourg BB3002",
+     "generic": "an automatic PUR/EVA perfect binder",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "FKS/C.P. Bourg Blatt-Präparations-Modul (BPM)",
+     "generic": "a sheet preparation module for book production",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "FKS/C.P. Bourg Perfect Stacker BPS",
+     "generic": "a stacking unit for book and brochure production",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "FKS/Duplo Digital System 1500",
+     "generic": "a compact booklet system for digital print",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "FKS/Duplo Digital System 3500",
+     "generic": "an entry-level booklet system for digital print",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "FKS/Duplo System 3500",
+     "generic": "an automatic booklet system with spine press",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "FKS/Duplo System 1500",
+     "generic": "a booklet system for offset and digital print",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "FKS/PFi Blade B2+",
+     "generic": "a digital cutting table for B2 format",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "FKS/Komfi Amiga 36/52/76",
+     "generic": "a compact laminating machine in three formats",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "FKS/Komfi Delta 52",
+     "generic": "a high-performance laminating machine",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    }
+   ],
+   "evidence": [
+    {
+     "product": "FKS/Multigraf Touchline CPC375 XPro",
+     "type": "result",
+     "strength": 3,
+     "quote": "Welpdruck aus Wiehl erwirbt Multifinisher Touchline CPC375 XPro von FKS/Multigraf. ... 16 August, 2024"
+    },
+    {
+     "product": "FKS/Multigraf Touchline CP375 Duo",
+     "type": "result",
+     "strength": 3,
+     "quote": "Mit FKS/Multigraf Touchline CP375 Duo Zeit sparen - Rill- und Perforiermaschine von FKS begeistert bei Druckerei Bender.... 26 Juli, 2024"
+    },
+    {
+     "product": "FKS/C.P. Bourg Perfect Stacker BPS",
+     "type": "launch",
+     "strength": 3,
+     "quote": "Mit dem neuen FKS/C.P. Bourg Perfect Stacker BPS insbesondere in Kombination mit dem FKS/C.P. Bourg Blatt-Präparations-Modul BPM ergeben sich weitere Möglichkeiten"
+    }
+   ],
+   "success": []
+  },
+  {
+   "year": 2025,
+   "codeable": true,
+   "products": [
+    {
+     "name": "FKS/Multigraf Touchline",
+     "generic": "a family of sheet finishing machines",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "FKS/Multigraf Touchline CPC375 XPro",
+     "generic": "a multifinisher for cutting, creasing and perforating",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "FKS/Multigraf Touchline CP375 Duo",
+     "generic": "a creasing and perforating machine",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "FKS/Multigraf Touchline CF375",
+     "generic": "an automatic creasing and folding machine",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "FKS/Duplo DSM-1000",
+     "generic": "a digital flatbed die-cutting machine",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": true
+    },
+    {
+     "name": "FKS/Duplo iSaddle Senshi",
+     "generic": "a saddle stitcher for flat sheet processing",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "FKS/Duplo iSaddle 5.0",
+     "generic": "a saddle stitching booklet machine",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "FKS/Duplo System DBMi",
+     "generic": "a hybrid saddle stitcher",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "FKS PrintBind KB-4000 PUR",
+     "generic": "an entry-level PUR perfect binder",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "KB-1000 PUR",
+     "generic": "an automatic PUR perfect binder",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "FKS/Duplo DuBinder DPB-500",
+     "generic": "a high-performance perfect binder",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "FKS/Duplo DocuCutter DC-616",
+     "generic": "a multifunctional slitter, cutter and creaser",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "FKS/Duplo System 6000i",
+     "generic": "an automatic booklet making system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "FKS/Duplo System 3500",
+     "generic": "a booklet system with spine press",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "FKS/Duplo Digital System 1500",
+     "generic": "a compact booklet system for digital print",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "FKS/Duplo Digital System 7000 Pro",
+     "generic": "a high-speed booklet system for digital print",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "FKS/C.P. Bourg BM-e",
+     "generic": "an automatic booklet maker",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "FKS/C.P. Bourg BB3002 PUR/EVA",
+     "generic": "an automatic single-clamp perfect binder",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "FKS/C.P. Bourg Blatt-Präparations-Modul",
+     "generic": "a sheet preparation module for finishing lines",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "FKS/PFi Blade B2+",
+     "generic": "a digital cutting table for B2 format",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "FKS/Komfi Amiga 52 In-Line",
+     "generic": "an inline laminating machine",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "FKS/Komfi Amiga 52 Tandem Double",
+     "generic": "a double-sided compact laminating machine",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "FKS/Komfi Delta 56",
+     "generic": "a high-performance laminating system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    }
+   ],
+   "evidence": [
+    {
+     "product": "FKS/Multigraf Touchline CPC375 XPro",
+     "type": "result",
+     "strength": 3,
+     "quote": "Welpdruck aus Wiehl erwirbt Multifinisher Touchline CPC375 XPro von FKS/Multigraf."
+    },
+    {
+     "product": "FKS/Multigraf Touchline CP375 Duo",
+     "type": "result",
+     "strength": 3,
+     "quote": "Mit FKS/Multigraf Touchline CP375 Duo Zeit sparen - Rill- und Perforiermaschine von FKS begeistert bei Druckerei Bender."
+    },
+    {
+     "product": "FKS/Duplo iSaddle Senshi",
+     "type": "launch",
+     "strength": 2,
+     "quote": "Entwickelt als Ergänzung des bewährten Sammelhefters FKS/Duplo iSaddle 5.0 hebt die iSaddle Senshi die Broschürenproduktion auf ein ganz neues Level."
+    }
+   ],
+   "success": []
+  },
+  {
+   "year": 2026,
+   "codeable": true,
+   "products": [
+    {
+     "name": "FKS/Komfi Fullmatic 53",
+     "generic": "B2 UV and dispersion sheet coating machine",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": true
+    },
+    {
+     "name": "FKS/Komfi Protenha 76",
+     "generic": "B2 landscape UV and dispersion coating machine",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": true
+    },
+    {
+     "name": "FKS/C.P. Bourg BBM 40/60+",
+     "generic": "modular in-line and near-line booklet maker",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "FKS/C.P. Bourg BM-e",
+     "generic": "modular in-line and near-line booklet maker",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "FKS/Duplo Digital System 7000 Pro",
+     "generic": "high-speed booklet system for digital prints",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "FKS/Duplo Digital System 1500",
+     "generic": "compact booklet system for digital prints",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "FKS/Duplo System 3500",
+     "generic": "booklet system with integrated spine press",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "FKS/Duplo System 6000i",
+     "generic": "high-volume collating and booklet making system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "FKS/Duplo System 7000i",
+     "generic": "high-volume booklet system for thick booklets",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "FKS/Duplo DuCreaser DC-446",
+     "generic": "automatic bar creasing machine with suction feeder",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "FKS/Komfi Amiga 52 Tandem Emboss",
+     "generic": "compact B2 laminator with embossing module",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "FKS/Komfi X-Stream 3680",
+     "generic": "in-line capable film laminating machine",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "FKS/Komfi Sirius 110",
+     "generic": "B0 format film laminating machine",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "FKS/Multigraf Touchline C375 Plus",
+     "generic": "creasing and perforating machine",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "FKS/Multigraf Touchline CF375",
+     "generic": "combined creasing and folding machine",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "FKS/Duplo DC-ST100",
+     "generic": "integrated stacker for multifinishing cutter",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "FKS/Duplo DocuCutter",
+     "generic": "multifinisher for cutting, slitting and creasing",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "FKS/Derprosa BOPP Glanz",
+     "generic": "glossy BOPP laminating film",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "FKS/Duplo iSaddle",
+     "generic": "collating saddle stitcher",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "FKS/Multigraf Touchline CP375 Duo",
+     "generic": "creasing and perforating machine",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    }
+   ],
+   "evidence": [
+    {
+     "product": "FKS/Komfi Fullmatic 53",
+     "type": "launch",
+     "strength": 3,
+     "quote": "Mit den neuen Lackiermaschinen Fullmatic 53 und Protenha 76 erweitert FKS/Komfi sein Portfolio um Lackiermaschinen mit UV- und Dispersionslacken sowie Primer."
+    },
+    {
+     "product": "FKS/Komfi Protenha 76",
+     "type": "launch",
+     "strength": 3,
+     "quote": "Mit den neuen Lackiermaschinen Fullmatic 53 und Protenha 76 erweitert FKS/Komfi sein Portfolio um Lackiermaschinen mit UV- und Dispersionslacken sowie Primer."
+    },
+    {
+     "product": "FKS/C.P. Bourg BBM 40/60+",
+     "type": "launch",
+     "strength": 3,
+     "quote": "Mit der neuesten Innovation, dem FKS/C.P. Bourg Booklet Maker 40/60+ (BBM 40/60+) hat FKS ein neues Broschürensystem im Portfolio"
+    },
+    {
+     "product": "FKS/Komfi Sirius 110",
+     "type": "launch",
+     "strength": 3,
+     "quote": "Mit der neuen Kaschiermaschine FKS/Komfi Sirius 110 verarbeiten Sie offset und digital erstellte Drucksachen bis zum Format B0."
+    },
+    {
+     "product": "FKS/Duplo DC-ST100",
+     "type": "launch",
+     "strength": 3,
+     "quote": "Die neue integrierte Auslage FKS/Duplo DC-ST100 bringt Ihren FKS/Duplo DocuCutter DC-648 oder DC-746 auf ein neues Level an Automatisierung"
+    },
+    {
+     "product": "FKS/C.P. Bourg BM-e",
+     "type": "result",
+     "strength": 2,
+     "quote": "FKS und Druckerei Schiemenz verwirklichen In-Line Innovation in Cottbus. Erstmals wurde ein Broschürensystem des Typs FKS/C.P. Bourg BM-e inklusive eines Zuschnittmoduls BPM direkt an eine V"
+    }
+   ],
+   "success": []
+  }
+ ]
+}

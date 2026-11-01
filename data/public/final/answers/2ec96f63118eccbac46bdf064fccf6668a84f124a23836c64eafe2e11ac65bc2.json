@@ -1,0 +1,1 @@
+{"model": "deepseek-v4-pro", "effort": "medium", "answer": {"decisions": [{"product": "A", "probability_dropped": 15, "decision": "keep", "reason": "The product has its own page and no negative signals, so after only one year it is likely still being evaluated for market fit and should be kept."}]}}

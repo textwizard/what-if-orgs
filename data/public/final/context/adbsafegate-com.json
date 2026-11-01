@@ -1,0 +1,93 @@
+{
+ "slug": "adbsafegate-com",
+ "windows": {
+  "exploration": {
+   "years": [
+    2017
+   ],
+   "industry": {
+    "turnover": "grew",
+    "rd": "more",
+    "patents": "more",
+    "universities": "about as"
+   },
+   "employees": 900,
+   "hiring": true,
+   "hiring_quote": "On a short term, my main focus is to strengthen the existing team by hiring additional employees, in order to have a sound base for the upcoming challenges.",
+   "expansion": false,
+   "expansion_quote": null,
+   "investment": false,
+   "investment_quote": null,
+   "growth": false,
+   "growth_quote": null,
+   "difficulty": false,
+   "difficulty_quote": null,
+   "rd": true,
+   "rd_quote": "we are fortunate to welcome Arnold Maier as our newest R&D director in Graz, Austria.",
+   "cooperation": false,
+   "cooperation_quote": null,
+   "eu_projects": 0,
+   "products_offered": 11,
+   "new": [
+    "distributed airfield lighting control unit",
+    "air situation display for surveillance",
+    "airport systems training program",
+    "airfield ground lighting training course",
+    "airport collaboration software tool",
+    "multilateration aircraft surveillance system"
+   ],
+   "relatedness": [
+    "related",
+    "related",
+    "related",
+    "related",
+    "related",
+    "related"
+   ]
+  },
+  "holdout": {
+   "years": [
+    2022
+   ],
+   "industry": {
+    "turnover": "grew",
+    "rd": "more",
+    "patents": "more",
+    "universities": "more"
+   },
+   "employees": null,
+   "hiring": true,
+   "hiring_quote": "The company will expand its presence in Gahanna, Ohio, investing $1.5 million and creating 24 new jobs. Hiring for engineering, production and other roles will begin in 2022.",
+   "expansion": true,
+   "expansion_quote": "ADB SAFEGATE plans to build a new 175,000-square-foot facility at the corner of Science Boulevard and Tech Center Drive in Gahanna.",
+   "investment": true,
+   "investment_quote": "investing $1.5 million and creating 24 new jobs. The company’s investment will be put toward technologically advanced machinery and equipment.",
+   "growth": false,
+   "growth_quote": null,
+   "difficulty": false,
+   "difficulty_quote": null,
+   "rd": true,
+   "rd_quote": "the new AXON range of lights from ADB SAFEGATE with built-in sensor technology and patented 5G communication capability was introduced to ASECNA",
+   "cooperation": false,
+   "cooperation_quote": null,
+   "eu_projects": 0,
+   "products_offered": 17,
+   "new": [
+    "aircraft turnaround management software",
+    "apron connectivity software module",
+    "revenue calculation and billing software",
+    "apron equipment monitoring software",
+    "apron resource management software module",
+    "controller safety alert service"
+   ],
+   "relatedness": [
+    "close",
+    "related",
+    "related",
+    "related",
+    "close",
+    "related"
+   ]
+  }
+ }
+}

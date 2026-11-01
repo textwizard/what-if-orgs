@@ -1,0 +1,87 @@
+{
+ "slug": "retarus-com",
+ "windows": {
+  "exploration": {
+   "years": [
+    2017
+   ],
+   "industry": {
+    "turnover": "grew",
+    "rd": "about as",
+    "patents": "about as",
+    "universities": "about as"
+   },
+   "employees": null,
+   "hiring": true,
+   "hiring_quote": "Your filtering delivered 54 results",
+   "expansion": false,
+   "expansion_quote": null,
+   "investment": false,
+   "investment_quote": null,
+   "growth": false,
+   "growth_quote": null,
+   "difficulty": false,
+   "difficulty_quote": null,
+   "rd": true,
+   "rd_quote": "invests 7.5% of our annual revenues on research and development – more than double the industry average.",
+   "cooperation": false,
+   "cooperation_quote": null,
+   "eu_projects": 0,
+   "products_offered": 10,
+   "new": [
+    "cloud transactional email sending service",
+    "document capture and recognition service",
+    "email and fax conversion service",
+    "fax delivery optimization feature",
+    "email sandbox threat protection",
+    "multi-engine email virus scanning"
+   ],
+   "relatedness": [
+    "related",
+    "related",
+    "related",
+    "close",
+    "related",
+    "close"
+   ]
+  },
+  "holdout": {
+   "years": [
+    2022
+   ],
+   "industry": {
+    "turnover": "grew",
+    "rd": "more",
+    "patents": "about as",
+    "universities": "more"
+   },
+   "employees": 460,
+   "hiring": false,
+   "hiring_quote": null,
+   "expansion": false,
+   "expansion_quote": null,
+   "investment": false,
+   "investment_quote": null,
+   "growth": false,
+   "growth_quote": null,
+   "difficulty": false,
+   "difficulty_quote": null,
+   "rd": true,
+   "rd_quote": "100 % selbst entwickelte Cloud-Services, 100 % DSGVO-konform",
+   "cooperation": false,
+   "cooperation_quote": null,
+   "eu_projects": 0,
+   "products_offered": 14,
+   "new": [
+    "inbound sms api",
+    "email to sms gateway",
+    "sms to email gateway"
+   ],
+   "relatedness": [
+    "close",
+    "close",
+    "close"
+   ]
+  }
+ }
+}

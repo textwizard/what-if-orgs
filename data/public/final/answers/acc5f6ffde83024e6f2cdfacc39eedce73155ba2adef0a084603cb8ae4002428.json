@@ -1,0 +1,1 @@
+{"model": "deepseek-v4-pro", "effort": "medium", "answer": {"decisions": [{"product": "B", "probability_dropped": 15, "decision": "keep", "reason": "The product still has its own page and no reported negative results, so real options reasoning suggests keeping this low-cost option open while uncertainty remains."}]}}

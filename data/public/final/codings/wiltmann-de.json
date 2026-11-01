@@ -1,0 +1,1009 @@
+{
+ "slug": "wiltmann-de",
+ "profiles": {
+  "exploration": {
+   "strategy": {
+    "offer": "Premium cured and cooked meat products, including sausages, ham, pâtés, aspic items and organic options for deli counters and refrigerated self-service shelves.",
+    "customers": "Butcher shops, grocery retailers, supermarkets, wholesalers, and consumers looking for dependable, high-quality deli and chilled meat offerings.",
+    "why_we_win": "It combines inherited recipes and craftsmanship with modern manufacturing, carefully selected ingredients, and rigorous quality standards to deliver reliable enjoyment and product safety.",
+    "resources": "Longstanding know-how, skilled processing expertise, proprietary seasoning know-how, large-scale maturation and production facilities, and certified quality, organic, and energy-management systems.",
+    "direction": "Continue modernizing traditional production, expanding ranges including organic lines, and increasing customer transparency about how products are made."
+   },
+   "context": {
+    "size": "large",
+    "founded": 1887,
+    "industry": "Manufacture of food products"
+   },
+   "seed_year": 2017
+  },
+  "holdout": {
+   "strategy": {
+    "offer": "Packaged charcuterie and cold-cut specialties, including sausages, hams, salami, aspic items, pâtés, and organic variants.",
+    "customers": "Households and retail food shoppers seeking flavorful, convenient meat specialties, including organic and more ingredient-conscious options.",
+    "why_we_win": "They expect success through trusted taste and quality from careful craftsmanship, premium ingredients, traditional recipes, and broad variety.",
+    "resources": "Selected raw materials, in-house seasoning expertise, traditional processing know-how, curing and maturation capabilities, and trained employees support the business.",
+    "direction": "Expanding the assortment, especially organic lines and new formats, while investing in apprenticeships and future workforce development."
+   },
+   "context": {
+    "size": null,
+    "founded": null,
+    "industry": "Manufacture of food products"
+   },
+   "seed_year": 2022
+  }
+ },
+ "years": [
+  {
+   "year": 2017,
+   "codeable": true,
+   "products": [
+    {
+     "name": "Salamissimo",
+     "generic": "air-dried mini salami snacks",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Salamissimo Antipasti",
+     "generic": "flavoured mini salamis for antipasti",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Genießer-Pasteten",
+     "generic": "liver pâté specialities",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Genießer-Teller",
+     "generic": "pre-packed sliced cold cuts range",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Filetto",
+     "generic": "sliced cured meat specialty",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Hauchfeine Salami",
+     "generic": "thinly sliced salami in folding pack",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    }
+   ],
+   "evidence": [
+    {
+     "product": "Salamissimo",
+     "type": "launch",
+     "strength": 2,
+     "quote": "Unsere Salamissimo luftgetrockneten Mini-Salamis erweitern wir um 100g Packungen:"
+    },
+    {
+     "product": "Salamissimo Antipasti",
+     "type": "launch",
+     "strength": 1,
+     "quote": "Salamissimo Antipasti Mini-Salamis Parmesan ca. 300g"
+    },
+    {
+     "product": "Genießer-Pasteten",
+     "type": "launch",
+     "strength": 2,
+     "quote": "Unsere Genießer-Pasteten erweitern wir für die Wintersaison um weitere Artikel!"
+    },
+    {
+     "product": "Genießer-Teller",
+     "type": "launch",
+     "strength": 2,
+     "quote": "Unser Genießer-Teller-Sortiment erweitern wir um drei neue Artikel:"
+    },
+    {
+     "product": "Filetto",
+     "type": "launch",
+     "strength": 2,
+     "quote": "Unser Genießer-Teller-Sortiment erweitern wir um drei neue Artikel: Filetto 80g"
+    },
+    {
+     "product": "Hauchfeine Salami",
+     "type": "launch",
+     "strength": 2,
+     "quote": "Folgende Spezialitäten in der praktischen Faltpackung ergänzen unser Salami-Sortiment: Hauchfeine Salami edelgeschimmelt 80g"
+    }
+   ],
+   "success": []
+  },
+  {
+   "year": 2018,
+   "codeable": true,
+   "products": [
+    {
+     "name": "Genießerteller",
+     "generic": "packaged sliced sausage and ham assortment",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": true
+    },
+    {
+     "name": "Salamissimo",
+     "generic": "air-dried mini salami snacks",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Crunch",
+     "generic": "crispy meat chips snack",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Feinschmecker Salami",
+     "generic": "packaged sliced salami",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Bio-Vielfalt",
+     "generic": "organic sausage and ham range",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    }
+   ],
+   "evidence": [
+    {
+     "product": "Salamissimo",
+     "type": "launch",
+     "strength": 2,
+     "quote": "Für alle, die unsere Mini-Salamis auch in Bio-Qualität genießen möchten, haben wir ab sofort genau das Richtige: Salamissimo Bio Klassik."
+    },
+    {
+     "product": "Crunch",
+     "type": "launch",
+     "strength": 2,
+     "quote": "Jetzt wird's kross: Crunch der neue Premium-Snack aus herzhaftem Schweinefleisch."
+    },
+    {
+     "product": "Crunch",
+     "type": "launch",
+     "strength": 2,
+     "quote": "Köstlich, knackig, Crunch - unser neuer Premium-Snack aus edlem Rindfleisch."
+    },
+    {
+     "product": "Salamissimo",
+     "type": "launch",
+     "strength": 2,
+     "quote": "NEU: Salamissimo Luftgetrockenete Mini Salami Brezeln 80 g"
+    },
+    {
+     "product": "Salamissimo",
+     "type": "launch",
+     "strength": 2,
+     "quote": "NEU: Salamissimo Luftgetrockenete Mini Salami Rind 80 g Ab heute im Snack-Angebot: Luftgetrocknete Salami-Sticks aus kernigem Rindfleisch."
+    },
+    {
+     "product": "Bio-Vielfalt",
+     "type": "launch",
+     "strength": 2,
+     "quote": "Unsere Bio-Vielfalt ist jetzt noch vielfältiger: Bio Lachsschinken - köstlich, zart und ab sofort auf dem Genießerteller im Kühlregal zu finden."
+    },
+    {
+     "product": "Genießerteller",
+     "type": "launch",
+     "strength": 2,
+     "quote": "Jetzt neu auf dem Genießerteller: Pastrami – pikant gewürzte Rinderbrust in feinen Scheiben."
+    }
+   ],
+   "success": []
+  },
+  {
+   "year": 2019,
+   "codeable": true,
+   "products": [
+    {
+     "name": "Salamissimo",
+     "generic": "mini salami snack range",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Salamissimo Heißgeräucherte Mini-Salamis Tiroler",
+     "generic": "hot-smoked mini salami snack",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Salamissimo Salami-Snack 30 g",
+     "generic": "air-dried mini salami snack pack",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Bio Salamissimo Luftgetrocknete Mini-Salamis Klassik",
+     "generic": "organic air-dried mini salami snack",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Leber-Pastete mit Entenleber und Putenfleisch",
+     "generic": "liver pâté with duck liver and turkey",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Leber-Pastete Klassik mit Kalbfleisch",
+     "generic": "liver pâté with veal",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Edel Salami",
+     "generic": "mildly smoked pork and beef salami",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Rein Rind Salami",
+     "generic": "pure beef salami",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Fenchel Salami",
+     "generic": "fennel-flavoured sliced salami",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Bio Pfeffer-Salami",
+     "generic": "organic pepper-coated salami",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Bio Kasseler",
+     "generic": "organic sliced cured smoked pork",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Bio Gourmetschinken",
+     "generic": "organic sliced ham",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Delikatess Rindfleisch in Teriyaki-Aspik",
+     "generic": "beef in aspic for deli counter",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Wiltmann CRUNCH",
+     "generic": "meat-based chips snack",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    }
+   ],
+   "evidence": [
+    {
+     "product": "Bio Kasseler",
+     "type": "launch",
+     "strength": 2,
+     "quote": "NEU: Bio Kasseler 50 g"
+    },
+    {
+     "product": "Salamissimo Heißgeräucherte Mini-Salamis Tiroler",
+     "type": "launch",
+     "strength": 2,
+     "quote": "Jetzt neu im Snack-Angebot: Heißgeräucherte Mini-Salamis nach Tiroler Art."
+    },
+    {
+     "product": "Bio Gourmetschinken",
+     "type": "launch",
+     "strength": 2,
+     "quote": "NEU: Bio Gourmetschinken 50 g"
+    },
+    {
+     "product": "Leber-Pastete Klassik mit Kalbfleisch",
+     "type": "launch",
+     "strength": 2,
+     "quote": "NEU: Leber-Pastete Klassik mit Kalbfleisch 100 g"
+    },
+    {
+     "product": "Delikatess Rindfleisch in Teriyaki-Aspik",
+     "type": "launch",
+     "strength": 3,
+     "quote": "Für die Bedienungstheke haben wir in diesem Jahr eine exotische Aspik-Spezialität kreiert: \"Delikatess Rindfleisch in Teriyaki-Aspik\"."
+    },
+    {
+     "product": "Salamissimo Salami-Snack 30 g",
+     "type": "launch",
+     "strength": 2,
+     "quote": "NEU: Salamissimo Salami-Snack 30 g"
+    },
+    {
+     "product": "Bio Pfeffer-Salami",
+     "type": "launch",
+     "strength": 2,
+     "quote": "NEU: Bio Pfeffer-Salami 80g"
+    },
+    {
+     "product": "Salamissimo",
+     "type": "result",
+     "strength": 3,
+     "quote": "Fast alle Teilnehmer waren begeistert: 96% der Tester waren insgesamt (sehr) zufrieden mit den Testprodukten."
+    }
+   ],
+   "success": []
+  },
+  {
+   "year": 2022,
+   "codeable": true,
+   "products": [
+    {
+     "name": "Salamissimo Bio Geflügel",
+     "generic": "organic air-dried poultry mini salamis",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Salafino",
+     "generic": "thinly sliced mould-ripened premium salami",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Genießer-Pasteten",
+     "generic": "range of sliceable liver pâtés",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Trüffel-Leber-Pastete",
+     "generic": "liver pâté with truffle",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Salami-Genießerteller",
+     "generic": "range of pre-sliced packaged salamis",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": true
+    },
+    {
+     "name": "Schinken-Salami",
+     "generic": "pre-sliced ham-style salami",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Salami Pure Pute",
+     "generic": "mild turkey salami",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Bio Salami",
+     "generic": "organic pre-sliced salami",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": true
+    },
+    {
+     "name": "Bio Peperoni-Salami",
+     "generic": "organic spicy pepperoni salami",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Bio Edel-Salami",
+     "generic": "organic salami piece, diagonally cut",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Bio Schinkenlyoner fein",
+     "generic": "organic fine ham sausage cold cut",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Bio Baguette-Salami edelgeschimmelt",
+     "generic": "organic mould-ripened air-dried pork salami",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Bio Geflügel-Lyoner fein",
+     "generic": "organic fine poultry sausage cold cut",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Bio Pfeffer-Salami",
+     "generic": "organic pepper-coated salami",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    }
+   ],
+   "evidence": [
+    {
+     "product": "Salamissimo Bio Geflügel",
+     "type": "launch",
+     "strength": 2,
+     "quote": "Unsere leckeren Bio Mini-Salamis gibt es ab sofort auch als reine Geflügelspezialität: Salamissimo Bio Geflügel."
+    },
+    {
+     "product": "Salafino",
+     "type": "launch",
+     "strength": 2,
+     "quote": "NEU: Salafino Classic 80 g"
+    },
+    {
+     "product": "Salafino",
+     "type": "launch",
+     "strength": 2,
+     "quote": "NEU: Salafino Geflügel 80 g"
+    },
+    {
+     "product": "Bio Salami",
+     "type": "result",
+     "strength": 3,
+     "quote": "In dem am 22.09.2021 gesendeten Beitrag verkosten Restaurantkritiker Carsten Henn, Feinkostexperte Nico Gaude und Hobbyköchin Mara Eli insgesamt fünf verschiedene abgepackte Bio Salamis. Nur die Bio Salami von Wiltmann überzeugte alle drei Tester gleichermaßen."
+    },
+    {
+     "product": "Genießer-Pasteten",
+     "type": "result",
+     "strength": 3,
+     "quote": "99 Prozent der Tester waren insgesamt (sehr) zufrieden mit den Produkten. 96 Prozent der Tester gaben an, dass sie zukünftig (sehr) wahrscheinlich wieder Genießer-Pasteten von WILTMANN kaufen werden."
+    },
+    {
+     "product": "Trüffel-Leber-Pastete",
+     "type": "result",
+     "strength": 2,
+     "quote": "Die Trüffel-Leber-Pastete überzeugte die Testerinnen und Tester auf ganzer Linie."
+    },
+    {
+     "product": "Salami-Genießerteller",
+     "type": "result",
+     "strength": 3,
+     "quote": "100 Prozent der Tester waren insgesamt (sehr) zufrieden mit den Produkten. 99 Prozent der Tester gaben an, dass sie zukünftig (sehr) wahrscheinlich wieder Salami-Genießerteller von WILTMANN kaufen werden."
+    },
+    {
+     "product": "Schinken-Salami",
+     "type": "result",
+     "strength": 2,
+     "quote": "Die Nr. 1 – Schinken-Salami 50g"
+    },
+    {
+     "product": "Schinken-Salami",
+     "type": "launch",
+     "strength": 2,
+     "quote": "NEU: Schinken-Salami 50 g"
+    },
+    {
+     "product": "Salami Pure Pute",
+     "type": "result",
+     "strength": 3,
+     "quote": "92 Prozent der weiblichen Tester stimmten der Aussage zu, dass die Salami Pure Pu"
+    },
+    {
+     "product": "Bio Peperoni-Salami",
+     "type": "launch",
+     "strength": 2,
+     "quote": "Die perfekte Ergänzung unseres Bio-Genießerteller-Sortiments: Jetzt unsere pikante Peperoni-Salami entdecken!"
+    },
+    {
+     "product": "Bio Edel-Salami",
+     "type": "launch",
+     "strength": 2,
+     "quote": "Bio-Genuss am Stück: Unsere neue Bio Edel-Salami im Schräganschnitt sorgt ab sofort für besonders herzhaften Genuss."
+    },
+    {
+     "product": "Bio Schinkenlyoner fein",
+     "type": "launch",
+     "strength": 2,
+     "quote": "Unsere neue Lyoner im Team „Bio“: Bestes Schweinefleisch und eine feine Würzung verleihen unserer Bio Schinkenlyoner ihren milden Geschmack."
+    },
+    {
+     "product": "Bio Baguette-Salami edelgeschimmelt",
+     "type": "launch",
+     "strength": 2,
+     "quote": "Eine Neue im Team „Bio“: Leckere edelgeschimmelte Baguette-Salami in Bio-Qualität sorgt ab sofort für herzhaften Genuss."
+    },
+    {
+     "product": "Bio Geflügel-Lyoner fein",
+     "type": "launch",
+     "strength": 2,
+     "quote": "Unsere beliebte Bio Geflügel-Lyoner gibt es jetzt auch auf dem XXL-Genießerteller."
+    }
+   ],
+   "success": []
+  },
+  {
+   "year": 2023,
+   "codeable": true,
+   "products": [
+    {
+     "name": "Salamissimo",
+     "generic": "snack mini salamis",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Bio Salamissimo Luftgetrocknete Mini-Salamis Geflügel mit Pflanzenfett",
+     "generic": "organic air-dried poultry mini salamis",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Genießer-Pasteten",
+     "generic": "meat pâté specialties with aspic",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Bio Salami-Genießerteller",
+     "generic": "organic sliced salami platter",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Bio Baguette-Salami",
+     "generic": "organic air-dried mould-ripened pork salami",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Bio Edel-Salami",
+     "generic": "organic pork salami with garlic and rosemary",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Bio Peperoni-Salami",
+     "generic": "organic spicy pepperoni salami",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Bierwurst-Kugel",
+     "generic": "ball-shaped cooked beer sausage",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    }
+   ],
+   "evidence": [],
+   "success": []
+  },
+  {
+   "year": 2024,
+   "codeable": true,
+   "products": [
+    {
+     "name": "Salamissimo Aperitivo",
+     "generic": "premium salami snack for sharing",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Bio Salamissimo",
+     "generic": "organic air-dried mini salamis",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Salafino",
+     "generic": "thinly sliced mould-ripened premium salami",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Bio Hauchfein Hähnchenbrust",
+     "generic": "organic thinly sliced chicken breast cold cut",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Bio Fleischwurst",
+     "generic": "organic pork boiled sausage",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Genießer-Pasteten",
+     "generic": "meat pâtés with aspic layer",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Genießerteller",
+     "generic": "sliced sausage on serving tray packs",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    }
+   ],
+   "evidence": [
+    {
+     "product": "Bio Fleischwurst",
+     "type": "launch",
+     "strength": 2,
+     "quote": "NEU: Bio Fleischwurst 200 g Eine Neue im Team „Bio“: Zarte Fleischwurst in Bio-Qualität sorgt ab sofort für herzhaften Genuss."
+    },
+    {
+     "product": "Bio Hauchfein Hähnchenbrust",
+     "type": "launch",
+     "strength": 2,
+     "quote": "NEU: Bio Hauchfein Hähnchenbrust Honig 60 g"
+    },
+    {
+     "product": "Bio Hauchfein Hähnchenbrust",
+     "type": "launch",
+     "strength": 2,
+     "quote": "NEU: Bio Hauchfein Hähnchenbrust Natur 60 g"
+    },
+    {
+     "product": "Salamissimo Aperitivo",
+     "type": "launch",
+     "strength": 2,
+     "quote": "NEU: Salamissimo Aperitivo Classic 70 g Genuss für jede Gelegenheit: Unser neuer Premium Salami-Snack Classic."
+    },
+    {
+     "product": "Salamissimo Aperitivo",
+     "type": "launch",
+     "strength": 2,
+     "quote": "NEU: Salamissimo Aperitivo Geflügel 70 g"
+    }
+   ],
+   "success": []
+  },
+  {
+   "year": 2025,
+   "codeable": true,
+   "products": [
+    {
+     "name": "Salamissimo",
+     "generic": "snack mini salamis",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Bio Salamissimo Luftgetrocknete Mini-Salamis Geflügel mit Pflanzenfett",
+     "generic": "organic air-dried poultry mini salamis",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Bio Kräuter-Salami",
+     "generic": "organic herb-coated salami",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Bio Salami-Genießerteller",
+     "generic": "organic sliced salami platters",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": true
+    },
+    {
+     "name": "Bio Baguette-Salami",
+     "generic": "organic air-dried pork salami with mould",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Bio Salami",
+     "generic": "organic sliced salami",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Bio Geflügel-Salami",
+     "generic": "organic poultry salami",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Bio Pfeffer-Salami",
+     "generic": "organic pepper salami",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Bio Rein Rind-Salami",
+     "generic": "organic beef salami",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Bio Peperoni-Salami",
+     "generic": "organic spicy salami",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Genießer-Pasteten",
+     "generic": "liver pâtés with aspic",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Bio Lachsschinken",
+     "generic": "organic smoked cured pork loin",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Bio Fleischwurst",
+     "generic": "organic boiled pork sausage",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Bio Geflügel-Bierschinken",
+     "generic": "organic poultry ham sausage",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Bio Geflügel-Fleischkäse mit Paprika gebacken",
+     "generic": "organic baked poultry meatloaf slices",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Bio Geflügel-Lyoner fein",
+     "generic": "organic fine poultry sausage",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Bio Geflügel-Lyoner grob",
+     "generic": "organic coarse poultry sausage",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Bio Hähnchenbrustfilet",
+     "generic": "organic baked chicken breast slices",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Feine Leberwurst mit Kalbfleisch",
+     "generic": "liver sausage spread with veal",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Geflügel-Filetwurst gebrüht",
+     "generic": "cooked poultry fillet sausage",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Gekochte Mettwurst mit Zwiebeln",
+     "generic": "cooked spreadable pork sausage with onions",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    }
+   ],
+   "evidence": [
+    {
+     "product": "Bio Kräuter-Salami",
+     "type": "result",
+     "strength": 3,
+     "quote": "Im Rahmen der vom Fachmagazin Lebensmittel Praxis beauftragten Verbraucherbefragung \"Produkt des Jahres 2024\" vergaben die Befragten für die im Juni 2023 eingeführte Salami"
+    },
+    {
+     "product": "Bio Kräuter-Salami",
+     "type": "result",
+     "strength": 3,
+     "quote": "Unsere neue Bio Kräuter-Salami gewinnt die Goldmedaille in der Warengruppe Fleisch, Wurst und Geflügel."
+    },
+    {
+     "product": "Bio Salami-Genießerteller",
+     "type": "result",
+     "strength": 3,
+     "quote": "99,6 Prozent der Tester waren insgesamt (sehr) zufrieden mit den Produkten."
+    },
+    {
+     "product": "Bio Baguette-Salami",
+     "type": "result",
+     "strength": 2,
+     "quote": "Der absolute Liebling der Tester: Wiltmann Bio Baguette-Salami."
+    }
+   ],
+   "success": []
+  },
+  {
+   "year": 2026,
+   "codeable": true,
+   "products": [
+    {
+     "name": "Salamissimo",
+     "generic": "air-dried mini salami and salami snacks",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": true
+    },
+    {
+     "name": "Feines vom Rind",
+     "generic": "sliced smoked lean beef",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "High Protein",
+     "generic": "high-protein poultry sausage products",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Genießer-Pasteten",
+     "generic": "gourmet meat pâtés in decorated trays",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    }
+   ],
+   "evidence": [],
+   "success": []
+  }
+ ]
+}

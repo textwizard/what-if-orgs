@@ -1,0 +1,93 @@
+{
+ "slug": "nya-com",
+ "windows": {
+  "exploration": {
+   "years": [
+    2017
+   ],
+   "industry": {
+    "turnover": "grew",
+    "rd": "more",
+    "patents": "more",
+    "universities": "more"
+   },
+   "employees": 120,
+   "hiring": false,
+   "hiring_quote": null,
+   "expansion": false,
+   "expansion_quote": null,
+   "investment": false,
+   "investment_quote": null,
+   "growth": false,
+   "growth_quote": null,
+   "difficulty": false,
+   "difficulty_quote": null,
+   "rd": false,
+   "rd_quote": null,
+   "cooperation": false,
+   "cooperation_quote": null,
+   "eu_projects": 0,
+   "products_offered": 8,
+   "new": [
+    "devore decoration fabric in variants",
+    "transparent burnout decorative fabric",
+    "burnout decorative fabric",
+    "velour-like upholstery fabric",
+    "flame-retardant plain inbetween fabric",
+    "polyester lining fabric with satin sheen"
+   ],
+   "relatedness": [
+    "close",
+    "close",
+    "close",
+    "related",
+    "related",
+    "related"
+   ]
+  },
+  "holdout": {
+   "years": [
+    2022
+   ],
+   "industry": {
+    "turnover": "grew",
+    "rd": "more",
+    "patents": "more",
+    "universities": "more"
+   },
+   "employees": 50,
+   "hiring": false,
+   "hiring_quote": null,
+   "expansion": false,
+   "expansion_quote": null,
+   "investment": false,
+   "investment_quote": null,
+   "growth": false,
+   "growth_quote": null,
+   "difficulty": false,
+   "difficulty_quote": null,
+   "rd": true,
+   "rd_quote": "Der in Zusammenarbeit mit dem vielfach ausgezeichneten Londoner Produktdesigner Bodo Sperlein entwickelte Polster- und Dekorationsstoff Boom aus der aktuellen nya nordiska Kollektion",
+   "cooperation": false,
+   "cooperation_quote": null,
+   "eu_projects": 0,
+   "products_offered": 29,
+   "new": [
+    "piqué upholstery fabric",
+    "semi-transparent bouclé-effect decorative fabric",
+    "flame-retardant dotted jacquard curtain fabric",
+    "double-face wool-blend decoration fabric",
+    "a semi-transparent wool bouclé leno fabric",
+    "braided-structure upholstery and curtain fabric"
+   ],
+   "relatedness": [
+    "close",
+    "close",
+    "close",
+    "related",
+    "related",
+    "related"
+   ]
+  }
+ }
+}

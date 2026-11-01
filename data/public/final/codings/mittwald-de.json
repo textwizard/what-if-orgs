@@ -1,0 +1,1122 @@
+{
+ "slug": "mittwald-de",
+ "profiles": {
+  "exploration": {
+   "strategy": {
+    "offer": "Managed web hosting, server support, migration, security services, training, and management tools for websites, CMS, and online shop projects.",
+    "customers": "Agencies, freelancers, businesses, developers, and shop operators needing reliable hosting, project administration, updates, and technical help.",
+    "why_we_win": "It expects success through agency-focused service, round-the-clock expert support, high performance and security, and tools that reduce recurring operational work.",
+    "resources": "Its basis is an experienced team, centralized service operations, owned data center capacity, technical know-how, and continuous development of software, tools, and hardware.",
+    "direction": "It aims to keep innovating its hosting platform and services while expanding tailored support and acting responsibly toward employees, environment, and communities."
+   },
+   "context": {
+    "size": "medium",
+    "founded": 2003,
+    "industry": "Information service activities"
+   },
+   "seed_year": 2017
+  },
+  "holdout": {
+   "strategy": {
+    "offer": "Web hosting and related services for websites, shops, and client projects, including managed tooling, security, migration, compliance help, domains, and expert support.",
+    "customers": "Agencies, freelancers, and businesses that build, host, or manage multiple web, content, and commerce projects for themselves or clients.",
+    "why_we_win": "It promises fast, scalable hosting, automation that saves daily work, dependable expert support, and secure compliant operations that reduce risk and effort.",
+    "resources": "Its basis is owned infrastructure, modern hardware and monitoring, containerized architecture, integrated management tools, documented know-how, and specialized technical service teams.",
+    "direction": "It signals continued expansion of agency-focused platform features and compliance capabilities while pursuing more sustainable hosting operations."
+   },
+   "context": {
+    "size": null,
+    "founded": null,
+    "industry": "Information service activities"
+   },
+   "seed_year": 2022
+  }
+ },
+ "years": [
+  {
+   "year": 2017,
+   "codeable": true,
+   "products": [
+    {
+     "name": "Agentur-Toolbox",
+     "generic": "web hosting management toolset for agencies",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": true
+    },
+    {
+     "name": "Umzugsservice Plus",
+     "generic": "website, domain and email migration service",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Managed vServer",
+     "generic": "managed virtual server hosting plan",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Managed Server L",
+     "generic": "managed dedicated server hosting plan",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Servicevertrag \"Premium\"",
+     "generic": "website update and maintenance service contract",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Individuelle TYPO3-Updates",
+     "generic": "CMS version upgrade service for agencies",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Schadcodebereinigung",
+     "generic": "website malware removal service",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Vorlagenmanager",
+     "generic": "website project template management tool",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Softwaremanager",
+     "generic": "one-click web application installer",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Kundencenter",
+     "generic": "hosting account management interface",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Leistungsvorlagen",
+     "generic": "hosting account resource configuration templates",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Peak Performance",
+     "generic": "temporary server performance boost",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Proaktive CMS-Sicherheit",
+     "generic": "CMS security notification and update service",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Portfolio-Vorlage für WordPress",
+     "generic": "website portfolio template",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Shopware-Anwenderschulung",
+     "generic": "in-person shop software user training",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Shopware-Template-Entwicklung",
+     "generic": "in-person shop template development training",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Shopware-Plugin-Entwicklung",
+     "generic": "in-person shop plugin development training",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Shopware Imports und Exports",
+     "generic": "online training on shop data import/export",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Shopware Theme Grundlagen",
+     "generic": "online training on shop theme basics",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Shopware Plugin Grundlagen",
+     "generic": "online training on shop plugin basics",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Shopware 5.2 Pluginsystem",
+     "generic": "online training on new plugin system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    }
+   ],
+   "evidence": [
+    {
+     "product": "Umzugsservice Plus",
+     "type": "launch",
+     "strength": 2,
+     "quote": "Mit dem neuen Umzugsservice Plus von Mittwald erhalten Sie ein Rundum-Sorglos-Paket der Extraklasse."
+    },
+    {
+     "product": "Umzugsservice Plus",
+     "type": "investment",
+     "strength": 2,
+     "quote": "Unser Ziel zu Beginn des Projekts war klar: Einen komplett überarbeiteten Umzugsservice zu schaffen. Heute, nach intensiver Planung, Entwicklung und Analyse, freuen wir uns, Kunden den Umzugsservice Plus vorstellen zu dürfen."
+    },
+    {
+     "product": "Individuelle TYPO3-Updates",
+     "type": "result",
+     "strength": 2,
+     "quote": "Für zahlreiche Agenturen konnten wir unsere Expertise bereits in Hunderten erfolgreicher TYPO3-Updates unter Beweis stellen."
+    },
+    {
+     "product": "Servicevertrag \"Premium\"",
+     "type": "launch",
+     "strength": 1,
+     "quote": "Ab sofort können Sie den Komfort unserer Toolbox mit unserem einzigartigen Premium-Service kombinieren"
+    }
+   ],
+   "success": []
+  },
+  {
+   "year": 2018,
+   "codeable": true,
+   "products": [
+    {
+     "name": "Umzugsservice Plus",
+     "generic": "a website, domain and mailbox migration service",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": true
+    },
+    {
+     "name": "Monitoring Plus",
+     "generic": "a server load monitoring option with alerts",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Agentur-Toolbox",
+     "generic": "a toolset for web agencies",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Managed vServer",
+     "generic": "a managed virtual server hosting plan",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Managed Server",
+     "generic": "a managed dedicated server hosting plan",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Shopware Tasty Vorlage",
+     "generic": "a premium online shop design template",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Magento 2 Vorlage",
+     "generic": "an online shop design template",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "TYPO3-Versionsmanager",
+     "generic": "a one-click CMS update tool",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Softwaremanager",
+     "generic": "a tool for installing web applications",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Kundencenter",
+     "generic": "a web hosting account management panel",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Mittwald Portfolio Vorlage",
+     "generic": "a responsive CMS website template",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    }
+   ],
+   "evidence": [
+    {
+     "product": "Umzugsservice Plus",
+     "type": "launch",
+     "strength": 2,
+     "quote": "Mit dem neuen Umzugsservice Plus von Mittwald erhalten Sie ein Rundum-Sorglos-Paket der Extraklasse."
+    },
+    {
+     "product": "Magento 2 Vorlage",
+     "type": "launch",
+     "strength": 2,
+     "quote": "Für alle, die bald einen Magento Shop erstellen wollen, können wir übrigens auch unsere neue Magento 2 Vorlage empfehlen!"
+    }
+   ],
+   "success": []
+  },
+  {
+   "year": 2019,
+   "codeable": true,
+   "products": [
+    {
+     "name": "CMS-Hosting",
+     "generic": "managed web hosting optimized for content management systems",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": true
+    },
+    {
+     "name": "Shop-Hosting",
+     "generic": "web hosting optimized for online shops",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": true
+    },
+    {
+     "name": "Agentur-Server",
+     "generic": "project-based scalable server hosting for agencies",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": true
+    },
+    {
+     "name": "AV-Wizard",
+     "generic": "online tool for creating data processing contracts",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "DSGVO-Wissenspaket",
+     "generic": "data protection compliance knowledge package for agencies",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Umzugsservice",
+     "generic": "website migration service between hosting providers",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Managed Cluster",
+     "generic": "managed high-availability server cluster hosting",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Shopware Tasty Vorlage",
+     "generic": "premium online shop design template",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Agentur-Toolbox Max",
+     "generic": "bundle of premium tools and templates for agencies",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Partnerprogramm",
+     "generic": "referral partner program for web agencies",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Partnerbox",
+     "generic": "free development hosting for multiple web projects",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Shopware Staging",
+     "generic": "staging environment for online shops",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Backup Points",
+     "generic": "restore points for website backups",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Virus Protect",
+     "generic": "malware detection and notification for websites",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "SSL Flat",
+     "generic": "free SSL certificates included with hosting",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Updater & Installer",
+     "generic": "one-click software update and installation tool",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Performance-Check",
+     "generic": "server performance analysis service",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Auto-Backup",
+     "generic": "automatic daily external backup of hosting data",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Schadcode-Alarm",
+     "generic": "automatic malicious code notification service",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "VIP-Service",
+     "generic": "premium customer support for hosting customers",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Versionsmanager Plus",
+     "generic": "software version management tool for hosting",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Sicherheitscenter",
+     "generic": "security monitoring center in hosting customer panel",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Wiederherstellungsmanager",
+     "generic": "data restoration tool for hosted websites",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "technischer Betreuer",
+     "generic": "agency access function for managing end-customer accounts",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    }
+   ],
+   "evidence": [
+    {
+     "product": "Managed Cluster",
+     "type": "launch",
+     "strength": 2,
+     "quote": "Die neuen Cluster-Lösungen von Mittwald CM Service stellen die ideale Grundlage für anspruchsvolle Hostingprojekte dar."
+    },
+    {
+     "product": "Versionsmanager Plus",
+     "type": "launch",
+     "strength": 1,
+     "quote": "wie z.B. das Sicherheitscenter, den Wiederherstellungsmanager oder aktuell den Versionsmanager Plus."
+    }
+   ],
+   "success": []
+  },
+  {
+   "year": 2022,
+   "codeable": true,
+   "products": [
+    {
+     "name": "Agentur-Server",
+     "generic": "managed multi-project hosting server for agencies",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": true
+    },
+    {
+     "name": "Space-Server",
+     "generic": "web hosting server for professionals",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "AV-Wizard",
+     "generic": "online tool for data processing agreements",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "DEV-Projekte",
+     "generic": "free development hosting environments until go-live",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Extended Long Term Service",
+     "generic": "extended security update support for CMS versions",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Shopware Hosting",
+     "generic": "managed hosting for e-commerce shop software",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Magento Hosting",
+     "generic": "managed hosting for e-commerce shop software",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "WooCommerce Hosting",
+     "generic": "managed hosting for e-commerce shop plugin",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Varnish-Hosting",
+     "generic": "caching reverse proxy hosting add-on",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Solr-Hosting",
+     "generic": "search engine hosting add-on",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Express-Umzug",
+     "generic": "fast website migration service",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    }
+   ],
+   "evidence": [
+    {
+     "product": "DEV-Projekte",
+     "type": "launch",
+     "strength": 2,
+     "quote": "Du bezahlst erst, wenn dein Projekt live geht. Jetzt optional auch mit E-Mail- und Domain-Nutzung!"
+    }
+   ],
+   "success": []
+  },
+  {
+   "year": 2023,
+   "codeable": true,
+   "products": [
+    {
+     "name": "mStudio",
+     "generic": "a web hosting management platform",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": true
+    },
+    {
+     "name": "Agentur-Server",
+     "generic": "a managed hosting server for web agencies",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": true
+    },
+    {
+     "name": "Space-Server",
+     "generic": "a configurable cloud hosting server",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": true
+    },
+    {
+     "name": "AV-Manager",
+     "generic": "a data processing agreement management software",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "DEV-Projekt",
+     "generic": "a free development hosting environment",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Extended Long Term Service",
+     "generic": "an extended security update service for software",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Starter SSL",
+     "generic": "a domain-validated SSL certificate",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "SSL Business",
+     "generic": "an organization-validated SSL certificate",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Extended Validation (EV) SSL",
+     "generic": "an extended validation SSL certificate",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Wildcard SSL",
+     "generic": "a wildcard SSL certificate for subdomains",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Express-Umzug",
+     "generic": "an expedited website migration service",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "DSGVO-Paket",
+     "generic": "a data protection compliance package for agencies",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    }
+   ],
+   "evidence": [
+    {
+     "product": "DEV-Projekt",
+     "type": "launch",
+     "strength": 2,
+     "quote": "Jetzt optional auch mit E-Mail- und Domain-Nutzung!"
+    },
+    {
+     "product": "AV-Manager",
+     "type": "result",
+     "strength": 1,
+     "quote": "Die fast 200 Vorlagen für Agenturen finde ich klasse. Echter Fokus auf Agenturen."
+    },
+    {
+     "product": "Agentur-Server",
+     "type": "result",
+     "strength": 1,
+     "quote": "Die Baumstruktur im Agentur-Server, in der ich alle Projekte übersichtlich habe, ist absolut klasse."
+    }
+   ],
+   "success": []
+  },
+  {
+   "year": 2024,
+   "codeable": true,
+   "products": [
+    {
+     "name": "mStudio",
+     "generic": "a web hosting management interface",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": true
+    },
+    {
+     "name": "Agentur-Server",
+     "generic": "a managed multi-project hosting server for agencies",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": true
+    },
+    {
+     "name": "Space-Server",
+     "generic": "a configurable private managed cloud server",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": true
+    },
+    {
+     "name": "proSpace",
+     "generic": "a managed hosting plan with configurable resources",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "AV-Manager",
+     "generic": "a data processing agreement management software",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "TYPO3 Extended Long Term Support",
+     "generic": "an extended security support service for CMS",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "PHP Extended Support",
+     "generic": "an extended security support service for PHP",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Solr 3.0",
+     "generic": "a managed website search hosting plan",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    }
+   ],
+   "evidence": [],
+   "success": []
+  },
+  {
+   "year": 2025,
+   "codeable": true,
+   "products": [
+    {
+     "name": "mStudio",
+     "generic": "a web hosting management control panel",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": true
+    },
+    {
+     "name": "Agentur-Server",
+     "generic": "a managed hosting server for agencies",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Space-Server",
+     "generic": "a configurable managed cloud server",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "proSpace",
+     "generic": "a managed cloud hosting plan",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Kundencenter",
+     "generic": "a hosting customer administration interface",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "AV-Manager",
+     "generic": "a data processing agreement management software",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "PHP Extended Support",
+     "generic": "security updates for outdated PHP versions",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "DEV-Projekt",
+     "generic": "a free development hosting project environment",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Phishing-Validator",
+     "generic": "an email authenticity verification tool",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "SSL Business",
+     "generic": "an organisation-validated SSL certificate",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    }
+   ],
+   "evidence": [
+    {
+     "product": "PHP Extended Support",
+     "type": "launch",
+     "strength": 3,
+     "quote": "Am 05.03.2024 haben wir die Vertragspartner sowohl per Ticket als auch per E-Mail über die Einführung des PHP Extended Supports informiert."
+    },
+    {
+     "product": "DEV-Projekt",
+     "type": "launch",
+     "strength": 2,
+     "quote": "Du bezahlst erst, wenn dein Projekt live geht. Jetzt optional auch mit E-Mail- und Domain-Nutzung!"
+    }
+   ],
+   "success": []
+  },
+  {
+   "year": 2026,
+   "codeable": true,
+   "products": [
+    {
+     "name": "mStudio",
+     "generic": "a web hosting control panel for agencies",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": true
+    },
+    {
+     "name": "mStudio CLI",
+     "generic": "a command-line interface for hosting management",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "mStudio Extensions",
+     "generic": "add-on extensions for a hosting control panel",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Container Hosting",
+     "generic": "a managed container hosting service",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": true
+    },
+    {
+     "name": "AI Hosting",
+     "generic": "a hosted large language model service",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": true
+    },
+    {
+     "name": "Agentur-Server",
+     "generic": "a managed hosting server for agencies",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "vServer",
+     "generic": "a managed virtual server hosting plan",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "AV Manager",
+     "generic": "software for managing data processing agreements",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "PHP Extended Support",
+     "generic": "security updates for end-of-life PHP versions",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "TYPO3 Extended Long Term Support (ELTS)",
+     "generic": "extended security support for old CMS versions",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "E-Mail-Archivierung",
+     "generic": "a compliant email archiving service",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Phishing-Validator",
+     "generic": "an online tool verifying email authenticity",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Virus Protect",
+     "generic": "a malware detection and patching tool",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "SSL Flat",
+     "generic": "unlimited free SSL certificates for hosting",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Backup Points",
+     "generic": "a website version snapshot feature",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "DEV-Projekte",
+     "generic": "free development hosting projects",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Kundencenter",
+     "generic": "a hosting customer administration portal",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    }
+   ],
+   "evidence": [
+    {
+     "product": "PHP Extended Support",
+     "type": "launch",
+     "strength": 3,
+     "quote": "Im Frühjahr 2024 haben wir alle Vertragspartner*innen mit betroffenen Versionen sowohl per Ticket als auch per E-Mail über die Einführung des PHP Extended Supports informiert."
+    },
+    {
+     "product": "DEV-Projekte",
+     "type": "launch",
+     "strength": 2,
+     "quote": "Jetzt optional auch mit E-Mail- und Domain-Nutzung!"
+    },
+    {
+     "product": "E-Mail-Archivierung",
+     "type": "launch",
+     "strength": 1,
+     "quote": "Im mStudio oder Kundencenter findest du im Projekt unter „E-Mails“ einen neuen Tab namens „Archivierung“."
+    }
+   ],
+   "success": []
+  }
+ ]
+}

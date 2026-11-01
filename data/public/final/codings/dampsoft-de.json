@@ -1,0 +1,1399 @@
+{
+ "slug": "dampsoft-de",
+ "profiles": {
+  "exploration": {
+   "strategy": {
+    "offer": "Tailored practice management software, modular extensions, updates, support resources, and training for managing clinical, administrative, billing, scheduling, and compliance workflows.",
+    "customers": "Dental practices of different sizes, including new, single-site, and larger practices needing administrative and operational software support.",
+    "why_we_win": "It expects to succeed by improving software continuously, reacting quickly to regulations and market needs, and aligning features with practitioners’ day-to-day work.",
+    "resources": "Its basis is long industry experience, independent ownership, practitioner-informed product development, software engineering, customer support, training content, and integration capabilities.",
+    "direction": "It is heading toward continual product innovation and stronger support for digital, connected, and efficiently managed healthcare practices."
+   },
+   "context": {
+    "size": null,
+    "founded": 1986,
+    "industry": "Computer programming, consultancy and related activities"
+   },
+   "seed_year": 2017
+  },
+  "holdout": {
+   "strategy": {
+    "offer": "Practice-management software for dental clinics, with modular extensions for billing, scheduling, communication, digital forms, compliance, telematics, training, updates, and support.",
+    "customers": "Dental practices of all sizes and organizational models, including new practices and software switchers, plus their teams and technical administrators.",
+    "why_we_win": "They pair tailored, practical software with responsive expert support, transparent pricing, and continuous adaptation to regulations and emerging digital workflows.",
+    "resources": "Their basis is deep domain know-how, long industry experience, in-house development, extensive customer service, training offerings, and a broad installed user base.",
+    "direction": "They aim to anticipate future practice needs and make clinics more digital, integrated, efficient, and paperless through new health-IT capabilities."
+   },
+   "context": {
+    "size": null,
+    "founded": 1986,
+    "industry": "Computer programming, consultancy and related activities"
+   },
+   "seed_year": 2022
+  }
+ },
+ "years": [
+  {
+   "year": 2017,
+   "codeable": true,
+   "products": [
+    {
+     "name": "DS-Win",
+     "generic": "dental practice management software",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": true
+    },
+    {
+     "name": "DS-Win-Light",
+     "generic": "dental billing software package",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "DS-Win-Plus",
+     "generic": "dental practice management software package",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": true
+    },
+    {
+     "name": "DS-Win-Pro",
+     "generic": "full-featured dental practice management software package",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": true
+    },
+    {
+     "name": "Patientenmanagement",
+     "generic": "paperless patient record software extension",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Hygienemanagement",
+     "generic": "dental hygiene documentation software extension",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Praxis- und Qualitätsmanagement",
+     "generic": "practice scheduling and quality management software extension",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Online Terminmanagement",
+     "generic": "online patient appointment booking software",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "GOZ Assistent",
+     "generic": "dental billing assistance software module",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Factoring Cockpit",
+     "generic": "dental factoring integration software module",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "DS-Win-View",
+     "generic": "dental imaging viewer software module",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "DS-Win-KFO",
+     "generic": "orthodontics software module",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "DS-Win-Termin",
+     "generic": "appointment scheduling software module",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "DS-Win-Zeit",
+     "generic": "staff time recording software module",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "DS-Win-QM",
+     "generic": "quality management software module",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "DS-Win-Voice",
+     "generic": "voice input software module",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "DS-Win-Comm",
+     "generic": "customer communication platform for software users",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Dampsoft-Praxismanagerin",
+     "generic": "practice manager training course for dental staff",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    }
+   ],
+   "evidence": [
+    {
+     "product": "DS-Win",
+     "type": "result",
+     "strength": 3,
+     "quote": "DS-Win besitzt mit 26,16% den größten Marktanteil und ist damit die führende Zahnarzt-Software bezogen auf elektronisch eingereichte Abrechnungen (KCH)."
+    },
+    {
+     "product": "DS-Win",
+     "type": "result",
+     "strength": 3,
+     "quote": "Mit über 11.000 Kunden und einem Marktanteil von 26,74%* zählt unsere Software zu den meistgenutzten professionellen Praxismanagement-Programmen Deutschlands."
+    },
+    {
+     "product": "GOZ Assistent",
+     "type": "launch",
+     "strength": 2,
+     "quote": "\"Der neue GOZ Assistent für mehr Abrechnungssicherheit\""
+    }
+   ],
+   "success": []
+  },
+  {
+   "year": 2018,
+   "codeable": true,
+   "products": [
+    {
+     "name": "DS-Win",
+     "generic": "a dental practice management and billing software",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": true
+    },
+    {
+     "name": "DS-Win-Light",
+     "generic": "an entry-level dental billing software package",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "DS-Win-Plus",
+     "generic": "a modular dental practice software package",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "DS-Win-Pro",
+     "generic": "a full-featured dental practice software package",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "GOZ Assistent",
+     "generic": "a billing code checking software add-on",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Factoring Cockpit",
+     "generic": "an integrated factoring module for practice software",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Online Terminmanagement",
+     "generic": "an online appointment booking module for practices",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "DS-Win-Voice",
+     "generic": "a voice input add-on for practice software",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "DS-Win-Remote",
+     "generic": "a remote screen sharing support tool",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "DS-Win-Termin",
+     "generic": "an appointment book module for practice software",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "DS-Win-QM",
+     "generic": "a quality management module for practice software",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "DS-Win-Zeit",
+     "generic": "a staff time tracking module",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "DS-Win-Org",
+     "generic": "a practice organisation module",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "DIS (Dampsoft-Informations-System)",
+     "generic": "a practice statistics and analysis module",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Athena",
+     "generic": "a tablet app for digital patient consent and anamnesis",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": true
+    },
+    {
+     "name": "Akademie Dampsoft",
+     "generic": "a private medical continuing education institute",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    }
+   ],
+   "evidence": [
+    {
+     "product": "DS-Win",
+     "type": "result",
+     "strength": 3,
+     "quote": "Trotz einer spürbaren Marktverkleinerung konnte Dampsoft den Marktanteil von 27,3 % (2016) auf 27,94 % ausbauen und weiter wachsen."
+    },
+    {
+     "product": "DS-Win",
+     "type": "result",
+     "strength": 3,
+     "quote": "Die jüngst von der KZBV veröffentlichte Statistik für das Jahr 2017 unterstreicht den Erfolgskurs von Dampsoft. Auch dieses Jahr konnte Dampsoft mit dem DS-Win die meisten Zahnärzte für sich begeistern."
+    },
+    {
+     "product": "Athena",
+     "type": "launch",
+     "strength": 2,
+     "quote": "DIE NEUE PRODUKTLINIE VON DAMPSOFT"
+    }
+   ],
+   "success": []
+  },
+  {
+   "year": 2019,
+   "codeable": true,
+   "products": [
+    {
+     "name": "DS-Win",
+     "generic": "a dental practice management and billing software",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": true
+    },
+    {
+     "name": "DS-Win-Plus",
+     "generic": "a modular dental practice software package",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "DS-Win-Pro",
+     "generic": "a comprehensive dental practice software package",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "DS-Win-Light",
+     "generic": "a basic dental billing software package",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "DS-Win-NEO",
+     "generic": "a complete dental practice software bundle",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Controlling Cockpit",
+     "generic": "a web-based practice performance analytics tool",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Factoring Cockpit",
+     "generic": "an integrated factoring billing module",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "GOZ Assistent",
+     "generic": "a fee schedule billing checking assistant",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Online Terminmanagement",
+     "generic": "an online patient appointment booking module",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Athena",
+     "generic": "a tablet-based digital patient anamnesis system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "DS-Win-Remote",
+     "generic": "a remote screen sharing support tool",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "DS-Win-Zeit",
+     "generic": "an employee time recording module",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "DS-Win-Voice",
+     "generic": "a voice input software extension",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "DS-Win-View",
+     "generic": "a digital medical image viewing module",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "DS-Win-QM",
+     "generic": "a quality management software module",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "DS-Win-Termin",
+     "generic": "an appointment calendar software module",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "DIS (Dampsoft-Informations-System)",
+     "generic": "a practice statistics and reporting module",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Hygienemanagement",
+     "generic": "a hygiene documentation software extension",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Patientenmanagement",
+     "generic": "a paperless patient record software extension",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Kennenlern-Seminar",
+     "generic": "a free two-day software introduction seminar",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Praxis- und Stellenportal",
+     "generic": "an online job and practice listing portal",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    }
+   ],
+   "evidence": [
+    {
+     "product": "DS-Win",
+     "type": "result",
+     "strength": 3,
+     "quote": "Trotz einer spürbaren Marktverkleinerung konnte Dampsoft den Marktanteil von 27,94 % (2017) auf 29,09 % ausbauen und weiter wachsen."
+    },
+    {
+     "product": "DS-Win",
+     "type": "result",
+     "strength": 3,
+     "quote": "Die jüngst von der KZBV veröffentlichte Statistik für das Jahr 2018 unterstreicht den Erfolgskurs von Dampsoft. Auch dieses Jahr konnte Dampsoft mit dem DS-Win die meisten Zahnärzte für sich begeistern."
+    },
+    {
+     "product": "DS-Win-Pro",
+     "type": "result",
+     "strength": 2,
+     "quote": "Wir arbeiten mit der Software Dampsoft Pro."
+    }
+   ],
+   "success": []
+  },
+  {
+   "year": 2022,
+   "codeable": true,
+   "products": [
+    {
+     "name": "DS-Win",
+     "generic": "dental practice management software",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": true
+    },
+    {
+     "name": "DS-Win-Plus",
+     "generic": "modular dental practice software package",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "DS-Win Pro",
+     "generic": "full dental practice software package",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Athena",
+     "generic": "digital patient consent and medical history software",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": true
+    },
+    {
+     "name": "DS4",
+     "generic": "task-based dental practice software",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "e-health",
+     "generic": "telematics infrastructure integration package for dental software",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Hygienemanagement",
+     "generic": "hygiene documentation software extension",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Patientenmanagement",
+     "generic": "patient records management software extension",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Controlling Cockpit",
+     "generic": "practice controlling software module",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "GOZ Assistent",
+     "generic": "dental billing assistance software",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Factoring Cockpit",
+     "generic": "factoring and invoice transfer software module",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "LabPort",
+     "generic": "practice-to-lab digital communication module",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Online Terminmanagement",
+     "generic": "online patient appointment booking service",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "SMS-Cockpit",
+     "generic": "SMS appointment reminder service",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "DS-Win-Remote",
+     "generic": "remote screen sharing support tool",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "DS-Win-View",
+     "generic": "digital image and document archive module",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "DS-Win-Termin",
+     "generic": "appointment calendar software module",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "DS-Win-Zeit",
+     "generic": "staff time tracking software module",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "DS-Win-QM",
+     "generic": "quality management software module",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "DS-Win-Org",
+     "generic": "practice organisation software module",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "DS-Win-Voice",
+     "generic": "voice input software module",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "DS-Win-PAR",
+     "generic": "periodontal treatment documentation module",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "DS-Win-Proph",
+     "generic": "prophylaxis documentation software module",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "DS-Win-Imp",
+     "generic": "implant documentation software module",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "DS-Win-Comm",
+     "generic": "practice communication access module",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    }
+   ],
+   "evidence": [
+    {
+     "product": "DS-Win",
+     "type": "launch",
+     "strength": 3,
+     "quote": "General-Update 22.11.2022 (Rev. 108479) Pünktlich zum Ende dieses Quartals stellen wir Ihnen hiermit die aktualisierte Version Ihres DS-Win zur Verfügung."
+    },
+    {
+     "product": "Online Terminmanagement",
+     "type": "launch",
+     "strength": 2,
+     "quote": "Unsere neue Kooperation mit Dr. Flex ermöglicht es, freie und gebuchte Termine zwischen Ihrem Dr. Flex-Profil und dem DS-Win-Terminbuch automatisch zu synchronisieren."
+    },
+    {
+     "product": "DS-Win-PAR",
+     "type": "launch",
+     "strength": 1,
+     "quote": "DS-Win-PAR (neu)"
+    }
+   ],
+   "success": []
+  },
+  {
+   "year": 2023,
+   "codeable": true,
+   "products": [
+    {
+     "name": "DS-Win",
+     "generic": "dental practice management software",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": true
+    },
+    {
+     "name": "DS-Win-Plus",
+     "generic": "modular dental practice software package",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "DS-Win Pro",
+     "generic": "full-featured dental practice software package",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "e-connect",
+     "generic": "cloud-based telematics infrastructure connector service",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "e-health",
+     "generic": "telematics applications package for practice software",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "KIM",
+     "generic": "secure medical communication mailbox service",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Controlling Cockpit",
+     "generic": "practice controlling and analytics software module",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "GOZ Assistent",
+     "generic": "dental fee billing assistant software module",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Factoring Cockpit",
+     "generic": "factoring management software module",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "DS-Win-QM",
+     "generic": "quality management software extension",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "DS-Win-View",
+     "generic": "dental imaging viewer software module",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Athena",
+     "generic": "digital patient anamnesis and consent app",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Athena XL-Paket",
+     "generic": "large-practice package for digital anamnesis app",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Anamnese@Home",
+     "generic": "online remote patient anamnesis form function",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "DS4 Kundenservice",
+     "generic": "customer support service staffed by dental assistants",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    }
+   ],
+   "evidence": [
+    {
+     "product": "Athena XL-Paket",
+     "type": "launch",
+     "strength": 2,
+     "quote": "Mit der Einführung des XL-Paketes von Athena können erstmalig mehr als 10 iPads gleichzeitig genutzt werden."
+    },
+    {
+     "product": "e-health",
+     "type": "launch",
+     "strength": 2,
+     "quote": "Das EBZ gehört bei Dampsoft gedanklich unter die Überschrift „e-health“. Insofern kann allen Kunden mit dem Produkt „e-health“ das EBZ-Feature sehr einfach zur Verfügung gestellt werden."
+    },
+    {
+     "product": "e-connect",
+     "type": "launch",
+     "strength": 1,
+     "quote": "Sie haben bereits einen Konnektor? Wechseln Sie jetzt zum zukunftssicheren Konnektor in der Cloud!"
+    }
+   ],
+   "success": []
+  },
+  {
+   "year": 2024,
+   "codeable": true,
+   "products": [
+    {
+     "name": "DS4",
+     "generic": "cloud-capable web-based dental practice management software",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": true
+    },
+    {
+     "name": "DS-Win",
+     "generic": "dental practice management software",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": true
+    },
+    {
+     "name": "DS-Win-Plus",
+     "generic": "extended edition of dental practice software",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Athena",
+     "generic": "app for digital patient anamnesis and consent",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": true
+    },
+    {
+     "name": "e-connect",
+     "generic": "cloud-based telematics infrastructure connector service",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": true
+    },
+    {
+     "name": "KIM 1.5",
+     "generic": "secure healthcare messaging service and client",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "SMS-Cockpit",
+     "generic": "SMS appointment reminder service for practices",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "DS-Win-PAR",
+     "generic": "periodontal findings documentation software module",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "DS-Win-Proph",
+     "generic": "dental prophylaxis documentation software module",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "DS-Win-View",
+     "generic": "digital image management software module",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "DS-Win-Termin",
+     "generic": "appointment scheduling software module",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "DS-Win-Material",
+     "generic": "materials management software module",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "DS-Win-Zeit",
+     "generic": "staff time tracking software module",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "DS-Win-QM",
+     "generic": "quality management software module",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "DS-Win-Org",
+     "generic": "practice organisation and task software module",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "DS-Win-Voice",
+     "generic": "voice input software module",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "DS-Win-Comm",
+     "generic": "online communication access module",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Factoring Cockpit",
+     "generic": "billing factoring software module",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "GOZ Assistent",
+     "generic": "fee schedule billing assistant software",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "LabPort",
+     "generic": "dental lab data exchange software module",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Online Terminmanagement",
+     "generic": "online patient appointment booking service",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    }
+   ],
+   "evidence": [
+    {
+     "product": "Athena",
+     "type": "result",
+     "strength": 3,
+     "quote": "Über 9.000 Nutzerinnen und Nutzer verwenden die App jeden Tag, um Anamnesedaten aufzunehmen oder zu aktualisieren."
+    },
+    {
+     "product": "Athena",
+     "type": "result",
+     "strength": 3,
+     "quote": "Mehr als eine Million Anamnesebögen wurden bisher mit Athena ausgefüllt."
+    },
+    {
+     "product": "DS-Win",
+     "type": "launch",
+     "strength": 3,
+     "quote": "General-Update 03.12.2024 (Rev. 120711) RC2 Jetzt Version downloaden Hiermit stellen wir Ihnen die aktualisierte Version Ihres DS-Win zur Verfügung."
+    },
+    {
+     "product": "KIM 1.5",
+     "type": "launch",
+     "strength": 2,
+     "quote": "Ein Schwerpunktthema dieses General-Updates ist das KIM 1.5-Update des Dampsoft/RISE-KIM-Clients."
+    },
+    {
+     "product": "DS-Win",
+     "type": "launch",
+     "strength": 3,
+     "quote": "Jetzt neu: Kunden chatten direkt in der Praxissoftware und ohne vorherige Registrierung mit dem Dampsoft-Kundenservice."
+    }
+   ],
+   "success": []
+  },
+  {
+   "year": 2025,
+   "codeable": true,
+   "products": [
+    {
+     "name": "DS4",
+     "generic": "a cloud-capable web-based dental practice management software",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": true
+    },
+    {
+     "name": "DS-Win",
+     "generic": "a dental practice management software",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": true
+    },
+    {
+     "name": "Athena",
+     "generic": "an app for digital patient history and consent",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": true
+    },
+    {
+     "name": "e-connect",
+     "generic": "a cloud-based telematics infrastructure connector service",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": true
+    },
+    {
+     "name": "e-connect 2.0 Starterset",
+     "generic": "a starter kit for telematics infrastructure connection",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "SMS-Cockpit",
+     "generic": "an SMS appointment reminder service for practices",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Anamnese@Home",
+     "generic": "a remote online patient history form function",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Factoring Cockpit",
+     "generic": "a software module for practice billing factoring",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    }
+   ],
+   "evidence": [
+    {
+     "product": "Athena",
+     "type": "launch",
+     "strength": 3,
+     "quote": "02.07.2025, Damp: Mit der aktuellen Erweiterung setzt die Athena-App neue Maßstäbe in der digitalen Zahnmedizin. Das KI-gestützte Add-on ermöglicht nicht mehr nur die präzise Detektion"
+    }
+   ],
+   "success": []
+  },
+  {
+   "year": 2026,
+   "codeable": true,
+   "products": [
+    {
+     "name": "DS-WIN",
+     "generic": "on-premise dental practice management software",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": true
+    },
+    {
+     "name": "DS-WIN-Pro",
+     "generic": "all-in-one dental practice software bundle",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "DS4",
+     "generic": "cloud-capable web-based dental practice management software",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": true
+    },
+    {
+     "name": "ATHENA",
+     "generic": "digital patient anamnesis and consent app",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": true
+    },
+    {
+     "name": "Athena XL-Paket",
+     "generic": "large-practice package for digital anamnesis app",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Anamnese@Home",
+     "generic": "remote online patient anamnesis form function",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "KI-Röntgencheck",
+     "generic": "AI-based dental X-ray explanation add-on",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "AIVA",
+     "generic": "AI speech documentation for dental practices",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "e-connect",
+     "generic": "cloud-based telematics infrastructure connector service",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": true
+    },
+    {
+     "name": "KIM 1.5",
+     "generic": "secure healthcare messaging mailbox service",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "DS-Win-View",
+     "generic": "dental image and X-ray archiving module",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "DS-Win-Termin",
+     "generic": "appointment scheduling module for practice software",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "DS-Win-Zeit",
+     "generic": "staff time tracking module",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "DS-Win-QM",
+     "generic": "quality management module for dental practices",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "DS-Win-Org",
+     "generic": "practice organisation module",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Factoring Cockpit",
+     "generic": "billing factoring management module",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "GOZ Assistent",
+     "generic": "dental fee schedule billing assistant",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "LabPort",
+     "generic": "dental laboratory data exchange module",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "DS-Win-Voice",
+     "generic": "voice input module for practice software",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Online Terminmanagement",
+     "generic": "online patient appointment booking module",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    }
+   ],
+   "evidence": [
+    {
+     "product": "DS-WIN",
+     "type": "launch",
+     "strength": 3,
+     "quote": "General-Update 15.01.2026 (Rev. 126940) V2.0 Jetzt Version downloaden Ab sofort steht eine neue Version des DS-Win zur Verfügung."
+    },
+    {
+     "product": "DS4",
+     "type": "result",
+     "strength": 1,
+     "quote": "Mit unserem cloudfähigen DS4 haben wir eine neue Ära der Praxisverwaltungssoftware eingeläutet – und das mit großem Erfolg."
+    }
+   ],
+   "success": []
+  }
+ ]
+}

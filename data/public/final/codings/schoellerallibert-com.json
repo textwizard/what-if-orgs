@@ -1,0 +1,1369 @@
+{
+ "slug": "schoellerallibert-com",
+ "profiles": {
+  "exploration": {
+   "strategy": {
+    "offer": "Standard and custom returnable transport packaging, including containers, pallets and handling accessories, plus design and engineering services.",
+    "customers": "Agriculture, automotive, food, beverage, retail, industrial and pooling organizations needing reusable logistics packaging.",
+    "why_we_win": "Durable, hygienic, reusable products and responsive design support help customers cut transport costs, waste and supply-chain inefficiency.",
+    "resources": "In-house development, engineering and manufacturing, broad packaging expertise, global operations, lean processes, and specialist employees in a collaborative culture.",
+    "direction": "Advance innovative reusable packaging that improves logistics sustainability and customer value while delivering long-term returns."
+   },
+   "context": {
+    "size": "large",
+    "founded": null,
+    "industry": "Manufacture of rubber and plastic products"
+   },
+   "seed_year": 2017
+  },
+  "holdout": {
+   "strategy": {
+    "offer": "Reusable transport packaging, rental access, asset-tracking tools, and custom design and engineering for material handling and supply-chain operations.",
+    "customers": "Businesses in logistics-intensive sectors needing storage, transport, pooling, and handling solutions across manufacturing, retail, food, agriculture, chemicals, pharmaceuticals, and e-commerce.",
+    "why_we_win": "It argues durable, high-quality, sustainable packaging plus traceability and rental models improve efficiency, cut transport costs, reduce waste, and avoid upfront capital investment.",
+    "resources": "Its basis is long experience, broad standard and tailored ranges, design and engineering expertise, lean manufacturing, supply-chain operations, customer-focused support, and trained employees.",
+    "direction": "It is moving toward service-based, digitally traceable, reusable packaging that helps customers optimize fleets and lower environmental impact."
+   },
+   "context": {
+    "size": "large",
+    "founded": null,
+    "industry": "Manufacture of rubber and plastic products"
+   },
+   "seed_year": 2022
+  }
+ },
+ "years": [
+  {
+   "year": 2017,
+   "codeable": true,
+   "products": [
+    {
+     "name": "Magnum Optimum",
+     "generic": "a foldable large plastic pallet container",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Magnum",
+     "generic": "a range of foldable plastic storage boxes",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Magnum Helium",
+     "generic": "a foldable large plastic container",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Maxipac",
+     "generic": "a range of foldable bulk display containers",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Crescendo",
+     "generic": "a foldable plastic pallet box with dropdoor",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Big Box",
+     "generic": "a rigid plastic pallet container range",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Geobox",
+     "generic": "a rigid hygienic plastic bulk box range",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Combolife",
+     "generic": "a foldable bag-in-box intermediate bulk container",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Tankgo",
+     "generic": "a UN certified IBC range for chemicals",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Ropac",
+     "generic": "a range of UN certified plastic pails",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "BiPP",
+     "generic": "returnable multi-trip plastic pallets",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "EOS",
+     "generic": "lightweight plastic export pallets",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "H1 pallet",
+     "generic": "a hygienic standard plastic pallet",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Rackpal 1208M",
+     "generic": "a rackable plastic pallet",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Maxinest",
+     "generic": "stack/nest shelf-ready produce trays",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Integra ALC",
+     "generic": "an attached lid plastic container",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "180º",
+     "generic": "bicolour stack/nest plastic containers",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Prelog",
+     "generic": "a foldable small plastic container range",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Ortus",
+     "generic": "a foldable small plastic container range",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Euroclick",
+     "generic": "a range of plastic euro stacking containers",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "LWB",
+     "generic": "double base containers for automated handling",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Eureka",
+     "generic": "double base containers for automated handling",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "AgriLog",
+     "generic": "a plastic harvesting crate for agriculture",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Universal Dolly",
+     "generic": "a plastic dolly for industrial goods",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    }
+   ],
+   "evidence": [
+    {
+     "product": "Maxinest",
+     "type": "result",
+     "strength": 3,
+     "quote": "With more than 50 Million units sold, Maxinest has set the standard for sustainable retail packaging"
+    },
+    {
+     "product": "Maxinest",
+     "type": "result",
+     "strength": 1,
+     "quote": "Ranges include award-winning Maxinest produce trays"
+    },
+    {
+     "product": "Rackpal 1208M",
+     "type": "launch",
+     "strength": 2,
+     "quote": "The New Rackpal® 1208M will be the ideal logistic solution for ebusiness, food and retail sectors."
+    },
+    {
+     "product": "H1 pallet",
+     "type": "launch",
+     "strength": 2,
+     "quote": "Schoeller Allibert is proud to introduce the new H1 pallet tested according to DIN EN ISO 8611-1."
+    },
+    {
+     "product": "Euroclick",
+     "type": "result",
+     "strength": 3,
+     "quote": "In 2016 Valeo started to shift to our brand new Euroclick range...."
+    },
+    {
+     "product": "Euroclick",
+     "type": "result",
+     "strength": 2,
+     "quote": "ESD Euroclick® at TRCZ Customer details Customer 's name: TRCZ s.r.o. LovosiceCzech republic"
+    },
+    {
+     "product": "AgriLog",
+     "type": "launch",
+     "strength": 2,
+     "quote": "At Macfrut Schoeller Allibert presented the new AgriLog, the Combo and our range of fruit & vegetable harvesting crates."
+    },
+    {
+     "product": "AgriLog",
+     "type": "result",
+     "strength": 2,
+     "quote": "AgriLog at Fruites Caberol in Spain: a successful summer campaign"
+    },
+    {
+     "product": "Magnum Optimum",
+     "type": "result",
+     "strength": 2,
+     "quote": "Gestamp Umformtechnik adopts the Magnum Optimum for inbound and internal logistics"
+    },
+    {
+     "product": "Magnum Optimum",
+     "type": "result",
+     "strength": 2,
+     "quote": "Summit started looking for a more efficient reusable foldable large container and found our Magnum Opti"
+    },
+    {
+     "product": "Magnum Helium",
+     "type": "result",
+     "strength": 2,
+     "quote": "Using 800 x 1200 Magnum Helium® for large products and fast moving references and Prelog CMB® for small goods and slow moving, Decathlon needed"
+    },
+    {
+     "product": "Big Box",
+     "type": "result",
+     "strength": 2,
+     "quote": "Schoeller Alliberts lösningar: Big Box RPC Andigestion behövde containrar som kunde lagra matavfall"
+    }
+   ],
+   "success": []
+  },
+  {
+   "year": 2018,
+   "codeable": true,
+   "products": [
+    {
+     "name": "Magnum Optimum®",
+     "generic": "a foldable large plastic container",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": true
+    },
+    {
+     "name": "Maxipac",
+     "generic": "a foldable large plastic container",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Big Box",
+     "generic": "a rigid plastic pallet container",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Geobox",
+     "generic": "a rigid plastic pallet container",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "AgriLog®",
+     "generic": "a ventilated rigid plastic pallet container",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "COMBOLIFE",
+     "generic": "a foldable intermediate bulk container for liquids",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Maestro",
+     "generic": "a plastic pallet with three runners",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "RackPal",
+     "generic": "a rackable plastic pallet",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Packpal",
+     "generic": "a nestable plastic pallet",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "EOS",
+     "generic": "a nestable plastic display pallet",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Universal Pallet",
+     "generic": "a plastic pallet with load-retaining pop-ups",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Universal Dolly",
+     "generic": "a plastic transport dolly",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "LWB crate",
+     "generic": "a stackable plastic crate",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    }
+   ],
+   "evidence": [
+    {
+     "product": "Universal Dolly",
+     "type": "result",
+     "strength": 2,
+     "quote": "The Schoeller Allibert Universal Dolly is used every day in UK logistics from national retailers to independent family businesses"
+    }
+   ],
+   "success": []
+  },
+  {
+   "year": 2019,
+   "codeable": true,
+   "products": [
+    {
+     "name": "Magnum",
+     "generic": "foldable large plastic transit container range",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Pally Magnum",
+     "generic": "foldable large container with drop door",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "MAXIPAC",
+     "generic": "foldable large plastic container",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Boxerpac",
+     "generic": "foldable large plastic container",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Prelog",
+     "generic": "foldable small plastic container",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Prelog CMB",
+     "generic": "foldable small plastic container with handholes",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Prelog NG",
+     "generic": "foldable small plastic container",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Combo Fructus",
+     "generic": "foldable plastic intermediate bulk container",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Combo Excelsior",
+     "generic": "foldable plastic intermediate bulk container",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "COMBO LIFE",
+     "generic": "foldable hygienic IBC for liquids",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "GEOBOX",
+     "generic": "rigid plastic pallet container",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "BIG BOX",
+     "generic": "rigid plastic pallet container",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "AgriLog",
+     "generic": "ventilated rigid pallet container for produce",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Agriplus",
+     "generic": "rigid pallet container for fruit and vegetables",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Maxinest",
+     "generic": "stack/nest produce tray",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Maxinest Plus",
+     "generic": "reinforced stack/nest produce tray",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Integra ALC",
+     "generic": "tamper-evident attached lid container",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Bayopal",
+     "generic": "repairable plastic pallet range",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Magnum Optimum 1208",
+     "generic": "foldable large plastic container",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Magnum Optimum Hopper",
+     "generic": "foldable large container with hopper",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Magnum Optimum 595",
+     "generic": "foldable large plastic container",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Rackpal 1208M",
+     "generic": "rackable plastic pallet",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Medium RackPal",
+     "generic": "medium duty rackable plastic pallet",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Maestro",
+     "generic": "plastic pallet with solid deck",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Packpal",
+     "generic": "nestable plastic pallet",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Universal Beer Crates",
+     "generic": "standard plastic beer crate range",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Autostore box",
+     "generic": "recyclable plastic bin for robotic storage",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Retenpal",
+     "generic": "rotomoulded spill retention pallet",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Retenpack",
+     "generic": "rotomoulded spill retention pallet",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Tankgo",
+     "generic": "rotomoulded mobile liquid tank",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    }
+   ],
+   "evidence": [
+    {
+     "product": "Combo Fructus",
+     "type": "result",
+     "strength": 3,
+     "quote": "WORLDSTAR PACKAGING AWARD 2019 The international success of the Combo Fructus – plastic IBC container"
+    },
+    {
+     "product": "Combo Fructus",
+     "type": "launch",
+     "strength": 2,
+     "quote": "The new Combo Fructus® Discover our new IBC : click here Watch the video Download the brochure Ask for a free demonstration"
+    },
+    {
+     "product": "Bayopal",
+     "type": "launch",
+     "strength": 2,
+     "quote": "Discover the Bayopal® Video : The New \" Hard to break -Easy to repair \"pallet range"
+    },
+    {
+     "product": "Agriplus",
+     "type": "launch",
+     "strength": 2,
+     "quote": "Watch our brand new Agriplus® Rigid Pallet Container live video: the new generation big box for fruit and vegetables."
+    },
+    {
+     "product": "Magnum Optimum 1208",
+     "type": "launch",
+     "strength": 2,
+     "quote": "Download our brand new MagnumOptimum® 1208 leaflet"
+    },
+    {
+     "product": "Magnum Optimum Hopper",
+     "type": "launch",
+     "strength": 2,
+     "quote": "Discover our new Magnum Optimum® Hopper: click here"
+    },
+    {
+     "product": "Magnum Optimum 595",
+     "type": "launch",
+     "strength": 2,
+     "quote": "Discover our new Magnum Optimum® 595: Watch the video Download the brochure and contact us for a free trial"
+    },
+    {
+     "product": "Rackpal 1208M",
+     "type": "launch",
+     "strength": 2,
+     "quote": "The New Rackpal® 1208M will be the ideal logistic solution for ebusiness, food and retail sectors."
+    },
+    {
+     "product": "Autostore box",
+     "type": "launch",
+     "strength": 2,
+     "quote": "There it is! The new video of our Autostore® box, a 100% recyclable plastic bin created for the fully robotised AutoStore® system"
+    },
+    {
+     "product": "Integra ALC",
+     "type": "launch",
+     "strength": 2,
+     "quote": "New UN Certified Attached Lid Containers The two models of Integra ALC"
+    },
+    {
+     "product": "Maxinest",
+     "type": "result",
+     "strength": 1,
+     "quote": "Ranges include award-winning Maxinest produce trays"
+    }
+   ],
+   "success": []
+  },
+  {
+   "year": 2022,
+   "codeable": true,
+   "products": [
+    {
+     "name": "SmartLink®",
+     "generic": "asset track and trace platform for packaging",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": true
+    },
+    {
+     "name": "Fill Level",
+     "generic": "IBC fill level monitoring feature",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Magnum Optimum® 1208",
+     "generic": "foldable large plastic container",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": true
+    },
+    {
+     "name": "Magnum Optimum® 1210",
+     "generic": "foldable large plastic container",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": true
+    },
+    {
+     "name": "MO Hopper",
+     "generic": "foldable container with dispensing funnel base",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Magnum Optimum Optishute®",
+     "generic": "foldable large container with discharge chute",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Optiframe®",
+     "generic": "height extension frame for foldable containers",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Purity line",
+     "generic": "antibacterial plastic packaging range",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Big Box",
+     "generic": "rigid plastic pallet container range",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Geobox",
+     "generic": "rigid plastic pallet container range",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "JumboNest®",
+     "generic": "nestable rigid plastic pallet container",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Maxinest",
+     "generic": "stack/nest plastic produce tray",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Integra",
+     "generic": "tamper-evident attached lid container",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Kaiman",
+     "generic": "tamper-evident attached lid container",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "180º",
+     "generic": "bicolour stack/nest plastic container",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    }
+   ],
+   "evidence": [
+    {
+     "product": "JumboNest®",
+     "type": "result",
+     "strength": 2,
+     "quote": "our rigid pallet container, “JumboNest®”, was selected to be one of the hundred best-designed Dutch industrial products"
+    },
+    {
+     "product": "Fill Level",
+     "type": "launch",
+     "strength": 2,
+     "quote": "Fill Level is a new feature of Schoeller Allibert’s SmartLink® system."
+    },
+    {
+     "product": "Magnum Optimum Optishute®",
+     "type": "result",
+     "strength": 1,
+     "quote": "Following the successful introduction of the Magnum Optimum Optishute® and Magnum Optimum Hopper®"
+    },
+    {
+     "product": "MO Hopper",
+     "type": "result",
+     "strength": 1,
+     "quote": "Following the successful introduction of the Magnum Optimum Optishute® and Magnum Optimum Hopper®"
+    },
+    {
+     "product": "Maxinest",
+     "type": "result",
+     "strength": 1,
+     "quote": "Ranges include award-winning Maxinest produce trays"
+    }
+   ],
+   "success": []
+  },
+  {
+   "year": 2023,
+   "codeable": true,
+   "products": [
+    {
+     "name": "SmartLink®",
+     "generic": "a track and trace platform for returnable packaging",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": true
+    },
+    {
+     "name": "Purity line",
+     "generic": "antibacterial plastic returnable transport packaging",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Retenpal",
+     "generic": "a nestable plastic retention pallet",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "SASI® 4.0",
+     "generic": "plastic containers for automated warehouse conveyors",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Integra®",
+     "generic": "attached lid plastic containers",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Coolflow",
+     "generic": "a plastic stacking crate",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "ROPAC",
+     "generic": "UN certified plastic pails for hazardous goods",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Kaiman",
+     "generic": "plastic handheld container range",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    }
+   ],
+   "evidence": [],
+   "success": []
+  },
+  {
+   "year": 2024,
+   "codeable": true,
+   "products": [
+    {
+     "name": "SmartLink",
+     "generic": "an IoT asset tracking and tracing platform",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": true
+    },
+    {
+     "name": "Foldable IBC",
+     "generic": "a foldable plastic intermediate bulk container",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Big Box",
+     "generic": "a rigid plastic pallet container",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Geobox",
+     "generic": "a rigid plastic pallet container",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Maxinest",
+     "generic": "a stack/nest plastic produce tray",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Integra",
+     "generic": "a plastic attached lid container",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Kaiman",
+     "generic": "a plastic attached lid container",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "180° Stack Nest",
+     "generic": "a bicolour stack/nest plastic tray",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Purity line",
+     "generic": "antibacterial plastic transport packaging range",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "CircuLine",
+     "generic": "plastic packaging made from recycled material",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": true
+    },
+    {
+     "name": "BaYoPal",
+     "generic": "a repairable plastic pallet",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "RackPal",
+     "generic": "a repairable rackable plastic pallet",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Retenpal 2.0",
+     "generic": "a plastic pallet with RFID recess",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "SASI 4.0",
+     "generic": "a stackable plastic container for automation",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Maxilog Big Box",
+     "generic": "a large plastic bulk container",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Speedy",
+     "generic": "a DN 50 valve for bulk containers",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Combo Excelsior Hybrid",
+     "generic": "a foldable large plastic container",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Combo Fructus",
+     "generic": "a foldable large container for produce",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Magnum Optimum 1208",
+     "generic": "a foldable large plastic container",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Beercrate Euro Bottle 20x50cl",
+     "generic": "a plastic beer bottle crate",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "buy-back scheme",
+     "generic": "a used plastic packaging take-back and reprocessing service",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    }
+   ],
+   "evidence": [
+    {
+     "product": "180° Stack Nest",
+     "type": "result",
+     "strength": 3,
+     "quote": "Schoeller Allibert supplied an initial 32,000 180° Stack Nest containers to Dovecote Park"
+    },
+    {
+     "product": "180° Stack Nest",
+     "type": "result",
+     "strength": 3,
+     "quote": "Since our initial order we have requested an additional 2,000 180° Stack Nest trays to keep pace with demand."
+    },
+    {
+     "product": "Maxinest",
+     "type": "result",
+     "strength": 3,
+     "quote": "leading to impressive supply chain cost savings of around €35,000 to date."
+    }
+   ],
+   "success": []
+  },
+  {
+   "year": 2025,
+   "codeable": true,
+   "products": [
+    {
+     "name": "Agrilog",
+     "generic": "a rigid ventilated plastic pallet box for produce",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "AgriMax",
+     "generic": "a reusable plastic crate for citrus harvesting",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": true
+    },
+    {
+     "name": "Magnum Optimum",
+     "generic": "a foldable large plastic container for industrial logistics",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": true
+    },
+    {
+     "name": "OptiFrame",
+     "generic": "a height-extending frame for foldable large containers",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Magnum Smooth Wall HD",
+     "generic": "a heavy-duty foldable smooth-walled plastic pallet container",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Maximus",
+     "generic": "a plastic big box for fruit storage",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Prelog",
+     "generic": "a range of foldable small plastic crates",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Ortus",
+     "generic": "a range of foldable small plastic crates",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Big Box",
+     "generic": "a rigid double-walled plastic pallet container",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Geobox",
+     "generic": "a hygienic rigid plastic bulk box",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Combo IBC",
+     "generic": "a foldable plastic intermediate bulk container",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Combo Excelsior",
+     "generic": "a foldable plastic pallet container",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "JumboNest",
+     "generic": "a nestable rigid plastic pallet container",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "BiPP",
+     "generic": "a returnable multi-trip plastic pallet",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "EOS",
+     "generic": "a lightweight plastic export pallet",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Purity Line",
+     "generic": "a range of antibacterial plastic containers",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "RackPal",
+     "generic": "a plastic pallet for racking",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Maxinest",
+     "generic": "a nestable plastic retail transport crate",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Maxinest Plus",
+     "generic": "a nestable retail crate with conveyor base",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "SmartLink",
+     "generic": "a digital tracking solution for reusable containers",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    }
+   ],
+   "evidence": [
+    {
+     "product": "Agrilog",
+     "type": "result",
+     "strength": 2,
+     "quote": "La Coma hat sich für den flachen, starren Palettenbehälter Agrilog® von Schoeller Allibert mit den Abmessungen: 1200x1000x591mm"
+    },
+    {
+     "product": "AgriMax",
+     "type": "launch",
+     "strength": 2,
+     "quote": "Introducing AgriMax: The ultimate solution for citrus harvesting"
+    },
+    {
+     "product": "Combo Excelsior",
+     "type": "result",
+     "strength": 2,
+     "quote": "are working with clients within the UK and elsewhere to trial assets such as the Combo Excelsior Purity Line"
+    },
+    {
+     "product": "Purity Line",
+     "type": "launch",
+     "strength": 1,
+     "quote": "Schoeller Allibert has developed Purity Line, a range of products made from antibacterial materials"
+    },
+    {
+     "product": "Maxinest",
+     "type": "result",
+     "strength": 1,
+     "quote": "Such as the award-winning Maxinest® (and Maxinest® Plus) containers for suitable for both food and non-food retail."
+    }
+   ],
+   "success": []
+  }
+ ]
+}

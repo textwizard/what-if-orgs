@@ -1,0 +1,1 @@
+{"model": "deepseek-v4-pro", "effort": "medium", "answer": {"decisions": [{"product": "A", "probability_dropped": 15, "decision": "keep", "reason": "Given the firm has already invested in launching Product A and given it a dedicated page, escalation of commitment suggests management will continue to support it absent clear evidence of failure."}]}}

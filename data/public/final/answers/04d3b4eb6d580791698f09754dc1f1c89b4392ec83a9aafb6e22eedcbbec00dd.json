@@ -1,0 +1,1 @@
+{"model": "deepseek-v4-pro", "effort": "medium", "answer": {"decisions": [{"product": "A", "probability_dropped": 10, "decision": "keep", "reason": "This product is close to the firm's established Demeter range, has low incremental carrying costs, and its market prospects are still uncertain, so the real option to keep it alive is worth more than the cost of maintaining it."}]}}

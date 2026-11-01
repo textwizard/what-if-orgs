@@ -1,0 +1,1203 @@
+{
+ "slug": "paus-de",
+ "profiles": {
+  "exploration": {
+   "strategy": {
+    "offer": "Develops and manufactures specialized machines, vehicles and related services for underground work, construction, lifting and industrial transport tasks.",
+    "customers": "Serves industrial and commercial operators needing safe, reliable equipment for mining, tunnelling, infrastructure, material handling and other demanding environments.",
+    "why_we_win": "Expects to win through durable, customizable, safety-focused equipment, strong quality control, easy maintenance, and attentive service that solves customers' operational problems.",
+    "resources": "Bases this on long engineering experience, continuous product improvement, certified quality processes, broad application know-how, and service capabilities including parts, training and after-sales support.",
+    "direction": "Aims to keep advancing specialized equipment with new designs and technology, improving safety, efficiency and environmental performance across demanding applications."
+   },
+   "context": {
+    "size": null,
+    "founded": null,
+    "industry": "Manufacture of machinery and equipment n.e.c."
+   },
+   "seed_year": 2017
+  },
+  "holdout": {
+   "strategy": {
+    "offer": "Specialized machines and vehicles for demanding underground, construction, lifting and industrial tasks, plus spare parts, maintenance, remote support and warranty services.",
+    "customers": "Customers worldwide in skilled trades, industry and services with demanding, task-specific equipment needs.",
+    "why_we_win": "By combining flexible, innovative, high-quality problem-solving equipment with customer-specific adaptation, reliable operation and responsive service.",
+    "resources": "Decades of engineering experience, specialist employees, a broad mature product range, certified quality management, and strong inventory, logistics and service capabilities.",
+    "direction": "Continue refining products and services to deliver sustainable added value while remaining an innovative independent mid-market manufacturer."
+   },
+   "context": {
+    "size": null,
+    "founded": 1968,
+    "industry": "Manufacture of machinery and equipment n.e.c."
+   },
+   "seed_year": 2022
+  }
+ },
+ "years": [
+  {
+   "year": 2017,
+   "codeable": true,
+   "products": [
+    {
+     "name": "PFL Loader",
+     "generic": "an underground mining wheel loader",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "PMKS",
+     "generic": "an underground dump truck with push wall",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "PGB 1700",
+     "generic": "an underground mining scaling machine",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Universa 50",
+     "generic": "a multi-purpose mining vehicle with cassette system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "MinCa",
+     "generic": "an underground mining personnel carrier",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "PMKM",
+     "generic": "a mining dump truck with quick-change frame",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "PG 5 HA",
+     "generic": "a compact underground motor grader",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "PTK 25",
+     "generic": "a lightweight trailer crane for mining",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    }
+   ],
+   "evidence": [
+    {
+     "product": "PTK 25",
+     "type": "launch",
+     "strength": 3,
+     "quote": "the unveiling of the Paus PTK 25 trailer crane, which was showcased in March 2013."
+    },
+    {
+     "product": "MinCa",
+     "type": "result",
+     "strength": 1,
+     "quote": "For over 20 years, the MinCa (Mining Car) has been a successful model in the ran..."
+    }
+   ],
+   "success": []
+  },
+  {
+   "year": 2018,
+   "codeable": true,
+   "products": [
+    {
+     "name": "PFL-Series",
+     "generic": "underground mining load-haul-dump loaders",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "PMKT Series",
+     "generic": "underground mining dump trucks",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Universa 50",
+     "generic": "underground universal service vehicle platform",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "MinCa",
+     "generic": "compact underground mining utility vehicle",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    }
+   ],
+   "evidence": [
+    {
+     "product": "MinCa",
+     "type": "result",
+     "strength": 1,
+     "quote": "Seit über 20 Jahren stellt der MinCa (Mining Car) ein Erfolgsmodell im Produktpo"
+    }
+   ],
+   "success": []
+  },
+  {
+   "year": 2019,
+   "codeable": true,
+   "products": [
+    {
+     "name": "Uni 50-Serie",
+     "generic": "underground mining utility vehicle series",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Uni 40-Serie",
+     "generic": "underground mining utility vehicle series",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "MinCa 18",
+     "generic": "underground mining utility vehicle",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "MinCa 5.1",
+     "generic": "diesel underground personnel and utility vehicle",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "MinCa 5.1 E",
+     "generic": "battery-electric underground personnel transport vehicle",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": true
+    },
+    {
+     "name": "PMKM/T/S",
+     "generic": "underground mining dump truck",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "PFL",
+     "generic": "underground load-haul-dump loader",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Scaler 853 S8",
+     "generic": "underground mining scaling vehicle",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Uni50 S10",
+     "generic": "underground mining scaling vehicle",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Grader PG10 HA",
+     "generic": "underground road maintenance grader",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "PTK 31",
+     "generic": "trailer-mounted crane",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "PTK 27",
+     "generic": "trailer-mounted crane",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "GT 16A",
+     "generic": "trailer elevating work platform",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "GT 18A",
+     "generic": "trailer elevating work platform",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "GT 21A",
+     "generic": "trailer elevating work platform",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Easy",
+     "generic": "inclined furniture and building material lift",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Easy Big",
+     "generic": "inclined furniture and building material lift",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Easy 24 WH-M",
+     "generic": "trailer-mounted inclined lift, 24 m",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": true
+    },
+    {
+     "name": "City Star",
+     "generic": "inclined furniture lift",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "City Floh",
+     "generic": "inclined furniture lift",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "City Truck",
+     "generic": "truck-mounted inclined furniture lift",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "City Line",
+     "generic": "inclined building material lift",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "SL 10.7",
+     "generic": "articulated swivel loader",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "SL 7.7",
+     "generic": "articulated swivel loader",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "TL 8.7",
+     "generic": "telescopic wheel loader",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "TSL 8.7",
+     "generic": "telescopic swivel wheel loader",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "SMK 9036",
+     "generic": "dumper with lowering skip",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "AKR 9036",
+     "generic": "construction site dumper",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "PSE",
+     "generic": "compact heavy-duty forklift",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "PGS 26,5",
+     "generic": "diesel compact heavy-duty forklift",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    }
+   ],
+   "evidence": [
+    {
+     "product": "MinCa 5.1 E",
+     "type": "launch",
+     "strength": 3,
+     "quote": "wurde der MinCa 5.1 E entwickelt und ist seit der Bauma 2019, nach weiteren umfangreichen Praxistests, verfügbar."
+    },
+    {
+     "product": "Easy 24 WH-M",
+     "type": "launch",
+     "strength": 2,
+     "quote": "Die Familie der Schrägaufzüge bei PAUS hat Zuwachs mit dem Easy 24 WH-M bekommen."
+    }
+   ],
+   "success": []
+  },
+  {
+   "year": 2022,
+   "codeable": true,
+   "products": [
+    {
+     "name": "PTK XX",
+     "generic": "a trailer-mounted telescopic crane",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": true
+    },
+    {
+     "name": "Multijib System",
+     "generic": "a quick-change system for crane boom tips",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "City Star",
+     "generic": "a telescopic furniture elevator",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Easy",
+     "generic": "a building material elevator",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "PAUS Quicksupport",
+     "generic": "a remote service and diagnosis support",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    }
+   ],
+   "evidence": [
+    {
+     "product": "PTK XX",
+     "type": "launch",
+     "strength": 3,
+     "quote": "Paus zeigt während der bauma 2022 eine „preview“ seines neuen Anhängerkrans mit der Modellbezeichnung PTK XX."
+    },
+    {
+     "product": "PTK XX",
+     "type": "launch",
+     "strength": 3,
+     "quote": "Paus Lifttechnik – Weltpremiere – Anhängerkran PTK XX"
+    },
+    {
+     "product": "Multijib System",
+     "type": "launch",
+     "strength": 2,
+     "quote": "Das neue Spitzenmodell ist eine komplette Neuentwicklung, verfügt über das innovative Paus „Multijib System“ und vereint das Beste aus allen Anhängerkran-Welten."
+    }
+   ],
+   "success": []
+  },
+  {
+   "year": 2023,
+   "codeable": true,
+   "products": [
+    {
+     "name": "SL 9075 / SL 9088",
+     "generic": "articulated swivel loader",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "TL 9065 / TL 9078",
+     "generic": "telescopic loader",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "TSL 9075 / TSL 9088",
+     "generic": "telescopic swivel loader",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "SMK 9036",
+     "generic": "compact dumper",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "AKR 9040",
+     "generic": "front-tipping dumper",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "PTK 27",
+     "generic": "trailer-mounted crane",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "PTK 31",
+     "generic": "trailer-mounted crane for roofers",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "PTK XX",
+     "generic": "high-end trailer-mounted crane",
+     "seasonal": false,
+     "stage": "pilot",
+     "scale": "single",
+     "featured": true
+    },
+    {
+     "name": "GT 16A",
+     "generic": "trailer-mounted elevating work platform",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "GT 18A",
+     "generic": "trailer-mounted elevating work platform",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "GT 21A",
+     "generic": "trailer-mounted elevating work platform",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Easy 24 WH-M",
+     "generic": "inclined material lift",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": true
+    },
+    {
+     "name": "City Floh",
+     "generic": "vehicle-mounted telescopic furniture elevator",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Easy Big",
+     "generic": "telescopic furniture elevator",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Paus Connect",
+     "generic": "telematics system for machine monitoring",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    }
+   ],
+   "evidence": [
+    {
+     "product": "PTK 31",
+     "type": "result",
+     "strength": 2,
+     "quote": "Die Hermann Paus Maschinenfabrik hat mit Stolz den 1.000 Anhängerkran, einen PTK 31, an den Kranverleih Sebastian Birk übergeben."
+    },
+    {
+     "product": "PTK XX",
+     "type": "launch",
+     "strength": 3,
+     "quote": "Paus zeigte während der bauma 2022 eine „preview“ seines neuen Anhängerkrans mit der Modellbezeichnung PTK XX."
+    },
+    {
+     "product": "Easy 24 WH-M",
+     "type": "launch",
+     "strength": 2,
+     "quote": "Neueste Produktentwicklung ist der Schrägaufzug Easy 24 WH-M."
+    }
+   ],
+   "success": []
+  },
+  {
+   "year": 2024,
+   "codeable": true,
+   "products": [
+    {
+     "name": "Paus Connect",
+     "generic": "a telematics system for machine monitoring",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "PFL 8",
+     "generic": "a compact underground mining loader",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Easy 18",
+     "generic": "a material lift for construction sites",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "PTK 31",
+     "generic": "a trailer-mounted crane",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "PTK XX",
+     "generic": "a trailer-mounted crane with interchangeable jibs",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": true
+    },
+    {
+     "name": "Multijib System",
+     "generic": "a quick-change system for crane jib tips",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "City Line",
+     "generic": "a building elevator series",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Easy Big",
+     "generic": "a building elevator",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Paus Dumper",
+     "generic": "a series of construction site dumpers",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Paus Plus Service",
+     "generic": "an extended machine maintenance and inspection service",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    }
+   ],
+   "evidence": [
+    {
+     "product": "Easy 18",
+     "type": "result",
+     "strength": 2,
+     "quote": "Der Paus Easy 18 ist seit vielen Jahren der beliebteste Materialaufzug in der Vermietung, was sich aktuell wieder einmal an einem Großauftrag zeigt."
+    },
+    {
+     "product": "PFL 8",
+     "type": "result",
+     "strength": 3,
+     "quote": "Nach 7 Monaten Betrieb ist die Maschine bereits 1.000 Stunden gelaufen und hat Tonnen von Erz bewegt."
+    },
+    {
+     "product": "PTK 31",
+     "type": "result",
+     "strength": 3,
+     "quote": "Die Hermann Paus Maschinenfabrik hat mit Stolz den 1.000 Anhängerkran, einen PTK 31, an den Kranverleih Sebastian Birk übergeben."
+    }
+   ],
+   "success": []
+  },
+  {
+   "year": 2025,
+   "codeable": true,
+   "products": [
+    {
+     "name": "SL 9075 / SL 9088",
+     "generic": "an articulated swing loader",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "TL 9065 / TL 9078",
+     "generic": "an articulated telescopic wheel loader",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "TSL 9075 / TSL 9088",
+     "generic": "a telescopic swing loader",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "SMK 9036",
+     "generic": "a compact low-dump tipper",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "AKR 9040",
+     "generic": "a compact front-skip dumper",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Skyworker PTK 27",
+     "generic": "a trailer-mounted crane",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Skyworker PTK 31",
+     "generic": "a trailer-mounted crane for roofers",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "PTK XX",
+     "generic": "a top-model trailer crane with interchangeable jibs",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Multijib System",
+     "generic": "a quick-change system for crane boom tips",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Worklift GT 16A – GT 21A",
+     "generic": "a trailer-mounted elevating work platform",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Easy 24 WH-M",
+     "generic": "an inclined material elevator",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": true
+    },
+    {
+     "name": "Easy 18",
+     "generic": "a compact inclined material elevator",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Easy Big",
+     "generic": "a building material elevator",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "City Line",
+     "generic": "a building material elevator",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "City Star 25 WH-M",
+     "generic": "a trailer-mounted furniture and material elevator",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "UNIVERSA 55",
+     "generic": "an underground mining utility vehicle",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "UNI-50 Serie",
+     "generic": "an underground mining utility vehicle series",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Paus Connect",
+     "generic": "a telematics machine monitoring system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Paus Plus Service",
+     "generic": "an extended machine service offering",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    }
+   ],
+   "evidence": [
+    {
+     "product": "UNIVERSA 55",
+     "type": "launch",
+     "strength": 3,
+     "quote": "Ein Highlight der Händlertagung war die Enthüllung des Paus UNIVERSA 55."
+    },
+    {
+     "product": "Easy 18",
+     "type": "result",
+     "strength": 3,
+     "quote": "Bis Mitte 2024 erhält Boels Rental für seine Mietflotte 130 neue Easy 18 mit elektrischem 230V Antrieb, verteilt über mehrere Länder in Europa."
+    },
+    {
+     "product": "Easy 24 WH-M",
+     "type": "launch",
+     "strength": 1,
+     "quote": "Neueste Produktentwicklung ist der Schrägaufzug Easy 24 WH-M."
+    }
+   ],
+   "success": []
+  },
+  {
+   "year": 2026,
+   "codeable": true,
+   "products": [
+    {
+     "name": "SL 9075",
+     "generic": "an articulated swivel loader",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "SL 9088",
+     "generic": "an articulated swivel loader",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "TL 9065",
+     "generic": "a compact telescopic loader",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "TL 9078",
+     "generic": "a compact telescopic loader",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "TSL 9075",
+     "generic": "a telescopic swivel loader",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "TSL 9088",
+     "generic": "a telescopic swivel loader",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "TSL 8.7",
+     "generic": "a telescopic swivel loader",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "SMK9036",
+     "generic": "a construction dumper with skip",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "AKR 9040",
+     "generic": "an articulated construction dumper",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "AKR 9095 HP",
+     "generic": "an articulated construction dumper",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "AKR 9060",
+     "generic": "a compact dumper with rotating skip",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "AKR 9060 HP",
+     "generic": "a high-power compact construction dumper",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "PTK 27",
+     "generic": "a trailer-mounted crane",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "PTK 31",
+     "generic": "a trailer-mounted crane for roofers",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "GT 16A",
+     "generic": "a trailer-mounted elevating work platform",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "GT 21A",
+     "generic": "a trailer-mounted elevating work platform",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Easy",
+     "generic": "a compact trailer-mounted inclined elevator",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Easy 24 WH-M",
+     "generic": "a compact trailer-mounted inclined elevator",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": true
+    },
+    {
+     "name": "Easy Flex",
+     "generic": "an inclined elevator with interchangeable platforms",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "City Floh",
+     "generic": "a vehicle-mounted inclined elevator",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "UNIVERSA 55",
+     "generic": "a modular underground mining utility vehicle",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "UNIVERSA 55 TA",
+     "generic": "an underground water and fuel tanker",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "UNIVERSA 55 SV",
+     "generic": "an underground fuel and lube truck",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "UNIVERSA 55 WK",
+     "generic": "an underground mobile workshop vehicle",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "UNIVERSA 55 RW",
+     "generic": "an underground tire handler vehicle",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "UNIVERSA 55 LP",
+     "generic": "an underground material handling truck",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "UNIVERSA 55 LP K",
+     "generic": "an underground crane truck",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "PMKM 8030",
+     "generic": "an underground mining dump truck",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "MRV 9000",
+     "generic": "an underground mine rescue vehicle",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Paus Plus Service",
+     "generic": "an extended machine maintenance and repair service",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    }
+   ],
+   "evidence": [
+    {
+     "product": "AKR 9060 HP",
+     "type": "launch",
+     "strength": 2,
+     "quote": "Für mehr Leistung wurde der AKR 9060 HP, ein neues High-Power Modell, entwickelt."
+    },
+    {
+     "product": "AKR 9060",
+     "type": "launch",
+     "strength": 2,
+     "quote": "Die neuen Dumper AKR 9095 HP und AKR 9060 setzen neue Maßstäbe in Komfort und Leistung. Seit diesem Jahr können die Dumper optional mit einer Kabine ausgestattet werden."
+    },
+    {
+     "product": "PMKM 8030",
+     "type": "launch",
+     "strength": 2,
+     "quote": "Der brandneue Muldenkipper PMKM 8030 ist für den Untertagebau und speziell für enge Verhältnisse konzipiert."
+    },
+    {
+     "product": "Easy 24 WH-M",
+     "type": "launch",
+     "strength": 2,
+     "quote": "The Easy 24 WH-M telescopic lift is the latest product development."
+    }
+   ],
+   "success": []
+  }
+ ]
+}

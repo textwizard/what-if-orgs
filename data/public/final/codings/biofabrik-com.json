@@ -1,0 +1,650 @@
+{
+ "slug": "biofabrik-com",
+ "profiles": {
+  "exploration": {
+   "strategy": {
+    "offer": "Sustainable industrial technologies and products turning biomass and waste into nutrients, fertilizers, fuels, energy, plus engineering, automation and prototyping services.",
+    "customers": "Food, agriculture, chemicals, cosmetics and waste-management users, plus organizations needing decentralized energy, custom equipment, or environmentally oriented consumer and reseller products.",
+    "why_we_win": "By combining disruptive thinking with viable business models, making previously uneconomic technologies practical, sustainable and cost-competitive.",
+    "resources": "An interdisciplinary research and engineering team spanning science, automation, business development, marketing and distribution, supported by in-house prototyping and reinvested revenues.",
+    "direction": "To launch many more technology ventures and broaden deployment of existing and new sustainable solutions over coming decades."
+   },
+   "context": {
+    "size": null,
+    "founded": null,
+    "industry": "Manufacture of chemicals and chemical products"
+   },
+   "seed_year": 2017
+  },
+  "holdout": {
+   "strategy": {
+    "offer": "Modular recycling technologies and advisory services that convert waste streams into energy, recycled materials, or reusable feedstocks.",
+    "customers": "Industrial waste generators and recycling operators seeking site-specific, economically viable treatment for plastic and used-oil waste streams.",
+    "why_we_win": "Our approach promises both economic and environmental gains through decentralized, automated systems, reduced logistics, rapid iteration, and strong local-market partnerships.",
+    "resources": "More than a decade of development, specialist recycling expertise, manufacturing know-how, advisory capabilities, and an international distribution and support network.",
+    "direction": "Expand decentralized recycling infrastructure globally and help customers move toward waste-free, lower-emission circular operations."
+   },
+   "context": {
+    "size": null,
+    "founded": null,
+    "industry": "Manufacture of machinery and equipment n.e.c."
+   },
+   "seed_year": 2022
+  }
+ },
+ "years": [
+  {
+   "year": 2017,
+   "codeable": true,
+   "products": [
+    {
+     "name": "Biofabrik Green Refinery®",
+     "generic": "biorefinery extracting amino acids from grass",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": true
+    },
+    {
+     "name": "Biofabrik White Refinery®",
+     "generic": "plant converting plastic waste into fuel, electricity",
+     "seasonal": false,
+     "stage": "pilot",
+     "scale": "line",
+     "featured": true
+    },
+    {
+     "name": "WASTX Zero",
+     "generic": "small plastic-waste-to-fuel system for cities",
+     "seasonal": false,
+     "stage": "pilot",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Blattwerk",
+     "generic": "organic liquid fertilizer made from grass",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": true
+    },
+    {
+     "name": "Blattwerk Pure",
+     "generic": "organic liquid plant fertilizer in bottles, canisters",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Amineon",
+     "generic": "plant-based amino acid nutrient complex",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Amineon LIFE",
+     "generic": "vegan amino acid complex with GABA, BCAAs",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Amineon GABA",
+     "generic": "plant-based GABA ingredient powder or solution",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Amineon BCAA",
+     "generic": "vegan branched-chain amino acid ingredient",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    }
+   ],
+   "evidence": [
+    {
+     "product": "Biofabrik White Refinery®",
+     "type": "result",
+     "strength": 2,
+     "quote": "In einem bisher einzigartigen Projekt haben sich die Biofabrik, die International Trading Exchange Inc. und die Antilles Ecopower SAS mit dem Ziel zusammengeschlossen, die größte Insel der französischen Antillen vom Plastikabfall zu befreien."
+    },
+    {
+     "product": "Biofabrik White Refinery®",
+     "type": "investment",
+     "strength": 2,
+     "quote": "Packaging Marktführer Schur erwirbt Beteiligung an Biofabrik-Tochterunternehmen"
+    },
+    {
+     "product": "Blattwerk",
+     "type": "result",
+     "strength": 3,
+     "quote": "Living and Green, ein wunderbar gestalteter Blog der sich mit den Themen Garten, Wohnen, Kreativität und schönes Leben befasst, testet aktuell Blattwerk"
+    }
+   ],
+   "success": []
+  },
+  {
+   "year": 2018,
+   "codeable": true,
+   "products": [
+    {
+     "name": "WASTX PLASTIC",
+     "generic": "compact plant converting plastic waste into fuel",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "WASTX OIL",
+     "generic": "compact plant converting waste oil into fuel",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "WASTE TO X",
+     "generic": "modular extensions for waste-to-energy plants",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "White Refinery",
+     "generic": "compact pyrolysis technology for recycling problem waste",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": true
+    },
+    {
+     "name": "Green Refinery",
+     "generic": "biorefinery extracting amino acids from grass",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": true
+    },
+    {
+     "name": "Blattwerk",
+     "generic": "vegan organic fertilizer made from grass",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Ultrafood",
+     "generic": "organic vegan superfood nutrition drink mix",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    }
+   ],
+   "evidence": [],
+   "success": []
+  },
+  {
+   "year": 2019,
+   "codeable": true,
+   "products": [
+    {
+     "name": "White Refinery",
+     "generic": "compact pyrolysis plants recycling waste into energy",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": true
+    },
+    {
+     "name": "WASTX Plastic",
+     "generic": "compact refinery converting plastic waste to fuel",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": true
+    },
+    {
+     "name": "WASTX Oil",
+     "generic": "decentralized plant recycling waste oil into energy",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": true
+    },
+    {
+     "name": "WASTE TO X",
+     "generic": "modular extensions for waste-to-energy plants",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Green Refinery",
+     "generic": "biorefinery extracting amino acids from grass",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Blattwerk",
+     "generic": "organic fertilizer from renewable raw materials",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Ultrafood",
+     "generic": "vegan superfood drink mix",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    }
+   ],
+   "evidence": [
+    {
+     "product": "WASTX Oil",
+     "type": "launch",
+     "strength": 3,
+     "quote": "Altöl ist eines der größten globalen Umweltprobleme – BIOFABRIK bietet mit WASTX Oil eine dezentrale Lösung Dresden, 18. September 2018"
+    }
+   ],
+   "success": []
+  },
+  {
+   "year": 2022,
+   "codeable": true,
+   "products": [
+    {
+     "name": "WASTX Plastic",
+     "generic": "a decentralized plastic waste pyrolysis plant",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": true
+    },
+    {
+     "name": "WASTX Oil",
+     "generic": "a decentralized waste oil reprocessing plant",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Green Refinery",
+     "generic": "a grass biorefinery technology producing amino acids",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Blattwerk Pure",
+     "generic": "an organic vegan plant fertilizer",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Biofabrik Systems",
+     "generic": "an individual engineering development and consulting service",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    }
+   ],
+   "evidence": [
+    {
+     "product": "WASTX Plastic",
+     "type": "result",
+     "strength": 2,
+     "quote": "This year our WASTX Plastic was nominated in the category INNOVATION as one of the TOP6 most promising technologies."
+    },
+    {
+     "product": "WASTX Plastic",
+     "type": "result",
+     "strength": 2,
+     "quote": "Together with Plastoil, our distributor for Australia and New Zealand, we have reached the next milestone – the commissioning of our first WASTX Plastic as well as the first pyrolysis plant in Australia."
+    },
+    {
+     "product": "Blattwerk Pure",
+     "type": "launch",
+     "strength": 3,
+     "quote": "After over 10 years of development and great effort, the Green Refinery technology has been successfully producing a completely vegan and organic fertilizer – Blattwerk Pure."
+    },
+    {
+     "product": "Biofabrik Systems",
+     "type": "launch",
+     "strength": 2,
+     "quote": "Im vergangenen Jahr haben wir mit der Biofabrik Systems unseren Service für individuelle Entwicklung und Beratung gestartet."
+    },
+    {
+     "product": "WASTX Plastic",
+     "type": "investment",
+     "strength": 2,
+     "quote": "Neben individuellen Projekten arbeiten sie an einem externen Standort an der Weiterentwicklung der WASTX Plastic."
+    }
+   ],
+   "success": []
+  },
+  {
+   "year": 2023,
+   "codeable": true,
+   "products": [
+    {
+     "name": "WASTX Plastic",
+     "generic": "a plastic waste pyrolysis chemical recycling plant",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": true
+    },
+    {
+     "name": "WASTX Snowflake",
+     "generic": "a mobile mechanical waste recycling plant",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "WASTX Oil",
+     "generic": "a waste oil recycling plant",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": true
+    },
+    {
+     "name": "WASTX Cleanic",
+     "generic": "an infectious waste decontamination plant",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": true
+    },
+    {
+     "name": "Biorefinery",
+     "generic": "a plant extracting amino acids from grass",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Blattwerk",
+     "generic": "a vegan plant-based fertilizer",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "UR Nutrition",
+     "generic": "a nutrition and supplement product brand",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Biotumen",
+     "generic": "a bio-based CO2-negative bitumen binder",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Impact Family",
+     "generic": "a green tech hardware start-up accelerator program",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    }
+   ],
+   "evidence": [
+    {
+     "product": "WASTX Cleanic",
+     "type": "launch",
+     "strength": 3,
+     "quote": "Discover the synergy of Biofabrik and ERMAFA in the revolutionary WASTX Cleanic powered by MACS – a leap forward in sustainable infectious waste disposal."
+    },
+    {
+     "product": "WASTX Plastic",
+     "type": "launch",
+     "strength": 3,
+     "quote": "Eagle Technologies and Biofabrik Introduce Serial-Ready WASTX Plastic Pyrolysis Plant"
+    },
+    {
+     "product": "WASTX Plastic",
+     "type": "result",
+     "strength": 3,
+     "quote": "We are proud to announce a commercial agreement together with BAYERNOIL Raffineriegesellschaft mbH."
+    },
+    {
+     "product": "WASTX Plastic",
+     "type": "result",
+     "strength": 2,
+     "quote": "Invest in WASTX plants at Germany’s largest facility for chemical recycling, operated by our partner Enespa."
+    },
+    {
+     "product": "WASTX Snowflake",
+     "type": "launch",
+     "strength": 2,
+     "quote": "The WASTX SNOWFLAKE is the latest product that can be used both as a pretreatment stage and as a stand-alone, mobile mechanical recycling plant."
+    },
+    {
+     "product": "Blattwerk",
+     "type": "result",
+     "strength": 2,
+     "quote": "Large-Scale Application of the Vegan Fertilizer Blattwerk at the State Garden Show in Beelitz"
+    },
+    {
+     "product": "WASTX Oil",
+     "type": "result",
+     "strength": 2,
+     "quote": "The WASTX Oil in Asia – Kaltimex Energy & The Future of Oil Recycling￼\nBiofabrik Technologies and Kaltimex Energy have teamed up once more!"
+    }
+   ],
+   "success": []
+  },
+  {
+   "year": 2024,
+   "codeable": true,
+   "products": [
+    {
+     "name": "WASTX Cleanic",
+     "generic": "a decontamination plant for infectious medical waste",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": true
+    },
+    {
+     "name": "WASTX Plastic",
+     "generic": "a modular pyrolysis plant converting plastic waste to oil",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": true
+    },
+    {
+     "name": "WASTX Oil",
+     "generic": "a waste oil recycling plant",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Blattwerk Pure",
+     "generic": "an organic vegan fertilizer from pasture grass",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Biofabrik Systems",
+     "generic": "large-scale recycling plant engineering and consulting service",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Biofabrik Impact Family",
+     "generic": "an accelerator program for green hardware start-ups",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    }
+   ],
+   "evidence": [
+    {
+     "product": "WASTX Cleanic",
+     "type": "launch",
+     "strength": 3,
+     "quote": "starting with the WASTX Cleanic – powered by MACS, a decontamination plant transforming hazardous medical waste into non-hazardous household waste."
+    },
+    {
+     "product": "WASTX Plastic",
+     "type": "launch",
+     "strength": 3,
+     "quote": "Sign up for the official demo of the new generation of the WASTX Plastic technology."
+    },
+    {
+     "product": "Blattwerk Pure",
+     "type": "result",
+     "strength": 2,
+     "quote": "producing organic fertilizer #1on Amazon"
+    }
+   ],
+   "success": []
+  },
+  {
+   "year": 2025,
+   "codeable": true,
+   "products": [
+    {
+     "name": "WASTX Cleanic",
+     "generic": "a medical waste steam decontamination plant",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": true
+    },
+    {
+     "name": "WASTX Plastic",
+     "generic": "a containerized plastic waste pyrolysis plant",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": true
+    },
+    {
+     "name": "WASTX Oil",
+     "generic": "a decentralized waste oil recycling plant",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "WASTX SNOWFLAKE",
+     "generic": "a mobile mechanical recycling plant",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Biotumen",
+     "generic": "a bio-based bitumen substitute binder",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": true
+    },
+    {
+     "name": "Biorefinery",
+     "generic": "an amino acid extraction plant for grass",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Biofabrik Impact Family",
+     "generic": "an accelerator program for green hardware start-ups",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    }
+   ],
+   "evidence": [
+    {
+     "product": "WASTX Cleanic",
+     "type": "launch",
+     "strength": 3,
+     "quote": "starting with the WASTX Cleanic – powered by MACS, a decontamination plant transforming hazardous medical waste into non-hazardous household waste."
+    },
+    {
+     "product": "WASTX Plastic",
+     "type": "launch",
+     "strength": 3,
+     "quote": "Eagle Technologies and Biofabrik Introduce Serial-Ready WASTX Plastic Pyrolysis Plant"
+    },
+    {
+     "product": "WASTX Plastic",
+     "type": "launch",
+     "strength": 3,
+     "quote": "Sign up for the official demo of the new generation of the WASTX Plastic technology."
+    },
+    {
+     "product": "Biotumen",
+     "type": "launch",
+     "strength": 2,
+     "quote": "Additionally, a bio substitute of bitumen was recently included in our portfolio."
+    },
+    {
+     "product": "WASTX SNOWFLAKE",
+     "type": "launch",
+     "strength": 2,
+     "quote": "The WASTX SNOWFLAKE is the latest product that can be used both as a pretreatment stage and as a stand-alone, mobile mechanical recycling plant."
+    }
+   ],
+   "success": []
+  },
+  {
+   "year": 2026,
+   "codeable": false,
+   "products": [],
+   "evidence": [],
+   "success": []
+  }
+ ]
+}

@@ -1,0 +1,83 @@
+{
+ "slug": "jansen-com",
+ "windows": {
+  "exploration": {
+   "years": [
+    2017
+   ],
+   "industry": {
+    "turnover": "grew",
+    "rd": "more",
+    "patents": "more",
+    "universities": "more"
+   },
+   "employees": null,
+   "hiring": false,
+   "hiring_quote": null,
+   "expansion": false,
+   "expansion_quote": null,
+   "investment": false,
+   "investment_quote": null,
+   "growth": false,
+   "growth_quote": null,
+   "difficulty": false,
+   "difficulty_quote": null,
+   "rd": false,
+   "rd_quote": null,
+   "cooperation": false,
+   "cooperation_quote": null,
+   "eu_projects": 0,
+   "products_offered": 7,
+   "new": [
+    "high-pressure geothermal borehole probe",
+    "single-U geothermal borehole heat exchanger probe",
+    "surface technology for geothermal probes",
+    "fire-protection steel profile system",
+    "slim steel profile system",
+    "decorative steel profile surface system"
+   ],
+   "relatedness": [
+    "related",
+    "related",
+    "related",
+    "close",
+    "close",
+    "related"
+   ]
+  },
+  "holdout": {
+   "years": [
+    2022
+   ],
+   "industry": {
+    "turnover": "grew",
+    "rd": "about as",
+    "patents": "about as",
+    "universities": "about as"
+   },
+   "employees": 620,
+   "hiring": true,
+   "hiring_quote": "Stellenangebot Projektleiter Entwicklung (m/w) 100% bei Jansen AG Jobportal",
+   "expansion": false,
+   "expansion_quote": null,
+   "investment": false,
+   "investment_quote": null,
+   "growth": false,
+   "growth_quote": null,
+   "difficulty": false,
+   "difficulty_quote": null,
+   "rd": true,
+   "rd_quote": "the SIQT has examined the number of patents granted to companies based in Switzerland between 2017 and 2019 across all segments",
+   "cooperation": false,
+   "cooperation_quote": null,
+   "eu_projects": 0,
+   "products_offered": 8,
+   "new": [
+    "drainage infiltration system"
+   ],
+   "relatedness": [
+    "close"
+   ]
+  }
+ }
+}

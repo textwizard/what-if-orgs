@@ -1,0 +1,1 @@
+{"model": "deepseek-v4-pro", "effort": "medium", "answer": {"decisions": [{"product": "A", "probability_dropped": 15, "decision": "keep", "reason": "The product has been promoted to the home page, suggesting positive market signal and unresolved upside, so the firm should keep the option open while uncertainty remains and keeping costs are low."}]}}

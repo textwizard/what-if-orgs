@@ -1,0 +1,93 @@
+{
+ "slug": "tinkerforge-com",
+ "windows": {
+  "exploration": {
+   "years": [
+    2017
+   ],
+   "industry": {
+    "turnover": "grew",
+    "rd": "more",
+    "patents": "more",
+    "universities": "more"
+   },
+   "employees": null,
+   "hiring": false,
+   "hiring_quote": null,
+   "expansion": false,
+   "expansion_quote": null,
+   "investment": false,
+   "investment_quote": null,
+   "growth": false,
+   "growth_quote": null,
+   "difficulty": false,
+   "difficulty_quote": null,
+   "rd": true,
+   "rd_quote": "We started the development of a first prototype with a TMC2100 driver IC. We found out that the prototype had problems with high motor speeds",
+   "cooperation": false,
+   "cooperation_quote": null,
+   "eu_projects": 0,
+   "products_offered": 29,
+   "new": [
+    "indoor air quality sensor module",
+    "mounting workbench plate for modules",
+    "comprehensive electronics building block kit",
+    "industrial measurement and control kit",
+    "electronics building block kit",
+    "thermocouple temperature measurement module"
+   ],
+   "relatedness": [
+    "close",
+    "related",
+    "close",
+    "related",
+    "close",
+    "close"
+   ]
+  },
+  "holdout": {
+   "years": [
+    2022
+   ],
+   "industry": {
+    "turnover": "grew",
+    "rd": "more",
+    "patents": "more",
+    "universities": "more"
+   },
+   "employees": null,
+   "hiring": false,
+   "hiring_quote": null,
+   "expansion": true,
+   "expansion_quote": "Das bestimmende Thema war aber sicherlich unser Einstieg in den Bereich Elektrofahrzeug-Ladetechnik unter der Marke WARP (Wall Attached Recharge Point) mit unseren WARP Wallboxen.",
+   "investment": true,
+   "investment_quote": "Von den Wallboxen haben wir mittlerweile deutlich über 1500 Stück verkauft und fertigen diese in einer eigenen Produktion.",
+   "growth": true,
+   "growth_quote": "Wir haben mehr Wallboxen verkauft, wie von uns erhofft! Um Schritt halten zu können haben wir die Produktion nun größer aufgezogen. Auch personell haben wir unser Team vergrößert.",
+   "difficulty": false,
+   "difficulty_quote": null,
+   "rd": true,
+   "rd_quote": "Im Bereich unserer WARP Ladetechnik arbeiten wir an einer Standsäule für die Wallboxen und an einem Energiemanager, welcher PV-Überschussladen und eine Phasenumschaltung bieten wird.",
+   "cooperation": false,
+   "cooperation_quote": null,
+   "eu_projects": 0,
+   "products_offered": 25,
+   "new": [
+    "inertial measurement sensor module",
+    "industrial AC voltage input module",
+    "four-channel solid state relay module",
+    "server room monitoring sensor kit",
+    "RGB LED control module",
+    "remote access service for wallboxes"
+   ],
+   "relatedness": [
+    "close",
+    "related",
+    "close",
+    "related",
+    "related",
+    "related"
+   ]
+  }
+ }
+}

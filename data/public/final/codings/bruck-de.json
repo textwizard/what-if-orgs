@@ -1,0 +1,1350 @@
+{
+ "slug": "bruck-de",
+ "profiles": {
+  "exploration": {
+   "strategy": {
+    "offer": "Premium luminaires, lighting systems, and home automation for interiors, supported by planning tools, advice, showroom experiences, warranties, and retail presentation solutions.",
+    "customers": "Design-conscious homeowners, specialist retailers, installers, architects, and planners seeking adaptable lighting for residential interiors and some professional environments.",
+    "why_we_win": "The firm links design, light quality, flexibility, ecological efficiency, easy installation and control, and service to create comfortable, atmospheric spaces.",
+    "resources": "Its basis is lighting know-how, product engineering, planning software, advisory staff, showrooms, modular display concepts, and installation and distribution partnerships.",
+    "direction": "It aims to be an internationally oriented premium brand for ergonomic, ecological, sustainable home lighting that exceeds customer expectations."
+   },
+   "context": {
+    "size": null,
+    "founded": null,
+    "industry": "Manufacture of electrical equipment"
+   },
+   "seed_year": 2017
+  },
+  "holdout": {
+   "strategy": {
+    "offer": "Design-led luminaires and modular lighting systems, plus planning tools, technical data, showroom consultation, dealer display support, and extended LED warranties.",
+    "customers": "End customers, specialist dealers, installers, and lighting planners needing attractive, adaptable lighting and sales presentation support.",
+    "why_we_win": "It argues superior outcomes come from quality, timeless design, flexible systems, visible light effects, dependable service, and sustainable products across the lifecycle.",
+    "resources": "It cites broad product breadth, professional light advisers, planning software, technical planning files, showroom concepts, and long-term relationships with customers, staff, and suppliers.",
+    "direction": "It says it is pursuing continuous, sustainable growth built on durable partnerships and environmentally conscious product development."
+   },
+   "context": {
+    "size": null,
+    "founded": null,
+    "industry": "Manufacture of electrical equipment"
+   },
+   "seed_year": 2022
+  }
+ },
+ "years": [
+  {
+   "year": 2017,
+   "codeable": true,
+   "products": [
+    {
+     "name": "dim2warm",
+     "generic": "dim-to-warm LED colour temperature technology",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": true
+    },
+    {
+     "name": "EUCLID MIN",
+     "generic": "slim surface-mounted LED spotlight",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": true
+    },
+    {
+     "name": "Euclid",
+     "generic": "LED pendant and recessed luminaire family",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Euclid 3D",
+     "generic": "swivelling recessed LED spotlight",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Homission",
+     "generic": "app-based home automation and lighting control system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": true
+    },
+    {
+     "name": "DUOLARE",
+     "generic": "two-phase 230 V lighting track system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "LED-DUOLARE",
+     "generic": "slim 230 V track with indirect LED",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "VIA",
+     "generic": "lighting rail system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "HIGH-LINE",
+     "generic": "lighting system for luminaires",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "POINT",
+     "generic": "12 V plug-in canopy luminaire system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "CANTARA",
+     "generic": "pendant lamp range",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "CANTARA GLAS",
+     "generic": "glass pendant lamp with metallic interior coating",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Cranny",
+     "generic": "minimalist recessed and surface ceiling luminaire",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Squrve",
+     "generic": "LED pendant light for dining tables",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "MALO WALL",
+     "generic": "recessed ceiling wall washer spotlight",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "BRUCK-Ausstellungskonzept",
+     "generic": "modular showroom display system for retailers",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    }
+   ],
+   "evidence": [],
+   "success": []
+  },
+  {
+   "year": 2018,
+   "codeable": true,
+   "products": [
+    {
+     "name": "DUOLARE",
+     "generic": "a track lighting system with luminaires",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "DUOLARE-Adapter",
+     "generic": "a click-in track adapter for luminaires",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": true
+    },
+    {
+     "name": "VIA",
+     "generic": "a lighting rail system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "HIGH-LINE",
+     "generic": "a lighting rail system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "EUCLID MIN",
+     "generic": "a slim surface-mounted LED spotlight",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": true
+    },
+    {
+     "name": "dim2warm",
+     "generic": "LED dimming technology that warms colour temperature",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Homission",
+     "generic": "an app-controlled home automation system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": true
+    },
+    {
+     "name": "HOME-SERVER ENOCEAN",
+     "generic": "a home automation server box",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "LISY",
+     "generic": "a lighting system planning service and tool",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "POINT",
+     "generic": "a lighting planning tool",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "CANTARA GLAS",
+     "generic": "a family of glass luminaires",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "SILVA",
+     "generic": "a luminaire family",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "MALO WALL",
+     "generic": "a recessed ceiling wall washer luminaire",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    }
+   ],
+   "evidence": [
+    {
+     "product": "DUOLARE-Adapter",
+     "type": "launch",
+     "strength": 2,
+     "quote": "Der neue DUOLARE-Adapter! Mit einem unkomplizierten Click-Mechanismus rastet er in der Schiene ein."
+    }
+   ],
+   "success": []
+  },
+  {
+   "year": 2019,
+   "codeable": true,
+   "products": [
+    {
+     "name": "DUOLARE",
+     "generic": "a track lighting system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "VIA",
+     "generic": "a track lighting system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "HIGH-LINE",
+     "generic": "a track lighting system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "EUCLID MIN",
+     "generic": "a slim surface-mounted LED spotlight",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "EUCLID",
+     "generic": "an LED spotlight",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "OPTO",
+     "generic": "an LED spotlight",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "BLOP",
+     "generic": "an LED spotlight",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "ACT",
+     "generic": "an LED system spotlight",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Asta",
+     "generic": "an LED luminaire",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "CANTARA GLAS",
+     "generic": "a blown-glass LED ceiling luminaire",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "JACK",
+     "generic": "an LED pendant luminaire",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Cranny",
+     "generic": "an LED luminaire",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "dim2warm",
+     "generic": "a dim-to-warm LED colour temperature technology",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    }
+   ],
+   "evidence": [
+    {
+     "product": "BLOP",
+     "type": "result",
+     "strength": 3,
+     "quote": "Gleich zwei unserer neuen Produkte sind nominiert für den German Design Award 2019: > Blop > Asta wurden gewürdigt."
+    },
+    {
+     "product": "Asta",
+     "type": "result",
+     "strength": 3,
+     "quote": "Gleich zwei unserer neuen Produkte sind nominiert für den German Design Award 2019: > Blop > Asta wurden gewürdigt."
+    },
+    {
+     "product": "DUOLARE",
+     "type": "launch",
+     "strength": 2,
+     "quote": "Der neue DUOLARE-Adapter! Mit einem unkomplizierten Click-Mechanismus rastet er in der Schiene ein."
+    },
+    {
+     "product": "Cranny",
+     "type": "launch",
+     "strength": 2,
+     "quote": "Cranny nun auch als LED-Varian..."
+    }
+   ],
+   "success": []
+  },
+  {
+   "year": 2022,
+   "codeable": true,
+   "products": [
+    {
+     "name": "ACT",
+     "generic": "an LED luminaire family with spot variants",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "ALPHA",
+     "generic": "an LED luminaire",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "ASTA",
+     "generic": "an LED luminaire family incl. wall version",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "BETA",
+     "generic": "a family of LED spotlights",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "BLOP",
+     "generic": "a family of LED ceiling luminaires and spots",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "CALO",
+     "generic": "a family of LED spotlights and downlights",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "CANTARA",
+     "generic": "a family of pendant luminaires",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "CRANNY",
+     "generic": "a family of LED spot luminaires",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "EUCLID",
+     "generic": "a family of LED surface-mounted spotlights",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": true
+    },
+    {
+     "name": "FAIR",
+     "generic": "an LED luminaire",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "FINO",
+     "generic": "a family of LED spot luminaires",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "JACK",
+     "generic": "an LED luminaire",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "LEDRA",
+     "generic": "an LED luminaire",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "OPTO",
+     "generic": "an LED luminaire",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "PINO",
+     "generic": "a family of LED spot luminaires",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "SCOBO",
+     "generic": "a family of up/down and spot luminaires",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "SILVA",
+     "generic": "a family of pendant luminaires",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "STAR",
+     "generic": "a family of LED spotlights and luminaires",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "TUBUS",
+     "generic": "an LED luminaire",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "TUTO",
+     "generic": "an LED luminaire",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "VITO",
+     "generic": "a family of LED spot luminaires",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "MAXIMUM",
+     "generic": "a canopy lighting system with spotlights",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "POINT",
+     "generic": "a plug-contact low-voltage lighting system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "ALL-IN",
+     "generic": "a 230V two-circuit track lighting system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "DUOLARE",
+     "generic": "a 230V two-circuit track lighting system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": true
+    },
+    {
+     "name": "VIA",
+     "generic": "a 12V track lighting system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "HIGH-LINE",
+     "generic": "a 12V cable lighting system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "dim2warm",
+     "generic": "warm-dimming LED technology for luminaires",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": true
+    }
+   ],
+   "evidence": [
+    {
+     "product": "DUOLARE",
+     "type": "launch",
+     "strength": 2,
+     "quote": "Der neue DUOLARE-Adapter! Mit einem unkomplizierten Click-Mechanismus rastet er in der Schiene ein."
+    }
+   ],
+   "success": []
+  },
+  {
+   "year": 2023,
+   "codeable": true,
+   "products": [
+    {
+     "name": "DUOLARE",
+     "generic": "a lighting track rail system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": true
+    },
+    {
+     "name": "VIA",
+     "generic": "a lighting track rail system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "dim2warm",
+     "generic": "LED dimming technology warming colour temperature",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": true
+    },
+    {
+     "name": "EUCLID MIN",
+     "generic": "a slim surface-mounted LED spotlight",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": true
+    },
+    {
+     "name": "Euclid 3D",
+     "generic": "a flat swivelling surface-mounted spotlight",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "MALO WALL",
+     "generic": "a recessed wall washer spotlight",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    }
+   ],
+   "evidence": [
+    {
+     "product": "DUOLARE",
+     "type": "launch",
+     "strength": 2,
+     "quote": "Der neue DUOLARE-Adapter! Mit einem unkomplizierten Click-Mechanismus rastet er in der Schiene ein."
+    }
+   ],
+   "success": []
+  },
+  {
+   "year": 2024,
+   "codeable": true,
+   "products": [
+    {
+     "name": "ASTA",
+     "generic": "a minimalist LED ceiling and track luminaire",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "UP",
+     "generic": "a minimalist track-mounted luminaire",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "ACT II",
+     "generic": "an LED track spotlight",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "ALL-IN",
+     "generic": "a 230V lighting track system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "DUOLARE",
+     "generic": "a 230V lighting track system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "VIA",
+     "generic": "a 12V low-voltage lighting track system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "HIGHLINE",
+     "generic": "a 12V cable lighting system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "MAXIMUM",
+     "generic": "a ceiling canopy lighting system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "MALO WALL",
+     "generic": "a recessed ceiling wall-washer luminaire",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Blop",
+     "generic": "a residential luminaire series",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Cantara Glas",
+     "generic": "a luminaire series with glass shades",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Cantara Nat",
+     "generic": "a residential luminaire series",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Fino",
+     "generic": "a residential luminaire series",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Silva",
+     "generic": "a residential luminaire series",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Star",
+     "generic": "a residential luminaire series",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "BRUCK 5 Jahres LED Garantie",
+     "generic": "an extended five-year LED warranty",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    }
+   ],
+   "evidence": [
+    {
+     "product": "ASTA",
+     "type": "launch",
+     "strength": 2,
+     "quote": "Durch die aktuelle Produktverbesserung – die neue Platine – setzt die ASTA nun noch stärkere Lichtakzente und bleibt dabei ihrem charakteristischen Design treu."
+    },
+    {
+     "product": "ASTA",
+     "type": "result",
+     "strength": 1,
+     "quote": "Die ASTA-Leuchte von BRUCK hat sich seit ihrer Markteinführung durch ihr minimalistisches Design und die hohe Funktionalität in vielen modernen Raumkonzepten etabliert."
+    },
+    {
+     "product": "UP",
+     "type": "launch",
+     "strength": 2,
+     "quote": "Die minimalistische UP-Leuchte von BRUCK ist jetzt in der eleganten Farbe Champagner erhältlich."
+    }
+   ],
+   "success": []
+  },
+  {
+   "year": 2025,
+   "codeable": true,
+   "products": [
+    {
+     "name": "ALPHA SPOT",
+     "generic": "a flexible LED spotlight",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "BLOP",
+     "generic": "a family of pendant, ceiling and recessed luminaires",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "BLOP 3D",
+     "generic": "an LED ceiling luminaire",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "SOFT",
+     "generic": "round glass luminaires for track system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "STAR",
+     "generic": "pendant luminaires and spotlights",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "VITO",
+     "generic": "spotlights and recessed luminaires",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "CANTARA GLAS",
+     "generic": "a glass pendant or ceiling luminaire",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "CANTARA NAT",
+     "generic": "a pendant and ceiling luminaire",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Act",
+     "generic": "a luminaire family",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Add",
+     "generic": "a luminaire family",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Asta",
+     "generic": "a luminaire family",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Booh",
+     "generic": "a luminaire family",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Fino",
+     "generic": "a luminaire family",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Silva",
+     "generic": "a luminaire family",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Swap",
+     "generic": "a luminaire family",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Tuto",
+     "generic": "a luminaire family",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "ALL-IN",
+     "generic": "a 230V lighting track system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": true
+    },
+    {
+     "name": "DUOLARE",
+     "generic": "a 230V lighting track system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": true
+    },
+    {
+     "name": "MICRO",
+     "generic": "a 24V DALI lighting track system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": true
+    },
+    {
+     "name": "VIA",
+     "generic": "a 12V lighting track system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": true
+    },
+    {
+     "name": "HIGHLINE",
+     "generic": "a 12V cable lighting system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": true
+    },
+    {
+     "name": "MAXIMUM AC",
+     "generic": "a multi-outlet ceiling canopy",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "MAXIMUM LV",
+     "generic": "a low-voltage multi-outlet ceiling canopy",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Ovaler Baldachin OV",
+     "generic": "an oval multi-outlet ceiling canopy",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "DECKENBEFESTIGUNG CLICK ALL-IN SET",
+     "generic": "a ceiling mounting set for track",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "BRUCK 5 Jahres LED Garantie",
+     "generic": "an extended LED product warranty",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "BRUCK exhibition concept",
+     "generic": "a modular retail display system for luminaires",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    }
+   ],
+   "evidence": [],
+   "success": []
+  },
+  {
+   "year": 2026,
+   "codeable": true,
+   "products": [
+    {
+     "name": "ALL-IN",
+     "generic": "a 230V lighting track system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "DUOLARE",
+     "generic": "a 230V lighting track system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "MICRO",
+     "generic": "a 24V DALI lighting track system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "VIA",
+     "generic": "a 12V low-voltage lighting track system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "HIGHLINE",
+     "generic": "a 12V cable lighting system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "MAXIMUM",
+     "generic": "a linear multi-luminaire ceiling canopy",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "BALDACHIN OVAL",
+     "generic": "an oval multi-luminaire ceiling canopy",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "BALDACHIN MULTI 210-8",
+     "generic": "a round multi-pendant ceiling canopy",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "BALDACHIN 80",
+     "generic": "a compact single-pendant ceiling canopy",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "BALDACHIN 130",
+     "generic": "a low-voltage single-pendant ceiling canopy",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "BALDACHIN PENDEL R",
+     "generic": "a round single-pendant ceiling canopy",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Act",
+     "generic": "a family of designer luminaires",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Add",
+     "generic": "a family of designer luminaires",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Asta",
+     "generic": "a family of LED ceiling luminaires",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Blop",
+     "generic": "a family of designer luminaires",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Booh",
+     "generic": "a family of designer luminaires",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Cantara",
+     "generic": "a family of pendant and ceiling luminaires",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Fino",
+     "generic": "a family of designer luminaires",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Silva",
+     "generic": "a family of designer luminaires",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Star",
+     "generic": "a family of pendant luminaires and spotlights",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Swap",
+     "generic": "a family of designer luminaires",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Tuto",
+     "generic": "a family of pendant, wall and spot luminaires",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Vito",
+     "generic": "a family of designer luminaires",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "BETA SPOTS",
+     "generic": "a series of LED spotlights",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "CALO",
+     "generic": "a series of LED spotlights",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "FAIR",
+     "generic": "a series of LED spotlights",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "JACK",
+     "generic": "a minimalist LED spotlight",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "OPTO",
+     "generic": "an LED ceiling luminaire",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "SCOBO",
+     "generic": "a series of spotlights and wall luminaires",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    }
+   ],
+   "evidence": [],
+   "success": []
+  }
+ ]
+}

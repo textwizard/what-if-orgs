@@ -1,0 +1,93 @@
+{
+ "slug": "glamox-com",
+ "windows": {
+  "exploration": {
+   "years": [
+    2017
+   ],
+   "industry": {
+    "turnover": "grew",
+    "rd": "more",
+    "patents": "more",
+    "universities": "about as"
+   },
+   "employees": 1300,
+   "hiring": false,
+   "hiring_quote": null,
+   "expansion": true,
+   "expansion_quote": "07/06/2016 Glamox acquires LINKSrechts, manufacturers of naval lighting.",
+   "investment": false,
+   "investment_quote": null,
+   "growth": false,
+   "growth_quote": null,
+   "difficulty": false,
+   "difficulty_quote": null,
+   "rd": true,
+   "rd_quote": "Our products and solutions are developed and tested by our engineers at our own research and testing facilities",
+   "cooperation": false,
+   "cooperation_quote": null,
+   "eu_projects": 0,
+   "products_offered": 11,
+   "new": [
+    "submarine interior lighting",
+    "medical examination light",
+    "industrial explosion-proof luminaires",
+    "designer task light",
+    "pendant office luminaire",
+    "premium pendant luminaire"
+   ],
+   "relatedness": [
+    "distant",
+    "related",
+    "related",
+    "close",
+    "close",
+    "close"
+   ]
+  },
+  "holdout": {
+   "years": [
+    2022
+   ],
+   "industry": {
+    "turnover": "grew",
+    "rd": "more",
+    "patents": "more",
+    "universities": "more"
+   },
+   "employees": 2450,
+   "hiring": false,
+   "hiring_quote": null,
+   "expansion": true,
+   "expansion_quote": "Glamox AS has entered into an agreement to acquire 100% of the shares in the Norwegian company Luminell Group AS.",
+   "investment": false,
+   "investment_quote": null,
+   "growth": false,
+   "growth_quote": null,
+   "difficulty": false,
+   "difficulty_quote": null,
+   "rd": true,
+   "rd_quote": "Our products and solutions are developed and tested by our engineers at our own research and testing facilities",
+   "cooperation": true,
+   "cooperation_quote": "A research study will document the effects on the patients. More information will be added as the project evolves. Segment: Healthcare Place: Trondheim, Norway Start: November 2017 Research institution: NTNU",
+   "eu_projects": 0,
+   "products_offered": 7,
+   "new": [
+    "naval vessel lighting system",
+    "anti-ligature luminaire",
+    "marine LED searchlight",
+    "marine floodlight",
+    "linear industrial lighting system",
+    "interior luminaire"
+   ],
+   "relatedness": [
+    "close",
+    "distant",
+    "close",
+    "close",
+    "related",
+    "related"
+   ]
+  }
+ }
+}

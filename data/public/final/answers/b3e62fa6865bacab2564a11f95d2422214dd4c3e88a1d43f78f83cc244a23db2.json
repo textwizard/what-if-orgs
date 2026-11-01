@@ -1,0 +1,1 @@
+{"model": "claude-opus-5-5", "effort": "medium", "answer": {"decisions": [{"product": "A", "probability_dropped": 12, "decision": "keep", "reason": "An inbound SMS API is a low-cost, recently launched extension of the firm's communication platform with recurring usage revenue, so a large established IT firm would likely keep it on the market."}]}}

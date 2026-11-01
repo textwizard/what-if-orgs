@@ -1,0 +1,93 @@
+{
+ "slug": "rea-jet-com",
+ "windows": {
+  "exploration": {
+   "years": [
+    2017
+   ],
+   "industry": {
+    "turnover": "grew",
+    "rd": "more",
+    "patents": "more",
+    "universities": "more"
+   },
+   "employees": 400,
+   "hiring": false,
+   "hiring_quote": null,
+   "expansion": false,
+   "expansion_quote": null,
+   "investment": false,
+   "investment_quote": null,
+   "growth": true,
+   "growth_quote": "Die Anzahl unserer Kunden ist mit dem Ausbau unserer jüngsten Produktlinien und vieler innovativen Branchen- und Nischenlösungen weltweit stark gestiegen.",
+   "difficulty": false,
+   "difficulty_quote": null,
+   "rd": true,
+   "rd_quote": "Development, production and mounting, service as well as sales at Headquarters in Muehltal, Germany",
+   "cooperation": false,
+   "cooperation_quote": null,
+   "eu_projects": 0,
+   "products_offered": 9,
+   "new": [
+    "high-resolution piezo inkjet printer",
+    "software module for backside numbering printing",
+    "an inkjet coder for non-absorbent surfaces",
+    "a mobile app for decoding product codes",
+    "an inline code verification system",
+    "a print layout design software"
+   ],
+   "relatedness": [
+    "close",
+    "related",
+    "related",
+    "close",
+    "related",
+    "related"
+   ]
+  },
+  "holdout": {
+   "years": [
+    2022
+   ],
+   "industry": {
+    "turnover": "grew",
+    "rd": "more",
+    "patents": "more",
+    "universities": "more"
+   },
+   "employees": 400,
+   "hiring": true,
+   "hiring_quote": "Technischer Vertriebsmitarbeiter (m/w/d) im Außendienst Standort Wülfrath bei Düsseldorf (ST-Technologiezentrum)",
+   "expansion": true,
+   "expansion_quote": "Das erfordert nicht nur weitere Mitarbeiter, sondern auch mehr Platz für Werkstätten und Montageräume. Im geräumigen Neubau berichtet REA Geschäftsführer Michael Neuschäfer",
+   "investment": true,
+   "investment_quote": "Unsere komplette Signiertechnik-Mannschaft ist vor kurzem von Wuppertal nach Wülfrath in neue Büroräume mit angegliederter…",
+   "growth": false,
+   "growth_quote": null,
+   "difficulty": false,
+   "difficulty_quote": null,
+   "rd": true,
+   "rd_quote": "In unserem Applikationslabor wurde daher im ersten Schritt die maximale Markiergeschwindigkeit mit dem Laser der gewünschten Leistungsklasse (hier ein 10 W CO2-Laser) ermittelt.",
+   "cooperation": false,
+   "cooperation_quote": null,
+   "eu_projects": 0,
+   "products_offered": 9,
+   "new": [
+    "enclosed manual laser marking workstation",
+    "high-resolution thermal inkjet printer",
+    "high-resolution piezo inkjet printer",
+    "industrial laser marking systems",
+    "compact laser marking cabin",
+    "high-resolution lubricant printing system for sheet metal"
+   ],
+   "relatedness": [
+    "related",
+    "close",
+    "close",
+    "related",
+    "related",
+    "related"
+   ]
+  }
+ }
+}

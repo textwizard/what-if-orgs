@@ -1,0 +1,2198 @@
+{
+ "slug": "nya-com",
+ "profiles": {
+  "exploration": {
+   "strategy": {
+    "offer": "Interior decoration and upholstery textiles, plus made-to-measure sewing, custom samples, and retail presentation support.",
+    "customers": "Retail trade and other buyers seeking interior textiles with dependable supply, sampling, and service.",
+    "why_we_win": "They combine design-led collections with quick delivery, broad in-stock availability, reorder continuity, and attentive customer service built around feedback.",
+    "resources": "An international organization with about 120 employees, efficient electronic order handling, a large stocked warehouse, and sewing and sample-making capabilities.",
+    "direction": null
+   },
+   "context": {
+    "size": "medium",
+    "founded": 1964,
+    "industry": "Manufacture of textiles"
+   },
+   "seed_year": 2017
+  },
+  "holdout": {
+   "strategy": {
+    "offer": "Interior textiles for curtains, decoration, upholstery and related applications, including functional fabrics for residential and contract settings.",
+    "customers": "Residential and commercial interior customers worldwide, including hospitality and other project environments needing aesthetic and performance textiles.",
+    "why_we_win": "It believes clear, timeless design plus innovation, quality, functionality, product breadth and close customer collaboration create superior interior solutions.",
+    "resources": "Its basis is a distinctive design tradition, creative development, 50 employees, international sales presence, and production partners delivering high-quality, durable fabrics.",
+    "direction": "It is moving toward more sustainable operations and collections, increasing recycled and renewable materials while reducing waste, energy use and hard-to-recycle blends."
+   },
+   "context": {
+    "size": "medium",
+    "founded": 1964,
+    "industry": "Manufacture of textiles"
+   },
+   "seed_year": 2022
+  }
+ },
+ "years": [
+  {
+   "year": 2017,
+   "codeable": true,
+   "products": [
+    {
+     "name": "Lia-Palace",
+     "generic": "an embroidered decorative curtain fabric",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Lia",
+     "generic": "an easy-care decorative fabric",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Nyatec",
+     "generic": "a curtain sewing service",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Nya Artline",
+     "generic": "curtain accessories and hanging systems",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Simply",
+     "generic": "clamping elements for curtain decoration",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Cingolo",
+     "generic": "a curtain decoration accessory",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Cintura",
+     "generic": "a curtain decoration accessory",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Clip",
+     "generic": "a curtain decoration accessory",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Filigran",
+     "generic": "a curtain decoration accessory",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Papageno",
+     "generic": "a curtain decoration accessory",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Scarabae",
+     "generic": "a curtain decoration accessory",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Serafino",
+     "generic": "a curtain decoration accessory",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Tortora",
+     "generic": "a curtain decoration accessory",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Easy",
+     "generic": "a curtain hanging system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Esprit",
+     "generic": "a curtain hanging system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Finesse",
+     "generic": "a curtain hanging system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Patch",
+     "generic": "a curtain hanging system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Pelle",
+     "generic": "a curtain hanging system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Quattro",
+     "generic": "a curtain hanging system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Scala",
+     "generic": "a curtain hanging system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Snap",
+     "generic": "a curtain hanging system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Villa",
+     "generic": "a curtain hanging system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Pure Perfection",
+     "generic": "a themed collection of interior fabrics",
+     "seasonal": true,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Creative Concept",
+     "generic": "a themed collection of interior fabrics",
+     "seasonal": true,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Luxury Life",
+     "generic": "a themed collection of interior fabrics",
+     "seasonal": true,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    }
+   ],
+   "evidence": [],
+   "success": []
+  },
+  {
+   "year": 2018,
+   "codeable": true,
+   "products": [
+    {
+     "name": "Streifzüge",
+     "generic": "spring collection of interior textiles",
+     "seasonal": true,
+     "stage": "market",
+     "scale": "line",
+     "featured": true
+    },
+    {
+     "name": "Alabama",
+     "generic": "semi-transparent linen curtain fabric",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Alabama-Stripe",
+     "generic": "striped linen decoration fabric",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Allee",
+     "generic": "metal burn-out striped curtain fabric",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Alpha-Check 2.0",
+     "generic": "cotton check fabric",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Kappa 2.0",
+     "generic": "two-colour cotton stripe fabric",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Cord 2.0",
+     "generic": "cotton corduroy velour fabric",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Gobi",
+     "generic": "coated linen decoration fabric",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Soul",
+     "generic": "bouclé upholstery fabric",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Rigoletto",
+     "generic": "wide polyester satin curtain fabric",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Aida",
+     "generic": "polyester satin plain fabric",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Rivoli CS",
+     "generic": "flame-retardant knitted curtain fabric",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Cosy",
+     "generic": "knit-look wool blend upholstery fabric",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Ashley",
+     "generic": "printed foliage decoration fabric",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Fettuccia",
+     "generic": "linen rep ribbon trim",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Fontana",
+     "generic": "silk linen ikat jacquard fabric",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Södermalm CS",
+     "generic": "flame-retardant striped curtain fabric",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Amy",
+     "generic": "semi-transparent modal blend curtain fabric",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Opera",
+     "generic": "semi-transparent metallic decoration fabric",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Fino",
+     "generic": "sheer wool curtain fabric",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Metropolitan",
+     "generic": "linen fabric with metallic foam print",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Oia",
+     "generic": "cotton voile curtain fabric",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Francesco",
+     "generic": "linen lurex fringe trim",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Rubino 2.0",
+     "generic": "cotton velour decoration and upholstery fabric",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Soho CS",
+     "generic": "transparent striped curtain fabric",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Jalousie CS",
+     "generic": "transparent striped curtain fabric",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Fugato",
+     "generic": "silk decoration fabric with lurex dots",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Clouds",
+     "generic": "burn-out curtain fabric with cloud motif",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Ava",
+     "generic": "semi-transparent cotton lace-look fabric",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Ototo CS",
+     "generic": "pleated striped curtain fabric",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    }
+   ],
+   "evidence": [
+    {
+     "product": "Streifzüge",
+     "type": "launch",
+     "strength": 3,
+     "quote": "KOLLEKTION 2017 STREIFZÜGE – EINE NEUE INTERPRETATION"
+    },
+    {
+     "product": "Amy",
+     "type": "launch",
+     "strength": 2,
+     "quote": "Mit hauchdünner Leichtigkeit sorgt der neue halbtransparente Vorhangstoff für zarte, textile Fenstergestaltung in 340 cm Breite."
+    },
+    {
+     "product": "Cord 2.0",
+     "type": "launch",
+     "strength": 1,
+     "quote": "Aktuelles Comeback eines Lieblingsstoffes."
+    },
+    {
+     "product": "Rubino 2.0",
+     "type": "launch",
+     "strength": 2,
+     "quote": "14 ausgewählte Kolorits erweitern die Skala des vielseitigen Baumwollvelours auf nunmehr 30 aktuelle Töne."
+    },
+    {
+     "product": "Jalousie CS",
+     "type": "result",
+     "strength": 2,
+     "quote": "Sie entwickeln den erfolgreichen Nya Nordiska-Artikel Jalousie CS weiter"
+    },
+    {
+     "product": "Aida",
+     "type": "result",
+     "strength": 1,
+     "quote": "knüpft der fein schimmernde Satin Rigoletto nahtlos an die Erfolgsgeschichte des nya nordiska- Klassikers Aida an."
+    }
+   ],
+   "success": []
+  },
+  {
+   "year": 2019,
+   "codeable": true,
+   "products": [
+    {
+     "name": "Alabama",
+     "generic": "semi-transparent linen curtain fabric",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Alabama-Stripe",
+     "generic": "tri-colour striped linen decoration fabric",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Alba CS",
+     "generic": "transparent flame-retardant plain curtain fabric",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Alexis",
+     "generic": "devoré decoration fabric in two variants",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Alicia",
+     "generic": "chemical lace embroidered decoration fabric",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Allee",
+     "generic": "metal devoré striped curtain fabric",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Alpha 2.0",
+     "generic": "two-colour striped cotton fabric",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Alpha-Check 2.0",
+     "generic": "checked cotton upholstery and decoration fabric",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Amalia",
+     "generic": "floral linen-lurex decoration fabric",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Amy",
+     "generic": "semi-transparent modal-polyester curtain fabric",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Ashley",
+     "generic": "printed leaf-motif decoration fabric",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Clouds",
+     "generic": "devoré cloud-pattern curtain fabric",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Södermalm CS",
+     "generic": "flame-retardant striped curtain fabric",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Metropolitan",
+     "generic": "linen fabric with metallic foam print",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Fontana",
+     "generic": "silk-linen ikat jacquard fabric",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Coast",
+     "generic": "three-layer linen jacquard decoration fabric",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Rigoletto",
+     "generic": "wide polyester satin plain fabric",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Oia",
+     "generic": "cotton voile curtain fabric",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Gobi",
+     "generic": "coated linen decoration fabric",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Piccadilly",
+     "generic": "watercolour-printed transparent double-weave fabric",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Opera",
+     "generic": "semi-transparent metallic decoration fabric",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Cord 2.0",
+     "generic": "cotton corduroy velvet fabric",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Hanami",
+     "generic": "printed cotton blossom-motif fabric",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Janis FR",
+     "generic": "flame-retardant jacquard curtain fabric",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Ototo CS",
+     "generic": "crushed pleated striped curtain fabric",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Ava",
+     "generic": "semi-transparent cotton lace knit fabric",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Soho CS",
+     "generic": "flame-retardant colour-gradient striped curtain fabric",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Cosy",
+     "generic": "knit-look wool blend upholstery fabric",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Soul",
+     "generic": "cotton bouclé upholstery fabric",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Jalousie CS",
+     "generic": "pleated flame-retardant striped curtain fabric",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    }
+   ],
+   "evidence": [
+    {
+     "product": "Amy",
+     "type": "launch",
+     "strength": 2,
+     "quote": "Mit hauchdünner Leichtigkeit sorgt der neue halbtransparente Vorhangstoff für zarte, textile Fenstergestaltung in 340 cm Breite."
+    },
+    {
+     "product": "Jalousie CS",
+     "type": "result",
+     "strength": 1,
+     "quote": "Sie entwickeln den erfolgreichen Nya Nordiska-Artikel Jalousie CS weiter, indem sie dessen namensgebendes Streifenraster mit einem grafisch geradlinigen Farbwechsel veredeln."
+    },
+    {
+     "product": "Cord 2.0",
+     "type": "launch",
+     "strength": 1,
+     "quote": "Aktuelles Comeback eines Lieblingsstoffes."
+    }
+   ],
+   "success": []
+  },
+  {
+   "year": 2022,
+   "codeable": true,
+   "products": [
+    {
+     "name": "Nomad",
+     "generic": "annual interior textile collection",
+     "seasonal": true,
+     "stage": "market",
+     "scale": "line",
+     "featured": true
+    },
+    {
+     "name": "Boom",
+     "generic": "upholstery and decorative fabric",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": true
+    },
+    {
+     "name": "Plana",
+     "generic": "plain taffeta curtain fabric",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Avanti",
+     "generic": "plain polyester decorative fabric, extra wide",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Avanti CS",
+     "generic": "flame-retardant plain decorative fabric",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Avanti CS Shower",
+     "generic": "water-repellent flame-retardant shower curtain fabric",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Daydream FR",
+     "generic": "flame-retardant dimout curtain fabric",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Delta",
+     "generic": "three-colour cotton block stripe fabric",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Fumo",
+     "generic": "semi-transparent jacquard curtain fabric",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Grace",
+     "generic": "fine semi-transparent voile",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Harris",
+     "generic": "durable bouclé upholstery fabric",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Jalousie CS",
+     "generic": "flame-retardant striped transparent fabric",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Jota 2.0",
+     "generic": "two-colour cotton stripe fabric",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Jota-Check 2.0",
+     "generic": "cotton check fabric",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Alpha-Check 2.0",
+     "generic": "cotton check fabric",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Lanalino",
+     "generic": "semi-transparent wool linen decorative fabric",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Lea CS",
+     "generic": "flame-retardant plain inbetween fabric",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Lizzy",
+     "generic": "polyester lining fabric with satin sheen",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Alexis Night",
+     "generic": "burnout decorative fabric",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Alexis Day",
+     "generic": "transparent burnout decorative fabric",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Allee",
+     "generic": "metal burnout striped curtain fabric",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Blast",
+     "generic": "large-scale cotton jacquard decorative fabric",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Blitz",
+     "generic": "cotton jacquard decorative fabric",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Balbo CS",
+     "generic": "flame-retardant semi-transparent dotted fabric",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Alva FR",
+     "generic": "flame-retardant transparent leno curtain fabric",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Alba CS",
+     "generic": "flame-retardant transparent organza-like fabric",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Amy",
+     "generic": "semi-transparent modal blend curtain fabric",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Bjarne",
+     "generic": "linen cotton canvas decorative fabric",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Astoria FR",
+     "generic": "flame-retardant dimout fabric",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Alabama",
+     "generic": "semi-transparent linen curtain fabric",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    }
+   ],
+   "evidence": [
+    {
+     "product": "Nomad",
+     "type": "launch",
+     "strength": 3,
+     "quote": "Kollektion 2022 » NOMAD « In der Welt zuhause"
+    },
+    {
+     "product": "Boom",
+     "type": "result",
+     "strength": 2,
+     "quote": "Polster- und Dekorationsstoff Boom aus der aktuellen nya nordiska Kollektion kommt bereits in unterschiedlichen Wohnbereichen zum Einsatz und hält jetzt auch Einzug in die Welt der Mode."
+    },
+    {
+     "product": "Avanti",
+     "type": "result",
+     "strength": 3,
+     "quote": "Die Farbpalette des erfolgreichen Basics Avanti wurde um 15 aktuelle Farbtöne erweitert. Bestseller- Farbtöne aus der bestehenden Palette wurden um zurückhaltende Naturtöne und aktuelle Trendfarben"
+    },
+    {
+     "product": "Avanti CS Shower",
+     "type": "launch",
+     "strength": 2,
+     "quote": "Dank der Ausrüstung von Avanti CS mit einem wasserabweisenden Finish wird auf vielfach geäußerten Wunsch aus dem Markt hin, der Einsatz von Avanti als Duschvorhang möglich."
+    },
+    {
+     "product": "Amy",
+     "type": "launch",
+     "strength": 1,
+     "quote": "Mit hauchdünner Leichtigkeit sorgt der neue halbtransparente Vorhangstoff für zarte, textile Fenstergestaltung in 340 cm Breite."
+    }
+   ],
+   "success": []
+  },
+  {
+   "year": 2023,
+   "codeable": true,
+   "products": [
+    {
+     "name": "SANDÖN",
+     "generic": "annual interior textile collection",
+     "seasonal": true,
+     "stage": "market",
+     "scale": "line",
+     "featured": true
+    },
+    {
+     "name": "NOMAD",
+     "generic": "annual interior textile collection",
+     "seasonal": true,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "nyatec",
+     "generic": "fabric sewing and make-up service",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Boom",
+     "generic": "upholstery and decoration fabric",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": true
+    },
+    {
+     "name": "Aalto",
+     "generic": "semi-transparent plain curtain fabric",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Alabama",
+     "generic": "semi-transparent linen curtain fabric",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Alabama-Stripe",
+     "generic": "striped linen decoration fabric",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Alba CS",
+     "generic": "flame-retardant transparent curtain fabric",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Alexis",
+     "generic": "devoré decoration fabric",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Allee",
+     "generic": "metallic devoré curtain fabric",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Alma",
+     "generic": "light linen-cotton decoration fabric",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Almina",
+     "generic": "recycled polyester semi-transparent curtain fabric",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Alon",
+     "generic": "piqué upholstery fabric",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Alpha 2.0",
+     "generic": "two-colour cotton block-stripe fabric",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Alpha-Check 2.0",
+     "generic": "cotton check fabric",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Alva FR",
+     "generic": "flame-retardant leno sheer curtain fabric",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Amy",
+     "generic": "semi-transparent modal curtain fabric",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Arik",
+     "generic": "pure wool upholstery and decoration fabric",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Assam",
+     "generic": "silk-wool faux-plain decoration fabric",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Avanti CS",
+     "generic": "flame-retardant contract curtain fabric",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Vintage 2.0",
+     "generic": "washed linen decoration fabric",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Buskage",
+     "generic": "devoré printed cotton-blend fabric",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Jonte",
+     "generic": "plain pre-washed linen decoration fabric",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Jona",
+     "generic": "linen block-stripe decoration fabric",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Marla CS",
+     "generic": "recycled PET flame-retardant curtain fabric",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Ototo CS",
+     "generic": "crushed pleated striped curtain fabric",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Balbo CS",
+     "generic": "dotted semi-transparent contract fabric",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Bristol",
+     "generic": "pure wool upholstery fabric",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Henry",
+     "generic": "heavy bouclé-like upholstery fabric",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Selma",
+     "generic": "hemp-blend plain decoration fabric",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    }
+   ],
+   "evidence": [
+    {
+     "product": "SANDÖN",
+     "type": "launch",
+     "strength": 3,
+     "quote": "deren Landschaft und Vegetation unsere Kollektion 2023 inspiriert hat."
+    },
+    {
+     "product": "NOMAD",
+     "type": "launch",
+     "strength": 3,
+     "quote": "Kollektion 2022 » NOMAD « In der Welt zuhause"
+    },
+    {
+     "product": "Boom",
+     "type": "result",
+     "strength": 2,
+     "quote": "kommt bereits in unterschiedlichen Wohnbereichen zum Einsatz und hält jetzt auch Einzug in die Welt der Mode."
+    },
+    {
+     "product": "Vintage 2.0",
+     "type": "result",
+     "strength": 2,
+     "quote": "erweitern die Range unseres beliebten Topsellers auf 22 exzellent kombinierbare Farben."
+    },
+    {
+     "product": "Amy",
+     "type": "launch",
+     "strength": 1,
+     "quote": "Mit hauchdünner Leichtigkeit sorgt der neue halbtransparente Vorhangstoff für zarte, textile Fenstergestaltung in 340 cm Breite."
+    },
+    {
+     "product": "Avanti CS",
+     "type": "result",
+     "strength": 1,
+     "quote": "glänzt dort mit den bewährten Eigenschaften des erfolgreichen Basics."
+    }
+   ],
+   "success": []
+  },
+  {
+   "year": 2024,
+   "codeable": true,
+   "products": [
+    {
+     "name": "HORIZONT",
+     "generic": "annual interior textile collection",
+     "seasonal": true,
+     "stage": "market",
+     "scale": "line",
+     "featured": true
+    },
+    {
+     "name": "SANDÖN",
+     "generic": "annual interior textile collection",
+     "seasonal": true,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "NOMAD",
+     "generic": "annual interior textile collection",
+     "seasonal": true,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "nyatec",
+     "generic": "textile sewing and make-up service",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Aalto",
+     "generic": "semi-transparent plain decorative fabric",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Alabama",
+     "generic": "semi-transparent linen curtain fabric",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Alexis Day",
+     "generic": "burnout decorative curtain fabric",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Alma",
+     "generic": "light linen-cotton decorative fabric",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Elif",
+     "generic": "semi-transparent bouclé-effect decorative fabric",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Malva",
+     "generic": "bouclé-look decorative curtain fabric",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Almina",
+     "generic": "recycled polyester linen-look curtain fabric",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Jota 2.0",
+     "generic": "cotton stripe and check fabric series",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Alva FR",
+     "generic": "flame-retardant transparent leno curtain fabric",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Tonno",
+     "generic": "cotton blend burnout curtain fabric",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Allee",
+     "generic": "metal burnout curtain fabric",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Kathrine CS",
+     "generic": "flame-retardant transparent curtain fabric",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Amy",
+     "generic": "semi-transparent modal blend curtain fabric",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Astoria FR",
+     "generic": "flame-retardant blackout curtain fabric",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Daydream FR",
+     "generic": "flame-retardant blackout curtain fabric",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Oscuro FR 2.0",
+     "generic": "flame-retardant blackout decorative fabric",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Avanti CS",
+     "generic": "flame-retardant plain curtain fabric",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Avanti CS Shower",
+     "generic": "water-repellent shower curtain fabric",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Marla CS",
+     "generic": "recycled PET flame-retardant curtain fabric",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Boom",
+     "generic": "printed recycled wool upholstery fabric",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": true
+    },
+    {
+     "name": "Blast",
+     "generic": "designer jacquard cotton decorative fabric",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Bristol",
+     "generic": "pure wool upholstery fabric",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Boston",
+     "generic": "velour-like upholstery fabric",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Charlie",
+     "generic": "wool bouclé upholstery and decorative fabric",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Micro CS",
+     "generic": "antimicrobial flame-retardant decorative fabric",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Buskage",
+     "generic": "cotton blend burnout print fabric",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    }
+   ],
+   "evidence": [
+    {
+     "product": "Boom",
+     "type": "result",
+     "strength": 2,
+     "quote": "kommt bereits in unterschiedlichen Wohnbereichen zum Einsatz und hält jetzt auch Einzug in die Welt der Mode."
+    },
+    {
+     "product": "HORIZONT",
+     "type": "launch",
+     "strength": 3,
+     "quote": "Solche elementaren Momente des Wohlbefindens sollen die Stoffe unserer Kollektion 2024 im Interieur erlebbar machen."
+    },
+    {
+     "product": "SANDÖN",
+     "type": "launch",
+     "strength": 3,
+     "quote": "So wie Gotska Sandön, die ebenso markante wie reizvolle ,,Sandinsel Gotlands“, deren Landschaft und Vegetation unsere Kollektion 2023 inspiriert hat."
+    },
+    {
+     "product": "Boston",
+     "type": "launch",
+     "strength": 1,
+     "quote": "Ein aufregender Neuzugang in unserer Polsterstoff Familie"
+    },
+    {
+     "product": "Amy",
+     "type": "launch",
+     "strength": 1,
+     "quote": "Mit hauchdünner Leichtigkeit sorgt der neue halbtransparente Vorhangstoff für zarte, textile Fenstergestaltung in 340 cm Breite."
+    },
+    {
+     "product": "Avanti CS Shower",
+     "type": "result",
+     "strength": 1,
+     "quote": "Dank der Ausrüstung von Avanti CS mit einem wasserabweisenden Finish wird auf vielfach geäußerten Wunsch aus dem Markt hin, der Einsatz von Avanti als Duschvorhang möglich."
+    }
+   ],
+   "success": []
+  },
+  {
+   "year": 2025,
+   "codeable": true,
+   "products": [
+    {
+     "name": "AURORA",
+     "generic": "an annual interior textile collection",
+     "seasonal": true,
+     "stage": "market",
+     "scale": "line",
+     "featured": true
+    },
+    {
+     "name": "HORIZONT",
+     "generic": "an annual interior textile collection",
+     "seasonal": true,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "SANDÖN",
+     "generic": "an annual interior textile collection",
+     "seasonal": true,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Aalto",
+     "generic": "a semi-transparent plain linen-blend curtain fabric",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Alabama",
+     "generic": "a semi-transparent linen curtain fabric",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Alabama-Stripe",
+     "generic": "a striped linen decoration fabric",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Alba CS",
+     "generic": "a flame-retardant transparent organza-like curtain fabric",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Alexis",
+     "generic": "a devoré decoration fabric in two variants",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Allee",
+     "generic": "a striped metallic devoré curtain fabric",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Ototo CS",
+     "generic": "a crushed pleated flame-retardant stripe fabric",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Viavai",
+     "generic": "a semi-transparent viscose devoré decoration fabric",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Alpha 2.0",
+     "generic": "a two-colour cotton block stripe fabric series",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Alpha-Check 2.0",
+     "generic": "a cotton check fabric for upholstery and decoration",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Amy",
+     "generic": "a semi-transparent modal-polyester curtain fabric",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Avanti CS",
+     "generic": "a flame-retardant curtain fabric for contract use",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Avanti CS Shower",
+     "generic": "a water-repellent shower curtain fabric",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Marla CS",
+     "generic": "a flame-retardant curtain fabric from recycled PET",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Soufflé CS Uni",
+     "generic": "a flame-retardant fine crêpe curtain fabric",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Boja CS",
+     "generic": "a printed flame-retardant sheer curtain fabric",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Belano FR",
+     "generic": "a flame-retardant wool-blend decoration fabric",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Arik",
+     "generic": "a pure wool upholstery and decoration fabric",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Charlie",
+     "generic": "a wool bouclé upholstery fabric",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Bristol",
+     "generic": "a two-colour pure wool upholstery fabric",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Bente",
+     "generic": "a pinstripe wool upholstery fabric",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Rune",
+     "generic": "a double-face wool-blend decoration fabric",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Blast",
+     "generic": "a large-pattern cotton jacquard fabric",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Blitz",
+     "generic": "an allover-pattern cotton jacquard fabric",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Boom",
+     "generic": "a printed recycled wool upholstery fabric",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Lucia CS",
+     "generic": "a flame-retardant dotted jacquard curtain fabric",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Balbo CS",
+     "generic": "a flame-retardant dotted sheer decoration fabric",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    }
+   ],
+   "evidence": [
+    {
+     "product": "AURORA",
+     "type": "launch",
+     "strength": 3,
+     "quote": "So wie die Göttin Aurora den Zauber der Morgenröte verkörpert, so interpretiert unsere Kollektion 2025 die Magie des Tagesbeginns in all seinen Facetten."
+    },
+    {
+     "product": "HORIZONT",
+     "type": "launch",
+     "strength": 3,
+     "quote": "Solche elementaren Momente des Wohlbefindens sollen die Stoffe unserer Kollektion 2024 im Interieur erlebbar machen."
+    },
+    {
+     "product": "Amy",
+     "type": "launch",
+     "strength": 2,
+     "quote": "Mit hauchdünner Leichtigkeit sorgt der neue halbtransparente Vorhangstoff für zarte, textile Fenstergestaltung in 340 cm Breite."
+    },
+    {
+     "product": "Soufflé CS Uni",
+     "type": "launch",
+     "strength": 1,
+     "quote": "Zwei neue Farben erweitern die Farbpalette."
+    }
+   ],
+   "success": []
+  },
+  {
+   "year": 2026,
+   "codeable": true,
+   "products": [
+    {
+     "name": "ALL BLUES",
+     "generic": "an annual interior fabric collection",
+     "seasonal": true,
+     "stage": "market",
+     "scale": "line",
+     "featured": true
+    },
+    {
+     "name": "AURORA",
+     "generic": "an annual interior fabric collection",
+     "seasonal": true,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "HORIZONT",
+     "generic": "an annual interior fabric collection",
+     "seasonal": true,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Aalto",
+     "generic": "a semi-transparent plain decorative curtain fabric",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Vintage 2.0",
+     "generic": "a wide linen decorative fabric",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Alba CS",
+     "generic": "a flame-retardant transparent curtain fabric",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Alva FR",
+     "generic": "a flame-retardant transparent leno curtain fabric",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Kathrine CS",
+     "generic": "a flame-retardant transparent striped curtain fabric",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Marla CS",
+     "generic": "a curtain fabric from recycled polyester",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Balbo CS",
+     "generic": "a semi-transparent dotted decorative fabric",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Alexis Night",
+     "generic": "a burnout decorative fabric",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Alexis Day",
+     "generic": "a transparent burnout decorative fabric",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Petunia",
+     "generic": "a floral burnout curtain fabric",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Buskage",
+     "generic": "a printed burnout curtain fabric",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Alma",
+     "generic": "a light linen-cotton decorative fabric",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Almina",
+     "generic": "a semi-transparent recycled polyester curtain fabric",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Olea",
+     "generic": "a semi-transparent wool bouclé leno fabric",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Alon",
+     "generic": "a relief-patterned upholstery fabric",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Henry",
+     "generic": "a heavy natural-fibre upholstery fabric",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Cosy",
+     "generic": "a knit-look wool upholstery fabric",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Arik",
+     "generic": "a pure wool upholstery and decorative fabric",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Charlie",
+     "generic": "a wool bouclé upholstery fabric",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Ashley",
+     "generic": "a leaf-patterned decorative fabric",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Blast",
+     "generic": "a large-format cotton jacquard fabric",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Chelsea",
+     "generic": "a warp-printed dotted decorative fabric",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Piccadilly Uni",
+     "generic": "a transparent double-layer plain curtain fabric",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Cosmo",
+     "generic": "a braided-structure upholstery and curtain fabric",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Jonte",
+     "generic": "a pre-washed plain linen curtain fabric",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Jona",
+     "generic": "a linen block-stripe decorative fabric",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Kaya FR",
+     "generic": "a flame-retardant blackout decorative fabric",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    }
+   ],
+   "evidence": [
+    {
+     "product": "Vintage 2.0",
+     "type": "result",
+     "strength": 2,
+     "quote": "erweitern die Range unseres beliebten Topsellers auf 22 exzellent kombinierbare Farben"
+    },
+    {
+     "product": "Jonte",
+     "type": "result",
+     "strength": 2,
+     "quote": "In Material und Farbskala auf die zwei Bestseller Uni Jonte und Blockstreifen Jona abgestimmt"
+    },
+    {
+     "product": "Jona",
+     "type": "result",
+     "strength": 2,
+     "quote": "In Material und Farbskala auf die zwei Bestseller Uni Jonte und Blockstreifen Jona abgestimmt"
+    },
+    {
+     "product": "ALL BLUES",
+     "type": "launch",
+     "strength": 3,
+     "quote": "So versteht sich die nya nordiska Kollektion 2026 als Einladung an Sie, Ihren individuellen Wohlfühl-Stil zu komponieren"
+    },
+    {
+     "product": "AURORA",
+     "type": "launch",
+     "strength": 3,
+     "quote": "So wie die Göttin Aurora den Zauber der Morgenröte verkörpert, so interpretiert unsere Kollektion 2025 die Magie des Tagesbeginns"
+    }
+   ],
+   "success": []
+  }
+ ]
+}

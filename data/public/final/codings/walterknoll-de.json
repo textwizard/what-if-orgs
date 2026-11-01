@@ -1,0 +1,2316 @@
+{
+ "slug": "walterknoll-de",
+ "profiles": {
+  "exploration": {
+   "strategy": {
+    "offer": "Premium furniture and interior solutions for living, lounge, office and conference spaces, plus curated materials and configurable product variants.",
+    "customers": "Design-conscious residential buyers and commercial organizations seeking quality-of-life, representative workplaces, and adaptable interiors for contemporary lifestyles and work.",
+    "why_we_win": "They expect success through timeless modern design, master craftsmanship, selected durable materials, and close designer collaboration translating analysis into distinctive, lasting solutions.",
+    "resources": "Core resources are skilled handcraft, material expertise, rigorous quality testing, sustainable construction, and integrated marketing, product development, and design capabilities.",
+    "direction": "The firm is moving toward internationally relevant interiors that combine natural elegance, sustainability, and flexible solutions for evolving residential and workplace settings."
+   },
+   "context": {
+    "size": null,
+    "founded": 1865,
+    "industry": "Manufacture of furniture"
+   },
+   "seed_year": 2017
+  },
+  "holdout": {
+   "strategy": {
+    "offer": "Furniture, accessories, storage, tables, beds and media solutions for residential, workplace and public interiors.",
+    "customers": "Private clients, companies, hospitality and public venues, and architects, planners and interior specialists developing interior projects.",
+    "why_we_win": "It blends enduring craftsmanship, fine materials and modern technology with design expertise and understanding of how people live and work.",
+    "resources": "Experienced specialists, long-term designer collaborations, material know-how, customization and technology integration skills, global showrooms, and project support for professionals.",
+    "direction": "It is pursuing new materials, digital tools and flexible workplace concepts to shape contemporary living and working environments."
+   },
+   "context": {
+    "size": null,
+    "founded": null,
+    "industry": "Manufacture of furniture"
+   },
+   "seed_year": 2022
+  }
+ },
+ "years": [
+  {
+   "year": 2017,
+   "codeable": true,
+   "products": [
+    {
+     "name": "375",
+     "generic": "an upholstered furniture programme with chairs and tables",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Ameo",
+     "generic": "a swivel lounge chair with side tables",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Andoo",
+     "generic": "a solid wood chair and bar stool range",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Andoo Lounge",
+     "generic": "an upholstered lounge armchair with wooden frame",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Andoo Table - solid wood",
+     "generic": "an extendable solid wood dining table",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Atelier Chair",
+     "generic": "a leather and steel lounge chair",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Bao",
+     "generic": "an upholstered swivel armchair",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Bellows Collection",
+     "generic": "height-adjustable leather stool and side table",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Burgaz Chair",
+     "generic": "a reissued upholstered tubular steel chair",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "CEOO",
+     "generic": "an executive office and conference furniture programme",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Conference-X",
+     "generic": "a flexible conference table system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Cuoio Lounge",
+     "generic": "a minimalist leather and steel lounge chair",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Cuoio",
+     "generic": "a recyclable leather and steel dining chair",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Anni",
+     "generic": "a wool upholstery fabric with metallic yarn",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Paco",
+     "generic": "a coated saddle-type upholstery leather",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Quickship",
+     "generic": "a fast delivery service for selected furniture",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Classic Edition",
+     "generic": "a collection of reissued design furniture classics",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Fishnet Chair",
+     "generic": "a design lounge chair",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Healey Lounge",
+     "generic": "an upholstered lounge seating programme",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Tama",
+     "generic": "an upholstered seating furniture piece",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Isanka",
+     "generic": "a sofa and chair programme",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Joco Stone",
+     "generic": "a stone-top table",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Votteler",
+     "generic": "a design chair",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Jaan Bed",
+     "generic": "an upholstered bed",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Leadchair",
+     "generic": "an executive office chair",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Seating Stones",
+     "generic": "modular upholstered seating elements",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Seito",
+     "generic": "a design furniture piece",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Berlin Chair",
+     "generic": "a reissued airport seating chair",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Drift",
+     "generic": "a lobby lounge armchair",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Turtle",
+     "generic": "a lounge seating piece for lobbies",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    }
+   ],
+   "evidence": [
+    {
+     "product": "375",
+     "type": "result",
+     "strength": 3,
+     "quote": "375 Sofa. Design: Walter Knoll Team. Wallpaper* Design Award, Wallpaper* Magazine, UK"
+    },
+    {
+     "product": "Fishnet Chair",
+     "type": "result",
+     "strength": 3,
+     "quote": "Fishnet Chair. Design: Sadi & Neptun Ozis. Good Design Award 2016: Chicago Athenaeum, Museum of Architecture and Design, USA"
+    },
+    {
+     "product": "Tama",
+     "type": "result",
+     "strength": 3,
+     "quote": "Interior Innovation Award „Best of the Best“, Rat für Formgebung, Germany"
+    },
+    {
+     "product": "Isanka",
+     "type": "result",
+     "strength": 3,
+     "quote": "Isanka Sofa. Design: EOOS. Red Dot Award: product design, Design Zentrum Nordrhein-Westfalen, Germany"
+    },
+    {
+     "product": "Healey Lounge",
+     "type": "result",
+     "strength": 3,
+     "quote": "Healey Lounge. Design: PearsonLloyd. German Design Award: Special Mention, Rat für Formgebung, Germany"
+    },
+    {
+     "product": "Votteler",
+     "type": "result",
+     "strength": 3,
+     "quote": "Votteler. Design: Arno Votteler. Interior Innovation Award, Rat für Formgebung, Germany"
+    },
+    {
+     "product": "Joco Stone",
+     "type": "result",
+     "strength": 3,
+     "quote": "Joco Stone. Design: EOOS. German Design Award: Special Mention, Rat für Formgebung, Germany"
+    },
+    {
+     "product": "375",
+     "type": "launch",
+     "strength": 2,
+     "quote": "Selbstbewusst und souverän verbindet der neue Barstuhl zum Programm 375 die Eleganz der Salonkultur mit besonderer Bequemlichkeit."
+    },
+    {
+     "product": "Bao",
+     "type": "launch",
+     "strength": 2,
+     "quote": "Neu: Den drehbaren Sessel gibt es nun auch in allen Stoff- und Lederkombinationen, komplett in Stoff oder in Leder bezogen."
+    },
+    {
+     "product": "Conference-X",
+     "type": "launch",
+     "strength": 2,
+     "quote": "Zwei neue Varianten stehen zur Wahl: »Line« – dauerhaft in die Tischplatte eingelassene Connectoren, und »Point«"
+    },
+    {
+     "product": "Anni",
+     "type": "launch",
+     "strength": 2,
+     "quote": "Der neue Stoff »Anni« in acht Designs."
+    },
+    {
+     "product": "Paco",
+     "type": "launch",
+     "strength": 2,
+     "quote": "Für die häufige und anspruchsvolle Nutzung ergänzt das neue Leder „Paco“ – ähnlich einem Sattelleder – die Kollektion."
+    },
+    {
+     "product": "Burgaz Chair",
+     "type": "launch",
+     "strength": 2,
+     "quote": "Walter Knoll legt die Polstervarianten dieser Entwürfe - damals von Sadi Ozis gemeinsam mit seinem Sohn, Neptun Ozis, weiterentwickelt - wieder auf."
+    }
+   ],
+   "success": []
+  },
+  {
+   "year": 2018,
+   "codeable": true,
+   "products": [
+    {
+     "name": "369",
+     "generic": "a mid-century shell armchair and side tables",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "375",
+     "generic": "a lounge chair, bar stool and dining chair family",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Ameo",
+     "generic": "a swivel lounge chair with side tables",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Andoo",
+     "generic": "a solid wood chair, bar stool and table range",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Andoo Lounge",
+     "generic": "an upholstered wood-frame lounge armchair",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Badawi Pillows",
+     "generic": "floor cushions made from hand-knotted carpets",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Legends of Carpets",
+     "generic": "a hand-knotted rug collection",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Bellows Collection",
+     "generic": "a height-adjustable leather stool and side table",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Berlin Chair",
+     "generic": "a steel and leather lounge armchair",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Bob",
+     "generic": "an upholstered swivel dining chair",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Burgaz Chair",
+     "generic": "an upholstered tubular steel chair",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "CEOO",
+     "generic": "an executive office and conference furniture program",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Healey Soft",
+     "generic": "an upholstered lounge chair",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Healey Lounge",
+     "generic": "a lounge chair",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Oki",
+     "generic": "an upholstered sofa",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Oki Table",
+     "generic": "a side table",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Tama Living",
+     "generic": "a living room sofa",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Tama",
+     "generic": "an office furniture program",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Leadchair Management",
+     "generic": "an executive office swivel chair",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Joco",
+     "generic": "a side table range",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "FK",
+     "generic": "a classic shell lounge chair",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Isanka",
+     "generic": "a sofa and armchair program",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Fishnet Chair",
+     "generic": "a designer lounge chair",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Fabricius",
+     "generic": "a classic conversation lounge chair",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Saddle Chair",
+     "generic": "a leather chair and bar stool",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Living Landscape",
+     "generic": "a modular sofa system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Haussmann",
+     "generic": "a classic upholstered sofa and armchair",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Votteler Chair",
+     "generic": "an office conference chair",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Jaan",
+     "generic": "a sofa and seating program",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Keypiece",
+     "generic": "an executive desk program",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    }
+   ],
+   "evidence": [
+    {
+     "product": "Healey Soft",
+     "type": "result",
+     "strength": 3,
+     "quote": "Healey Soft. Design: PearsonLloyd.\nIconic Awards 2018: Innovative Interior, Best of Best, Rat für Formgebung, Germany"
+    },
+    {
+     "product": "Oki",
+     "type": "result",
+     "strength": 3,
+     "quote": "Oki. Design: EOOS.\nGerman Design Award: Winner, Rat für Formgebung, Germany"
+    },
+    {
+     "product": "Tama Living",
+     "type": "result",
+     "strength": 3,
+     "quote": "Tama Living. Design: EOOS.\nGood Design Awards 2017. Chicago Athenaeum Museum of Architecture and Design, USA"
+    },
+    {
+     "product": "Leadchair Management",
+     "type": "result",
+     "strength": 3,
+     "quote": "Leadchair Management. Design: EOOS.\nGood Design Awards 2017. Chicago Athenaeum Museum of Architecture and Design, USA"
+    },
+    {
+     "product": "Joco",
+     "type": "result",
+     "strength": 3,
+     "quote": "Joco. Design: EOOS.\nGood Design Awards 2017. Chicago Athenaeum Museum of Architecture and Design, USA"
+    },
+    {
+     "product": "Healey Soft",
+     "type": "result",
+     "strength": 3,
+     "quote": "Healey Soft. Design: PearsonLloyd.\nInternational Design Award Baden Württemberg: Focus Gold, Design Center Stuttgart, Germany"
+    },
+    {
+     "product": "375",
+     "type": "result",
+     "strength": 3,
+     "quote": "375 Bar Stool. Design: Walter Knoll Team.\nAD Great Design Award, Architectural Digest, USA"
+    },
+    {
+     "product": "Oki Table",
+     "type": "result",
+     "strength": 3,
+     "quote": "Oki Table. Design: EOOS\nRed Dot Award: Product Design, Design Zentrum Nordrhein-Westfalen, Germany"
+    },
+    {
+     "product": "375",
+     "type": "result",
+     "strength": 3,
+     "quote": "375 Sofa. Design: Walter Knoll Team.\nWallpaper* Design Award, Wallpaper* Magazine, UK"
+    },
+    {
+     "product": "Tama Living",
+     "type": "launch",
+     "strength": 3,
+     "quote": "Vom modernen Klassiker FK bis zu Neuentwicklungen wie dem Tama Living Sofa mit seiner klaren Silhouette und den großzügigen Polstern und Kissen: auf der imm 2017"
+    },
+    {
+     "product": "Saddle Chair",
+     "type": "result",
+     "strength": 3,
+     "quote": "Insbesondere Saddle Chairs und Saddle Barstools unterstützten den gleichwohl einzigartigen wie starken Charakter von IWC."
+    },
+    {
+     "product": "375",
+     "type": "launch",
+     "strength": 2,
+     "quote": "Selbstbewusst und souverän verbindet der neue Barstuhl zum Programm 375 die Eleganz der Salonkultur mit besonderer Bequemlichkeit."
+    },
+    {
+     "product": "Berlin Chair",
+     "type": "launch",
+     "strength": 2,
+     "quote": "Der Berlin Chair betritt wieder die Bühne. 1975 von Meinhard von Gerkan für die VIP-Lounge des Flughafens Berlin-Tegel entworfen, legt Walter Knoll diese Ikone der Designgeschichte neu auf."
+    },
+    {
+     "product": "Fabricius",
+     "type": "result",
+     "strength": 2,
+     "quote": "Weltweit gestalten Produkte von Walter Knoll, darunter Andoo Chairs, Living Landscape Sofas sowie der Conversation Chair Klassiker Fabricius die Boutiquen der Schweizer Traditionsmarke."
+    }
+   ],
+   "success": []
+  },
+  {
+   "year": 2019,
+   "codeable": true,
+   "products": [
+    {
+     "name": "Conference-X",
+     "generic": "a flexible modular conference table system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Scale-Media",
+     "generic": "a customizable boardroom conference table",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Legends of Carpets",
+     "generic": "a hand-knotted carpet collection",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Badawi Pillows",
+     "generic": "floor cushions made from carpets",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "CEOO",
+     "generic": "an executive office desk program",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Exec-V",
+     "generic": "a height-adjustable executive desk program",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Keypiece Communication Desk",
+     "generic": "a height-adjustable desk with meeting table",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Tama Desk",
+     "generic": "a sculptural wooden executive desk",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "369",
+     "generic": "a classic upholstered shell armchair",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "375",
+     "generic": "a lounge armchair and side table program",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Bao",
+     "generic": "a swivel upholstered armchair",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Berlin Chair",
+     "generic": "a leather and steel lounge armchair",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Fabricius",
+     "generic": "a metal-frame lounge chair",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Haussmann 310",
+     "generic": "a button-tufted club armchair",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Jaan",
+     "generic": "a sofa and armchair program",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Onsa Chair",
+     "generic": "an upholstered high-back armchair",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Vostra",
+     "generic": "a classic upholstered armchair",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Vostra Wood",
+     "generic": "an upholstered armchair with solid wood legs",
+     "seasonal": true,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Bundle Sofa",
+     "generic": "a soft upholstered sofa",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Foster 500",
+     "generic": "a chrome-frame leather lobby seating program",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "The Farns",
+     "generic": "a glass and wood sideboard",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Foster 620",
+     "generic": "a modular upholstered bench system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Jaan Silent",
+     "generic": "an acoustic screened sofa and bench system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Tama Living",
+     "generic": "a residential furniture program",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Leadchair Management",
+     "generic": "an executive office chair",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Oki",
+     "generic": "a furniture piece",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Oki Table",
+     "generic": "a table",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Healey Soft",
+     "generic": "an upholstered lounge armchair",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Fishnet Chair",
+     "generic": "a chair",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Joco",
+     "generic": "a furniture piece",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    }
+   ],
+   "evidence": [
+    {
+     "product": "Tama Living",
+     "type": "result",
+     "strength": 3,
+     "quote": "Tama Living iF design award 2018"
+    },
+    {
+     "product": "Leadchair Management",
+     "type": "result",
+     "strength": 3,
+     "quote": "Leadchair Management iF design award 2018"
+    },
+    {
+     "product": "Oki",
+     "type": "result",
+     "strength": 3,
+     "quote": "Oki German Design Award 2018"
+    },
+    {
+     "product": "Healey Soft",
+     "type": "result",
+     "strength": 3,
+     "quote": "Healey Soft Focus in Gold 2017"
+    },
+    {
+     "product": "375",
+     "type": "result",
+     "strength": 3,
+     "quote": "375 AD Great Design Award 2017"
+    },
+    {
+     "product": "Fishnet Chair",
+     "type": "result",
+     "strength": 3,
+     "quote": "Fishnet Chair German Design Award 2017"
+    },
+    {
+     "product": "Joco",
+     "type": "result",
+     "strength": 3,
+     "quote": "Joco Good Design Award 2017"
+    },
+    {
+     "product": "Oki Table",
+     "type": "result",
+     "strength": 3,
+     "quote": "Oki Table Red Dot Award: Product Design 2017"
+    },
+    {
+     "product": "Tama Living",
+     "type": "result",
+     "strength": 3,
+     "quote": "Tama Living Good Design Award 2017"
+    },
+    {
+     "product": "Foster 620",
+     "type": "result",
+     "strength": 2,
+     "quote": "Erstmals wurde es in London eingesetzt, im Europe Headquarter des Medienkonzerns Bloomberg, und in den Büros eines führenden Kabelnetzbetreibers in Philadelphia, USA."
+    },
+    {
+     "product": "Vostra Wood",
+     "type": "launch",
+     "strength": 3,
+     "quote": "Und pünktlich zum 70. Geburtstag gibt es den Sessel nun auch wieder mit Massivholzfüßen: Vostra Wood – angelehnt an die Version von 1956."
+    },
+    {
+     "product": "Conference-X",
+     "type": "launch",
+     "strength": 2,
+     "quote": "Jetzt hat das X einen großen Bruder bekommen: ein gestrecktes X, das Arbeitsflächen bis 1,40 Meter Tiefe schultert."
+    },
+    {
+     "product": "Bundle Sofa",
+     "type": "launch",
+     "strength": 2,
+     "quote": "Dieses Glücksversprechen trägt auch das neue Sofa von EOOS in sich."
+    },
+    {
+     "product": "Berlin Chair",
+     "type": "launch",
+     "strength": 2,
+     "quote": "Der Berlin Chair betritt wieder die Bühne. 1975 von Meinhard von Gerkan für die VIP-Lounge des Flughafens Berlin-Tegel entworfen, legt Walter Knoll diese Ikone der Designgeschichte neu auf."
+    }
+   ],
+   "success": []
+  },
+  {
+   "year": 2022,
+   "codeable": true,
+   "products": [
+    {
+     "name": "Vostra",
+     "generic": "a classic upholstered armchair",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "375",
+     "generic": "a classic upholstered armchair series",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "369",
+     "generic": "a classic upholstered seating series",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Classic Edition",
+     "generic": "a collection of reissued classic furniture",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Jaan Living",
+     "generic": "a modular upholstered sofa and armchair range",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Ameo",
+     "generic": "a side table",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Leadchair Executive",
+     "generic": "an executive office chair",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Tadeo",
+     "generic": "a solid wood dining table",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Yuuto",
+     "generic": "an upholstered bed",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Living Landscape 750",
+     "generic": "a modular upholstered sofa",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Healey Lounge",
+     "generic": "a lounge armchair with stool",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Foster 520",
+     "generic": "an upholstered chair",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Isanka",
+     "generic": "an armchair and table range",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Saddle",
+     "generic": "a barstool",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Grand Suite",
+     "generic": "a large upholstered sofa",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Bao",
+     "generic": "a curved lounge armchair",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Mason",
+     "generic": "a large rectangular dining table",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Tama",
+     "generic": "a rounded side table",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "FK Chair",
+     "generic": "a designer lounge chair",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Legends of Carpets",
+     "generic": "a hand-knotted carpet collection",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": true
+    },
+    {
+     "name": "Badawi Pillows",
+     "generic": "floor seating cushions made from carpets",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Joco Nest",
+     "generic": "an upholstered seating piece",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Management-X",
+     "generic": "an office furniture system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Onsa",
+     "generic": "a chair",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    }
+   ],
+   "evidence": [
+    {
+     "product": "Joco Nest",
+     "type": "launch",
+     "strength": 2,
+     "quote": "Jetzt neu: Joco Nest"
+    },
+    {
+     "product": "Management-X",
+     "type": "launch",
+     "strength": 2,
+     "quote": "Coming soon: Management-X"
+    },
+    {
+     "product": "Tadeo",
+     "type": "result",
+     "strength": 2,
+     "quote": "Walter Knoll Tadeo tables were the perfect choice for the restaurant, remade in smaller proportions especially for this project."
+    },
+    {
+     "product": "Jaan Living",
+     "type": "result",
+     "strength": 2,
+     "quote": "In the airy lounge areas that span two floors, our Jaan Living Sofas create comfortable seating areas with Ameo Side Tables"
+    },
+    {
+     "product": "Bao",
+     "type": "result",
+     "strength": 2,
+     "quote": "The curved Bao armchairs can be found in Beijing, in Chinese developer Li Bao-Gang’s cigar bar."
+    },
+    {
+     "product": "Leadchair Executive",
+     "type": "result",
+     "strength": 2,
+     "quote": "Here, the view of the city can be enjoyed during the meeting on our Leadchair Executive."
+    }
+   ],
+   "success": []
+  },
+  {
+   "year": 2023,
+   "codeable": true,
+   "products": [
+    {
+     "name": "Liz-M Chair",
+     "generic": "a lightweight stackable knitted-cover conference chair",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Liz Chair",
+     "generic": "an upholstered chair",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Liz Wood Chair",
+     "generic": "a softly upholstered wooden chair",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Legends of Carpets",
+     "generic": "a hand-knotted carpet collection",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": true
+    },
+    {
+     "name": "Badawi Pillows",
+     "generic": "floor cushions made from carpets",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Living Landscape 730",
+     "generic": "a modular upholstered sofa",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Sheru ArmchAIR",
+     "generic": "an upholstered armchair",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Deen Table",
+     "generic": "a high standing table",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Healey Lounge Chair",
+     "generic": "an upholstered lounge chair",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Moualla Table",
+     "generic": "a solid wood table",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "375",
+     "generic": "a chair and barstool series",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Jaan Bench",
+     "generic": "an upholstered bench",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Bao",
+     "generic": "a curved upholstered armchair",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Isanka",
+     "generic": "an upholstered seat",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Oki",
+     "generic": "a delicate occasional table",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Foster",
+     "generic": "a series of armchairs and sofas",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Yuuto",
+     "generic": "an upholstered sofa",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Lox",
+     "generic": "a series of tables, side tables, barstools",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Together Bench",
+     "generic": "a seating bench",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Conference-X Table",
+     "generic": "a conference table system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Seating Stones",
+     "generic": "an organically shaped upholstered armchair",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    }
+   ],
+   "evidence": [],
+   "success": []
+  },
+  {
+   "year": 2024,
+   "codeable": true,
+   "products": [
+    {
+     "name": "Maaru Sofa",
+     "generic": "a free-form upholstered sofa",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Temno Table",
+     "generic": "a sculptural solid wood pedestal table",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Ison Bench",
+     "generic": "an upholstered corner bench",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Ison Bed",
+     "generic": "a versatile upholstered corner bed system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Osuu Chair",
+     "generic": "a lightweight all-wooden bentwood chair",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Oki Side Table",
+     "generic": "a side table with leather pocket",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Shinzo",
+     "generic": "a signature upholstered furniture piece",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": true
+    },
+    {
+     "name": "Jason Lite Chair",
+     "generic": "an upholstered chair family including cantilever versions",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Liz Chair",
+     "generic": "an upholstered dining chair family",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Lox Chair",
+     "generic": "a swivel shell chair",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Legends of Carpets",
+     "generic": "a collection of hand-knotted carpets",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Badawi Pillows",
+     "generic": "floor cushions made from carpets",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Chimbuka Carpet",
+     "generic": "a hand-knotted wool and silk carpet",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Chumwi Carpet",
+     "generic": "a hand-knotted wool and silk carpet",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Jioni Carpet",
+     "generic": "a hand-knotted silk and wool carpet",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Vostra",
+     "generic": "a classic modernist armchair",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Classic Edition",
+     "generic": "a collection of reissued classic furniture",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Grand Suite",
+     "generic": "an upholstered sofa",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Healey Soft",
+     "generic": "an upholstered armchair",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Jaan Living",
+     "generic": "a modular upholstered sofa",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Jaan Silent",
+     "generic": "a high-back privacy sofa",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Jaan bed",
+     "generic": "an upholstered bed",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Oota table",
+     "generic": "a coffee table",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Bao",
+     "generic": "an upholstered armchair",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Leadchair Executive",
+     "generic": "an executive office chair",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Exec-V",
+     "generic": "an executive desk",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Saddle",
+     "generic": "a leather bar stool",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Seating Stones",
+     "generic": "upholstered stool seats",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Foster program",
+     "generic": "a range of sofas and chairs",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Isanka",
+     "generic": "an upholstered seat",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    }
+   ],
+   "evidence": [
+    {
+     "product": "Osuu Chair",
+     "type": "launch",
+     "strength": 3,
+     "quote": "Our new Osuu Chair is a lightweight wooden chair, so minimal and beautiful, yet so complex."
+    },
+    {
+     "product": "Ison Bed",
+     "type": "launch",
+     "strength": 3,
+     "quote": "Ison Bed is a new, versatile bed system for different space and design requirements."
+    },
+    {
+     "product": "Ison Bed",
+     "type": "result",
+     "strength": 2,
+     "quote": "We are continuing this successful concept with Ison – first as a corner bench, now we go even further: the corner bed."
+    },
+    {
+     "product": "Oki Side Table",
+     "type": "launch",
+     "strength": 3,
+     "quote": "The new Oki Side Table with leather pocket, inspired by the existing, popular design of our Oki tables"
+    },
+    {
+     "product": "Maaru Sofa",
+     "type": "launch",
+     "strength": 3,
+     "quote": "Discover all our new products presented during Design Week in Milan. Our News Maaru Sofa. Design: EOOS."
+    },
+    {
+     "product": "Temno Table",
+     "type": "launch",
+     "strength": 3,
+     "quote": "Temno Table. Design: EOOS. Sculptural strength: Temno Table is a fusion of architecture and sculpture."
+    },
+    {
+     "product": "Ison Bench",
+     "type": "launch",
+     "strength": 3,
+     "quote": "A new interpretation of the classic corner bench – Ison. Light, minimal, complex."
+    },
+    {
+     "product": "Shinzo",
+     "type": "launch",
+     "strength": 2,
+     "quote": "How is Shinzo made? The press kit on the creation of our new signature piece."
+    },
+    {
+     "product": "Jaan Living",
+     "type": "result",
+     "strength": 2,
+     "quote": "Our Jaan Living Sofas and Oki Side Tables lend a homely feel to the multipurpose breakout areas, while Jaan Silent Sofas provide space for moments of privacy and calm."
+    }
+   ],
+   "success": []
+  },
+  {
+   "year": 2025,
+   "codeable": true,
+   "products": [
+    {
+     "name": "Legends of Carpets",
+     "generic": "a collection of hand-knotted designer carpets",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": true
+    },
+    {
+     "name": "Badawi Pillows",
+     "generic": "floor cushions made from hand-knotted carpets",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Chumwi Carpet",
+     "generic": "a low-pile wool and silk carpet",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Imbali Carpet",
+     "generic": "a low-pile wool and silk carpet",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Jioni Carpet",
+     "generic": "a low-pile wool and silk carpet",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Kina Carpet",
+     "generic": "a low-pile wool and silk carpet",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Mimea Carpet",
+     "generic": "a low-pile wool and silk carpet",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Moldavite Carpet",
+     "generic": "a hand-knotted silk carpet",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Yuuto",
+     "generic": "an upholstered bed and bedroom furniture system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Osuu Chair",
+     "generic": "a lightweight wooden dining chair",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": true
+    },
+    {
+     "name": "Ison Bed",
+     "generic": "a modular upholstered corner bed system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": true
+    },
+    {
+     "name": "Oki Side Table",
+     "generic": "a side table with leather compartment",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Vostra",
+     "generic": "a classic upholstered armchair",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "375",
+     "generic": "a classic upholstered armchair series",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "369",
+     "generic": "a classic upholstered armchair series",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Classic Edition",
+     "generic": "a collection of re-issued classic furniture",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Grand Suite",
+     "generic": "an upholstered sofa system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Healey",
+     "generic": "an upholstered lounge armchair",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Oota",
+     "generic": "a side table with glass top",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Jaan",
+     "generic": "an upholstered sofa and bed range",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Saddle Chair",
+     "generic": "a saddle leather chair and bar stool",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Living Landscape 730",
+     "generic": "a modular upholstered sofa",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Turtle",
+     "generic": "a chair and bar stool",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Tadeo",
+     "generic": "a solid wood dining table",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "FK Chair",
+     "generic": "a classic designer office chair",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Jason Lite",
+     "generic": "a conference chair",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Frame Lite",
+     "generic": "a configurable conference table",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Foster 512",
+     "generic": "an upholstered curved bench",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Bao",
+     "generic": "a revolving upholstered armchair",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Shinzo",
+     "generic": "an upholstered signature furniture piece",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": true
+    }
+   ],
+   "evidence": [
+    {
+     "product": "Osuu Chair",
+     "type": "launch",
+     "strength": 3,
+     "quote": "Unser neuer Osuu Chair ist ein leichter Holzstuhl, so minimal und schön und dabei so komplex."
+    },
+    {
+     "product": "Ison Bed",
+     "type": "launch",
+     "strength": 3,
+     "quote": "Unser neues, vielseitiges Bettsystem für unterschiedliche Raum- und Gestaltungsbedürfnisse."
+    },
+    {
+     "product": "Ison Bed",
+     "type": "result",
+     "strength": 2,
+     "quote": "Mit Ison führen wir das erfolgreiche Konzept fort – zunächst als Eckbank, nun gehen wir noch weiter: das Eckbett."
+    },
+    {
+     "product": "Oki Side Table",
+     "type": "launch",
+     "strength": 3,
+     "quote": "empfiehlt sich der neue Oki Side Table mit Lederfach, erdacht aus dem bestehenden, beliebten Design unserer Oki Tische."
+    },
+    {
+     "product": "Shinzo",
+     "type": "launch",
+     "strength": 1,
+     "quote": "How is Shinzo made? The press kit on the creation of our new signature piece."
+    }
+   ],
+   "success": []
+  },
+  {
+   "year": 2026,
+   "codeable": true,
+   "products": [
+    {
+     "name": "Legends of Carpets",
+     "generic": "a hand-knotted carpet collection",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": true
+    },
+    {
+     "name": "Anga Carpet",
+     "generic": "a low-pile wool, silk and nettle carpet",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Ilanga Carpet",
+     "generic": "a low-pile wool, silk and nettle carpet",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Kina Carpet",
+     "generic": "a low-pile wool, silk and nettle carpet",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Suma Carpet",
+     "generic": "a low-pile wool, silk and nettle carpet",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Zumaridi Carpet",
+     "generic": "a hand-knotted silk carpet",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Badawi Pillows",
+     "generic": "floor cushions made from carpets",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Jaan Silent Sofa",
+     "generic": "an acoustic upholstered sofa",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Bao Armchair",
+     "generic": "an upholstered armchair",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Kyo Chair",
+     "generic": "a leather conference chair",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "375 Familie",
+     "generic": "a family of armchairs and side tables",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Tama Desk",
+     "generic": "a wooden executive desk",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Jason Lite Chair",
+     "generic": "a stackable upholstered chair",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Exec-V Desk",
+     "generic": "a height-adjustable executive desk and container system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Mono-V Desk",
+     "generic": "a height-adjustable executive desk program",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Ayabi Chair",
+     "generic": "a lightweight designer chair",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Ayabi Barstool",
+     "generic": "a designer barstool",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Amorin Table",
+     "generic": "a communication table",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Samay Armchair",
+     "generic": "a wooden armchair",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Molamisa Sofa",
+     "generic": "a modular sofa system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Cuoio Barstool",
+     "generic": "a steel and leather barstool",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Osuu Chair",
+     "generic": "a lightweight all-wooden chair",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Ison Bed",
+     "generic": "a versatile bed system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Oki Side Table",
+     "generic": "a side table",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Foster Programm",
+     "generic": "a program of sofas, armchairs and benches",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Deen Stuhl",
+     "generic": "a dining chair",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Yuuto",
+     "generic": "an upholstered sofa",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Sheru",
+     "generic": "a chair and barstool family",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Leadchair Management Soft",
+     "generic": "an office desk chair",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Prime Time Sofa",
+     "generic": "an upholstered sofa",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    }
+   ],
+   "evidence": [
+    {
+     "product": "Ayabi Chair",
+     "type": "launch",
+     "strength": 3,
+     "quote": "Entdecken Sie unsere Neuheiten, die wir während der Design Week in Mailand präsentierten."
+    },
+    {
+     "product": "Ayabi Barstool",
+     "type": "launch",
+     "strength": 2,
+     "quote": "Die konsequente Ergänzung des Ayabi Chairs: Mit derselben gestalterischen Klarheit erweitert dieses Modell die charakteristische Formsprache um neue Anwendungsmöglichkeiten."
+    },
+    {
+     "product": "Amorin Table",
+     "type": "launch",
+     "strength": 2,
+     "quote": "Amorin Table. Design: Wolfgang C. R. Mezger."
+    },
+    {
+     "product": "Samay Armchair",
+     "type": "launch",
+     "strength": 2,
+     "quote": "Samay Armchair bringt Frische in eine klassische Kategorie: Ein Holzsessel, der Leichtigkeit ausstrahlt"
+    },
+    {
+     "product": "Molamisa Sofa",
+     "type": "launch",
+     "strength": 2,
+     "quote": "Komfort in neuer Weite durch weitere Elemente."
+    },
+    {
+     "product": "Legends of Carpets",
+     "type": "launch",
+     "strength": 2,
+     "quote": "Weitere Ergänzungen bereichern unsere Teppichkollektion Legends of Carpets."
+    },
+    {
+     "product": "Cuoio Barstool",
+     "type": "launch",
+     "strength": 2,
+     "quote": "Der Cuoio Barstuhl ist die konsequente Erweiterung des Cuoio Programms."
+    }
+   ],
+   "success": []
+  }
+ ]
+}

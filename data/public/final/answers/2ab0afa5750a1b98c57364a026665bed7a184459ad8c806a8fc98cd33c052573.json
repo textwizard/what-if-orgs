@@ -1,0 +1,1 @@
+{"model": "deepseek-v4-pro", "effort": "medium", "answer": {"decisions": [{"product": "A", "probability_dropped": 5, "decision": "keep", "reason": "Product A is still an early-stage flagship offshore service with unresolved market prospects, so real options reasoning favors keeping the option open while uncertainty is high and costs are manageable."}]}}

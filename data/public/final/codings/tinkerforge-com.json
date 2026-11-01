@@ -1,0 +1,2228 @@
+{
+ "slug": "tinkerforge-com",
+ "profiles": {
+  "exploration": {
+   "strategy": {
+    "offer": "Modular programmable hardware modules, expansion boards, connectivity options, kits, accessories, and software bindings for sensing, control, communication, and prototyping.",
+    "customers": "Developers, companies, schools, universities, and makers building measurement, automation, robotics, and embedded projects.",
+    "why_we_win": "A building-block architecture combines modules transparently and makes hardware easy to control from many programming languages and connection types.",
+    "resources": "In-house electronics, firmware, API generation, documentation, downloadable bindings, 3D models, and iterative product development.",
+    "direction": "Expand the modular platform with new modules, richer software and firmware features, updated hardware generations, and broader supporting design resources."
+   },
+   "context": {
+    "size": null,
+    "founded": null,
+    "industry": "Manufacture of computer, electronic and optical products"
+   },
+   "seed_year": 2017
+  },
+  "holdout": {
+   "strategy": {
+    "offer": "Modular electronics for sensing, control, automation and power applications, plus software interfaces, accessories, kits, and electric-vehicle charging and energy-management equipment.",
+    "customers": "Developers, industrial users, educational institutions, companies, municipalities and other organizations building measurement, automation, connected-device or charging installations.",
+    "why_we_win": "It emphasizes an interoperable building block system, broad API support, beginner-friendly documentation, configurable event-driven operation, and strong availability through inventory and in-house production.",
+    "resources": "Its basis is hardware and firmware design, software bindings, documentation, manufacturing capability, stocked components, and a modular product architecture spanning controllers, peripherals and enclosures.",
+    "direction": "It is moving the platform to newer connectors and standalone networked controllers while expanding charging products with multi-unit load management and energy management."
+   },
+   "context": {
+    "size": null,
+    "founded": null,
+    "industry": "Manufacture of computer, electronic and optical products"
+   },
+   "seed_year": 2022
+  }
+ },
+ "years": [
+  {
+   "year": 2017,
+   "codeable": true,
+   "products": [
+    {
+     "name": "Analog Out Bricklet",
+     "generic": "a digital-to-analog voltage output module",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Barometer Bricklet",
+     "generic": "an air pressure sensor module",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "IO-4 Bricklet",
+     "generic": "a four-pin digital input/output module",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "IO-16 Bricklet",
+     "generic": "a sixteen-pin digital input/output module",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Joystick Bricklet",
+     "generic": "a two-axis joystick input module",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Servo Brick",
+     "generic": "an RC servo controller board",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "DC Brick",
+     "generic": "a DC motor controller board",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Master Brick 2.1",
+     "generic": "a modular electronics master controller board",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "WIFI Master Extension",
+     "generic": "a Wi-Fi communication extension board",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "WIFI Extension 2.0",
+     "generic": "a Wi-Fi communication extension board",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Ethernet Master Extension (with PoE)",
+     "generic": "an Ethernet communication extension board",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "RED Brick",
+     "generic": "an embedded Linux controller board",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Silent Stepper Brick",
+     "generic": "a low-noise stepper motor driver board",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Stepper Brick",
+     "generic": "a stepper motor driver board",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Step-Down Power Supply",
+     "generic": "a step-down power supply module",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Starter Kit: Hardware Hacking",
+     "generic": "an electronics starter kit",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Starter Kit: Weather Station",
+     "generic": "a weather station electronics kit",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "DMX Bricklet",
+     "generic": "a DMX lighting control interface module",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Humidity Bricklet 2.0",
+     "generic": "a humidity and temperature sensor module",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Motorized Linear Poti Bricklet",
+     "generic": "a motorized slide potentiometer module",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "RGB LED Button Bricklet",
+     "generic": "a push button module with RGB LED",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "RGB LED Matrix Bricklet",
+     "generic": "an 8x8 RGB LED matrix module",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Thermal Imaging Bricklet",
+     "generic": "a thermal imaging camera module",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": true
+    },
+    {
+     "name": "RS485 Bricklet",
+     "generic": "an RS485 and Modbus RTU interface module",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Voltage/Current Bricklet",
+     "generic": "a voltage and current measurement module",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Temperature Bricklet",
+     "generic": "a temperature sensor module",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Linear Poti Bricklet",
+     "generic": "a slide potentiometer input module",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Dual Button Bricklet",
+     "generic": "a two push button input module",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "GPS Bricklet 2.0",
+     "generic": "a GPS receiver module",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Brick Viewer",
+     "generic": "a configuration and monitoring software tool",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    }
+   ],
+   "evidence": [
+    {
+     "product": "RS485 Bricklet",
+     "type": "launch",
+     "strength": 2,
+     "quote": "Today we released the new RS485 Bricklet. It is now available in our shop!"
+    },
+    {
+     "product": "Step-Down Power Supply",
+     "type": "problem",
+     "strength": 3,
+     "quote": "Because of production delays the Step-Down Power Supply was out of stock for ~3 weeks."
+    },
+    {
+     "product": "Step-Down Power Supply",
+     "type": "launch",
+     "strength": 2,
+     "quote": "The Step-Down Power Supply is now available in hardware version 1.3."
+    },
+    {
+     "product": "Analog Out Bricklet",
+     "type": "problem",
+     "strength": 2,
+     "quote": "This Bricklet is deprecated. Is has been replaced by the Analog Out Bricklet 2.0. It is only sold as long as stock lasts."
+    },
+    {
+     "product": "DMX Bricklet",
+     "type": "launch",
+     "strength": 2,
+     "quote": "As you may have already noticed, we have some new Bricklets in the documentation since last Friday. They are: - DMX Bricklet"
+    },
+    {
+     "product": "Humidity Bricklet 2.0",
+     "type": "launch",
+     "strength": 2,
+     "quote": "The new 2.0 Bricklet replaces the old Humidity Bricklet 1.0."
+    },
+    {
+     "product": "Motorized Linear Poti Bricklet",
+     "type": "launch",
+     "strength": 2,
+     "quote": "Today we want to introduce two more of the new Bricklets: The Motorized Linear Poti Bricklet and the RGB LED Button Bricklet."
+    },
+    {
+     "product": "RGB LED Button Bricklet",
+     "type": "launch",
+     "strength": 2,
+     "quote": "Today we want to introduce two more of the new Bricklets: The Motorized Linear Poti Bricklet and the RGB LED Button Bricklet."
+    },
+    {
+     "product": "RGB LED Matrix Bricklet",
+     "type": "launch",
+     "strength": 2,
+     "quote": "Today we want to introduce the last two of our new Bricklets: The RGB LED Matrix Bricklet and the Thermal Imaging Bricklet."
+    },
+    {
+     "product": "Thermal Imaging Bricklet",
+     "type": "launch",
+     "strength": 2,
+     "quote": "The Thermal Imaging Bricklet is our new favorite Bricklet. It is equipped with a 80x60 pixel thermal imaging camera."
+    },
+    {
+     "product": "WIFI Extension 2.0",
+     "type": "launch",
+     "strength": 2,
+     "quote": "Firmware Version 2.0.1 for the WIFI Extension 2.0 is now available."
+    }
+   ],
+   "success": []
+  },
+  {
+   "year": 2018,
+   "codeable": true,
+   "products": [
+    {
+     "name": "Bricks",
+     "generic": "modular microcontroller boards for measurement and control",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": true
+    },
+    {
+     "name": "Bricklets",
+     "generic": "pluggable sensor and actuator modules",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": true
+    },
+    {
+     "name": "DC Brick",
+     "generic": "USB-controlled brushed DC motor controller board",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Servo Brick",
+     "generic": "servo motor controller board",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Stepper Brick",
+     "generic": "stepper motor controller board",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Master Brick 2.1",
+     "generic": "master controller board for module stacks",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "RED Brick",
+     "generic": "embedded Linux computer module",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "WIFI Master Extension 2.0",
+     "generic": "wireless communication extension board",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Analog In Bricklet 3.0",
+     "generic": "voltage measurement module",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Analog Out Bricklet 2.0",
+     "generic": "digital-to-analog voltage output module",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Analog Out Bricklet 3.0",
+     "generic": "digital-to-analog voltage output module",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Voltage/Current Bricklet 2.0",
+     "generic": "power, voltage and current measurement module",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Industrial Counter Bricklet",
+     "generic": "isolated four-channel frequency counter module",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Industrial Dual Relay Bricklet",
+     "generic": "dual relay switching module",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Sound Pressure Level Bricklet",
+     "generic": "sound pressure level measurement module",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Particulate Matter Bricklet",
+     "generic": "particulate matter sensor module",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "NFC Bricklet",
+     "generic": "NFC reader and writer module",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Outdoor Weather Bricklet",
+     "generic": "wireless outdoor weather sensor receiver module",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Remote Switch Bricklet 2.0",
+     "generic": "433MHz remote mains switch control module",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Motion Detector Bricklet 2.0",
+     "generic": "PIR motion detector module",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Motorized Linear Poti Bricklet",
+     "generic": "motorized slide potentiometer module",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "RGB LED Button Bricklet",
+     "generic": "illuminated push button module",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "RGB LED Matrix Bricklet",
+     "generic": "8x8 RGB LED matrix module",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Thermal Imaging Bricklet",
+     "generic": "thermal imaging camera module",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "LCD 128x64 Bricklet",
+     "generic": "graphic touch display module",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Air Quality Bricklet",
+     "generic": "indoor air quality sensor module",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Tinker Kit: Industrial",
+     "generic": "industrial measurement and control starter kit",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Tinker Kit: Ultimate",
+     "generic": "comprehensive electronics building block kit",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Umwelt-Kit",
+     "generic": "environmental sensing module kit",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Brick Viewer",
+     "generic": "desktop software for testing hardware modules",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    }
+   ],
+   "evidence": [
+    {
+     "product": "NFC Bricklet",
+     "type": "launch",
+     "strength": 2,
+     "quote": "Since yesterday we got eight new Bricklets in our shop."
+    },
+    {
+     "product": "Outdoor Weather Bricklet",
+     "type": "launch",
+     "strength": 2,
+     "quote": "The second part will deal with Temperature IR 2.0, Rotary Encoder 2.0, Solid State Relay 2.0 and the new Outdoor Weather Bricklet."
+    },
+    {
+     "product": "Remote Switch Bricklet 2.0",
+     "type": "launch",
+     "strength": 2,
+     "quote": "The Remote Switch Bricklet 2.0 will replace the old Remote Switch Bricklet."
+    },
+    {
+     "product": "Motion Detector Bricklet 2.0",
+     "type": "launch",
+     "strength": 2,
+     "quote": "The Motion Detector Bricklet will be replaced by the Motion Detector Bricklet 2.0."
+    },
+    {
+     "product": "Analog In Bricklet 3.0",
+     "type": "launch",
+     "strength": 2,
+     "quote": "The Analog In Bricklet 3.0 replaces the Analog In Bricklet 2.0."
+    },
+    {
+     "product": "Industrial Dual Relay Bricklet",
+     "type": "launch",
+     "strength": 2,
+     "quote": "Das Industrial Dual Relay Bricklet, Sound Pressure Level Bricklet, Industrial Counter Bricklet sowie das Particulate Matter Bricklet werden ab sofort in unsererm Shop sowie in der Dokumentation zu finden sein."
+    },
+    {
+     "product": "Sound Pressure Level Bricklet",
+     "type": "launch",
+     "strength": 2,
+     "quote": "Das Sound Intensity Bricklet wird vom Sound Pressure Level Bricklet abgelöst."
+    },
+    {
+     "product": "Particulate Matter Bricklet",
+     "type": "launch",
+     "strength": 2,
+     "quote": "Mit dem Particulate Matter Bricklet gibt es nun ein Bricklet mit dem die Feinstaubkonzentration in den Kategorien PM1.0, PM2.5 und PM10"
+    },
+    {
+     "product": "Industrial Counter Bricklet",
+     "type": "launch",
+     "strength": 2,
+     "quote": "Das Industrial Dual Relay Bricklet, Sound Pressure Level Bricklet, Industrial Counter Bricklet sowie das Particulate Matter Bricklet werden ab sofort in unsererm Shop"
+    },
+    {
+     "product": "LCD 128x64 Bricklet",
+     "type": "launch",
+     "strength": 3,
+     "quote": "Wir haben soeben Firmware-Version 2.0.2 des LCD 128x64 Bricklets veröffentlicht."
+    },
+    {
+     "product": "RED Brick",
+     "type": "result",
+     "strength": 2,
+     "quote": "Die Modularität aller Bauteile und die Fähigkeit des RED-Bricks, sich unkompliziert mit einem Netzwerk zu verbinden, waren entscheidende Vorteile."
+    },
+    {
+     "product": "Particulate Matter Bricklet",
+     "type": "result",
+     "strength": 2,
+     "quote": "The IoT-Lab from Campus Minden (Bielefeld University of Applied Sciences) has used the Bricks and Bricklets from Tinkerforge to build a multi-sensor agent"
+    },
+    {
+     "product": "Umwelt-Kit",
+     "type": "launch",
+     "strength": 1,
+     "quote": "Viele der genutzten Bricklets sind im aktuell erschienenen Umwelt-Kit zu finden."
+    }
+   ],
+   "success": []
+  },
+  {
+   "year": 2019,
+   "codeable": true,
+   "products": [
+    {
+     "name": "RED Brick",
+     "generic": "a Linux single-board computer module",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Master Brick 2.1",
+     "generic": "a modular electronics master controller board",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "IMU Brick 2.0",
+     "generic": "a USB inertial measurement unit module",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Thermal Imaging Bricklet",
+     "generic": "a thermal imaging camera sensor module",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Analog Out Bricklet 3.0",
+     "generic": "an analog voltage output module",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Joystick Bricklet",
+     "generic": "a two-axis joystick input module",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Outdoor Weather Bricklet",
+     "generic": "a wireless weather station receiver module",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "NFC Bricklet",
+     "generic": "an NFC reader and writer module",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Remote Switch Bricklet 2.0",
+     "generic": "a 433MHz radio socket control module",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Motion Detector Bricklet 2.0",
+     "generic": "a passive infrared motion sensor module",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Air Quality Bricklet",
+     "generic": "an indoor air quality sensor module",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Isolator Bricklet",
+     "generic": "a galvanic isolation module for sensors",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Load Cell Bricklet 2.0",
+     "generic": "a load cell measurement module",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "LED Strip Bricklet 2.0",
+     "generic": "an RGB LED strip controller module",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "CAN Bricklet 2.0",
+     "generic": "a CAN bus interface module",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "RS232 Bricklet 2.0",
+     "generic": "an RS232 serial interface module",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Barometer Bricklet 2.0",
+     "generic": "an air pressure sensor module",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Voltage/Current Bricklet 2.0",
+     "generic": "a voltage and current measurement module",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Particulate Matter Bricklet",
+     "generic": "a particulate matter sensor module",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "WIFI Master Extension 2.0",
+     "generic": "a WiFi communication extension board",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Ethernet Master Extension",
+     "generic": "an Ethernet communication extension board",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Step-Down Power Supply",
+     "generic": "a step-down power supply module",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Tinker Kit: Industrial",
+     "generic": "an industrial electronics building block kit",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Tinker Kit: Ultimate",
+     "generic": "a comprehensive electronics building block kit",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Tinker Kit: Umweltmessung",
+     "generic": "an environmental measurement electronics kit",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Starterkit: Wetterstation",
+     "generic": "a weather station starter electronics kit",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Starterkit: Hardware Hacking",
+     "generic": "a hardware hacking starter electronics kit",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Starterkit: Kameraschlitten",
+     "generic": "a motorized camera slider starter kit",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Education Kit",
+     "generic": "an educational electronics building block kit",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Tinkerforge Werkbank",
+     "generic": "a mounting workbench plate for electronic modules",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    }
+   ],
+   "evidence": [
+    {
+     "product": "Tinkerforge Werkbank",
+     "type": "result",
+     "strength": 2,
+     "quote": "Die Tinkerforge Werkbank ist das meistverkaufte Produkte welches wir mir unserem Laser Cutter herstellen. Da es öfter Anfragen nach einer größeren Version gab"
+    },
+    {
+     "product": "RED Brick",
+     "type": "result",
+     "strength": 2,
+     "quote": "Da wir immernoch viele RED Bricks verkaufen und das Feedback durchgängig sehr positiv ist"
+    },
+    {
+     "product": "RED Brick",
+     "type": "problem",
+     "strength": 2,
+     "quote": "Leider gab es durch das Update einen Rückschritt in der Performance."
+    },
+    {
+     "product": "RED Brick",
+     "type": "investment",
+     "strength": 2,
+     "quote": "Um diese Änderungen zu machen und vernünftig zu testen mussten wir zwei Monate Arbeit investieren."
+    },
+    {
+     "product": "RED Brick",
+     "type": "result",
+     "strength": 2,
+     "quote": "Das IoT-Labor vom Campus Minden (FH Bielefeld) hat die Bricks und Bricklets von Tinkerforge dazu genutzt, einen Multi-Sensor-Agenten zu bauen"
+    },
+    {
+     "product": "Outdoor Weather Bricklet",
+     "type": "launch",
+     "strength": 2,
+     "quote": "Um dieses Problem zu umgehen bieten wir jetzt das Outdoor Weather Bricklet an."
+    },
+    {
+     "product": "NFC Bricklet",
+     "type": "launch",
+     "strength": 2,
+     "quote": "Seit gestern sind acht neue Bricklets im Shop."
+    },
+    {
+     "product": "Load Cell Bricklet 2.0",
+     "type": "launch",
+     "strength": 2,
+     "quote": "Folgende Bricklets besitzen nun einen Co-Prozessor anstatt eines EEPROMs und sind ab sofort in unserem Shop erhältlich: - Load Cell Bricklet 2.0"
+    },
+    {
+     "product": "Air Quality Bricklet",
+     "type": "launch",
+     "strength": 2,
+     "quote": "Mit dem Air Quality Bricklet ist es nun möglich mit unsererm Baukastensystem die Luftqualität festzustellen."
+    },
+    {
+     "product": "Isolator Bricklet",
+     "type": "launch",
+     "strength": 2,
+     "quote": "Dank des Isolator Bricklets können ab sofort die Strom- und Datenleitungen zwischen einem Brick und einem Bricklet galvanisch getrennt werden."
+    },
+    {
+     "product": "LED Strip Bricklet 2.0",
+     "type": "launch",
+     "strength": 2,
+     "quote": "Es ist nun möglich mit dem Bricklet bis zu 2048 RGB oder 1536 RGBW LEDs zu steuern."
+    }
+   ],
+   "success": []
+  },
+  {
+   "year": 2022,
+   "codeable": true,
+   "products": [
+    {
+     "name": "WARP Charger",
+     "generic": "a wall-mounted electric vehicle charging station",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": true
+    },
+    {
+     "name": "WARP2 Charger Smart",
+     "generic": "a smart electric vehicle wallbox",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": true
+    },
+    {
+     "name": "WARP2 Charger Pro",
+     "generic": "a metering electric vehicle wallbox with load management",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": true
+    },
+    {
+     "name": "ESP32 Brick",
+     "generic": "a WIFI microcontroller module for sensor modules",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "ESP32 Ethernet Brick",
+     "generic": "an Ethernet microcontroller module for sensor modules",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Master Brick 2.1",
+     "generic": "a legacy modular electronics controller board",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Master Brick 3.1",
+     "generic": "a modular electronics controller board",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Energy Monitor Bricklet",
+     "generic": "an AC energy measurement module",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Humidity Bricklet 2.0",
+     "generic": "a humidity and temperature sensor module",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Isolator Bricklet",
+     "generic": "a galvanic isolation module for electronics modules",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Distance US Bricklet 2.0",
+     "generic": "an ultrasonic distance sensor module",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Distance IR Bricklet",
+     "generic": "an infrared distance sensor module",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Distance IR 10-80cm Bricklet 2.0",
+     "generic": "an infrared distance sensor module",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Laser Range Finder Bricklet 2.0",
+     "generic": "a laser distance sensor module",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Industrial Dual AC Relay Bricklet",
+     "generic": "a solid-state AC relay module",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Industrial PTC Bricklet",
+     "generic": "an industrial resistance temperature sensor module",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "DC Bricklet 2.0",
+     "generic": "a DC motor driver module",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Silent Stepper Bricklet 2.0",
+     "generic": "a silent stepper motor driver module",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Industrial Analog Out Bricklet",
+     "generic": "an industrial analog output module",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Tinker Kit: Industrial",
+     "generic": "an industrial electronics building kit",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Tinker Kit: Ultimate",
+     "generic": "a comprehensive electronics building kit",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Tinker Kit: Umweltmessung",
+     "generic": "an environmental measurement electronics kit",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Starterkit: Wetterstation",
+     "generic": "a weather station electronics starter kit",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Starterkit: Internet der Dinge",
+     "generic": "an IoT electronics starter kit",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Tinkerforge Werkbank",
+     "generic": "a mounting workbench plate for electronics modules",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Brick Viewer",
+     "generic": "a configuration software for electronics modules",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    }
+   ],
+   "evidence": [
+    {
+     "product": "WARP Charger",
+     "type": "result",
+     "strength": 3,
+     "quote": "Von den Wallboxen haben wir mittlerweile deutlich über 1500 Stück verkauft und fertigen diese in einer eigenen Produktion."
+    },
+    {
+     "product": "WARP Charger",
+     "type": "result",
+     "strength": 2,
+     "quote": "Wir haben mehr Wallboxen verkauft, wie von uns erhofft!"
+    },
+    {
+     "product": "WARP Charger",
+     "type": "investment",
+     "strength": 2,
+     "quote": "Um Schritt halten zu können haben wir die Produktion nun größer aufgezogen. Auch personell haben wir unser Team vergrößert."
+    },
+    {
+     "product": "WARP Charger",
+     "type": "problem",
+     "strength": 3,
+     "quote": "Da sich die Lieferung von Komponenten aber um voraussichtlich zwei Wochen schiebt, werden die offenen Bestellungen nun leider erst bis Ende Juni ausgeliefert werden können."
+    },
+    {
+     "product": "ESP32 Brick",
+     "type": "launch",
+     "strength": 2,
+     "quote": "Starting today these Bricks are now also officially part of the Tinkerforge building blocks, i.e. you can use the new Bricks for your own projects!"
+    },
+    {
+     "product": "ESP32 Ethernet Brick",
+     "type": "launch",
+     "strength": 2,
+     "quote": "Starting today these Bricks are now also officially part of the Tinkerforge building blocks, i.e. you can use the new Bricks for your own projects!"
+    },
+    {
+     "product": "Industrial Analog Out Bricklet",
+     "type": "problem",
+     "strength": 3,
+     "quote": "Momentan ist dies für das Industrial Analog Out Bricklet der Fall. Das Haupt-IC wurde schon vor einem dreiviertel Jahr bestellt und soll erst in einem halben Jahr verfügbar sein."
+    },
+    {
+     "product": "Distance IR Bricklet",
+     "type": "problem",
+     "strength": 2,
+     "quote": "Dieses Bricklet ist ein Auslaufmodell. Es wurde durch das Distance IR 10-80 Bricklet 2.0 ersetzt."
+    }
+   ],
+   "success": []
+  },
+  {
+   "year": 2023,
+   "codeable": true,
+   "products": [
+    {
+     "name": "WARP2 Charger",
+     "generic": "an electric vehicle wallbox charger",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": true
+    },
+    {
+     "name": "WARP Energy Manager",
+     "generic": "an energy management controller for EV charging",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "WARP Charger Stand",
+     "generic": "a charging stand for mounting wallboxes",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Master Brick",
+     "generic": "a modular electronics controller board",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "GPS Bricklet 2.0",
+     "generic": "a GPS receiver module",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Humidity Bricklet 2.0",
+     "generic": "a humidity and temperature sensor module",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Industrial Counter Bricklet",
+     "generic": "an isolated four-channel frequency counter module",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Industrial Digital In 4 Bricklet 2.0",
+     "generic": "an isolated digital input module",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Industrial Digital Out 4 Bricklet",
+     "generic": "an isolated digital output module",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Industrial Quad Relay Bricklet 2.1",
+     "generic": "a four-channel solid state relay module",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Isolator Bricklet",
+     "generic": "a galvanic isolation module for sensor boards",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Air Quality Bricklet",
+     "generic": "an indoor air quality sensor module",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Barometer Bricklet 2.0",
+     "generic": "a barometric pressure sensor module",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Industrial Dual AC Relay Bricklet",
+     "generic": "a dual AC solid state relay module",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Industrial PTC Bricklet",
+     "generic": "a PTC temperature sensor interface module",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "DC Bricklet 2.0",
+     "generic": "a DC motor driver module",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Silent Stepper Bricklet 2.0",
+     "generic": "a stepper motor driver module",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "IMU Brick",
+     "generic": "an inertial measurement unit board",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "IMU Bricklet 3.0",
+     "generic": "an inertial measurement sensor module",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Joystick Bricklet",
+     "generic": "a joystick input module",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "HAT Brick",
+     "generic": "a Raspberry Pi add-on board for sensor modules",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "ESP32 Ethernet Brick",
+     "generic": "a microcontroller board with Ethernet",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Ethernet Master Extension",
+     "generic": "an Ethernet interface extension board",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Tinker Kit",
+     "generic": "an electronics building block kit",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Starterkit: Serverraum-Überwachung 2.0",
+     "generic": "a server room monitoring sensor kit",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Brick Logger",
+     "generic": "a data logging software tool",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Brick Viewer",
+     "generic": "a hardware configuration and test software",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Cursor Pad",
+     "generic": "a touch panel accessory",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    }
+   ],
+   "evidence": [
+    {
+     "product": "WARP2 Charger",
+     "type": "launch",
+     "strength": 2,
+     "quote": "From now on, all WARP2 Chargers and WARP Charger Stands will be offered in addition to the V4A stainless steel version, also powder-coated in the color DB703"
+    },
+    {
+     "product": "WARP Charger Stand",
+     "type": "launch",
+     "strength": 3,
+     "quote": "The WARP Charging Stand for one charging point is now available in our webshop starting at 749€."
+    },
+    {
+     "product": "WARP2 Charger",
+     "type": "launch",
+     "strength": 2,
+     "quote": "Nach langer Betaphase fügte die Firmware 2.1.0 Unterstützung für OCPP hinzu."
+    },
+    {
+     "product": "Industrial Digital Out 4 Bricklet",
+     "type": "problem",
+     "strength": 2,
+     "quote": "Dieses Bricklet ist ein Auslaufmodell. Es wurde durch das Industrial Digital Out 4 Bricklet 2.0 ersetzt."
+    }
+   ],
+   "success": []
+  },
+  {
+   "year": 2024,
+   "codeable": true,
+   "products": [
+    {
+     "name": "WARP3 Charger",
+     "generic": "an electric vehicle wallbox charger",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": true
+    },
+    {
+     "name": "WARP3 Charger Pro",
+     "generic": "an electric vehicle wallbox with integrated power meter",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "WARP2 Charger",
+     "generic": "an electric vehicle wallbox charger",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "WARP Energy Manager",
+     "generic": "a home energy management controller",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "WARP Ladesäule",
+     "generic": "a charging stand for wallboxes",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "HAT Brick",
+     "generic": "a Raspberry Pi sensor interface board",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "HAT Zero Brick",
+     "generic": "a small Raspberry Pi sensor interface board",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Industrial Dual AC In Bricklet",
+     "generic": "an industrial AC voltage input module",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Master Brick 3.2",
+     "generic": "a modular controller board with USB",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "RED Brick",
+     "generic": "a modular single-board computer",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "IMU Brick",
+     "generic": "an inertial measurement unit module",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "CO2 Bricklet 2.0",
+     "generic": "a CO2 concentration sensor module",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Particulate Matter Bricklet",
+     "generic": "a particulate matter sensor module",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Air Quality Bricklet",
+     "generic": "an air quality sensor module",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Industrial Digital In 4 Bricklet 2.0",
+     "generic": "an isolated four-channel digital input module",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Industrial Quad Relay Bricklet 2.1",
+     "generic": "a four-channel industrial relay module",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Multi Touch Bricklet 2.0",
+     "generic": "a capacitive multi-touch sensor module",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Remote Switch Bricklet 2.0",
+     "generic": "a 433MHz radio socket control module",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "RGB LED Bricklet 2.0",
+     "generic": "an RGB LED control module",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Solid State Relay Bricklet 2.0",
+     "generic": "a solid state relay control module",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "LED Strip Bricklet 2.0",
+     "generic": "an LED strip controller module",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Thermal Imaging Bricklet",
+     "generic": "a thermal imaging camera module",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "WIFI Master Extension 2.0",
+     "generic": "a WLAN interface extension board",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Ethernet Master Extension",
+     "generic": "an Ethernet interface extension board with PoE",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Tinker Kit: Industrial",
+     "generic": "an industrial electronics module kit",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Tinker Kit: Umweltmessung",
+     "generic": "an environmental measurement module kit",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Tinker Kit: Ultimate",
+     "generic": "a comprehensive electronics module kit",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Starterkit: Internet der Dinge",
+     "generic": "an IoT electronics starter kit",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Tinkerforge Werkbank",
+     "generic": "a mounting workbench plate for modules",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    }
+   ],
+   "evidence": [
+    {
+     "product": "WARP3 Charger",
+     "type": "launch",
+     "strength": 3,
+     "quote": "the third generation of our WARP Charger (WARP3 Charger) has been available in our shop since the end of March."
+    },
+    {
+     "product": "WARP3 Charger",
+     "type": "result",
+     "strength": 2,
+     "quote": "The success of the new wallbox generation caught us off guard, and we simply didn’t get around to reporting it."
+    },
+    {
+     "product": "WARP Energy Manager",
+     "type": "launch",
+     "strength": 3,
+     "quote": "Viele Neuigkeiten gab es 2023 im Bereich unserer Wallboxen. So haben wir zum Beispiel mit dem WARP Energy Manager einen Energiemanager veröffentlicht"
+    },
+    {
+     "product": "WARP2 Charger",
+     "type": "launch",
+     "strength": 2,
+     "quote": "Ab sofort werden alle WARP2 Charger und auch die WARP Ladesäulen zusätzlich zu der Ausführung in V4A Edelstahl nun auch pulverbeschichtet dunkelgrau in der \"Eisenglimmerlack-Farbe\" DB703 angeboten."
+    },
+    {
+     "product": "HAT Brick",
+     "type": "launch",
+     "strength": 2,
+     "quote": "New HAT Brick and Industrial Dual AC In Bricklet"
+    },
+    {
+     "product": "Industrial Dual AC In Bricklet",
+     "type": "launch",
+     "strength": 2,
+     "quote": "New HAT Brick and Industrial Dual AC In Bricklet"
+    }
+   ],
+   "success": []
+  },
+  {
+   "year": 2025,
+   "codeable": true,
+   "products": [
+    {
+     "name": "WARP3 Charger",
+     "generic": "a wallbox for electric vehicle charging",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": true
+    },
+    {
+     "name": "WARP3 Charger Pro",
+     "generic": "a wallbox with integrated calibrated power meter",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": true
+    },
+    {
+     "name": "WARP2 Charger",
+     "generic": "a wallbox for electric vehicle charging",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "WARP Energy Manager 2.0",
+     "generic": "a home energy management controller",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": true
+    },
+    {
+     "name": "WARP iOS and Android Apps",
+     "generic": "a mobile app for wallbox control",
+     "seasonal": false,
+     "stage": "pilot",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Remote Access",
+     "generic": "a remote access service for wallbox interface",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "HAT Brick",
+     "generic": "a Raspberry Pi expansion board for sensor modules",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "HAT Zero Brick",
+     "generic": "a small Raspberry Pi expansion board",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Industrial Dual AC In Bricklet",
+     "generic": "a dual 230VAC digital input module",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Master Brick",
+     "generic": "a modular microcontroller base board",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "EVSE Bricklet",
+     "generic": "a charging controller module for wallboxes",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Industrial Counter Bricklet",
+     "generic": "an industrial pulse counter module",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Industrial Dual 0-20mA Bricklet 2.0",
+     "generic": "a dual current loop input module",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Industrial Dual Analog In Bricklet 2.1",
+     "generic": "a dual analog voltage input module",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Industrial Analog Out Bricklet 2.0",
+     "generic": "an analog output module",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Industrial Digital Out 4 Bricklet 2.0",
+     "generic": "a four-channel digital output module",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Industrial Dual Relay Bricklet",
+     "generic": "a dual relay switching module",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Ambient Light Bricklet 3.0",
+     "generic": "an ambient light sensor module",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Outdoor Weather Bricklet",
+     "generic": "a wireless weather station receiver module",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Remote Switch Bricklet 2.0",
+     "generic": "a radio remote power socket controller module",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "GPS Bricklet 2.0",
+     "generic": "a GPS receiver module",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Dual Button Bricklet 2.0",
+     "generic": "a dual push button input module",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Joystick Bricklet 2.0",
+     "generic": "a two-axis joystick input module",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Multi Touch Bricklet",
+     "generic": "a capacitive touch input module",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Tinker Kit: Industrial",
+     "generic": "an industrial electronics module kit",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Tinker Kit: Ultimate",
+     "generic": "a comprehensive electronics module kit",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Tinker Kit: Umweltmessung",
+     "generic": "an environmental measurement module kit",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Tinkerforge Werkbank",
+     "generic": "a mounting workbench plate for modules",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "RED Brick",
+     "generic": "a Linux single-board computer module",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Brick MQTT Proxy",
+     "generic": "a software proxy for MQTT communication",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    }
+   ],
+   "evidence": [
+    {
+     "product": "WARP3 Charger",
+     "type": "launch",
+     "strength": 3,
+     "quote": "the third generation of our WARP Charger (WARP3 Charger) has been available in our shop since the end of March."
+    },
+    {
+     "product": "WARP3 Charger",
+     "type": "result",
+     "strength": 2,
+     "quote": "The success of the new wallbox generation caught us off guard, and we simply didn’t get around to reporting it."
+    },
+    {
+     "product": "WARP Energy Manager 2.0",
+     "type": "launch",
+     "strength": 2,
+     "quote": "we’ll be presenting various versions of the WARP3 Charger, our WARP stand and the new WARP Energy Manager 2.0."
+    },
+    {
+     "product": "WARP iOS and Android Apps",
+     "type": "launch",
+     "strength": 3,
+     "quote": "The apps for iOS and Android have been available in beta since the end of last year."
+    },
+    {
+     "product": "Remote Access",
+     "type": "launch",
+     "strength": 2,
+     "quote": "Release of Remote Access With this feature, access to the local web interface of the wallbox via the internet through my.warp-charger.com is possible."
+    },
+    {
+     "product": "HAT Brick",
+     "type": "launch",
+     "strength": 2,
+     "quote": "Heute haben wir die Version 1.9 des HAT Bricks veröffentlicht. Diese ist mit einer verbesserten Stromversorgung ausgestattet"
+    },
+    {
+     "product": "Industrial Dual AC In Bricklet",
+     "type": "launch",
+     "strength": 2,
+     "quote": "Zusätzlich haben wir ein neues Bricklet veröffentlicht: Das Industrial Dual AC In Bricklet."
+    }
+   ],
+   "success": []
+  },
+  {
+   "year": 2026,
+   "codeable": true,
+   "products": [
+    {
+     "name": "Bricklets",
+     "generic": "modular sensor and actuator boards",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": true
+    },
+    {
+     "name": "Bricks",
+     "generic": "stackable microcontroller modules",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Energy Manager",
+     "generic": "home energy management controller",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": true
+    },
+    {
+     "name": "Sound Pressure Level Bricklet",
+     "generic": "sound pressure level sensor module",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "RED Brick",
+     "generic": "embedded Linux controller module",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "IMU Brick 2.0",
+     "generic": "inertial measurement unit module",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "NFC Bricklet",
+     "generic": "NFC reader/writer module",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Outdoor Weather Bricklet",
+     "generic": "outdoor weather station receiver module",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Remote Switch Bricklet 2.0",
+     "generic": "433MHz radio switch control module",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Motion Detector Bricklet 2.0",
+     "generic": "PIR motion detector module",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Analog In Bricklet 3.0",
+     "generic": "analog voltage input module",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "CO2 Bricklet",
+     "generic": "carbon dioxide sensor module",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "OLED 128x64 Bricklet",
+     "generic": "OLED display module",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Thermocouple Bricklet",
+     "generic": "thermocouple temperature measurement module",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "UV Light Bricklet",
+     "generic": "ultraviolet light sensor module",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Barometer Bricklet",
+     "generic": "barometric air pressure sensor module",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "API Bindings",
+     "generic": "programming language libraries for hardware modules",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    }
+   ],
+   "evidence": [],
+   "success": []
+  }
+ ]
+}

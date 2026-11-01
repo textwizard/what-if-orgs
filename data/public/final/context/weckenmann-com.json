@@ -1,0 +1,93 @@
+{
+ "slug": "weckenmann-com",
+ "windows": {
+  "exploration": {
+   "years": [
+    2017
+   ],
+   "industry": {
+    "turnover": "grew",
+    "rd": "more",
+    "patents": "more",
+    "universities": "more"
+   },
+   "employees": 155,
+   "hiring": false,
+   "hiring_quote": null,
+   "expansion": true,
+   "expansion_quote": "2016 wurde darüber hinaus die Weckenmann Engineering India Pvt. Ltd. mit Sitz in Bengaluru gegründet.",
+   "investment": false,
+   "investment_quote": null,
+   "growth": false,
+   "growth_quote": null,
+   "difficulty": false,
+   "difficulty_quote": null,
+   "rd": true,
+   "rd_quote": "Mit der mobilen Batterieschalung (MBM) haben wir ein System entwickelt und zum Patent angemeldet",
+   "cooperation": false,
+   "cooperation_quote": null,
+   "eu_projects": 0,
+   "products_offered": 6,
+   "new": [
+    "formwork profile system",
+    "automated concrete distributor flow control",
+    "shuttering magnet block",
+    "magnetic formwork strips",
+    "magnetic formwork component (1)",
+    "magnetic formwork component (2)"
+   ],
+   "relatedness": [
+    "close",
+    "related",
+    "close",
+    "close",
+    "close",
+    "close"
+   ]
+  },
+  "holdout": {
+   "years": [
+    2022
+   ],
+   "industry": {
+    "turnover": "grew",
+    "rd": "more",
+    "patents": "more",
+    "universities": "more"
+   },
+   "employees": null,
+   "hiring": false,
+   "hiring_quote": null,
+   "expansion": false,
+   "expansion_quote": null,
+   "investment": false,
+   "investment_quote": null,
+   "growth": false,
+   "growth_quote": null,
+   "difficulty": false,
+   "difficulty_quote": null,
+   "rd": true,
+   "rd_quote": "So gab es neben den unterschiedlichsten Neuentwicklungen unlängst auch Veränderungen in der Führungsriege",
+   "cooperation": false,
+   "cooperation_quote": null,
+   "eu_projects": 0,
+   "products_offered": 15,
+   "new": [
+    "combined shuttering and de-shuttering robot",
+    "automatic de-shuttering robot",
+    "profile storage robot",
+    "automatic shuttering robot",
+    "combined magazining cleaning and plotting machine",
+    "production analysis software"
+   ],
+   "relatedness": [
+    "related",
+    "related",
+    "related",
+    "related",
+    "related",
+    "close"
+   ]
+  }
+ }
+}

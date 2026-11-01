@@ -1,0 +1,1 @@
+{"model": "deepseek-v4-pro", "effort": "medium", "answer": {"decisions": [{"product": "A", "probability_dropped": 80, "decision": "drop", "reason": "The product is distant from the firm's core service mission and shows no sustained web presence after launch, indicating results below aspiration, so management likely discontinues it."}]}}

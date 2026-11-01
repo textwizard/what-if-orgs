@@ -1,0 +1,1 @@
+{"model": "deepseek-v4-pro", "effort": "medium", "answer": {"decisions": [{"product": "A", "probability_dropped": 10, "decision": "keep", "reason": "Because it is a low-cost line extension close to an established popular range with no negative signals, real options reasoning favors keeping the option open while its market acceptance becomes clearer."}]}}

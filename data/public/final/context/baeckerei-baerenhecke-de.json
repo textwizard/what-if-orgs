@@ -1,0 +1,93 @@
+{
+ "slug": "baeckerei-baerenhecke-de",
+ "windows": {
+  "exploration": {
+   "years": [
+    2017
+   ],
+   "industry": {
+    "turnover": "grew",
+    "rd": "about as",
+    "patents": "less",
+    "universities": "less"
+   },
+   "employees": null,
+   "hiring": false,
+   "hiring_quote": null,
+   "expansion": false,
+   "expansion_quote": null,
+   "investment": false,
+   "investment_quote": null,
+   "growth": false,
+   "growth_quote": null,
+   "difficulty": false,
+   "difficulty_quote": null,
+   "rd": false,
+   "rd_quote": null,
+   "cooperation": false,
+   "cooperation_quote": null,
+   "eu_projects": 0,
+   "products_offered": 8,
+   "new": [
+    "hearty bread loaf",
+    "guided historic mill tour",
+    "sweet pastry",
+    "crusty farmhouse bread",
+    "poppy seed Christmas stollen",
+    "premium Christmas stollen"
+   ],
+   "relatedness": [
+    "close",
+    "related",
+    "close",
+    "close",
+    "close",
+    "close"
+   ]
+  },
+  "holdout": {
+   "years": [
+    2022
+   ],
+   "industry": {
+    "turnover": "grew",
+    "rd": "less",
+    "patents": "less",
+    "universities": "about as"
+   },
+   "employees": null,
+   "hiring": false,
+   "hiring_quote": null,
+   "expansion": false,
+   "expansion_quote": null,
+   "investment": false,
+   "investment_quote": null,
+   "growth": false,
+   "growth_quote": null,
+   "difficulty": false,
+   "difficulty_quote": null,
+   "rd": false,
+   "rd_quote": null,
+   "cooperation": false,
+   "cooperation_quote": null,
+   "eu_projects": 0,
+   "products_offered": 6,
+   "new": [
+    "rye country bread",
+    "premium raisin Christmas stollen",
+    "rye mixed bread with seeds",
+    "dark barley malt rye bread",
+    "marzipan Christmas stollen",
+    "ancient grain bread"
+   ],
+   "relatedness": [
+    "related",
+    "close",
+    "related",
+    "related",
+    "close",
+    "related"
+   ]
+  }
+ }
+}

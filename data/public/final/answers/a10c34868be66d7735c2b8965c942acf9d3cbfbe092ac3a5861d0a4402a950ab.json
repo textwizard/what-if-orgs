@@ -1,0 +1,1 @@
+{"model": "deepseek-v4-pro", "effort": "medium", "answer": {"decisions": [{"product": "A", "probability_dropped": 5, "decision": "keep", "reason": "Product A is a publicly presented flagship closely tied to the firm's announced direction, so escalation of commitment makes dropping it unlikely."}]}}

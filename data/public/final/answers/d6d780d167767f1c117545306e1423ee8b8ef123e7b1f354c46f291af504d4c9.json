@@ -1,0 +1,1 @@
+{"model": "deepseek-v4-pro", "effort": "medium", "answer": {"decisions": [{"product": "A", "probability_dropped": 15, "decision": "keep", "reason": "Product A has visible public commitment on its own webpage and is close to the firm's established offer, so escalation of commitment makes management likely to persist with it."}]}}

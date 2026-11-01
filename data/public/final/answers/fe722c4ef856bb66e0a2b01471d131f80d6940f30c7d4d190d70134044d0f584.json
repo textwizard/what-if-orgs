@@ -1,0 +1,1 @@
+{"model": "deepseek-v4-pro", "effort": "medium", "answer": {"decisions": [{"product": "B", "probability_dropped": 10, "decision": "keep", "reason": "Product B builds on the firm's established offer and the firm conducts its own R&D, so it can assimilate early results and improve the product, making a drop unlikely."}]}}

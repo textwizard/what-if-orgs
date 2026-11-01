@@ -1,0 +1,10 @@
+# Copy to paths.yaml and set the local paths to the sources that cannot be redistributed.
+frame: /path/to/firm_panel_by_period.parquet
+coverage: /path/to/AI_2026
+captures:
+  - /path/to/captures.csv        # Common Crawl captures from the index enumeration
+openai_key_file: /path/to/key        # or set OPENAI_API_KEY
+deepseek_key_file: /path/to/key      # or set DEEPSEEK_API_KEY
+anthropic_key_file: /path/to/key     # or set ANTHROPIC_API_KEY
+vllm_endpoint_file: /path/to/file    # address and key of a vLLM server, or set VLLM_URL and VLLM_KEY
+cordis: /path/to/cordis/raw            # CORDIS project and organisation files for FP7, H2020, and Horizon Europe (open, CC BY 4.0)

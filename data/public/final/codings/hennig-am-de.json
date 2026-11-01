@@ -1,0 +1,874 @@
+{
+ "slug": "hennig-am-de",
+ "profiles": {
+  "exploration": {
+   "strategy": {
+    "offer": "Prescription and over-the-counter medicines, a broad generics range, health information, and contract development and manufacturing services for pharmaceutical products.",
+    "customers": "Physicians, pharmacies, patients, health insurers, and other pharmaceutical companies needing development, manufacturing, quality, validation, and regulatory support.",
+    "why_we_win": "Its reasoning is that independence enables faster decisions and flexibility, while portfolio expansion, high quality, and trusted customer relationships secure long-term success.",
+    "resources": "Experienced employees, in-house manufacturing and development, modern production and analytical technology, strong quality-control capabilities, and long pharmaceutical industry experience.",
+    "direction": "Further internationalization, capacity expansion, and continuous broadening of the portfolio with new prescription and consumer health products."
+   },
+   "context": {
+    "size": "large",
+    "founded": 1898,
+    "industry": "Manufacture of basic pharmaceutical products and pharmaceutical preparations"
+   },
+   "seed_year": 2017
+  },
+  "holdout": {
+   "strategy": {
+    "offer": "Prescription medicines, OTC remedies, supplements, self-care products, and contract manufacturing, packaging, development and technology transfer services.",
+    "customers": "Patients and pharmacy shoppers, healthcare professionals and pharmacies, and other healthcare companies needing outsourced development, manufacturing, and packaging.",
+    "why_we_win": "It emphasizes practical customer benefits, easier use, modern compliant production, flexible service, and patented or improved formulations that support competitiveness and adherence.",
+    "resources": "Modern manufacturing and packaging capacity, serialization systems, formulation and transfer know-how, patent-protected products, export approvals, and longstanding contract-manufacturing experience.",
+    "direction": "Expand outsourced manufacturing, grow internationally, develop improved release forms, and build differentiated pharmacy-exclusive health products to reduce dependence on reimbursement contracts."
+   },
+   "context": {
+    "size": null,
+    "founded": null,
+    "industry": "Manufacture of basic pharmaceutical products and pharmaceutical preparations"
+   },
+   "seed_year": 2022
+  }
+ },
+ "years": [
+  {
+   "year": 2017,
+   "codeable": true,
+   "products": [
+    {
+     "name": "LICENER® Shampoo",
+     "generic": "a head lice treatment shampoo",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Footner® Vital-Kick",
+     "generic": "a cooling foot massage roller with foam",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "AntiJump®",
+     "generic": "a plant-based head lice repellent spray",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Wortie® spezial",
+     "generic": "a cryotherapy product against skin tags",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "MEDCOAT© Schluckhilfe",
+     "generic": "a pill swallowing aid",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    }
+   ],
+   "evidence": [
+    {
+     "product": "Footner® Vital-Kick",
+     "type": "launch",
+     "strength": 3,
+     "quote": "Footner® Vital-Kick ist ab sofort exklusiv in der Apotheke zum Preis von 19,95 Euro (unverbindliche Preisempfehlung) erhältlich."
+    },
+    {
+     "product": "Wortie® spezial",
+     "type": "launch",
+     "strength": 3,
+     "quote": "NEU: Wortie® spezial - Kryotherapie gegen Stielwarzen\n11.03.16 14:54Innovation in der Behandlung von Stielwarzen"
+    }
+   ],
+   "success": []
+  },
+  {
+   "year": 2018,
+   "codeable": true,
+   "products": [
+    {
+     "name": "Wortie® spezial",
+     "generic": "a cryotherapy product for removing skin tags",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Wortie®",
+     "generic": "a self-treatment product for common and plantar warts",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "LICENER® Shampoo",
+     "generic": "a head lice treatment shampoo",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": true
+    },
+    {
+     "name": "Trivital®",
+     "generic": "a range of dietary supplements",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Trivital® Haut und Haare",
+     "generic": "a dietary supplement for skin and hair",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Trivital® arthro pur",
+     "generic": "a dietary supplement for joint health",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Trivital® immun",
+     "generic": "a mushroom-based immune dietary supplement",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Footner® Vital-Kick",
+     "generic": "a foot care product for tired feet",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Valsartan Hennig®",
+     "generic": "a generic blood pressure medication",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    }
+   ],
+   "evidence": [
+    {
+     "product": "Trivital® Haut und Haare",
+     "type": "launch",
+     "strength": 3,
+     "quote": "Für alle, die ihre Haare und Haut zusätzlich zu einer gesunden Ernährung und typgerechten Pflege unterstützen möchten, gibt es jetzt etwas Neues in der Apotheke."
+    },
+    {
+     "product": "Trivital® arthro pur",
+     "type": "launch",
+     "strength": 3,
+     "quote": "Neu: Trivital® arthro pur für den Erhalt gesunder Gelenke"
+    },
+    {
+     "product": "Footner® Vital-Kick",
+     "type": "launch",
+     "strength": 3,
+     "quote": "Produktneuheit: Footner® Vital-Kick - das Verwöhnprogramm für beanspruchte Füße"
+    },
+    {
+     "product": "LICENER® Shampoo",
+     "type": "result",
+     "strength": 2,
+     "quote": "Besonders erfolgreich ist LICENER® Shampoo, das mit nur einer Anwendung und zehn Minuten Einwirkzeit Kopfläuse und Läuseeier abtötet."
+    },
+    {
+     "product": "Valsartan Hennig®",
+     "type": "problem",
+     "strength": 1,
+     "quote": "11.07.2018: Informationen zu Valsartan Hennig® Was ist passiert? Wie sollen Sie sich verhalten?"
+    }
+   ],
+   "success": []
+  },
+  {
+   "year": 2019,
+   "codeable": true,
+   "products": [
+    {
+     "name": "Trivital® arthro",
+     "generic": "a dietary supplement for bones and joints",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Trivital® arthro pur",
+     "generic": "a dietary supplement for joint health",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Trivital® cardio",
+     "generic": "a dietary supplement for heart health",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Trivital® gastro",
+     "generic": "a dietary supplement for digestion and metabolism",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Trivital® Haut + Haare",
+     "generic": "a dietary supplement for skin and hair",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Trivital® immun",
+     "generic": "a dietary supplement for the immune system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Trivital® mental",
+     "generic": "a dietary supplement for mental performance",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Vertigo Hennig®",
+     "generic": "an over-the-counter homeopathic tablet for dizziness",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Viticks® Zeckenpinzette",
+     "generic": "a stainless steel tick removal tweezer",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Wortie®",
+     "generic": "a cryotherapy spray for removing warts",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Wortie® Intense",
+     "generic": "a cryotherapy spray with gel for stubborn warts",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Wortie® spezial",
+     "generic": "a cryotherapy product for removing skin tags",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "LICENER® Shampoo gegen Kopfläuse",
+     "generic": "a head lice treatment shampoo",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Valsartan Hennig®",
+     "generic": "a generic prescription blood pressure drug",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    }
+   ],
+   "evidence": [
+    {
+     "product": "Trivital® immun",
+     "type": "launch",
+     "strength": 3,
+     "quote": "Trivital® immun – ein innovatives Nährstoffkonzept, das ab sofort in Apotheken erhältlich ist – kann zusätzlich unterstützen und dabei helfen, die Erkältungszeit gut zu überstehen."
+    },
+    {
+     "product": "Trivital® immun",
+     "type": "launch",
+     "strength": 3,
+     "quote": "03.01.19 08:25Trivital® immun ist das neueste Produkt aus der Trivital-Reihe zur Nahrungsergänzung von HENNIG..."
+    }
+   ],
+   "success": []
+  },
+  {
+   "year": 2022,
+   "codeable": true,
+   "products": [
+    {
+     "name": "AntiJump® Läuse-Abwehrspray",
+     "generic": "a plant-based head lice repellent spray",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Arlevert®",
+     "generic": "a prescription tablet for treating vertigo",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": true
+    },
+    {
+     "name": "Atorvastatin Hennig®",
+     "generic": "a generic statin tablet lowering blood lipids",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Befibrat® 400 mg retard",
+     "generic": "a sustained-release fibrate tablet for triglycerides",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Betahistindihydrochlorid Hennig® 24 mg",
+     "generic": "a betahistine tablet for Menière's disease",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Betavert® 6 mg",
+     "generic": "a betahistine tablet for vestibular vertigo",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Betavert® N 8 mg",
+     "generic": "a betahistine tablet for Menière's disease",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Biso-Hennig®",
+     "generic": "a beta-blocker tablet for hypertension",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Candesartancilexetil Hennig®",
+     "generic": "an angiotensin receptor blocker tablet for hypertension",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Candesartancilexetil Hennig® plus HCT",
+     "generic": "a combination antihypertensive tablet with diuretic",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Footner® Vital-Kick",
+     "generic": "a cooling foot massage roller with foam",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Licener® Shampoo",
+     "generic": "a neem-based head lice shampoo",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Licener® Nissenkamm",
+     "generic": "a fine-toothed lice and nit comb",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Medcoat® Schluckhilfe",
+     "generic": "a gel coating to ease swallowing tablets",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Melanight®",
+     "generic": "a melatonin oral spray food supplement",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Naratriptan Hennig® bei Migräne 2,5 mg",
+     "generic": "an over-the-counter triptan tablet for migraine",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "OmeHennig®",
+     "generic": "an over-the-counter omeprazole capsule for heartburn",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Trivital®",
+     "generic": "a day-night dietary supplement with mushroom extracts",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    }
+   ],
+   "evidence": [
+    {
+     "product": "Melanight®",
+     "type": "launch",
+     "strength": 3,
+     "quote": "Melanight® ist ab 1. April 2021 exklusiv in der Apotheke erhältlich."
+    },
+    {
+     "product": "Melanight®",
+     "type": "launch",
+     "strength": 2,
+     "quote": "Melanight®: Das neue Melatonin-Spray"
+    }
+   ],
+   "success": []
+  },
+  {
+   "year": 2023,
+   "codeable": true,
+   "products": [
+    {
+     "name": "MEDCOAT® Schluckhilfe",
+     "generic": "a swallowing aid gel for tablets",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Atorvastatin Hennig®",
+     "generic": "a generic statin cholesterol-lowering tablet",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Reisefit Hennig®",
+     "generic": "an over-the-counter motion sickness tablet",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Melanight®",
+     "generic": "an over-the-counter melatonin sleep aid",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Trivital",
+     "generic": "a dietary supplement",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    }
+   ],
+   "evidence": [],
+   "success": []
+  },
+  {
+   "year": 2024,
+   "codeable": true,
+   "products": [
+    {
+     "name": "Viticks",
+     "generic": "an insect and tick repellent",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Arlevert",
+     "generic": "a prescription vertigo treatment tablet",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Befibrat 400 mg retard",
+     "generic": "a sustained-release lipid-lowering tablet",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Betavert N 16 mg",
+     "generic": "a prescription vertigo treatment tablet",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Candesartancilexetil Hennig plus HCT",
+     "generic": "a generic antihypertensive combination tablet",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Cinnarizin Dimenhydrinat Hennig",
+     "generic": "a generic vertigo combination tablet",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Duloxetin Hennig",
+     "generic": "a generic antidepressant hard capsule",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Irbesartan plus HCT Hennig",
+     "generic": "a generic antihypertensive combination film tablet",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Naratriptan Hennig",
+     "generic": "an over-the-counter migraine tablet",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Trivital",
+     "generic": "a range of dietary supplements",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Trivital flex",
+     "generic": "a bone and joint dietary supplement",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Wortie spezial",
+     "generic": "a home cryotherapy kit for skin tags",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    }
+   ],
+   "evidence": [],
+   "success": []
+  },
+  {
+   "year": 2025,
+   "codeable": true,
+   "products": [
+    {
+     "name": "Atorvastatin Hennig®",
+     "generic": "a generic cholesterol-lowering statin tablet",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Betahistindihydrochlorid Hennig®",
+     "generic": "a generic betahistine tablet against vertigo",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Betavert®",
+     "generic": "a betahistine tablet against vertigo",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Candesartancilexetil Hennig®",
+     "generic": "a generic antihypertensive tablet",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Candesartancilexetil Hennig® plus HCT",
+     "generic": "a generic combination antihypertensive tablet",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Duloxetin Hennig®",
+     "generic": "a generic antidepressant hard capsule",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Fentanyl Hennig®",
+     "generic": "a generic transdermal opioid pain patch",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Irbesartan plus HCT Hennig®",
+     "generic": "a generic combination antihypertensive film tablet",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Licener® Shampoo gegen Kopfläuse und Nissen",
+     "generic": "a head lice treatment shampoo",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Licener® Nissenkamm",
+     "generic": "a fine-toothed lice and nit comb",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Melanight®",
+     "generic": "a melatonin sleep supplement oral spray",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Pantoprazol Hennig® bei Sodbrennen",
+     "generic": "an over-the-counter heartburn tablet",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Trivital® Haut & Haare",
+     "generic": "a dietary supplement capsule for skin and hair",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Trivital® immun",
+     "generic": "a dietary supplement capsule for immune support",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Wortie® spezial",
+     "generic": "a home cryotherapy kit for skin tags",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    }
+   ],
+   "evidence": [],
+   "success": []
+  },
+  {
+   "year": 2026,
+   "codeable": true,
+   "products": [
+    {
+     "name": "Medcoat® Schluckhilfe",
+     "generic": "a swallowing aid gel coating for tablets",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Arlevert® 20 mg / 40 mg",
+     "generic": "a prescription anti-vertigo tablet",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Atorvastatin Hennig® 10 mg",
+     "generic": "a generic cholesterol-lowering statin film tablet",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Vertigo Hennig®",
+     "generic": "a homeopathic over-the-counter tablet for vertigo",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Betavert® 6 mg",
+     "generic": "a prescription betahistine tablet for vertigo",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Wortie®",
+     "generic": "a cryotherapy wart freezing product",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Wortie® Intense",
+     "generic": "an intensive cryotherapy wart freezing product for adults",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Naratriptan Hennig®",
+     "generic": "an over-the-counter migraine triptan tablet",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Viticks®",
+     "generic": "an icaridin insect and tick repellent",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    }
+   ],
+   "evidence": [
+    {
+     "product": "Medcoat® Schluckhilfe",
+     "type": "launch",
+     "strength": 3,
+     "quote": "Medcoat® Schluckhilfe Erdbeere ist ab sofort in jeder Apotheke (PZN: 20167133) erhältlich."
+    }
+   ],
+   "success": []
+  }
+ ]
+}

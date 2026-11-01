@@ -1,0 +1,87 @@
+{
+ "slug": "soebbeke-de",
+ "windows": {
+  "exploration": {
+   "years": [
+    2017
+   ],
+   "industry": {
+    "turnover": "grew",
+    "rd": "about as",
+    "patents": "less",
+    "universities": "less"
+   },
+   "employees": null,
+   "hiring": false,
+   "hiring_quote": null,
+   "expansion": false,
+   "expansion_quote": null,
+   "investment": false,
+   "investment_quote": null,
+   "growth": false,
+   "growth_quote": null,
+   "difficulty": false,
+   "difficulty_quote": null,
+   "rd": false,
+   "rd_quote": null,
+   "cooperation": false,
+   "cooperation_quote": null,
+   "eu_projects": 0,
+   "products_offered": 3,
+   "new": [
+    "plain yogurt on fruit puree",
+    "organic cheese with onion and pepper",
+    "semi-hard cheese wheel",
+    "spicy cheese",
+    "mild creamy soft cheese",
+    "soft cheese with washed rind"
+   ],
+   "relatedness": [
+    "close",
+    "related",
+    "close",
+    "related",
+    "related",
+    "related"
+   ]
+  },
+  "holdout": {
+   "years": [
+    2022
+   ],
+   "industry": {
+    "turnover": "grew",
+    "rd": "less",
+    "patents": "less",
+    "universities": "about as"
+   },
+   "employees": null,
+   "hiring": false,
+   "hiring_quote": null,
+   "expansion": false,
+   "expansion_quote": null,
+   "investment": false,
+   "investment_quote": null,
+   "growth": false,
+   "growth_quote": null,
+   "difficulty": false,
+   "difficulty_quote": null,
+   "rd": true,
+   "rd_quote": "Bei der Entwicklung von HEY! KOKOS war es uns wichtig, unserem hohen Anspruch treu zu bleiben und in Sachen Qualität und Geschmack keine Abstriche zu machen.",
+   "cooperation": false,
+   "cooperation_quote": null,
+   "eu_projects": 0,
+   "products_offered": 15,
+   "new": [
+    "biodynamic natural yogurt range",
+    "mild sliced cheese",
+    "sliced butter cheese"
+   ],
+   "relatedness": [
+    "close",
+    "close",
+    "close"
+   ]
+  }
+ }
+}

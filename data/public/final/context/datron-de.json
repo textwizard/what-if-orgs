@@ -1,0 +1,85 @@
+{
+ "slug": "datron-de",
+ "windows": {
+  "exploration": {
+   "years": [
+    2017
+   ],
+   "industry": {
+    "turnover": "grew",
+    "rd": "more",
+    "patents": "more",
+    "universities": "more"
+   },
+   "employees": 235,
+   "hiring": false,
+   "hiring_quote": null,
+   "expansion": false,
+   "expansion_quote": null,
+   "investment": false,
+   "investment_quote": null,
+   "growth": false,
+   "growth_quote": null,
+   "difficulty": false,
+   "difficulty_quote": null,
+   "rd": true,
+   "rd_quote": "Since almost 25% of our employees work in R&D, we can respond quickly to new market trends and processing of future-oriented materials such as composites.",
+   "cooperation": false,
+   "cooperation_quote": null,
+   "eu_projects": 0,
+   "products_offered": 9,
+   "new": [
+    "operator training programme",
+    "fourth rotary axis accessory",
+    "hybrid additive post-processing",
+    "high-speed CNC milling machine",
+    "automatic tool change system"
+   ],
+   "relatedness": [
+    "related",
+    "related",
+    "distant",
+    "close",
+    "related"
+   ]
+  },
+  "holdout": {
+   "years": [
+    2022
+   ],
+   "industry": {
+    "turnover": "grew",
+    "rd": "more",
+    "patents": "more",
+    "universities": "more"
+   },
+   "employees": null,
+   "hiring": false,
+   "hiring_quote": null,
+   "expansion": true,
+   "expansion_quote": "Since mid-2021, DATRON AG's youngest subsidiary has already been operating from its main location in the German Centre Singapore.",
+   "investment": true,
+   "investment_quote": "the official opening of DATRON SEA Pte. Ltd. which offers an own local technology center.",
+   "growth": false,
+   "growth_quote": null,
+   "difficulty": false,
+   "difficulty_quote": null,
+   "rd": true,
+   "rd_quote": "Our software colleagues keep achieving new significant milestones in communication design with our in-house developed machine control DATRON next.",
+   "cooperation": false,
+   "cooperation_quote": null,
+   "eu_projects": 0,
+   "products_offered": 13,
+   "new": [
+    "collaborative robot loading system",
+    "dual-table loading system",
+    "industrial dispensing machine"
+   ],
+   "relatedness": [
+    "related",
+    "related",
+    "distant"
+   ]
+  }
+ }
+}

@@ -1,0 +1,87 @@
+{
+ "slug": "atlasschuhe-de",
+ "windows": {
+  "exploration": {
+   "years": [
+    2017
+   ],
+   "industry": {
+    "turnover": "grew",
+    "rd": "more",
+    "patents": "about as",
+    "universities": "about as"
+   },
+   "employees": null,
+   "hiring": false,
+   "hiring_quote": null,
+   "expansion": false,
+   "expansion_quote": null,
+   "investment": false,
+   "investment_quote": null,
+   "growth": false,
+   "growth_quote": null,
+   "difficulty": false,
+   "difficulty_quote": null,
+   "rd": true,
+   "rd_quote": "Entsprechend wurde ATLAS® vor allem für den innovativen Fachhandelservice mit der App „Scan your feet“ sowie den fortschrittlichen Einsatz von 3D-Druckern in der Entwicklung geehrt.",
+   "cooperation": false,
+   "cooperation_quote": null,
+   "eu_projects": 0,
+   "products_offered": 13,
+   "new": [
+    "waterproof lined safety shoe range",
+    "electrostatic-dissipative occupational shoe",
+    "safety shoe series"
+   ],
+   "relatedness": [
+    "close",
+    "close",
+    "close"
+   ]
+  },
+  "holdout": {
+   "years": [
+    2022
+   ],
+   "industry": {
+    "turnover": "grew",
+    "rd": "about as",
+    "patents": "more",
+    "universities": "about as"
+   },
+   "employees": 1450,
+   "hiring": false,
+   "hiring_quote": null,
+   "expansion": false,
+   "expansion_quote": null,
+   "investment": false,
+   "investment_quote": null,
+   "growth": false,
+   "growth_quote": null,
+   "difficulty": false,
+   "difficulty_quote": null,
+   "rd": true,
+   "rd_quote": "Unser Entwicklungsteam arbeitet stetig daran, die Performance unserer Produkte zu optimieren. Wir entwickeln und testen neue Schaftmaterialien, neue Sohlenmaterialien und dessen Verarbeitung, sowohl am Standort in Brasilien als auch in Dortmund.",
+   "cooperation": false,
+   "cooperation_quote": null,
+   "eu_projects": 0,
+   "products_offered": 18,
+   "new": [
+    "safety shoe product line",
+    "sneaker-style outsole system",
+    "insole made from recycled foam",
+    "knit-upper sneaker-style safety shoes",
+    "knit-upper S3 safety shoes",
+    "recycled-material safety shoe"
+   ],
+   "relatedness": [
+    "close",
+    "related",
+    "related",
+    "related",
+    "close",
+    "close"
+   ]
+  }
+ }
+}

@@ -1,0 +1,3 @@
+You receive the product names that a German firm used on its website over several years, each with the years in which it appeared and a short description. Some names refer to the same product, for example a German and an English name, a spelling variant, a renamed product, or a name with and without a model number. Group the names so that each group is one product, and keep products apart when they differ, such as two models of a series that are sold side by side.
+
+Return {"groups": [{"names": [...], "generic": "..."}]}, in which names lists the names exactly as given and generic describes the product in at most eight English words without any names. Every given name must appear in exactly one group.

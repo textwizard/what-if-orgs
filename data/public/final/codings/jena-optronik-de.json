@@ -1,0 +1,1038 @@
+{
+ "slug": "jena-optronik-de",
+ "profiles": {
+  "exploration": {
+   "strategy": {
+    "offer": "High-precision optical sensors, instruments, subsystems, and test equipment for satellite attitude control, rendezvous and docking, and Earth observation.",
+    "customers": "Space agencies, satellite manufacturers, and commercial and institutional space programs worldwide.",
+    "why_we_win": "Space missions demand extreme precision and robustness; the firm relies on proven products, quality, reliability, and trusted long-term customer relationships.",
+    "resources": "Decades of optoelectronic engineering experience, skilled and motivated employees, strong technological capabilities, certified quality processes, and research and industry collaborations.",
+    "direction": "Advance sensor and optical technologies for future space missions while expanding Earth-observation capabilities that provide useful data on our planet."
+   },
+   "context": {
+    "size": null,
+    "founded": 1991,
+    "industry": "Manufacture of computer, electronic and optical products"
+   },
+   "seed_year": 2017
+  },
+  "holdout": {
+   "strategy": {
+    "offer": "Space-grade optical, electronic, and sensor systems for spacecraft guidance, docking, imaging, Earth observation, instrument electronics, testing, calibration, and related engineering services.",
+    "customers": "Space agencies, satellite and spacecraft manufacturers, and operators needing reliable attitude control, navigation, docking, imaging, and observation capabilities.",
+    "why_we_win": "They argue precision, reliability, certified quality, adaptable designs, and proven mission performance make customers trust them for critical applications.",
+    "resources": "Basis includes experienced specialists, decades of space heritage, optical and optoelectronic know-how, clean-room and test infrastructure, and collaborative research-industry networks.",
+    "direction": "Developing more compact, flexible, reprogrammable sensors and instruments for future spacecraft operations, smaller satellites, and expanded Earth observation applications."
+   },
+   "context": {
+    "size": "large",
+    "founded": 1992,
+    "industry": "Manufacture of computer, electronic and optical products"
+   },
+   "seed_year": 2022
+  }
+ },
+ "years": [
+  {
+   "year": 2017,
+   "codeable": true,
+   "products": [
+    {
+     "name": "ASTROgyro",
+     "generic": "combined star sensor and gyroscope navigation unit",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": true
+    },
+    {
+     "name": "ASTRO APS",
+     "generic": "CMOS-based satellite star sensor",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "ASTRO 15",
+     "generic": "high-accuracy satellite star tracker",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "ASTRO 10",
+     "generic": "satellite star tracker",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Precision Sun Sensor PSS",
+     "generic": "satellite precision sun sensor",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "FSS (Fine Sun Sensor)",
+     "generic": "analogue satellite sun sensor",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "RVS",
+     "generic": "lidar rendezvous and docking sensor for spacecraft",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": true
+    },
+    {
+     "name": "RVS3000",
+     "generic": "next-generation lidar rendezvous and docking sensor",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": true
+    },
+    {
+     "name": "Optical Sky Simulator (OSI)",
+     "generic": "dynamic sky simulator for star sensor testing",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Optical Star Pattern Simulator (OSPS)",
+     "generic": "static star pattern test device",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "ASTRO APS Unit Tester (UT)",
+     "generic": "rack-based star sensor test unit",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    }
+   ],
+   "evidence": [
+    {
+     "product": "ASTROgyro",
+     "type": "launch",
+     "strength": 2,
+     "quote": "In diesem Jahr haben wir im Rahmen der Konferenz zwei Vorträge platzieren können und unsere Neuentwicklungen ASTROgyro sowie unseren RVS3000 präsentiert."
+    },
+    {
+     "product": "RVS3000",
+     "type": "launch",
+     "strength": 2,
+     "quote": "In diesem Jahr haben wir im Rahmen der Konferenz zwei Vorträge platzieren können und unsere Neuentwicklungen ASTROgyro sowie unseren RVS3000 präsentiert."
+    },
+    {
+     "product": "RVS",
+     "type": "result",
+     "strength": 2,
+     "quote": "Der Rendezvous- und Docking-Sensor RVS des Raumfahrtunternehmens Jena-Optronik ist bereit für seine sechste Mission zur ISS auf dem japanischen Raumtransporter HTV."
+    }
+   ],
+   "success": []
+  },
+  {
+   "year": 2018,
+   "codeable": true,
+   "products": [
+    {
+     "name": "ASTROgyro",
+     "generic": "combined star sensor and gyroscope navigation system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "ASTRO APS",
+     "generic": "a satellite star sensor",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Optical Sky Simulator (OSI)",
+     "generic": "a dynamic optical star sensor test device",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Optical Star Pattern Simulator (OSPS)",
+     "generic": "a static star pattern optical test system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "ASTRO APS Unit Tester (UT)",
+     "generic": "a rack-based star sensor stand-alone test unit",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Rendezvous- und Docking Sensor RVS",
+     "generic": "a spacecraft rendezvous and docking sensor",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "METimage",
+     "generic": "a multispectral imaging radiometer for weather satellites",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    }
+   ],
+   "evidence": [],
+   "success": []
+  },
+  {
+   "year": 2019,
+   "codeable": true,
+   "products": [
+    {
+     "name": "ASTROgyro",
+     "generic": "combined star sensor and gyroscope attitude system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": true
+    },
+    {
+     "name": "ASTRO APS",
+     "generic": "satellite star sensor",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Optical Sky Simulator (OSI)",
+     "generic": "dynamic star sensor optical test device",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Optical Star Pattern Simulator (OSPS)",
+     "generic": "static star pattern test system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "ASTRO APS Unit Tester (UT)",
+     "generic": "star sensor stand-alone test rack",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Rendezvous- and Docking Sensor (RVS)",
+     "generic": "spacecraft rendezvous and docking sensor",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": true
+    },
+    {
+     "name": "RVS3000",
+     "generic": "spacecraft rendezvous and docking sensor",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": true
+    },
+    {
+     "name": "ASTRO XP",
+     "generic": "satellite star sensor",
+     "seasonal": false,
+     "stage": "pilot",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "ASTROhead",
+     "generic": "satellite star sensor optical head",
+     "seasonal": false,
+     "stage": "pilot",
+     "scale": "single",
+     "featured": false
+    }
+   ],
+   "evidence": [
+    {
+     "product": "Rendezvous- and Docking Sensor (RVS)",
+     "type": "result",
+     "strength": 3,
+     "quote": "Am 17. April 2019 startete die Versorgungsmission CRS NG-11 (Cygnus) des amerikanischen Technologiekonzerns Northrop Grumman zur Internationen Raumstation ISS. An Bord ist die neueste Generation von Rendezvous- und Docking Sensoren"
+    },
+    {
+     "product": "ASTROgyro",
+     "type": "launch",
+     "strength": 2,
+     "quote": "Innovationsideen, die wir in der Vergangenheit vorgestellt haben, sind nun als marktreife Produkte verfügbar (ASTROgyro, RVS3000)"
+    },
+    {
+     "product": "RVS3000",
+     "type": "launch",
+     "strength": 2,
+     "quote": "Innovationsideen, die wir in der Vergangenheit vorgestellt haben, sind nun als marktreife Produkte verfügbar (ASTROgyro, RVS3000)"
+    }
+   ],
+   "success": []
+  },
+  {
+   "year": 2022,
+   "codeable": true,
+   "products": [
+    {
+     "name": "ASTRO",
+     "generic": "a family of spacecraft star sensors",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": true
+    },
+    {
+     "name": "ASTRO APS",
+     "generic": "an autonomous CMOS-based spacecraft star tracker",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": true
+    },
+    {
+     "name": "ASTRO CL",
+     "generic": "a compact star sensor for satellite constellations",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "ASTROhead",
+     "generic": "a compact radiation-hard space camera",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "ASTROgyro",
+     "generic": "a combined star sensor and gyroscope unit",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "ASTRO 15",
+     "generic": "a high-accuracy star tracker for long missions",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "ASTRO 10",
+     "generic": "a spacecraft star tracker",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "RVS",
+     "generic": "a family of rendezvous and docking sensors",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": true
+    },
+    {
+     "name": "RVS 3000",
+     "generic": "a lidar rendezvous and docking sensor",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "RVS 3000-3D",
+     "generic": "a lidar sensor with 3D pose estimation",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "FSS (Fine Sun Sensor)",
+     "generic": "an analogue satellite sun sensor",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Precision Sun Sensor PSS",
+     "generic": "a precision satellite sun sensor",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Jena Spaceborne Scanner JSS-56",
+     "generic": "a multispectral pushbroom imager for small satellites",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "METimage",
+     "generic": "a rotating-telescope imaging radiometer for weather satellites",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Visible Sensor Suite (VSS)",
+     "generic": "a navigational camera system for spacecraft",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Optical Sky Stimulator (OSI)",
+     "generic": "a dynamic optical star sensor test device",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Optical Star Pattern Simulator (OSPS)",
+     "generic": "a static star pattern test system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "ASTRO APS Unit Tester (UT)",
+     "generic": "a stand-alone star sensor test rack",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    }
+   ],
+   "evidence": [
+    {
+     "product": "ASTRO APS",
+     "type": "result",
+     "strength": 2,
+     "quote": "From America (including Boeing, MAXAR, NASA) through Europe (including Airbus Defense and Space, OHB, ESA) to Asia (including JAXA), the ASTRO APS has established itself"
+    }
+   ],
+   "success": []
+  },
+  {
+   "year": 2023,
+   "codeable": true,
+   "products": [
+    {
+     "name": "Fine Sun Sensor FSS",
+     "generic": "an analogue photodiode-based satellite sun sensor",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "RVS",
+     "generic": "a laser rendezvous and docking sensor for spacecraft",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "RVS 3000",
+     "generic": "a scanning LiDAR rendezvous and docking sensor",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": true
+    },
+    {
+     "name": "RVS 3000-3D",
+     "generic": "a 3D LiDAR sensor for docking and landing",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": true
+    },
+    {
+     "name": "ASTRO APS",
+     "generic": "a CMOS-based autonomous satellite star sensor",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "ASTRO CL",
+     "generic": "a compact star sensor for LEO constellations",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": true
+    },
+    {
+     "name": "ASTRO XP",
+     "generic": "a high-precision star sensor for science missions",
+     "seasonal": false,
+     "stage": "pilot",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "ASTROgyro",
+     "generic": "a combined star sensor and gyroscope unit",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "ASTROhead",
+     "generic": "a compact radiation-hard space camera",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Optical Sky Stimulator (OSI)",
+     "generic": "a dynamic optical test device for star sensors",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Optical Star Pattern Stimulator (OSPS)",
+     "generic": "a static star pattern test system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "ASTRO APS Unit Tester",
+     "generic": "a stand-alone test unit for star sensors",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    }
+   ],
+   "evidence": [
+    {
+     "product": "ASTRO CL",
+     "type": "result",
+     "strength": 2,
+     "quote": "Maxar taps Jena-Optronik for the ASTRO CL star tracker for new proliferated low-Earth orbit (LEO) platform."
+    },
+    {
+     "product": "ASTRO APS",
+     "type": "result",
+     "strength": 2,
+     "quote": "Two of Jena-Optronik’s ASTRO APS star sensors enable the attitude and orbit control of the German geostationary communication satellite, which was developed and built by OHB System AG."
+    }
+   ],
+   "success": []
+  },
+  {
+   "year": 2024,
+   "codeable": true,
+   "products": [
+    {
+     "name": "Fine Sun Sensor FSS",
+     "generic": "an analogue photodiode-based satellite sun sensor",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "ASTRO CL Cam",
+     "generic": "a radiation-hard space camera for situational awareness",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "ASTROhead Cam",
+     "generic": "a compact modular space navigation camera",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "ASTROlas",
+     "generic": "a satellite laser threat detection sensor",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "ASTROtir",
+     "generic": "an uncooled thermal infrared space camera",
+     "seasonal": false,
+     "stage": "pilot",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "SSA Sensor Suite",
+     "generic": "a combined sensor suite for space situational awareness",
+     "seasonal": false,
+     "stage": "pilot",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "µRVS",
+     "generic": "a miniaturized space-qualified LiDAR sensor",
+     "seasonal": false,
+     "stage": "pilot",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "RVS 3000",
+     "generic": "a LiDAR rendezvous and docking sensor",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Jena Spaceborne Scanner JSS",
+     "generic": "a multi-spectral pushbroom imager for microsatellites",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "ASTRO APS",
+     "generic": "a CMOS-based autonomous star tracker",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": true
+    },
+    {
+     "name": "ASTRO APS3",
+     "generic": "a high-performance autonomous star tracker",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": true
+    },
+    {
+     "name": "ASTRO CL",
+     "generic": "a compact star tracker for satellite constellations",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "ASTRO XP",
+     "generic": "a high-accuracy star tracker for science missions",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "ASTROgyro",
+     "generic": "an integrated star sensor and gyroscope attitude sensor",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    }
+   ],
+   "evidence": [
+    {
+     "product": "ASTRO APS",
+     "type": "result",
+     "strength": 3,
+     "quote": "The sensor has been sold more than 470 times up to now and more than 200 are already flying successfully in orbit."
+    },
+    {
+     "product": "ASTRO APS3",
+     "type": "launch",
+     "strength": 3,
+     "quote": "this new star sensor will have its first mission and corresponding maiden flight already this year (2024)."
+    },
+    {
+     "product": "ASTRO APS",
+     "type": "result",
+     "strength": 2,
+     "quote": "Two of Jena-Optronik’s ASTRO APS star sensors enable the attitude and orbit control of the German geostationary communication satellite, which was developed and built by OHB System AG."
+    },
+    {
+     "product": "ASTROhead Cam",
+     "type": "result",
+     "strength": 2,
+     "quote": "Raumsonde HERA der Europäischen Raumfahrtagentur ESA erfolgreich ins All gestartet. Mit an Bord: „Asteroid Framing Camera” der Jena-Optronik."
+    },
+    {
+     "product": "ASTRO CL",
+     "type": "launch",
+     "strength": 1,
+     "quote": "ASTRO CL, the latest member of the ASTRO star sensor family for satellite constellations."
+    }
+   ],
+   "success": []
+  },
+  {
+   "year": 2025,
+   "codeable": true,
+   "products": [
+    {
+     "name": "Fine Sun Sensor FSS",
+     "generic": "an analogue photodiode-based satellite sun sensor",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "ASTRO XP Cam",
+     "generic": "a high-precision space navigation and observation camera",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "ASTRO XP",
+     "generic": "a high-precision satellite star sensor",
+     "seasonal": false,
+     "stage": "pilot",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "ASTROhead Cam",
+     "generic": "a compact multi-purpose radiation-hard space camera",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Asteroid Framing Camera",
+     "generic": "a navigation and imaging camera for asteroid missions",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "ASTROlas",
+     "generic": "a satellite laser threat detection sensor",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "ASTROtir",
+     "generic": "a thermal infrared space camera",
+     "seasonal": false,
+     "stage": "pilot",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "SSA Sensor Suite",
+     "generic": "a multi-sensor suite for space situational awareness",
+     "seasonal": false,
+     "stage": "pilot",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "µRVS",
+     "generic": "a miniaturized space-qualified LiDAR sensor",
+     "seasonal": false,
+     "stage": "pilot",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "RVS 3000-3D",
+     "generic": "a 3D LiDAR rendezvous and docking sensor",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": true
+    },
+    {
+     "name": "RVS 3000",
+     "generic": "a LiDAR rendezvous and docking sensor",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": true
+    },
+    {
+     "name": "RVS",
+     "generic": "a laser rendezvous and docking sensor",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "ASTRO APS",
+     "generic": "a satellite star tracker",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "ASTRO APS3",
+     "generic": "a satellite star tracker",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "ASTRO CL",
+     "generic": "a compact satellite star sensor",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    }
+   ],
+   "evidence": [
+    {
+     "product": "ASTRO APS",
+     "type": "result",
+     "strength": 3,
+     "quote": "On 3 September 2025, we had the privilege of receiving a special accolade: NASA recognised our company for our contribution to Artemis I."
+    },
+    {
+     "product": "Asteroid Framing Camera",
+     "type": "result",
+     "strength": 2,
+     "quote": "European Space Agency ESA successfully launched space probe HERA into space. On board: “Asteroid Framing Camera” from Jena-Optronik."
+    }
+   ],
+   "success": []
+  },
+  {
+   "year": 2026,
+   "codeable": true,
+   "products": [
+    {
+     "name": "ASTRO APS",
+     "generic": "a spacecraft star sensor",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": true
+    },
+    {
+     "name": "ASTRO APS3",
+     "generic": "a high-performance spacecraft star sensor",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": true
+    },
+    {
+     "name": "ASTRO CL",
+     "generic": "a compact star sensor for small satellites",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": true
+    },
+    {
+     "name": "ASTRO XP",
+     "generic": "a high-accuracy spacecraft star sensor",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "ASTROgyro",
+     "generic": "a combined star sensor and gyroscope unit",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "ASTRO CL Cam",
+     "generic": "a radiation-hard space situational awareness camera",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "ASTROhead cam",
+     "generic": "a space camera for approach and docking",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "ASTROlas",
+     "generic": "a satellite laser threat detection sensor",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "ASTROtir",
+     "generic": "a thermal infrared space camera",
+     "seasonal": false,
+     "stage": "pilot",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "MUATS",
+     "generic": "a multi-user optical terminal tracking sensor",
+     "seasonal": false,
+     "stage": "pilot",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "AUTO-TDS",
+     "generic": "an autonomous optical terminal detection sensor",
+     "seasonal": false,
+     "stage": "pilot",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "SSA Sensor Suite",
+     "generic": "a modular space situational awareness sensor suite",
+     "seasonal": false,
+     "stage": "pilot",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "µRVS",
+     "generic": "a miniaturized space LiDAR sensor",
+     "seasonal": false,
+     "stage": "pilot",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "RVS 3000-3D",
+     "generic": "a 3D rendezvous and docking LiDAR",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": true
+    },
+    {
+     "name": "RVS 3000",
+     "generic": "a rendezvous and docking LiDAR sensor",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": true
+    },
+    {
+     "name": "Jena Spaceborne Scanner JSS",
+     "generic": "a multi-spectral pushbroom imager for microsatellites",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    }
+   ],
+   "evidence": [
+    {
+     "product": "ASTRO APS",
+     "type": "result",
+     "strength": 3,
+     "quote": "Am 3. September 2025 durften wir eine ganz besondere Ehrung entgegennehmen: Die NASA hat unser Unternehmen für den Beitrag zu Artemis I ausgezeichnet."
+    },
+    {
+     "product": "ASTRO APS",
+     "type": "result",
+     "strength": 3,
+     "quote": "The sensor has been sold more than 470 times up to now and more than 200 are already flying successfully in orbit."
+    },
+    {
+     "product": "ASTRO CL",
+     "type": "result",
+     "strength": 1,
+     "quote": "Innovation aus dem grünen Herzen Deutschlands: Sternsensor ASTRO CL der Jena-Optronik für den Bundeskanzler bei der MPK-Ost."
+    }
+   ],
+   "success": []
+  }
+ ]
+}

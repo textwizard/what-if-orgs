@@ -1,0 +1,1053 @@
+{
+ "slug": "boller-gmbh-de",
+ "profiles": {
+  "exploration": {
+   "strategy": {
+    "offer": "Manufactures and supplies metal pipeline components, fittings, surface coatings, welding services, and custom fabrications for water, wastewater, and related infrastructure applications.",
+    "customers": "Utilities, municipalities, planners, plant builders, pipeline contractors, manufacturers, trade buyers, and other industrial or public-sector project customers.",
+    "why_we_win": "It expects success through product quality, flexible organization, tailored solutions, reliable processes, technical competence, and on-time fulfillment of customer requirements.",
+    "resources": "Its basis is experienced staff, certified welders, modern production and coating equipment, testing capability, and separated steel and stainless-steel manufacturing.",
+    "direction": "It is expanding and refining its product range and production capabilities to meet broader and more individualized customer needs."
+   },
+   "context": {
+    "size": null,
+    "founded": 2003,
+    "industry": "Manufacture of fabricated metal products, except machinery and equipment"
+   },
+   "seed_year": 2017
+  },
+  "holdout": {
+   "strategy": {
+    "offer": "Manufactures custom and standard metal components, assemblies, vessels, and finishing services for fluid-handling and industrial applications.",
+    "customers": "Serves utilities, industrial operators, engineering contractors, and public-sector buyers needing durable fabricated metal solutions and coatings.",
+    "why_we_win": "Expects to win through high quality, technical precision, certified processes, flexibility, reliable delivery, and long-term customer relationships.",
+    "resources": "Built on long manufacturing experience, skilled trained workers, steel and stainless processing expertise, modern equipment, in-house surface treatment, and formal quality certifications.",
+    "direction": "Aims to broaden markets and capabilities, add complementary services, and supply customers nationally and internationally."
+   },
+   "context": {
+    "size": null,
+    "founded": 2003,
+    "industry": "Manufacture of fabricated metal products, except machinery and equipment"
+   },
+   "seed_year": 2022
+  }
+ },
+ "years": [
+  {
+   "year": 2017,
+   "codeable": true,
+   "products": [
+    {
+     "name": "Paß- und Ausbaustück Typ DD",
+     "generic": "flanged dismantling joint for pipelines",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Paß- und Ausbaustück Typ DDES",
+     "generic": "pipe coupling joining two plain pipe ends",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Paß- und Ausbaustück Typ DDK",
+     "generic": "single-flanged expansion joint for pipelines",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Paß- und Ausbaustück Typ DF1",
+     "generic": "flange-to-plain-end pipe adapter piece",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Paß- und Ausbaustück Typ DF2",
+     "generic": "flanged dismantling joint with tie rods",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Paß- und Ausbaustück Typ DF3",
+     "generic": "flanged dismantling joint with length compensation",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Paß- und Ausbaustück Typ DF4",
+     "generic": "flanged dismantling joint with one-sided tie rods",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Rohrgelenk Typ DRGF",
+     "generic": "lockable flanged pipe articulation joint",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Rohrgelenk Typ DRGL",
+     "generic": "non-lockable flanged pipe articulation joint",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Paß- und Ausbaustück Typ DS",
+     "generic": "slip coupling for joining pipe ends",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Paß- und Ausbaustück Typ DSK",
+     "generic": "slip coupling for joining pipe ends",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Paß- und Ausbaustück Typ DV",
+     "generic": "single-flanged dismantling joint with hex bolts",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    }
+   ],
+   "evidence": [],
+   "success": []
+  },
+  {
+   "year": 2018,
+   "codeable": true,
+   "products": [
+    {
+     "name": "Paß- und Ausbaustück Typ DD",
+     "generic": "a flanged pipe dismantling and adjustment joint",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Paß- und Ausbaustück Typ DDES",
+     "generic": "a pipe-to-pipe length compensation coupling",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Paß- und Ausbaustück Typ DDK",
+     "generic": "a single-flanged pipe expansion and adjustment joint",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Typ DDK-F",
+     "generic": "a flanged pipe dismantling and adjustment joint",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Paß- und Ausbaustück Typ DF1",
+     "generic": "a flange-to-plain-end pipe transition piece",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Paß- und Ausbaustück Typ DF2",
+     "generic": "a double-flanged valve dismantling joint",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Paß- und Ausbaustück Typ DF3",
+     "generic": "a double-flanged valve dismantling joint with adjustment",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Paß- und Ausbaustück Typ DF4",
+     "generic": "a double-flanged valve dismantling joint with adjustment",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Rohrgelenk Typ DRGF",
+     "generic": "a lockable flanged pipe articulation joint",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Paß- und Ausbaustück Typ DS",
+     "generic": "a slip-type pipe connection coupling",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Paß- und Ausbaustück Typ DSK",
+     "generic": "a slip-type pipe connection coupling",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Paß- und Ausbaustück Typ DV",
+     "generic": "a single-flanged valve dismantling joint with bolts",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Rohrhalterung RU",
+     "generic": "a ceiling or floor pipe support bracket",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    }
+   ],
+   "evidence": [],
+   "success": []
+  },
+  {
+   "year": 2019,
+   "codeable": true,
+   "products": [
+    {
+     "name": "Pass- und Ausbaustück Typ DDK-F",
+     "generic": "a flanged pipe dismantling joint for valves",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Rohrgelenk Typ DRGL",
+     "generic": "a flanged pipe joint for settlement compensation",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "DF3",
+     "generic": "a pipe dismantling joint for water pipelines",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "DF4",
+     "generic": "a pipe dismantling joint for water pipelines",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "DF2",
+     "generic": "a pipe dismantling joint for water pipelines",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    }
+   ],
+   "evidence": [],
+   "success": []
+  },
+  {
+   "year": 2022,
+   "codeable": true,
+   "products": [
+    {
+     "name": "DF3",
+     "generic": "a steel pipe dismantling joint",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "DF4",
+     "generic": "a steel pipe dismantling joint",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "DDK-F",
+     "generic": "a pipe dismantling and fitting piece",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    }
+   ],
+   "evidence": [],
+   "success": []
+  },
+  {
+   "year": 2023,
+   "codeable": true,
+   "products": [
+    {
+     "name": "Typ DD",
+     "generic": "a flanged pipe dismantling and expansion joint",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Typ DDES",
+     "generic": "a pipe dismantling joint connecting two pipe ends",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Typ DDK",
+     "generic": "a single-flanged pipe dismantling and expansion joint",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Typ DDK-F",
+     "generic": "a double-flanged dismantling joint with tie rods",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "DF3",
+     "generic": "a stocked steel or stainless pipe dismantling joint",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "DF4",
+     "generic": "a stocked steel or stainless pipe dismantling joint",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    }
+   ],
+   "evidence": [],
+   "success": []
+  },
+  {
+   "year": 2024,
+   "codeable": true,
+   "products": [
+    {
+     "name": "DF1",
+     "generic": "a flanged pipe dismantling joint",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "DF2",
+     "generic": "a flanged pipe dismantling joint",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "DF3",
+     "generic": "a flanged pipe dismantling joint",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "DF4",
+     "generic": "a flanged pipe dismantling joint",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "DDK-F",
+     "generic": "a flanged pipe dismantling joint",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "DV",
+     "generic": "a flanged pipe dismantling joint",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "DD",
+     "generic": "a pipe expansion piece",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "DDK",
+     "generic": "a pipe expansion piece",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "DDES",
+     "generic": "a pipe expansion piece",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "DS",
+     "generic": "a pipe coupling for joining pipe ends",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "DSK",
+     "generic": "a pipe coupling for joining pipe ends",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "DRGL",
+     "generic": "an articulated pipe joint",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "DRGF",
+     "generic": "an articulated pipe joint",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "BO-RK",
+     "generic": "a pipe cleaning box for sewer lines",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Bo ABFALLSYSTEME",
+     "generic": "stainless steel public waste bins",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Bo 100 / 101",
+     "generic": "a powder-coated public waste bin",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Bo B850",
+     "generic": "a public park bench",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Bo T300",
+     "generic": "an outdoor public table",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Bo 800",
+     "generic": "an outdoor public ashtray",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Bo 900",
+     "generic": "a dog waste bag dispenser",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Bo E650",
+     "generic": "a stainless steel street planter",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Bo P7001",
+     "generic": "a street bollard post",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    }
+   ],
+   "evidence": [],
+   "success": []
+  },
+  {
+   "year": 2025,
+   "codeable": true,
+   "products": [
+    {
+     "name": "DF1",
+     "generic": "a flanged pipe dismantling joint",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "DF2",
+     "generic": "a flanged pipe dismantling joint",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "DF3",
+     "generic": "a flanged pipe dismantling joint",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "DF4",
+     "generic": "a flanged pipe dismantling joint",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "DDK-F",
+     "generic": "a lockable pipe dismantling joint",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "DV",
+     "generic": "a pipe dismantling joint",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "DD",
+     "generic": "a pipe expansion joint",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "DDK",
+     "generic": "a pipe expansion joint",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "DDES",
+     "generic": "a pipe expansion joint",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "DS",
+     "generic": "a pipe coupling for joining pipe ends",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "DSK",
+     "generic": "a pipe coupling for joining pipe ends",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "DRGL",
+     "generic": "a pipe articulation joint",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "DRGF",
+     "generic": "a pipe articulation joint",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "DW10 - DW70",
+     "generic": "steel wall penetration pipes",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "BO-RK",
+     "generic": "a pipe cleaning access box",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Rohrhalterung BC",
+     "generic": "a pipe support bracket",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Rohrhalterung RV",
+     "generic": "a pipe support bracket",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Rohrhalterung RU",
+     "generic": "a pipe support bracket",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Bo ABFALLSYSTEME pulverbeschichtet",
+     "generic": "powder-coated outdoor waste bins",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Bo E601 - E606",
+     "generic": "stainless steel outdoor waste bins",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Bo B Parkbänke",
+     "generic": "park benches for public spaces",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Bo T Tische",
+     "generic": "outdoor tables for public spaces",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Bo 800 / 810 / 820",
+     "generic": "outdoor ashtrays",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Bo 900 / 910",
+     "generic": "dog waste bag dispensers",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Bo E650",
+     "generic": "a stainless steel planter",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Bo P691",
+     "generic": "an outdoor planter",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Bo P7001 - P7020",
+     "generic": "street bollards and posts",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Bo Bodenhülsen",
+     "generic": "ground sleeves for posts",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    }
+   ],
+   "evidence": [],
+   "success": []
+  },
+  {
+   "year": 2026,
+   "codeable": true,
+   "products": [
+    {
+     "name": "BOLLER-Rohrformstückprogramm",
+     "generic": "steel and stainless steel pipe fittings range",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": true
+    },
+    {
+     "name": "BOLLER-Wanddurchführungen",
+     "generic": "stainless steel wall penetration pipes",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "DF1",
+     "generic": "flanged dismantling joint for pipelines",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "DF2",
+     "generic": "flanged dismantling joint for pipelines",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "DF3",
+     "generic": "flanged dismantling joint for pipelines",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "DF4",
+     "generic": "flanged dismantling joint for pipelines",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "DDK-F",
+     "generic": "flanged dismantling joint for pipelines",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "DV",
+     "generic": "pipeline dismantling piece",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "DD",
+     "generic": "pipeline expansion piece",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "DDK",
+     "generic": "pipeline expansion piece",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "DDES",
+     "generic": "pipeline expansion piece",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "DS",
+     "generic": "pipeline setting piece",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "DSK",
+     "generic": "pipeline setting piece",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "DRGL",
+     "generic": "flanged pipe joint for settlement compensation",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "DRGF",
+     "generic": "flanged pipe joint for settlement compensation",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "BO-RK",
+     "generic": "pipe cleaning box",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Bo ABFALLSYSTEME",
+     "generic": "outdoor public waste bins",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Bo E601",
+     "generic": "stainless steel public waste bin",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Bo 210 / 211 (mit Ascher)",
+     "generic": "powder-coated waste bin with ashtray",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Bo B850",
+     "generic": "outdoor park bench",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Bo T300",
+     "generic": "outdoor public table",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Bo 800",
+     "generic": "outdoor ashtray",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Bo 900",
+     "generic": "dog waste bag dispenser",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Bo 910",
+     "generic": "dog waste bag dispenser",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Bo E650",
+     "generic": "stainless steel planter",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Bo P691",
+     "generic": "outdoor planter",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Bo P7001",
+     "generic": "street bollard post",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Bo Bodenhülsen Stahl",
+     "generic": "steel ground sleeves for posts",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Bo Bodenhülsen Guss",
+     "generic": "cast iron ground sleeves for posts",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Bo Verschlusskappe",
+     "generic": "closure cap for ground sleeves",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    }
+   ],
+   "evidence": [],
+   "success": []
+  }
+ ]
+}

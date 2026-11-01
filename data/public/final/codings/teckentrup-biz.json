@@ -1,0 +1,843 @@
+{
+ "slug": "teckentrup-biz",
+ "profiles": {
+  "exploration": {
+   "strategy": {
+    "offer": "Comprehensive door and gate systems for homes and buildings, including garage, industrial, fire, security, smoke, acoustic and thermal solutions, plus planning support, documentation and training.",
+    "customers": "Homeowners, architects, planners, installers, dealers, and operators of commercial, industrial and public buildings needing compliant, customized access and protection systems.",
+    "why_we_win": "They combine broad one-source product range, customization, quality-controlled manufacturing, regulatory compliance, and close customer support from planning through delivery.",
+    "resources": "Around 850 qualified employees, modern materials expertise, computer-controlled production, integrated manufacturing, continuous product development, and branch and partner coverage.",
+    "direction": "Continue improving existing products and developing new technologies to advance flexible, customer-near solutions."
+   },
+   "context": {
+    "size": "large",
+    "founded": null,
+    "industry": "Manufacture of fabricated metal products, except machinery and equipment"
+   },
+   "seed_year": 2017
+  },
+  "holdout": {
+   "strategy": {
+    "offer": "Customizable doors, industrial closures, and garage solutions, plus planning, installation, maintenance, repair, training, and safety-compliance support.",
+    "customers": "Homeowners, industrial operators, architects, planners, project managers, and trade partners needing reliable, compliant, design-flexible building access solutions.",
+    "why_we_win": "It combines customer-specific development, strong design and safety performance, certified quality, and one-stop service with fast response and reduced downtime.",
+    "resources": "Domestic development and manufacturing, integrated designers and engineers, a certified service network, technical training, spare-parts logistics, and formal environmental and safety systems.",
+    "direction": "Toward more innovative, tailored, and sustainable solutions, with deeper advisory and service support across increasingly complex building projects."
+   },
+   "context": {
+    "size": "large",
+    "founded": null,
+    "industry": "Manufacture of fabricated metal products, except machinery and equipment"
+   },
+   "seed_year": 2022
+  }
+ },
+ "years": [
+  {
+   "year": 2017,
+   "codeable": true,
+   "products": [
+    {
+     "name": "CarTeck",
+     "generic": "a range of residential garage doors",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": true
+    },
+    {
+     "name": "GSW 40",
+     "generic": "a sectional garage door",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "GSW 40-L",
+     "generic": "a sectional garage door with design variety",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "CarTeck Puertas basculantes",
+     "generic": "up-and-over garage doors",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "SW",
+     "generic": "an industrial sectional door",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "SW80",
+     "generic": "an industrial sectional door",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "SL",
+     "generic": "an industrial sectional door with glazing",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "SLW",
+     "generic": "an industrial sectional door",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "SLX",
+     "generic": "an industrial sectional door",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "dw 64-1 \"Teckentrup BP\"",
+     "generic": "a bullet-resistant steel door",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "T90-2-FSA \"Teckentrup SV\"",
+     "generic": "a double-leaf fire-resistant steel door",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "T90-1-FSA \"Teckentrup DF\"",
+     "generic": "a single-leaf fire-resistant steel door",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    }
+   ],
+   "evidence": [
+    {
+     "product": "SL",
+     "type": "result",
+     "strength": 2,
+     "quote": "Průmyslová sekční vrata typu “SL” se obzvlášť dobře hodí k moderní architektuře vnějšího průčelí."
+    }
+   ],
+   "success": []
+  },
+  {
+   "year": 2018,
+   "codeable": true,
+   "products": [
+    {
+     "name": "CarTeck",
+     "generic": "a residential garage door system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": true
+    },
+    {
+     "name": "CarTeck garasjeport type GSW 40-L",
+     "generic": "a steel sectional garage door",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "CarTeck garasjeport type GSH",
+     "generic": "a solid wood sectional garage door",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "CarTeck vippeport",
+     "generic": "an up-and-over garage door",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "CarTeck garasjeport-styring",
+     "generic": "a garage door operator with remote control",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Teckentrup Creative Line",
+     "generic": "a range of industrial sectional and special doors",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "T30/90 Teckentrup 72 E",
+     "generic": "a fire protection sliding door",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "SW 40",
+     "generic": "an insulated industrial sectional door",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "SL 40",
+     "generic": "a glazed industrial sectional door",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "SLW 40",
+     "generic": "a glazed industrial sectional door",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "SLX 40",
+     "generic": "a glazed industrial sectional door",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "SW 80",
+     "generic": "a thermally broken industrial sectional door",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "SL 80",
+     "generic": "a glazed insulated industrial sectional door",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    }
+   ],
+   "evidence": [],
+   "success": []
+  },
+  {
+   "year": 2019,
+   "codeable": true,
+   "products": [
+    {
+     "name": "CarTeck",
+     "generic": "residential garage doors and accessories",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "CarTeck Zarge 2.0",
+     "generic": "garage door frame for simplified installation",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "T30/90 Teckentrup 72 E",
+     "generic": "fire protection sliding door",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Teckentrup 50",
+     "generic": "industrial and fire station folding door",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "SW 40",
+     "generic": "steel industrial sectional door",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "SL 40",
+     "generic": "aluminium-framed glazed industrial sectional door",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "SLW 40",
+     "generic": "glazed industrial sectional door with steel base",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "SLX 40",
+     "generic": "glazed industrial sectional door",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "SW 80",
+     "generic": "insulated thermally broken industrial sectional door",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "SLT 06",
+     "generic": "high-speed fabric roller door",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "MSLT 06/06 FU",
+     "generic": "high-speed fabric roller door",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Teckentrup 62 DF",
+     "generic": "thick-rebate steel door",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    }
+   ],
+   "evidence": [
+    {
+     "product": "CarTeck Zarge 2.0",
+     "type": "launch",
+     "strength": 2,
+     "quote": "Der kundenzentrierte Ansatz spiegelt sich ebenfalls in der neuen Zarge 2.0 wieder. Durch eine deutliche Verringerung der Verschraubungen, um 80%, ist es wesentlich einfacher ein Garagentor einzubauen"
+    },
+    {
+     "product": "Teckentrup 62 DF",
+     "type": "launch",
+     "strength": 2,
+     "quote": "Denn die 1-/2-flügelige Dickfalz-Stahltür \"Teckentrup 62 DF\" sorgt jetzt für noch mehr Stabilität an allen Einsatzorten durch einen neuen Konstruktions-Aufbau"
+    }
+   ],
+   "success": []
+  },
+  {
+   "year": 2022,
+   "codeable": true,
+   "products": [
+    {
+     "name": "Teckentrup 62",
+     "generic": "a steel fire protection door closure",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "CarTeck",
+     "generic": "a residential sectional garage door range",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Icecrystal",
+     "generic": "a textured 3D surface finish for garage doors",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Wrinkle anthrazit",
+     "generic": "a textured 3D surface finish for garage doors",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Türen-Vertrage-Service",
+     "generic": "a construction-site door carrying delivery service",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    }
+   ],
+   "evidence": [
+    {
+     "product": "Türen-Vertrage-Service",
+     "type": "launch",
+     "strength": 2,
+     "quote": "und sind jetzt mit dem neuen Türen-Vertrage-Service für Sie da"
+    }
+   ],
+   "success": []
+  },
+  {
+   "year": 2023,
+   "codeable": true,
+   "products": [
+    {
+     "name": "Teckentrup 62",
+     "generic": "modular steel fire protection door system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "EI260-C5-S200",
+     "generic": "fire-resistant steel exterior door",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "CarTeck",
+     "generic": "residential sectional garage door",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "SW 40",
+     "generic": "industrial sectional door",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "SL 40",
+     "generic": "industrial sectional door",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "SLW 40",
+     "generic": "industrial sectional door",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "SLX 40",
+     "generic": "industrial sectional door",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "SW 80",
+     "generic": "insulated industrial sectional door",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "SL 80",
+     "generic": "insulated industrial sectional door",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "SLW 80",
+     "generic": "insulated industrial sectional door",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "ThermoTeck",
+     "generic": "insulated industrial roller door",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Rolltor 4020",
+     "generic": "industrial roller door",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Rolltore \"XXL\"",
+     "generic": "extra-large industrial roller doors",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Schnelllieferprogramm",
+     "generic": "express delivery program for doors and gates",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Türen-Vertrage-Service",
+     "generic": "on-site door carrying delivery service",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    }
+   ],
+   "evidence": [
+    {
+     "product": "EI260-C5-S200",
+     "type": "launch",
+     "strength": 2,
+     "quote": "Zur BAU erweitert Teckentrup das Baukasten-System der „Teckentrup 62“-Feuerschutztüren um die Außentür „EI260-C5-S200“. Diese ist bereits europäisch zugelassen."
+    }
+   ],
+   "success": []
+  },
+  {
+   "year": 2024,
+   "codeable": true,
+   "products": [
+    {
+     "name": "SW 40",
+     "generic": "an industrial sectional door",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "SL 40",
+     "generic": "an industrial sectional door",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "SLW 40",
+     "generic": "an industrial sectional door",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "SLX 40",
+     "generic": "an industrial sectional door",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "SW 80",
+     "generic": "an insulated industrial sectional door",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "SL 80",
+     "generic": "an insulated industrial sectional door",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "SLW 80",
+     "generic": "an insulated industrial sectional door",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Teckentrup 72 ST",
+     "generic": "a steel fire and smoke protection door",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Türen-Vertrage-Service",
+     "generic": "on-site door carrying logistics service",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "15-Tage-Lieferprogramm",
+     "generic": "fixed fifteen-day express delivery program",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "72-Stunden-Lieferprogramm",
+     "generic": "seventy-two-hour express delivery for standard doors",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Service-Pakete",
+     "generic": "installation and assembly service packages",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "TTZ-Zertifizierungsseminare",
+     "generic": "installer certification training seminars",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    }
+   ],
+   "evidence": [
+    {
+     "product": "Türen-Vertrage-Service",
+     "type": "launch",
+     "strength": 2,
+     "quote": "und sind jetzt mit dem neuen Türen-Vertrage-Service für Sie da"
+    }
+   ],
+   "success": []
+  },
+  {
+   "year": 2025,
+   "codeable": true,
+   "products": [
+    {
+     "name": "TEO - Teckentrup einfach online",
+     "generic": "an online ordering and digital services platform",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "CarTeck Drive",
+     "generic": "electric garage door operators",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "62 DF",
+     "generic": "a thick-rebate steel door",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "dw 42",
+     "generic": "a steel multipurpose door",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "dw 62",
+     "generic": "a steel multipurpose door",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "T30-1/2 FSA 62",
+     "generic": "a single or double leaf fire door",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Campus",
+     "generic": "an online training platform for partners",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Zarge 2.0",
+     "generic": "a quick-mount steel door frame",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    }
+   ],
+   "evidence": [],
+   "success": []
+  },
+  {
+   "year": 2026,
+   "codeable": true,
+   "products": [
+    {
+     "name": "CarTeck Sektionaltor",
+     "generic": "a residential sectional garage door",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Türen-Vertrage-Service",
+     "generic": "on-site door carrying logistics service",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Schnelllieferprogramm",
+     "generic": "express delivery program for doors and gates",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "TTZ-Zertifizierungsseminare",
+     "generic": "installer certification training seminars",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "T30 \"HT8-D\"",
+     "generic": "a fire-resistant steel door",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "T30-FSA \"42\"",
+     "generic": "a fire-resistant steel door",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "EI30-FSA \"62\"",
+     "generic": "a fire-resistant steel door series",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "EI30-FSA \"72\" ST",
+     "generic": "a flush fire-resistant steel door",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    }
+   ],
+   "evidence": [
+    {
+     "product": "Türen-Vertrage-Service",
+     "type": "launch",
+     "strength": 2,
+     "quote": "und sind jetzt mit dem neuen Türen-Vertrage-Service für Sie da"
+    },
+    {
+     "product": "CarTeck Sektionaltor",
+     "type": "launch",
+     "strength": 3,
+     "quote": "Ab Bestelldatum 01.09.2026 werden die Federn und Seile im Werk vormontiert."
+    }
+   ],
+   "success": []
+  }
+ ]
+}

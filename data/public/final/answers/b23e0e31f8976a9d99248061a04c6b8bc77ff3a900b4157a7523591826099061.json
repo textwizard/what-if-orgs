@@ -1,0 +1,1 @@
+{"model": "deepseek-v4-pro", "effort": "medium", "answer": {"decisions": [{"product": "A", "probability_dropped": 20, "decision": "keep", "reason": "Given the firm's prior investment and public launch, escalation of commitment suggests management will persist with the product despite weak online visibility."}]}}

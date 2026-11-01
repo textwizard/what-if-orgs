@@ -1,0 +1,11 @@
+paths.yaml
+.env
+*.key
+__pycache__/
+.DS_Store
+# All closed data stay local; the public export and the artifact are published.
+data/*
+!data/public/
+data/public/*
+!data/public/pilot_firms.csv
+!data/public/final/

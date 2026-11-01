@@ -1,0 +1,1416 @@
+{
+ "slug": "dallmer-de",
+ "profiles": {
+  "exploration": {
+   "strategy": {
+    "offer": "Sanitary drainage systems for bathrooms and floor-level showers, with customizable components, installation solutions, and technical guidance for waterproofing and fitting.",
+    "customers": "Architects, planners, installers, renovators, and building projects needing reliable, design-conscious drainage solutions for bathrooms and shower areas.",
+    "why_we_win": "It argues that combining design quality, installation ease, safety, flexibility, and durable waterproof integration solves demanding building and renovation requirements.",
+    "resources": "Its basis is engineering know-how, compatible product families, customizable manufacturing, proven drainage technology, patented installation features, and practical application guidance.",
+    "direction": "It is moving toward more integrated, accessible, low-profile, customizable drainage systems for modern bathrooms, renovations, and technically challenging installations."
+   },
+   "context": {
+    "size": null,
+    "founded": 1913,
+    "industry": "Manufacture of fabricated metal products, except machinery and equipment"
+   },
+   "seed_year": 2017
+  },
+  "holdout": {
+   "strategy": {
+    "offer": "Design-led drainage and sanitary systems for bathrooms and buildings, plus planning tools, technical data, training, installation guidance, support, and long product guarantees.",
+    "customers": "Installers, tilers, specialist planners, architects, trade partners, and end clients seeking reliable, attractive drainage in homes and other buildings.",
+    "why_we_win": "It says combining design and engineering, easy installation, standardised technology, safety, aesthetics, and strong service makes drainage more reliable, practical, and appealing.",
+    "resources": "Decades of drainage know-how, own manufacturing, product development, technical support, training content, planning documents, digital models, and ongoing investment in facilities and machinery.",
+    "direction": "Expand capacity, staff, logistics, international reach, and innovation while supporting modern, barrier-free bathroom architecture with future-ready drainage solutions."
+   },
+   "context": {
+    "size": null,
+    "founded": 1913,
+    "industry": "Manufacture of fabricated metal products, except machinery and equipment"
+   },
+   "seed_year": 2022
+  }
+ },
+ "years": [
+  {
+   "year": 2017,
+   "codeable": true,
+   "products": [
+    {
+     "name": "DallFlex",
+     "generic": "a flexible drain housing for shower channels",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": true
+    },
+    {
+     "name": "CeraWall Select",
+     "generic": "a visible wall-side shower channel",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "CeraWall Individual",
+     "generic": "a near-invisible wall-side shower channel",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "CeraFloor",
+     "generic": "an expandable floor surface shower drainage channel",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "CeraLine",
+     "generic": "a shower channel for level-access showers",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "CeraLine Nano",
+     "generic": "a low-height shower channel for renovations",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "CeraLine Plan",
+     "generic": "a flat shower channel for renovations",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "CeraLine W",
+     "generic": "a wall-mounted shower channel",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "CeraFundo",
+     "generic": "a tileable pre-sloped shower element",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "CIRCO",
+     "generic": "a high-capacity floor drain",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Tisto",
+     "generic": "a floor drain technology for composite waterproofing",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "TistoDrain",
+     "generic": "a floor drain for composite waterproofing",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "TistoPlan",
+     "generic": "a complete floor drain",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "TistoPrimus",
+     "generic": "a complete floor drain",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "CeraDrain Aktiv!",
+     "generic": "a pump-assisted point drain for showers",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "CeraDrain",
+     "generic": "a floor drain product range",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Raumspar-Siphon 137",
+     "generic": "a space-saving siphon",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "TELOS",
+     "generic": "a drainage product brand",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "ORIO",
+     "generic": "a drainage product brand",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    }
+   ],
+   "evidence": [
+    {
+     "product": "DallFlex",
+     "type": "result",
+     "strength": 3,
+     "quote": "Die DallFlex-Systemfamilie von Dallmer wurde in diesem Jahr mit dem Plu"
+    },
+    {
+     "product": "CeraWall Individual",
+     "type": "result",
+     "strength": 3,
+     "quote": "Natürlich inklusive bodengleicher Dusche, die passgenau über eine Dallmer-Duschrinne vom Typ „CeraWall Individual“ entwässert wird."
+    },
+    {
+     "product": "DallFlex",
+     "type": "investment",
+     "strength": 2,
+     "quote": "Um die Entwicklung und die Funktion hinter der Entwässerungslösung zu veranschaulichen, hat das Unternehmen nun einen Film produziert."
+    }
+   ],
+   "success": []
+  },
+  {
+   "year": 2018,
+   "codeable": true,
+   "products": [
+    {
+     "name": "CeraLine",
+     "generic": "a designer shower channel for level-access showers",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": true
+    },
+    {
+     "name": "CeraLine Nano",
+     "generic": "a low-height shower channel for renovations",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "CeraWall Select",
+     "generic": "a wall-side shower channel with visible edge",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "CeraWall Individual",
+     "generic": "a near-invisible wall-side shower channel",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "CeraFloor Select",
+     "generic": "a floor-level shower drainage system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Zentrix",
+     "generic": "a short stainless steel shower drain",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": true
+    },
+    {
+     "name": "CeraNiveau",
+     "generic": "a designer shower drainage product",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": true
+    },
+    {
+     "name": "TistoLine",
+     "generic": "a compact short linear shower drain",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Tisto",
+     "generic": "floor drain technology for bonded waterproofing",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "TistoDrain",
+     "generic": "a floor drain for bonded waterproofing",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "TistoPlan",
+     "generic": "a complete floor drain",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "TistoPrimus",
+     "generic": "a complete floor drain",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "CeraFundo",
+     "generic": "a tileable shower element with built-in slope",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Circo",
+     "generic": "a high-performance floor drain for shower elements",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "DallSafe 200",
+     "generic": "a backflow-protected basement floor drain",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "CeraDrain Aktiv!",
+     "generic": "a pump-assisted point floor drain",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "DallFlex",
+     "generic": "a drain housing system for shower channels",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": true
+    },
+    {
+     "name": "DallFlex Wall",
+     "generic": "a shower element with integrated slope",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "CeraFlex",
+     "generic": "a polymer concrete drain housing",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    }
+   ],
+   "evidence": [
+    {
+     "product": "CeraWall Individual",
+     "type": "result",
+     "strength": 3,
+     "quote": "22.03.2018 iF Design Award 2018 für CeraWall Individual"
+    },
+    {
+     "product": "Zentrix",
+     "type": "result",
+     "strength": 3,
+     "quote": "16.01.2018 Iconic Award 2018: Auszeichnung für Kurzrinne Zentrix"
+    },
+    {
+     "product": "DallSafe 200",
+     "type": "launch",
+     "strength": 2,
+     "quote": "Um dies zu verhindern, hat Entwässerungsspezialist Dallmer den Rückstau-Kellerablauf DallSafe 200 entwickelt."
+    },
+    {
+     "product": "CeraLine",
+     "type": "result",
+     "strength": 2,
+     "quote": "Das Unternehmen Dallmer aus Arnsberg lieferte für den Bau des Nobelressorts die mehrfach prämierte Duschrinne CeraLine."
+    },
+    {
+     "product": "DallFlex",
+     "type": "launch",
+     "strength": 2,
+     "quote": "DallFlex auf der IFH Nürnberg: Entwässerungsspezialist Dallmer entwickelt Ablaufgehäuse weiter"
+    }
+   ],
+   "success": []
+  },
+  {
+   "year": 2019,
+   "codeable": true,
+   "products": [
+    {
+     "name": "CeraLine",
+     "generic": "a stainless steel shower channel",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": true
+    },
+    {
+     "name": "CeraLine Plan W",
+     "generic": "a low-height wall-side shower channel",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "CeraFloor Select",
+     "generic": "a floor-flush shower channel",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "CeraFloor Individual",
+     "generic": "a tileable or coated shower channel",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": true
+    },
+    {
+     "name": "CeraFloor Pure",
+     "generic": "a floor shower channel",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "CeraWall Select",
+     "generic": "a wall-adjacent shower channel",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "CeraWall Individual",
+     "generic": "a wall-adjacent tileable shower channel",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Zentrix",
+     "generic": "a sculptural central shower drain",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": true
+    },
+    {
+     "name": "CeraNiveau",
+     "generic": "a designer short shower channel",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": true
+    },
+    {
+     "name": "CeraFrame Individual",
+     "generic": "a framed tileable shower drain",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "DallFlex",
+     "generic": "a modular shower drain body system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "DallFlex Floor",
+     "generic": "a prefabricated level-access shower element",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "DallFlex Compact",
+     "generic": "a compact shower element with central drain",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "CeraFlex",
+     "generic": "a polymer concrete shower drain body",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "DallSafe 200",
+     "generic": "an anti-flooding cellar drain",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Stausafe E",
+     "generic": "a backflow stop valve",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "TistoDrain S 15",
+     "generic": "a floor drain extension element",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "CeraDrain",
+     "generic": "a floor drain system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "DallBit",
+     "generic": "a bitumen-flanged drain extension element",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "SuperDrain",
+     "generic": "a siphonic roof drainage system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Dallvent",
+     "generic": "a pipe air-admittance valve",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "TistoPlan",
+     "generic": "a low-height floor drain system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "CircoPlan",
+     "generic": "a low-height floor drain system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "iQ 150",
+     "generic": "an electronic urinal flush control",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Rost Nil 115",
+     "generic": "a stainless steel designer drain grate",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Dallmer Fire Insulation System",
+     "generic": "a fire protection system for drains",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    }
+   ],
+   "evidence": [
+    {
+     "product": "CeraFloor Individual",
+     "type": "result",
+     "strength": 3,
+     "quote": "CeraFloor Individual wins ICONIC AWARDS 2019"
+    },
+    {
+     "product": "CeraFloor Individual",
+     "type": "result",
+     "strength": 3,
+     "quote": "12.11.2019 CeraFloor Individual ist ARCHITECTS' DARLING"
+    },
+    {
+     "product": "CeraFloor Individual",
+     "type": "launch",
+     "strength": 3,
+     "quote": "Being shown for the first time at BAU 2019, CeraFloor Individual received the award"
+    },
+    {
+     "product": "CeraFloor Individual",
+     "type": "launch",
+     "strength": 3,
+     "quote": "18.03.2019 Individualität hat zwei Namen: Entwässerungsspezialist Dallmer stellt neue Duschrinnen Individual vor"
+    },
+    {
+     "product": "CeraWall Individual",
+     "type": "result",
+     "strength": 3,
+     "quote": "22.03.2018 iF Design Award 2018 für CeraWall Individual"
+    },
+    {
+     "product": "CeraLine",
+     "type": "result",
+     "strength": 3,
+     "quote": "24.08.2018 Duschrinnen CeraLine für modernes Wohnquartier ReferenzenObjektbericht Fünf Morgen, Berlin"
+    },
+    {
+     "product": "DallSafe 200",
+     "type": "launch",
+     "strength": 3,
+     "quote": "To prevent this, the drainage specialist Dallmer has developed the anti-flooding cellar drain DallSafe 200."
+    }
+   ],
+   "success": []
+  },
+  {
+   "year": 2022,
+   "codeable": true,
+   "products": [
+    {
+     "name": "DallFlex",
+     "generic": "a modular drain body system for showers",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": true
+    },
+    {
+     "name": "DallFlex Compact",
+     "generic": "a shower underlay with integrated drain",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "DallFlex Duo",
+     "generic": "a drain body for double shower channels",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "DallDrain",
+     "generic": "a point floor drain system family",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "CeraDrain",
+     "generic": "a point drain body for floor drainage",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "ORIO DallBox",
+     "generic": "a shower tray drain with flexible seal",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "ORIO",
+     "generic": "a shower tray drain system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "CeraWall",
+     "generic": "a wall-adjacent shower drainage channel system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "CeraWall Select",
+     "generic": "a stainless steel wall-side shower channel",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "CeraWall Individual",
+     "generic": "a tileable wall-side shower channel",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "CeraWall Pure",
+     "generic": "a budget wall-side shower channel",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "CeraFloor Select",
+     "generic": "a flush-mounted floor shower channel",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "CeraFloor Individual",
+     "generic": "a tileable floor shower channel",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "CeraFrame Individual",
+     "generic": "a framed tileable shower channel",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Zentrix",
+     "generic": "a short stainless steel shower channel",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "ColourCollection",
+     "generic": "a range of coloured shower drain finishes",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "TistoDrain",
+     "generic": "a floor drain extension element",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Rost Quadra",
+     "generic": "a stainless steel design drain grate",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Rost Puls",
+     "generic": "a stainless steel design drain grate",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    }
+   ],
+   "evidence": [
+    {
+     "product": "CeraDrain",
+     "type": "launch",
+     "strength": 3,
+     "quote": "03.06.2022 Neu: Punktablauf CeraDrain zur Bodenentwässerung"
+    },
+    {
+     "product": "ORIO DallBox",
+     "type": "launch",
+     "strength": 2,
+     "quote": "Mit der ORIO DallBox wurde das bewährte ORIO-System um eine neue Option erweitert."
+    },
+    {
+     "product": "DallFlex",
+     "type": "result",
+     "strength": 3,
+     "quote": "15.12.2021 Priority-Partner bei Hadi Teheranis H.O.M.E. Haus 2022 – Dallmer gestaltet Master-Bad mit Entwässerungssystem DallFlex"
+    }
+   ],
+   "success": []
+  },
+  {
+   "year": 2023,
+   "codeable": true,
+   "products": [
+    {
+     "name": "DallFlex",
+     "generic": "modular shower channel drainage system platform",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": true
+    },
+    {
+     "name": "DallDrain",
+     "generic": "modular floor drain system family",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": true
+    },
+    {
+     "name": "DallDrain ColourCollection",
+     "generic": "coloured floor drain gratings",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "CeraFloor Select",
+     "generic": "floor-level shower channel",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "CeraFloor Individual",
+     "generic": "tileable floor-level shower channel",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "CeraWall Select",
+     "generic": "wall-integrated shower channel",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "CeraWall Individual",
+     "generic": "tileable wall-integrated shower channel",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Zentrix",
+     "generic": "shower channel",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "CeraLine",
+     "generic": "linear shower channel",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "CeraFrame Individual",
+     "generic": "compact customisable shower drain",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "ORIO DallBox",
+     "generic": "shower tray trap",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Connect-Aktiventwässerung",
+     "generic": "pump-assisted shower drainage solution",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "DallDrain Individual Plan OM",
+     "generic": "tileable floor drain with grating",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "DallFlex Floor",
+     "generic": "shower underlay for level-access showers",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Ablaufgehäuse 46 DallBit",
+     "generic": "drain body with bitumen membrane sleeve",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Orinoco 90",
+     "generic": "stainless steel design drain grate",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    }
+   ],
+   "evidence": [
+    {
+     "product": "DallFlex",
+     "type": "result",
+     "strength": 3,
+     "quote": "Priority Partner at Hadi Tehrani's H.O.M.E. Haus 2022 - Dallmer designs master bathroom with DallFlex drainage system"
+    }
+   ],
+   "success": []
+  },
+  {
+   "year": 2024,
+   "codeable": true,
+   "products": [
+    {
+     "name": "DallDrain",
+     "generic": "a floor drain system for level-access showers",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "DallDrain Plan",
+     "generic": "a low-height floor drain housing",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "DallFlex",
+     "generic": "a shower channel drainage system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "DallFlex Wall",
+     "generic": "a shower element for wall-side drainage",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "CeraWall Individual",
+     "generic": "a wall-adjacent shower channel with cover",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "CeraWall Individual Duo",
+     "generic": "a double-outlet wall-adjacent shower channel",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "CeraWall Select",
+     "generic": "a visible wall-adjacent stainless steel shower channel",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "CeraFlex",
+     "generic": "a drain housing for shower channels",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "CeraLine",
+     "generic": "a shower channel drain housing",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "CeraFrame Liquid",
+     "generic": "a shower channel for seamless floor coverings",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "ColourCollection",
+     "generic": "coloured stainless steel drain gratings",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Black Edition",
+     "generic": "black finish bathroom drainage products",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "DallBit",
+     "generic": "a drain housing with bitumen membrane collar",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "TELOS",
+     "generic": "a shower tray drain housing",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "RENO-Rahmen",
+     "generic": "a renovation frame for drains under new tiles",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Rost Aquarius",
+     "generic": "a stainless steel design drain grating",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    }
+   ],
+   "evidence": [
+    {
+     "product": "Black Edition",
+     "type": "launch",
+     "strength": 3,
+     "quote": "05.05.2023 A fine addition to the black bathroom concept: Dallmer Black Edition"
+    },
+    {
+     "product": "CeraFrame Liquid",
+     "type": "launch",
+     "strength": 3,
+     "quote": "28.04.2023 CeraFrame Liquid: the shower channel for seamless bathrooms"
+    }
+   ],
+   "success": []
+  },
+  {
+   "year": 2025,
+   "codeable": true,
+   "products": [
+    {
+     "name": "DallDrain",
+     "generic": "floor drain system family for bathrooms",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": true
+    },
+    {
+     "name": "DallFlex",
+     "generic": "shower channel system family",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": true
+    },
+    {
+     "name": "CeraFrame Liquid",
+     "generic": "shower channel for thin-layer seamless coatings",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "ColourCollection",
+     "generic": "coloured floor drain gratings range",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "CeraFloor Individual Neo",
+     "generic": "tileable shower channel",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": true
+    },
+    {
+     "name": "CeraFloor Individual",
+     "generic": "tileable shower channel",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "CeraFrame Individual",
+     "generic": "compact tileable shower channel",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "CeraFloor Select",
+     "generic": "shower channel with cover",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "CeraWall Select",
+     "generic": "wall-side shower channel",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "CeraWall Individual",
+     "generic": "tileable wall-side shower channel",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "CeraFloor Pure",
+     "generic": "shower channel with cover",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "CeraWall Pure",
+     "generic": "wall-side shower channel",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "CeraWall",
+     "generic": "wall-side shower channel range",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "CeraFlex",
+     "generic": "shower channel with sound insulation",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "CeraDrain",
+     "generic": "floor drain for showers",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "CeraLine F",
+     "generic": "shower channel",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Connect-Aktiventwässerung",
+     "generic": "active pumped drainage system for level showers",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "CeraFloor Connect",
+     "generic": "tileable shower channel for pump drainage",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "CeraWall Connect",
+     "generic": "wall-side shower channel for pump drainage",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "CeraFrame Connect",
+     "generic": "compact shower channel for pump drainage",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "DallFlex 115",
+     "generic": "drain for higher floor structures",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "ORIO DallBox",
+     "generic": "shower tray drain",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "DallSafe 200",
+     "generic": "anti-flooding cellar drain",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "DallVent",
+     "generic": "air-admittance valve for drainage pipes",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Sanierungsdachablauf 63T",
+     "generic": "renovation roof drain",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Raumspar-Siphon 137",
+     "generic": "space-saving sink trap",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "TistoPrimus",
+     "generic": "floor drain",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Dallmer Black Edition",
+     "generic": "black finish drainage product range",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    }
+   ],
+   "evidence": [
+    {
+     "product": "CeraFloor Individual Neo",
+     "type": "launch",
+     "strength": 2,
+     "quote": "Auf diese Entwicklung hat Dallmer mit der neuen befliesbaren Duschrinne CeraFloor Individual Neo reagiert."
+    },
+    {
+     "product": "CeraFrame Liquid",
+     "type": "launch",
+     "strength": 2,
+     "quote": "Die Duschrinnen-Familie DallFlex gewinnt ein neues Mitglied: Speziell auf dünnschichtige Spachtelsysteme abgestimmt, können mit der Duschrinne CeraFrame Liquid nun komplett fugenlose Duschbereiche realisiert werden."
+    },
+    {
+     "product": "ColourCollection",
+     "type": "launch",
+     "strength": 2,
+     "quote": "Mit der ColourCollection erhält die DallDrain-Systemfamilie ein neues Highlight: Roste in 16 verschiedenen Farben"
+    },
+    {
+     "product": "DallFlex 115",
+     "type": "launch",
+     "strength": 1,
+     "quote": "DallFlex 115 – the turbo drain for higher structures Standard-compliant, flexible and secure"
+    },
+    {
+     "product": "DallDrain",
+     "type": "result",
+     "strength": 2,
+     "quote": "Augezeichnet mit Architects‘ Darling Silber: DallDrain Systemfamilie"
+    }
+   ],
+   "success": []
+  },
+  {
+   "year": 2026,
+   "codeable": true,
+   "products": [
+    {
+     "name": "iTransport",
+     "generic": "a web-based document management system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": true
+    }
+   ],
+   "evidence": [],
+   "success": []
+  }
+ ]
+}

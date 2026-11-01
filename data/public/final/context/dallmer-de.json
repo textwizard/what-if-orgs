@@ -1,0 +1,93 @@
+{
+ "slug": "dallmer-de",
+ "windows": {
+  "exploration": {
+   "years": [
+    2017
+   ],
+   "industry": {
+    "turnover": "grew",
+    "rd": "about as",
+    "patents": "about as",
+    "universities": "about as"
+   },
+   "employees": null,
+   "hiring": true,
+   "hiring_quote": "Zum Ausbildungsjahr 2017 suchen wir je einen Fachlageristen (m/w) und einen Verfahrensmechaniker (m/w).",
+   "expansion": false,
+   "expansion_quote": null,
+   "investment": false,
+   "investment_quote": null,
+   "growth": false,
+   "growth_quote": null,
+   "difficulty": false,
+   "difficulty_quote": null,
+   "rd": true,
+   "rd_quote": "Als Besonderheit hat CIRCO ein bewegliches Innengehäuse mit patentierter Seitenverstellung.",
+   "cooperation": false,
+   "cooperation_quote": null,
+   "eu_projects": 0,
+   "products_offered": 17,
+   "new": [
+    "shower element with integrated slope",
+    "polymer concrete drain housing",
+    "short stainless steel shower drain",
+    "floor-level shower drainage system",
+    "siphonic roof drainage system",
+    "designer shower drainage product"
+   ],
+   "relatedness": [
+    "close",
+    "related",
+    "close",
+    "close",
+    "distant",
+    "related"
+   ]
+  },
+  "holdout": {
+   "years": [
+    2022
+   ],
+   "industry": {
+    "turnover": "grew",
+    "rd": "about as",
+    "patents": "about as",
+    "universities": "about as"
+   },
+   "employees": null,
+   "hiring": false,
+   "hiring_quote": null,
+   "expansion": false,
+   "expansion_quote": null,
+   "investment": false,
+   "investment_quote": null,
+   "growth": false,
+   "growth_quote": null,
+   "difficulty": false,
+   "difficulty_quote": null,
+   "rd": true,
+   "rd_quote": "Mit dem DallFlex-System ist es Dallmer gelungen, erstmals die Duschrinne vom Ablaufkörper zu trennen und die oberflächengeführte Linienentwässerung einzuführen.",
+   "cooperation": false,
+   "cooperation_quote": null,
+   "eu_projects": 0,
+   "products_offered": 18,
+   "new": [
+    "black-finish drainage product range",
+    "shower channel for seamless coverings",
+    "pump-assisted shower drainage solution",
+    "tileable floor drain with grating",
+    "stainless steel design drain grate",
+    "pump-drain shower channel"
+   ],
+   "relatedness": [
+    "close",
+    "close",
+    "related",
+    "close",
+    "close",
+    "related"
+   ]
+  }
+ }
+}

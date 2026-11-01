@@ -1,0 +1,1473 @@
+{
+ "slug": "knoll-mb-de",
+ "profiles": {
+  "exploration": {
+   "strategy": {
+    "offer": "Automated equipment and complete systems for conveying, filtering, pumping and recycling process fluids and production residues, plus spare parts and lifecycle service.",
+    "customers": "Manufacturers needing reliable fluid handling, filtration and material transport, from machine-tool users to processors of food, chemicals and other industrial media.",
+    "why_we_win": "Flexible adaptation to market needs, modular quality solutions, one-stop delivery, fast availability, and dependable products and support reduce downtime and raise productivity.",
+    "resources": "Broad engineering know-how, in-house manufacturing, modular product platforms, project execution from design through commissioning, stocked spare parts, and service and sales presence near customers.",
+    "direction": "Expand internationally alongside customers, add local sales, service and selective production capacity, and continue modernizing assembly and support infrastructure."
+   },
+   "context": {
+    "size": null,
+    "founded": null,
+    "industry": "Manufacture of machinery and equipment n.e.c."
+   },
+   "seed_year": 2017
+  },
+  "holdout": {
+   "strategy": {
+    "offer": "Develops, manufactures and sells machinery, systems and after-sales services for conveying, filtering and pumping process media, plus assembly and transport automation solutions.",
+    "customers": "Serves manufacturers across industries, especially metalworking users and factories needing material flow, coolant management, production support and intralogistics automation.",
+    "why_we_win": "Expects to win through customer value, profitability and sustainability, modular tailored systems, reliable quality, responsive global service, and continual innovation.",
+    "resources": "Built on engineering, design, production, quality management, service and IT capabilities, a skilled workforce, binding company principles, certifications, and an international sales and service network.",
+    "direction": "Aims to keep growing by expanding offerings and delivering smarter, more automated, digital and sustainable solutions for tomorrow's efficient production."
+   },
+   "context": {
+    "size": "large",
+    "founded": 1970,
+    "industry": "Manufacture of machinery and equipment n.e.c."
+   },
+   "seed_year": 2022
+  }
+ },
+ "years": [
+  {
+   "year": 2017,
+   "codeable": true,
+   "products": [
+    {
+     "name": "ControLube",
+     "generic": "a minimum quantity lubrication system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": true
+    },
+    {
+     "name": "MX",
+     "generic": "a progressing cavity pump",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "MS",
+     "generic": "a screw pump for food industry",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "ML",
+     "generic": "a rotary displacement pump",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "KTS",
+     "generic": "a regulated cooling lubricant pump",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "KF 400/1700",
+     "generic": "a modular standard coolant filter system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "KF",
+     "generic": "a compact belt filter series",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "ZV+ZVD+ZVDD",
+     "generic": "a vertical-feed chip crusher",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "ZH",
+     "generic": "a chip crusher for return pump station",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "ZHV",
+     "generic": "a chip crusher with discharge screw",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "RIK",
+     "generic": "a machine-integrated chip return pump station",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "RKR",
+     "generic": "a free-standing chip return pump station",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "RSR",
+     "generic": "a return pump station for grinding machines",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "RIP/RIS",
+     "generic": "a compact chip conveying and disposal unit",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Centrifugal pumps T",
+     "generic": "a cooling lubricant centrifugal pump line",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Plate conveyor P",
+     "generic": "a plate conveyor for sheet metal waste",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "EvenWall",
+     "generic": "a uniform-wall stator technology for pumps",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    }
+   ],
+   "evidence": [
+    {
+     "product": "ControLube",
+     "type": "launch",
+     "strength": 2,
+     "quote": "KNOLL stellt MMS-System mit Injektortechnik vor Das neue KNOLL Minimalmengenschmiersystem ControLube wird über einen Mikroprozessor gesteuert"
+    },
+    {
+     "product": "KF 400/1700",
+     "type": "launch",
+     "strength": 2,
+     "quote": "For this case, KNOLL now offers the space- and money-saving KF 400/1700 filter system as a modular system with guaranteed quick delivery."
+    },
+    {
+     "product": "KF 400/1700",
+     "type": "result",
+     "strength": 1,
+     "quote": "The new KF principle and especially the short delivery time have already been received positively by the market; this is evident from the initial positive feedback."
+    },
+    {
+     "product": "KF",
+     "type": "launch",
+     "strength": 2,
+     "quote": "Now there are larger models available in the series (KF 1000/1500/2000), which allow still greater filter capacities."
+    },
+    {
+     "product": "MS",
+     "type": "launch",
+     "strength": 2,
+     "quote": "For customers from the food industry, there are two new displacement pumps in addition to the KNOLL MX eccentric pump"
+    },
+    {
+     "product": "ML",
+     "type": "launch",
+     "strength": 2,
+     "quote": "For customers from the food industry, there are two new displacement pumps in addition to the KNOLL MX eccentric pump"
+    },
+    {
+     "product": "Centrifugal pumps T",
+     "type": "launch",
+     "strength": 3,
+     "quote": "At EMO 2017, the company will present a new line of pumps that incorporates KNOLL's experiences in recent years."
+    },
+    {
+     "product": "MX",
+     "type": "result",
+     "strength": 2,
+     "quote": "With KNOLL MX progressing cavity pumps, the system manufacturer Bünder & Schmitt uses components that can be custom-configured"
+    },
+    {
+     "product": "MX",
+     "type": "result",
+     "strength": 2,
+     "quote": "in most cases the Dutch system supplier uses KNOLL progressing cavity pumps that are activated with servo gear motors."
+    }
+   ],
+   "success": []
+  },
+  {
+   "year": 2018,
+   "codeable": true,
+   "products": [
+    {
+     "name": "TS",
+     "generic": "a modular assembly and transport conveyor system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "TS-Z",
+     "generic": "a floor-level chain pull conveyor system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "TS-S",
+     "generic": "an accumulation roller conveyor belt",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "TS-G",
+     "generic": "a straight-lug chain conveyor belt",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Schraubenspindelpumpe MS",
+     "generic": "a twin screw pump for food applications",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "BS 40",
+     "generic": "a self-priming centrifugal coolant pump",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "LubiCool",
+     "generic": "a mobile high-pressure coolant station",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "SmartConnect",
+     "generic": "a machine control and monitoring system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "TG 25",
+     "generic": "a centrifugal pump for lightly contaminated media",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "KTS",
+     "generic": "a high-pressure screw spindle coolant pump",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "TSC",
+     "generic": "a shredder pump for aluminium chips",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "MX",
+     "generic": "a progressing cavity pump",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Extraction station AT",
+     "generic": "a chip extraction station for vacuum conveying",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "ControLube",
+     "generic": "a minimal quantity lubrication system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "SR",
+     "generic": "a scraper belt conveyor for chip separation",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    }
+   ],
+   "evidence": [
+    {
+     "product": "BS 40",
+     "type": "launch",
+     "strength": 3,
+     "quote": "KNOLL Maschinenbau, Bad Saulgau, präsentiert auf der AMB 2018 (Halle 8, Stand C 40) die neuentwickelte selbstansaugende Kreiselpumpe BS 40."
+    },
+    {
+     "product": "LubiCool",
+     "type": "launch",
+     "strength": 2,
+     "quote": "Die neue mobile Hochdruckstation LubiCool von KNOLL Maschinenbau ist für den Einsatz an Kurz- und Langdrehautomaten konzipiert."
+    },
+    {
+     "product": "TG 25",
+     "type": "launch",
+     "strength": 2,
+     "quote": "Für leichtere Gegner: Neue Kreiselpumpe für leicht verschmutzte Medien"
+    },
+    {
+     "product": "TSC",
+     "type": "launch",
+     "strength": 2,
+     "quote": "Macht alles kurz und klein: Neue Kreiselpumpe zum Schreddern von Aluminiumspänen in Rückpumpstationen"
+    }
+   ],
+   "success": []
+  },
+  {
+   "year": 2019,
+   "codeable": true,
+   "products": [
+    {
+     "name": "ControLube",
+     "generic": "minimum quantity lubrication system with injector technology",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": true
+    },
+    {
+     "name": "KTS",
+     "generic": "screw spindle high-pressure coolant pump",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "TG",
+     "generic": "vertical centrifugal pump for clean coolant",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "TSC",
+     "generic": "shredder pump for chip-laden coolant",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "BS 40",
+     "generic": "self-priming centrifugal coolant pump",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": true
+    },
+    {
+     "name": "LubiCool",
+     "generic": "mobile high-pressure coolant station for lathes",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "SmartConnect",
+     "generic": "touchpad control for coolant system monitoring",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "E-PASS",
+     "generic": "on-site energy savings measurement service for pumps",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "MX",
+     "generic": "progressive cavity pump for food industry",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "MS",
+     "generic": "stainless steel screw spindle pump for food",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "ML",
+     "generic": "stainless steel rotary lobe pump for food",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "TS",
+     "generic": "modular assembly and transport conveyor system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    }
+   ],
+   "evidence": [
+    {
+     "product": "ControLube",
+     "type": "launch",
+     "strength": 2,
+     "quote": "Das neue KNOLL Minimalmengenschmiersystem ControLube wird über einen Mikroprozessor gesteuert und macht sich die aus der Automobilindustrie bekannte Einspritztechnik zunutze."
+    },
+    {
+     "product": "BS 40",
+     "type": "launch",
+     "strength": 3,
+     "quote": "KNOLL Maschinenbau, Bad Saulgau, präsentiert auf der AMB 2018 (Halle 8, Stand C 40) die neuentwickelte selbstansaugende Kreiselpumpe BS 40."
+    },
+    {
+     "product": "TSC",
+     "type": "launch",
+     "strength": 2,
+     "quote": "stellt KNOLL das neue, kleinere Modell TSC 50 vor, deren optimales Einsatzgebiet bei 300 bis 500 l/min liegt."
+    },
+    {
+     "product": "LubiCool",
+     "type": "launch",
+     "strength": 2,
+     "quote": "Die neue mobile Hochdruckstation LubiCool von KNOLL Maschinenbau ist für den Einsatz an Kurz- und Langdrehautomaten konzipiert."
+    },
+    {
+     "product": "TG",
+     "type": "launch",
+     "strength": 3,
+     "quote": "Auf dem EMO-Messestand stellt KNOLL die beiden Größen TG 25 und TG 50 vor, die komplett neu gestaltet und hinsichtlich vieler Merkmale optimiert wurden."
+    },
+    {
+     "product": "MS",
+     "type": "launch",
+     "strength": 2,
+     "quote": "gibt es von KNOLL neben der Exzenterpumpe MX zwei neue Verdrängerpumpen - Schraubenspindelpumpe MS - Drehkolbenpumpe ML"
+    },
+    {
+     "product": "ML",
+     "type": "launch",
+     "strength": 2,
+     "quote": "gibt es von KNOLL neben der Exzenterpumpe MX zwei neue Verdrängerpumpen - Schraubenspindelpumpe MS - Drehkolbenpumpe ML"
+    },
+    {
+     "product": "E-PASS",
+     "type": "result",
+     "strength": 2,
+     "quote": "Verschiedene Unternehmen haben inzwischen diese Dienstleistung genutzt und daraufhin beschlossen, die Hochdruckpumpen ihrer Werkzeugmaschinen mit Frequenzregelung nachzurüsten."
+    }
+   ],
+   "success": []
+  },
+  {
+   "year": 2022,
+   "codeable": true,
+   "products": [
+    {
+     "name": "LubiCool®",
+     "generic": "mobile high-pressure coolant unit family",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": true
+    },
+    {
+     "name": "LubiCool®-S",
+     "generic": "compact high-pressure coolant unit with filter",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "LubiCool®-M",
+     "generic": "mobile high-pressure coolant unit for lathes",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "LubiCool®-L",
+     "generic": "large high-pressure coolant unit with filter",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "AerosolMaster",
+     "generic": "minimum quantity lubrication system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "AerosolMaster 4000 ATS",
+     "generic": "minimum quantity lubrication system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Cryolub®",
+     "generic": "lubrication system variant with CO2 cooling",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "HydroPur",
+     "generic": "modular hydrostatic coolant filter system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": true
+    },
+    {
+     "name": "SmartConnect",
+     "generic": "machine control and operating concept with app",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": true
+    },
+    {
+     "name": "MicroPur®",
+     "generic": "ultra-fine coolant filter system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "P-40L",
+     "generic": "hinged plate belt conveyor for chips",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "KTS",
+     "generic": "screw spindle pump",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "SR",
+     "generic": "scraper belt conveyor for chips",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "TS-S",
+     "generic": "modular assembly and transport system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "TS-G",
+     "generic": "modular assembly and transport system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    }
+   ],
+   "evidence": [
+    {
+     "product": "LubiCool®-S",
+     "type": "launch",
+     "strength": 3,
+     "quote": "Auf der Messe DST feiert der kleinste und preiswerteste Vertreter der LubiCool®-Familie, der KNOLL LubiCool®-S, Premiere."
+    },
+    {
+     "product": "LubiCool®-L",
+     "type": "launch",
+     "strength": 2,
+     "quote": "Nun gesellt sich zur Baugröße M in mittlerer Größe noch die größere Variante mit dem Namen LubiCool®-L."
+    },
+    {
+     "product": "LubiCool®",
+     "type": "result",
+     "strength": 1,
+     "quote": "Die Resonanz ist sehr positiv sowohl bei Maschinenherstellern als auch bei Endkunden."
+    },
+    {
+     "product": "LubiCool®-L",
+     "type": "result",
+     "strength": 2,
+     "quote": "Tobias Kirchhof von der Kirchhof GmbH CNC-Präzisions-Dreh- & Frästechnik berichtet über seine Erfahrung mit unserem LubiCool®-L und wie er mit der Anlage seine Produktivität verbessern konnte."
+    },
+    {
+     "product": "AerosolMaster 4000 ATS",
+     "type": "result",
+     "strength": 2,
+     "quote": "wie wir mit unserem Minimalmengenschmiersystem AerosolMaster 4000 ATS bei der Firma Häberle in Laichingen auf einer Fanuc RobodrillPlus-K Edelstahl zerspanen."
+    },
+    {
+     "product": "AerosolMaster",
+     "type": "launch",
+     "strength": 2,
+     "quote": "Das neue MMS-System AerosolMaster besitzt die sogenannte ATS-Technologie (Aerosol-Trockenschmierung)."
+    },
+    {
+     "product": "HydroPur",
+     "type": "launch",
+     "strength": 2,
+     "quote": "Wer eine Filteranlage exakt bedarfsgerecht konfigurieren möchte, ist mit dem neuentwickelten KNOLL HydroPur bestens bedient."
+    },
+    {
+     "product": "SmartConnect",
+     "type": "launch",
+     "strength": 3,
+     "quote": "steht nun ergänzend eine SmartConnect-App zur Wahl, die auf Smartphones und Tablets läuft. Sie feiert auf der AMB 2022 Premiere."
+    },
+    {
+     "product": "TS-S",
+     "type": "result",
+     "strength": 2,
+     "quote": "BMZ (Batterien Montage Zentrum) relies on KNOLL type TS-S and TS-G transport systems."
+    },
+    {
+     "product": "TS-G",
+     "type": "result",
+     "strength": 2,
+     "quote": "BMZ (Batterien Montage Zentrum) relies on KNOLL type TS-S and TS-G transport systems."
+    }
+   ],
+   "success": []
+  },
+  {
+   "year": 2023,
+   "codeable": true,
+   "products": [
+    {
+     "name": "LubiCool®-S",
+     "generic": "compact high-pressure coolant unit with filter",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "LubiCool®-M",
+     "generic": "high-pressure coolant unit with filter",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "LubiCool®-L",
+     "generic": "large high-pressure coolant unit with filter",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Druckerhöhungsanlage DHS",
+     "generic": "coolant pressure booster system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Flüssigkeitszentrifuge CA 100",
+     "generic": "liquid centrifuge for coolant cleaning",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "HydroPur",
+     "generic": "modular hydrostatic coolant filter system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Hydrozyklon F 60",
+     "generic": "hydrocyclone coolant filter",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Hydrostatfilter HL",
+     "generic": "hydrostatic band filter for coolant",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Kompaktfilter KF",
+     "generic": "compact coolant filter system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Kompaktfilter KF-E",
+     "generic": "compact coolant filter system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "MicroPur®",
+     "generic": "superfine coolant filter system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Späneabscheider CS",
+     "generic": "chip separator for coolant",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Schwerkraftbandfilter PF",
+     "generic": "gravity band filter for coolant",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Rückspülfilter TURBO",
+     "generic": "backflush coolant filter",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Vakuumfilter VL",
+     "generic": "vacuum band filter for coolant",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Vakuumfilter VLO",
+     "generic": "vacuum band filter for coolant",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Vakuumrotationsfilter VRF",
+     "generic": "rotary vacuum drum filter for coolant",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Plattenbandförderer P-40L",
+     "generic": "heavy-duty slat belt conveyor for laser parts",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Kratzbandförderer SR",
+     "generic": "scraper belt conveyor for chips",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Magnetbandförderer M",
+     "generic": "magnetic belt chip conveyor",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Scharnierbandförderer S",
+     "generic": "hinged belt chip conveyor",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "AerosolMaster™ 4000 ATS",
+     "generic": "aerosol dry lubrication system for machining",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "AerosolMaster™ 800 ATS",
+     "generic": "aerosol dry lubrication system for machining",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "AerosolMaster™ 4000 Cryolub",
+     "generic": "minimum quantity lubrication system with cooling",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Schraubenspindelpumpen KTS",
+     "generic": "screw spindle pump for coolant",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Schraubenspindelpumpen KTSL",
+     "generic": "screw spindle pump for coolant",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Schraubenspindelpumpen KTSV",
+     "generic": "screw spindle pump for coolant",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "INNOZL™ Kühlmitteldüsen",
+     "generic": "coolant nozzles for machine tools",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "E-PASS",
+     "generic": "energy efficiency measurement service for pumps",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "SmartConnect",
+     "generic": "touch-display control concept with app connectivity",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    }
+   ],
+   "evidence": [
+    {
+     "product": "LubiCool®-S",
+     "type": "launch",
+     "strength": 3,
+     "quote": "Auf der Messe DST feiert der kleinste und preiswerteste Vertreter der LubiCool®-Familie, der KNOLL LubiCool®-S, Premiere."
+    },
+    {
+     "product": "AerosolMaster™ 4000 ATS",
+     "type": "launch",
+     "strength": 3,
+     "quote": "Zur AMB 2022 stellt KNOLL nun eine neue Version des AerosolMaster TM 4000 ATS vor, die sich noch einfacher bedienen lässt und höchste Produktivität gewährleistet."
+    },
+    {
+     "product": "HydroPur",
+     "type": "launch",
+     "strength": 2,
+     "quote": "Wer eine Filteranlage exakt bedarfsgerecht konfigurieren möchte, ist mit dem neuentwickelten KNOLL HydroPur bestens bedient."
+    },
+    {
+     "product": "LubiCool®-L",
+     "type": "result",
+     "strength": 2,
+     "quote": "Tobias Kirchhof von der Kirchhof GmbH CNC-Präzisions-Dreh- & Frästechnik berichtet über seine Erfahrung mit unserem LubiCool®-L und wie er mit der Anlage seine Produktivität verbessern konnte."
+    },
+    {
+     "product": "SmartConnect",
+     "type": "launch",
+     "strength": 2,
+     "quote": "Hierfür entwickelte KNOLL das neue Steuerungskonzept „SmartConnect“, das ein kleines Touchdisplay enthält"
+    }
+   ],
+   "success": []
+  },
+  {
+   "year": 2024,
+   "codeable": true,
+   "products": [
+    {
+     "name": "LubiCool®",
+     "generic": "a mobile high-pressure coolant supply unit family",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": true
+    },
+    {
+     "name": "LubiCool®-L",
+     "generic": "a compact high-pressure coolant unit",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "LubiCool®-M",
+     "generic": "a mobile high-pressure coolant unit",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "LubiCool®-S",
+     "generic": "a small mobile high-pressure coolant unit",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "SmartConnect",
+     "generic": "a machine control concept with industrial PC",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": true
+    },
+    {
+     "name": "SmartConnect-App",
+     "generic": "a mobile app for machine monitoring and control",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "HydroPur",
+     "generic": "a modular hydrostatic filter system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": true
+    },
+    {
+     "name": "AerosolMaster",
+     "generic": "a minimum quantity lubrication system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Cryolub®",
+     "generic": "a lubrication system with CO2 cooling",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "MicroPur®",
+     "generic": "a backflushable cartridge ultrafine filter",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": true
+    },
+    {
+     "name": "Druckerhöhungsanlage DHS",
+     "generic": "a coolant pressure booster system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Plattenbandförderer P-40",
+     "generic": "a hinged belt chip conveyor",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Zugketten-Transportsystem TS-Z",
+     "generic": "a low-height floor chain transport system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Kratzbandförderer SR",
+     "generic": "a scraper belt chip conveyor",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "KNOLL34",
+     "generic": "a company magazine",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    }
+   ],
+   "evidence": [
+    {
+     "product": "SmartConnect-App",
+     "type": "launch",
+     "strength": 3,
+     "quote": "steht nun ergänzend eine SmartConnect-App zur Wahl, die auf Smartphones und Tablets läuft. Sie feiert auf der AMB 2022 Premiere."
+    },
+    {
+     "product": "HydroPur",
+     "type": "launch",
+     "strength": 2,
+     "quote": "Auch die neuentwickelten, modular aufgebauten Hydrostat-Filteranlagen KNOLL HydroPur werden serienmäßig über SmartConnect gesteuert und bedient."
+    },
+    {
+     "product": "LubiCool®-L",
+     "type": "launch",
+     "strength": 2,
+     "quote": "stellt das neue Mitglied in der Produktfamilie LubiCool vor. Erfahren Sie mehr über unsere neue Hochdruckanlage LubiCool®-L"
+    },
+    {
+     "product": "AerosolMaster",
+     "type": "result",
+     "strength": 3,
+     "quote": "Mit dem KNOLL AerosolMaster gelang es ihm, auf einer fast 20 Jahre alten Maschine beim Bohren und Fräsen von vakuumgespannten Aluminiumplatten die Bearbeitungszeit um bis zu 50 Prozent zu reduzieren."
+    },
+    {
+     "product": "MicroPur®",
+     "type": "launch",
+     "strength": 2,
+     "quote": "Nun schickt sich eine neue Variante dieses rückspülbaren Kartuschenfilters an, den Bereich der wasserlöslichen Kühlschmierstoffe (KSS) zu erobern"
+    },
+    {
+     "product": "MicroPur®",
+     "type": "result",
+     "strength": 2,
+     "quote": "Der Feinstfilter MicroPur® von KNOLL Maschinenbau ist beim Schleifen von Hartmetall unter Öl für viele Werkzeughersteller erste Wahl."
+    },
+    {
+     "product": "AerosolMaster",
+     "type": "launch",
+     "strength": 1,
+     "quote": "Das neue MMS-System AerosolMaster besitzt die sogenannte ATS-Technologie (Aerosol-Trockenschmierung)."
+    }
+   ],
+   "success": []
+  },
+  {
+   "year": 2025,
+   "codeable": true,
+   "products": [
+    {
+     "name": "AerosolMaster",
+     "generic": "a minimum quantity lubrication system for machining",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Click.it",
+     "generic": "a push-button digital production information system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": true
+    },
+    {
+     "name": "Click.it Pro",
+     "generic": "a programmable button terminal with display",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Click.it One",
+     "generic": "a compact push-button signalling device",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Click.it Connect",
+     "generic": "a cabinet-mounted machine data acquisition module",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Click.it Online",
+     "generic": "a software solution for production signalling",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "HydroPur",
+     "generic": "a hydrostatic filter for cooling lubricants",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "MicroPur",
+     "generic": "a fine filter for cooling lubricants",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "KF-E",
+     "generic": "a compact pre-filter for cooling lubricants",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "UniPur",
+     "generic": "a canister bypass filter",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "E-PASS",
+     "generic": "an energy measurement service for coolant pumps",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "ZV, ZVD, ZVDD",
+     "generic": "vertical-feed chip shredders",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "ZH-J, ZHV-J",
+     "generic": "chip shredders for metal and plastic chips",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "BS",
+     "generic": "self-priming block pumps for contaminated coolant",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "TG",
+     "generic": "clean-medium coolant pumps",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "TF, TS, TSK, TSL",
+     "generic": "dirty-medium coolant pumps",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "TSC",
+     "generic": "coolant pumps with integrated chip shredder",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    }
+   ],
+   "evidence": [
+    {
+     "product": "Click.it",
+     "type": "launch",
+     "strength": 3,
+     "quote": "Das wurde unter anderem auf der AMB 2024 deutlich, wo KNOLL neben flexiblen Fördersystemen das brandneue, selbst entwickelte Click.it-System präsentierte."
+    },
+    {
+     "product": "Click.it",
+     "type": "launch",
+     "strength": 2,
+     "quote": "Neu im Angebot: das Click.it-System."
+    },
+    {
+     "product": "Click.it",
+     "type": "result",
+     "strength": 1,
+     "quote": "Bei KNOLL führte der Einsatz von Click.it im Rohbau und in der Produktion zu spürbaren Produktivitätssteigerungen."
+    },
+    {
+     "product": "AerosolMaster",
+     "type": "result",
+     "strength": 3,
+     "quote": "Mit dem KNOLL AerosolMaster gelang es ihm, auf einer fast 20 Jahre alten Maschine beim Bohren und Fräsen von vakuumgespannten Aluminiumplatten die Bearbeitungszeit um bis zu 50 Prozent zu reduzieren."
+    },
+    {
+     "product": "HydroPur",
+     "type": "launch",
+     "strength": 2,
+     "quote": "Eine Neuheit: War der bisher angebotene Hydrostatfilter HydroPur auf eine Baugröße mit 400 l/min Volumenstrom beschränkt, wird es in Zukunft weitere Modelle geben"
+    },
+    {
+     "product": "E-PASS",
+     "type": "result",
+     "strength": 2,
+     "quote": "Ein KNOLL-Kunde und -Partner in Sachen E-PASS und Energieeffizienz bei KSS-Anlagen ist Bosch Power Solutions (PS) am Standort Homburg."
+    },
+    {
+     "product": "E-PASS",
+     "type": "result",
+     "strength": 1,
+     "quote": "Diese Messdienstleistung und die damit verbundene Umrüstung nutzen inzwischen zahlreiche metallbearbeitende Betriebe."
+    }
+   ],
+   "success": []
+  },
+  {
+   "year": 2026,
+   "codeable": true,
+   "products": [
+    {
+     "name": "Click.it",
+     "generic": "push-button networking system for production signalling",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": true
+    },
+    {
+     "name": "HydroPur",
+     "generic": "modular hydrostatic filter for cooling lubricants",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Hydrostatfilter HL",
+     "generic": "hydrostatic filter for cooling lubricants",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "LubiCool®-XS",
+     "generic": "compact mobile high-pressure coolant unit",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "LubiCool®-S, -M und -L",
+     "generic": "retrofittable high-pressure coolant supply units",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "AerosolMaster",
+     "generic": "minimum quantity lubrication system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "KTS",
+     "generic": "screw spindle high-pressure pump",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Topffilter UniPur",
+     "generic": "pot filter for cooling lubricants",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "ControLube",
+     "generic": "cooling lubricant accessory device",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    }
+   ],
+   "evidence": [
+    {
+     "product": "Click.it",
+     "type": "launch",
+     "strength": 2,
+     "quote": "KNOLL beherrscht Automatisierung in vielen Facetten. Neu im Angebot: das Click.it-System."
+    },
+    {
+     "product": "Click.it",
+     "type": "result",
+     "strength": 1,
+     "quote": "Click.it hat sich bereits vielfach bewährt – unter anderem auch bei KNOLL im eigenen Werk"
+    },
+    {
+     "product": "HydroPur",
+     "type": "launch",
+     "strength": 2,
+     "quote": "entwickelte KNOLL das bisherige HydroPur 400-Modell zu einer ganzen Familie weiter, die jetzt vier Filtergrößen umfasst und zusätzliche Optionen bietet."
+    },
+    {
+     "product": "LubiCool®-XS",
+     "type": "launch",
+     "strength": 2,
+     "quote": "Mit dem LubiCool®-XS erweitert KNOLL Maschinenbau sein Angebot an Hochdruckanlagen um eine besonders kompakte Lösung"
+    }
+   ],
+   "success": []
+  }
+ ]
+}

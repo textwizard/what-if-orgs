@@ -1,0 +1,91 @@
+{
+ "slug": "schwank-de",
+ "windows": {
+  "exploration": {
+   "years": [
+    2017
+   ],
+   "industry": {
+    "turnover": "grew",
+    "rd": "more",
+    "patents": "more",
+    "universities": "more"
+   },
+   "employees": null,
+   "hiring": false,
+   "hiring_quote": null,
+   "expansion": false,
+   "expansion_quote": null,
+   "investment": false,
+   "investment_quote": null,
+   "growth": false,
+   "growth_quote": null,
+   "difficulty": false,
+   "difficulty_quote": null,
+   "rd": false,
+   "rd_quote": null,
+   "cooperation": false,
+   "cooperation_quote": null,
+   "eu_projects": 0,
+   "products_offered": 3,
+   "new": [
+    "low-noise burner for infrared heaters",
+    "gas infrared plaque heater",
+    "gas infrared luminous radiant heater",
+    "gas-fired infrared tube heater (1)",
+    "standard gas infrared plaque heater",
+    "gas-fired infrared tube heater (2)"
+   ],
+   "relatedness": [
+    "related",
+    "related",
+    "related",
+    "related",
+    "related",
+    "related"
+   ]
+  },
+  "holdout": {
+   "years": [
+    2022
+   ],
+   "industry": {
+    "turnover": "grew",
+    "rd": "more",
+    "patents": "more",
+    "universities": "more"
+   },
+   "employees": null,
+   "hiring": false,
+   "hiring_quote": null,
+   "expansion": true,
+   "expansion_quote": "Schwank launcht im Juli 2020 eine vollkommen neue Produktreihe, die sogar als eigene Marke auftrifft. Es handelt sich um HVLS-Ventilatoren für die Industrie.",
+   "investment": false,
+   "investment_quote": null,
+   "growth": true,
+   "growth_quote": "Bundesweit sind unsere Servicetechniker unterwegs, demnächst wir das Schwank Serviceteam über 50 Mann stark sein.",
+   "difficulty": false,
+   "difficulty_quote": null,
+   "rd": true,
+   "rd_quote": "Jetzt hat die Branche und allen voran das Unternehmen Schwank mit der Entwicklung ihres ersten zu 100% wasserstofftauglichen Dunkelstrahlers einen wegweisenden Meilenstein gesetzt.",
+   "cooperation": false,
+   "cooperation_quote": null,
+   "eu_projects": 0,
+   "products_offered": 18,
+   "new": [
+    "burner component for radiant heaters",
+    "electric infrared panel heater",
+    "electric halogen infrared heater",
+    "industrial electric infrared hall heater",
+    "hydrogen-capable gas dark infrared heater"
+   ],
+   "relatedness": [
+    "related",
+    "related",
+    "related",
+    "close",
+    "close"
+   ]
+  }
+ }
+}

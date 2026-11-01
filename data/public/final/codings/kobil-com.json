@@ -1,0 +1,1095 @@
+{
+ "slug": "kobil-com",
+ "profiles": {
+  "exploration": {
+   "strategy": {
+    "offer": "Integrated identity and mobile security solutions for authentication, transaction authorization, app and browser protection, secure communication, and supporting infrastructure or managed services.",
+    "customers": "Organizations digitizing customer or employee processes across web and mobile channels, especially those needing strong, compliant security for sensitive interactions.",
+    "why_we_win": "They claim secure, usable cross-platform identity processing integrates with existing systems, adds trusted second-channel communication, and meets demanding regulatory and risk requirements.",
+    "resources": "Deep authentication and cryptography know-how, a substantial R&D share, security servers, SDKs, hardware options, and experience developing encryption-related technology.",
+    "direction": "Toward broader secure digital ecosystems: binding mobile communication, app-based interactions, online contract signing, and one secure identity across channels and services."
+   },
+   "context": {
+    "size": "medium",
+    "founded": 1986,
+    "industry": "Computer programming, consultancy and related activities"
+   },
+   "seed_year": 2017
+  },
+  "holdout": {
+   "strategy": {
+    "offer": "A low-code secure super-app platform combining digital identity, authentication, communication, payment, signatures, and access management for building multi-service ecosystems.",
+    "customers": "Businesses of all sizes, especially financial, insurance, healthcare, and public organizations needing secure digital services and customer-facing platforms.",
+    "why_we_win": "It promises faster launches, lower build and marketing costs, one-login convenience, strong security, compliance, and customizable integration of many services.",
+    "resources": "Its basis is decades of security experience, patented technology, digital identity and application-security expertise, and integrated capabilities in IAM, messaging, payments, and signatures.",
+    "direction": "It is steering clients toward platform-business models built around secure ecosystems and super apps for sustainable digital growth."
+   },
+   "context": {
+    "size": null,
+    "founded": 1986,
+    "industry": "Computer programming, consultancy and related activities"
+   },
+   "seed_year": 2022
+  }
+ },
+ "years": [
+  {
+   "year": 2017,
+   "codeable": true,
+   "products": [
+    {
+     "name": "mIDentity Protection",
+     "generic": "a mobile multifactor authentication security platform",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": true
+    },
+    {
+     "name": "mIDentity Application Security Technology (mAST)",
+     "generic": "an application security technology for digital banking",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": true
+    },
+    {
+     "name": "Trusted Login",
+     "generic": "an out-of-band two-factor smartphone authentication app",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Trusted Message Sign",
+     "generic": "a mobile transaction signature solution",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Trusted App",
+     "generic": "a mobile app security software development kit",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Trusted Web View",
+     "generic": "an SDK for a secure embedded mobile browser",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "mini",
+     "generic": "a USB signature token hardware extension",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Air+",
+     "generic": "a Bluetooth and USB chip card signature token",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "SecOVID",
+     "generic": "a one-time password authentication solution",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "SecOVID Token",
+     "generic": "a key-tag one-time password hardware token",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "TAN Optimus comfort",
+     "generic": "an optical offline TAN generator device",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "4smart SPACE",
+     "generic": "a smart card personalization system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Smart Security Management Server (SSMS)",
+     "generic": "a security server for identity and access management",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": true
+    },
+    {
+     "name": "KOBIL Connector",
+     "generic": "an integration connector for an insurer software suite",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "mIDentity Stick",
+     "generic": "a USB-based security authentication stick",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    }
+   ],
+   "evidence": [
+    {
+     "product": "mIDentity Protection",
+     "type": "result",
+     "strength": 3,
+     "quote": "WORMS – 18 February 2016. From now on, the Berner Kantonalbank (BEKB) is offering its e-banking customers KOBIL’s mIDentity Protection Platform"
+    },
+    {
+     "product": "mIDentity Protection",
+     "type": "result",
+     "strength": 3,
+     "quote": "WORMS – 21 January 2016. From now on Swiss financial and other companies can benefit from the services provided by KOBIL’s mobile mIDentity Protection platform"
+    },
+    {
+     "product": "Trusted Message Sign",
+     "type": "result",
+     "strength": 3,
+     "quote": "netbank decides for KOBILs Trusted Message Sign WORMS, 24 May 2016 - Since February 2016, netbank - Europe’s…"
+    },
+    {
+     "product": "KOBIL Connector",
+     "type": "launch",
+     "strength": 2,
+     "quote": "Dank des neuen Connectors kann KOBIL den Krankenkassen ab Release 23.75 die KOBIL mIDentity Application Security Technology (mAST) zur Absicherung von Zugängen und Vorgängen zu Verfügung stellen."
+    },
+    {
+     "product": "mIDentity Application Security Technology (mAST)",
+     "type": "result",
+     "strength": 2,
+     "quote": "Der KOBIL Connector verbindet die KOBIL mIDentity Application Security Technology (mAST) mit der bitGo_Suite. Damit wird die Online-Geschäftsstelle von BITMARCK auf komfortable Weise abgesichert."
+    }
+   ],
+   "success": []
+  },
+  {
+   "year": 2018,
+   "codeable": true,
+   "products": [
+    {
+     "name": "mIDentity Protection",
+     "generic": "mobile multifactor authentication and transaction security platform",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Trusted Login",
+     "generic": "multifactor authentication login service",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Trusted Message Sign",
+     "generic": "mobile transaction signing service",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "SecOVID",
+     "generic": "one-time password authentication technology",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Smart Security Management Server (SSMS)",
+     "generic": "security and trust server with certificate authority",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": true
+    },
+    {
+     "name": "mIDentity Application Security Technology (mAST)",
+     "generic": "end-to-end application security and authentication platform",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": true
+    },
+    {
+     "name": "Trusted App",
+     "generic": "application shielding software development kit",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Trusted WebView",
+     "generic": "web browser shielding SDK extension",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "mIDentity mini",
+     "generic": "USB token with removable smart card",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "mIDentity Stick",
+     "generic": "USB-based security authentication stick",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "SecOPTIC",
+     "generic": "QR-code-based hardware signature token",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "TAN Optimus Comfort",
+     "generic": "optical chip card reader for online banking",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "opTAN Touch",
+     "generic": "chip card reader for online banking",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Trusted Call ID",
+     "generic": "pre-call caller authentication service",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Trusted Verify",
+     "generic": "user consent verification for interactions",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "DocSigner",
+     "generic": "mobile PDF digital signature function",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Email2Push",
+     "generic": "secure email-to-app message delivery robot",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Trusted Payment",
+     "generic": "mobile payment authorization solution",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Smart Activation",
+     "generic": "chat-based secure device activation service",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Smart Password Reset",
+     "generic": "chat-based secure password reset service",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Digitanium Channel",
+     "generic": "encrypted secondary communication channel",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Security Suite for Swift",
+     "generic": "security compliance suite for payment network users",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    }
+   ],
+   "evidence": [
+    {
+     "product": "mIDentity Protection",
+     "type": "result",
+     "strength": 3,
+     "quote": "Kuveyt Turk continues to improve security measures for its mobile banking service with KOBIL’s mIDentity Protection (AST) solution"
+    }
+   ],
+   "success": []
+  },
+  {
+   "year": 2019,
+   "codeable": true,
+   "products": [
+    {
+     "name": "mPower",
+     "generic": "secure digital communication platform for business ecosystems",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": true
+    },
+    {
+     "name": "mID Security Suite",
+     "generic": "security suite for mobile banking applications",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "mIDentity Application Security Technology (mAST)",
+     "generic": "app shielding and authentication security SDK",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": true
+    },
+    {
+     "name": "mIDentity Protection (AST)",
+     "generic": "mobile banking app protection solution",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "KOBIL mIDentity",
+     "generic": "secure identity and authentication solution for banking",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Smart Security Management Server (SSMS)",
+     "generic": "online security and trust server with certificate authority",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Digitanium Channel",
+     "generic": "end-to-end encrypted secure communication channel",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Smart Activation",
+     "generic": "chat-based secure device activation service",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Smart Password Rest",
+     "generic": "chat-based secure password reset service",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Trusted Services Server",
+     "generic": "server providing secondary security channel for activation",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Security Suite for Swift",
+     "generic": "security and compliance solution for payment network users",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Dual-7-Layers-of-Security",
+     "generic": "multi-layer end-to-end security architecture",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    }
+   ],
+   "evidence": [
+    {
+     "product": "mPower",
+     "type": "launch",
+     "strength": 3,
+     "quote": "The answer to the questions of security in the digital age is announced by KOBIL Systems with the world premiere \"mPower\"."
+    },
+    {
+     "product": "mID Security Suite",
+     "type": "launch",
+     "strength": 2,
+     "quote": "KOBIL Systems GmbH offers with \"mID Security Suite\" a directive-compliant security solution to ensure the protection of banks, insurance companies, health insurance companies and their customers"
+    },
+    {
+     "product": "mIDentity Protection (AST)",
+     "type": "result",
+     "strength": 3,
+     "quote": "Kuveyt Turk continues to improve security measures for its mobile banking service with KOBIL’s mIDentity Protection (AST) solution"
+    }
+   ],
+   "success": []
+  },
+  {
+   "year": 2022,
+   "codeable": true,
+   "products": [
+    {
+     "name": "KOBIL SHIFT",
+     "generic": "ecosystem enabling platform with digital identity core",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": true
+    },
+    {
+     "name": "KOBIL Secure SuperApp",
+     "generic": "low-code modular super app framework",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": true
+    },
+    {
+     "name": "KOBIL Secure City SuperApp",
+     "generic": "municipal super app technology for city services",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": true
+    },
+    {
+     "name": "Super App Server Suite",
+     "generic": "server suite for identity, communication and payment",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "mIDentity",
+     "generic": "installation-free smart card authentication device",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "mIDentity Application Security Technology (mAST)",
+     "generic": "mobile application shielding security platform",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Trusted App",
+     "generic": "secured app execution software development kit",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "KOBIL Smart Security Management Server",
+     "generic": "trust center security management server",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "TraceCORONA",
+     "generic": "privacy-preserving pandemic contact tracing app",
+     "seasonal": false,
+     "stage": "pilot",
+     "scale": "single",
+     "featured": false
+    }
+   ],
+   "evidence": [
+    {
+     "product": "KOBIL Secure City SuperApp",
+     "type": "result",
+     "strength": 3,
+     "quote": "In its first year, Istanbul Senin, empowered by KOBIL Secure City SuperApp Technology, reached nearly 2 million users. With more than 50 mini-apps"
+    },
+    {
+     "product": "KOBIL Secure City SuperApp",
+     "type": "launch",
+     "strength": 3,
+     "quote": "The new super app “Istanbul Senin” was launched on November 18, 2021, at the Istanbul Convention Center"
+    },
+    {
+     "product": "KOBIL Secure City SuperApp",
+     "type": "result",
+     "strength": 2,
+     "quote": "For the 16 million inhabitants of the Turkish metropolis of Istanbul, the German company KOBIL from Worms has developed a super app"
+    }
+   ],
+   "success": []
+  },
+  {
+   "year": 2023,
+   "codeable": true,
+   "products": [
+    {
+     "name": "KOBIL SHIFT",
+     "generic": "a secure superapp framework platform",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": true
+    },
+    {
+     "name": "KOBIL Secure SuperApp",
+     "generic": "a secure superapp ecosystem building platform",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": true
+    },
+    {
+     "name": "KOBIL PAY",
+     "generic": "a mobile payment module",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "KOBIL IDENTITY",
+     "generic": "a digital identity management solution",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "KOBIL CONNECT",
+     "generic": "a secure business messaging module",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "KOBIL Paygate",
+     "generic": "a secure payment and wallet framework",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "ID-Bound Wallet",
+     "generic": "an identity-bound digital payment wallet",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "ID Vault",
+     "generic": "a secure personal document storage feature",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "AST",
+     "generic": "a mobile application security technology",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Virtual Smart Card Technology",
+     "generic": "a PKI-based virtual smart card authorization",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "KOBIL KeyPass",
+     "generic": "an NFC tag based login authenticator",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    }
+   ],
+   "evidence": [
+    {
+     "product": "ID Vault",
+     "type": "launch",
+     "strength": 3,
+     "quote": "Worms, August 24 - KOBIL, a renowned leader in secure digital identity solutions, is thrilled to introduce its latest groundbreaking feature, the ID Vault."
+    },
+    {
+     "product": "KOBIL SHIFT",
+     "type": "result",
+     "strength": 3,
+     "quote": "Worms, Germany, August 23, 2022 – Global technology company KOBIL has been identified as a sample vendor in five prestigious Gartner Hype Cycles following its development of the powerful superapp framework KOBIL SHIFT."
+    },
+    {
+     "product": "KOBIL Secure SuperApp",
+     "type": "result",
+     "strength": 3,
+     "quote": "With over 2.5 million users and a diverse array of 60 MiniApps spanning seven categories, this revolutionary platform has redefined convenience and accessibility for Istanbul's citizens."
+    }
+   ],
+   "success": []
+  },
+  {
+   "year": 2024,
+   "codeable": true,
+   "products": [
+    {
+     "name": "KOBIL Identity",
+     "generic": "an identity and access management security platform",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": true
+    },
+    {
+     "name": "KOBIL SuperApp Platform",
+     "generic": "a secure platform for building multi-service mobile apps",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": true
+    },
+    {
+     "name": "KOBIL Shift",
+     "generic": "an app security and authentication solution",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "m-Security",
+     "generic": "a mobile application security and risk management service",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "KOBIL™ Secure",
+     "generic": "an application shielding security library",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "ID Vault",
+     "generic": "a secure digital document storage feature",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Chat & Sign",
+     "generic": "an in-app messaging and document signing feature",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Secure Pay",
+     "generic": "an in-app secure payment feature",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "mID Provider (IAM)",
+     "generic": "a single sign-on identity management platform",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "mID Server (SSMS)",
+     "generic": "a central authentication client management server",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "mID Connector",
+     "generic": "a software connector between identity components",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "KOBIL IDP",
+     "generic": "an identity provider service for single sign-on",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "KOBIL AST Services",
+     "generic": "a two-factor authentication security control server",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "KOBIL App MC SDK",
+     "generic": "an app hardening software development kit",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    }
+   ],
+   "evidence": [
+    {
+     "product": "ID Vault",
+     "type": "launch",
+     "strength": 3,
+     "quote": "Worms, August 24 - KOBIL, a renowned leader in secure digital identity solutions, is thrilled to introduce its latest groundbreaking feature, the ID Vault."
+    },
+    {
+     "product": "m-Security",
+     "type": "launch",
+     "strength": 3,
+     "quote": "Worms, September 1 – KOBIL is enhancing its patented m-Security solution's functionalities with 14-Layer Security Management and AI-Powered Risk Management for enhanced customer privacy."
+    },
+    {
+     "product": "KOBIL SuperApp Platform",
+     "type": "result",
+     "strength": 1,
+     "quote": "One bank utilized our SuperApp platform to develop an app that integrated daily banking services"
+    }
+   ],
+   "success": []
+  },
+  {
+   "year": 2025,
+   "codeable": true,
+   "products": [
+    {
+     "name": "KOBIL SuperApp Platform",
+     "generic": "a secure super app software platform",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": true
+    },
+    {
+     "name": "mIDentity",
+     "generic": "a digital identity verification and authentication solution",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "mChat",
+     "generic": "an encrypted business chat and messaging solution",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "mSign",
+     "generic": "an electronic signature software module",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "mPay",
+     "generic": "an identity-linked mobile payment software module",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "mSecure",
+     "generic": "a mobile app security and protection solution",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "KOBIL OneAPP4All™",
+     "generic": "a custom branded ready-to-use super app",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": true
+    },
+    {
+     "name": "KOBIL OneID4All™",
+     "generic": "a software development kit for security integration",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    }
+   ],
+   "evidence": [
+    {
+     "product": "KOBIL OneAPP4All™",
+     "type": "result",
+     "strength": 3,
+     "quote": "as demonstrated by KOBIL's OneApp4All™ platform, currently being implemented in Worms."
+    },
+    {
+     "product": "KOBIL SuperApp Platform",
+     "type": "result",
+     "strength": 2,
+     "quote": "KOBIL recognised as a Sample Vendor in the Gartner Emerging Tech Impact Radar: CSP Technologies and Services report."
+    }
+   ],
+   "success": []
+  },
+  {
+   "year": 2026,
+   "codeable": true,
+   "products": [
+    {
+     "name": "One Solution",
+     "generic": "an enterprise superapp platform",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": true
+    },
+    {
+     "name": "AI Trust",
+     "generic": "identity and authorization security for AI agents",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": true
+    },
+    {
+     "name": "OneID4All",
+     "generic": "a secure digital identity SDK",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "mChat",
+     "generic": "a secure business chat platform",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "mSign",
+     "generic": "a legally binding digital signature module",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "mPay",
+     "generic": "an in-app secure payment module",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Application Security",
+     "generic": "a mobile app runtime protection solution",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Digital Workplace SuperApp",
+     "generic": "a secure employee workplace app platform",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "MiniApp Studio",
+     "generic": "an environment for building and publishing mini apps",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "MiniApp Creator",
+     "generic": "a guided mini app building tool",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "KOBIL Store",
+     "generic": "a mini app distribution store",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Secure Messenger & Documents",
+     "generic": "encrypted messaging with digital document signing",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Secure Payments",
+     "generic": "an identity-bound mobile payment solution",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Trusted Identity",
+     "generic": "a mobile identity and authentication solution",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "myCity Worms",
+     "generic": "a city services superapp",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    }
+   ],
+   "evidence": [
+    {
+     "product": "One Solution",
+     "type": "launch",
+     "strength": 3,
+     "quote": "2026 KOBIL Launches One Solution, The Trusted Enterprise SuperApp Platform"
+    },
+    {
+     "product": "AI Trust",
+     "type": "launch",
+     "strength": 3,
+     "quote": "2025 KOBIL Brings Trust to the Age of AI Agents with KOBIL AI Trust"
+    },
+    {
+     "product": "Trusted Identity",
+     "type": "result",
+     "strength": 3,
+     "quote": "150M+ Identities secured 5000+ Clients worldwide"
+    }
+   ],
+   "success": []
+  }
+ ]
+}

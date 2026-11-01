@@ -1,0 +1,1 @@
+{"model": "deepseek-v4-pro", "effort": "medium", "answer": {"decisions": [{"product": "A", "probability_dropped": 15, "decision": "keep", "reason": "Given the firm's visible commitment through a dedicated webpage and the recent launch, management is likely to persist with the product under escalation of commitment, attributing early disappointing results to temporary causes."}]}}

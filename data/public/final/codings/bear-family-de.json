@@ -1,0 +1,547 @@
+{
+ "slug": "bear-family-de",
+ "profiles": {
+  "exploration": {
+   "strategy": {
+    "offer": "An online mail-order shop and record label offering physical music releases, books, merchandise, and curated reissues alongside a broad third-party catalog.",
+    "customers": "Collectors and fans seeking purchasable physical recordings and related media, especially buyers interested in music beyond the mainstream.",
+    "why_we_win": "It argues specialist curation, carefully produced editions, broad in-stock selection, and expanding genre coverage make hard-to-find music easier to discover and buy.",
+    "resources": "Long experience in reissuing overlooked music, an established label, an online shop, and a warehouse-backed catalog of over 60,000 items.",
+    "direction": "To keep broadening genres, formats, and categories while growing from a specialist label into a wider online destination for physical music media."
+   },
+   "context": {
+    "size": null,
+    "founded": 1975,
+    "industry": "Retail trade, except of motor vehicles and motorcycles"
+   },
+   "seed_year": 2017
+  },
+  "holdout": {
+   "strategy": {
+    "offer": "An online mail-order catalog selling recorded music and related media in physical formats, plus books and merchandise, including both in-house and third-party releases.",
+    "customers": "Collectors and enthusiasts of classic and roots-oriented popular music who want physical editions, catalog depth, and artist- or label-focused browsing.",
+    "why_we_win": "It competes through broad yet curated selection, detailed product information, frequent new and discounted items, and one destination for many labels and formats.",
+    "resources": "Its basis is an established online mail-order platform, an in-house label, deep catalog organization, and content-rich listings with track, format, and availability data.",
+    "direction": null
+   },
+   "context": {
+    "size": null,
+    "founded": null,
+    "industry": "Retail trade, except of motor vehicles and motorcycles"
+   },
+   "seed_year": 2022
+  }
+ },
+ "years": [
+  {
+   "year": 2017,
+   "codeable": true,
+   "products": [
+    {
+     "name": "Christmas On The Countryside",
+     "generic": "a Christmas music compilation album",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "At The Louisiana Hayride Tonight (20-CD)",
+     "generic": "a multi-CD historical music box set",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    }
+   ],
+   "evidence": [],
+   "success": []
+  },
+  {
+   "year": 2018,
+   "codeable": true,
+   "products": [],
+   "evidence": [],
+   "success": []
+  },
+  {
+   "year": 2019,
+   "codeable": true,
+   "products": [
+    {
+     "name": "Orbison 1955-1965 (7-CD Deluxe Box Set)",
+     "generic": "a multi-disc music box set",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "The RCA Sessions",
+     "generic": "a compilation music CD",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "The Sun Years 1956-58",
+     "generic": "a compilation music CD",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Roy Rocks",
+     "generic": "a compilation music CD",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Act Naturally (5-CD)",
+     "generic": "a multi-disc music box set",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Open Up Your Heart (7-CD)",
+     "generic": "a multi-disc music box set",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Tall Dark Stranger (8-CD)",
+     "generic": "a multi-disc music box set",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Lightfoot! - The Way I Feel",
+     "generic": "a reissued music album CD",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "On The Warpath - As Long As The Grass Shall ...",
+     "generic": "a reissued music album CD",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Songs Of The Cowboys - Iron Mountain",
+     "generic": "a reissued music album CD",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Die Beatles im Spiegel der deutschen Presse 1963-67",
+     "generic": "a music history book",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Collector Card",
+     "generic": "collectible music trading cards",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Clive Zanda Is Here With 'Dat Kinda Ting' - Calypsojazz Innovations (180g Vinyl)",
+     "generic": "a reissued jazz vinyl LP",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    }
+   ],
+   "evidence": [],
+   "success": []
+  },
+  {
+   "year": 2022,
+   "codeable": true,
+   "products": [
+    {
+     "name": "Teddy Parker: Nachtexpress nach St.Tropez (CD)",
+     "generic": "a compilation music CD of schlager recordings",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Buck Owens: Open Up Your Heart (7-CD Deluxe Box Set)",
+     "generic": "a multi-CD deluxe box set of country recordings",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Buck Owens: Tall Dark Stranger (8-CD Deluxe Box Set)",
+     "generic": "a multi-CD deluxe box set of country recordings",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Buck Owens: Act Naturally (5-CD Deluxe Box Set)",
+     "generic": "a multi-CD deluxe box set of country recordings",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Cold War Memories - 60th Anniversary Of The...",
+     "generic": "a compilation music CD of historical recordings",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Talking On The Telephone - Rock'n'Roll And Teen...",
+     "generic": "a compilation music CD of rock'n'roll recordings",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    }
+   ],
+   "evidence": [],
+   "success": []
+  },
+  {
+   "year": 2023,
+   "codeable": true,
+   "products": [],
+   "evidence": [],
+   "success": []
+  },
+  {
+   "year": 2024,
+   "codeable": true,
+   "products": [
+    {
+     "name": "Nachtexpress nach St.Tropez (CD)",
+     "generic": "a reissue compilation music CD",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Bear Family Vinyl Club",
+     "generic": "a vinyl record subscription club",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Bear Family Vinyl Weissmuster",
+     "generic": "a series of white-label test vinyl records",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "100 Jahre Kabarett",
+     "generic": "a historical German music compilation series",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "150 Jahre Arbeiter- und Freiheitslieder",
+     "generic": "a historical German song compilation series",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "KRAUT! - Die innovativen Jahre des Krautrock",
+     "generic": "a German rock music compilation series",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Rockin' With The Krauts",
+     "generic": "a German rock'n'roll compilation series",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Schlager im Spiegel der Zeit",
+     "generic": "a German popular music compilation series",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "NDW - Aus grauer Städte Mauern",
+     "generic": "a German new wave compilation series",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Liedermacher in Deutschland",
+     "generic": "a German singer-songwriter compilation series",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Reinhard Kleist Collection",
+     "generic": "a series of illustrated music releases",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    }
+   ],
+   "evidence": [],
+   "success": []
+  },
+  {
+   "year": 2025,
+   "codeable": true,
+   "products": [
+    {
+     "name": "Bear Family Records Rocks Vol. 1",
+     "generic": "a rock'n'roll compilation CD",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Surf Beat! - The Merciless Power Of Water",
+     "generic": "a surf music compilation CD",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "So Real! - Colonial Rockers from Chapel Hill",
+     "generic": "a vintage rock'n'roll compilation album",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Ooh-Eee! What You Do To Me?! - Stars, Inc.",
+     "generic": "a vintage rock'n'roll compilation album",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Rockville Revelation",
+     "generic": "a rock'n'roll band studio album",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    }
+   ],
+   "evidence": [],
+   "success": []
+  },
+  {
+   "year": 2026,
+   "codeable": true,
+   "products": [
+    {
+     "name": "Bear Family Vinyl Club",
+     "generic": "vinyl record subscription club",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Bear Family Vinyl Weissmuster",
+     "generic": "white label test pressing vinyl records",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Vogue Bildschallplatten",
+     "generic": "picture disc vinyl record series",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Rockin' With The Krauts",
+     "generic": "German rock'n'roll compilation album series",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "100 Jahre Kabarett",
+     "generic": "historical cabaret recordings compilation series",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "150 Jahre Arbeiter- und Freiheitslieder",
+     "generic": "historical workers' songs compilation series",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "1000 Nadelstiche",
+     "generic": "historical German song compilation series",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Radio Bremen Eins",
+     "generic": "radio archive recordings compilation series",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Hits auf Deutsch",
+     "generic": "German-language hit compilation series",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Jazz in Deutschland",
+     "generic": "German jazz history compilation series",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "KRAUT! - Die innovativen Jahre des Krautrock",
+     "generic": "krautrock history compilation series",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Liedermacher in Deutschland",
+     "generic": "German singer-songwriter compilation series",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Pop in Germany",
+     "generic": "German pop music compilation series",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Schlager im Spiegel der Zeit",
+     "generic": "historical schlager compilation series",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "NDW - Aus grauer Städte Mauern",
+     "generic": "German new wave compilation series",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Reinhard Kleist Collection",
+     "generic": "illustrated music release collection",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Rock-A-Ballads - Flipside Dreams And Loving...",
+     "generic": "rock'n'roll ballads compilation CD",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Radiopiraten - Abenteuer auf hoher See",
+     "generic": "audiobook on double CD",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Live (LP, White Label Test Pressing)",
+     "generic": "live album vinyl test pressing",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    }
+   ],
+   "evidence": [],
+   "success": []
+  }
+ ]
+}

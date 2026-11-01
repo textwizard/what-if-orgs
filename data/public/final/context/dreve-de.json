@@ -1,0 +1,91 @@
+{
+ "slug": "dreve-de",
+ "windows": {
+  "exploration": {
+   "years": [
+    2017
+   ],
+   "industry": {
+    "turnover": "grew",
+    "rd": "about as",
+    "patents": "more",
+    "universities": "about as"
+   },
+   "employees": 350,
+   "hiring": false,
+   "hiring_quote": null,
+   "expansion": false,
+   "expansion_quote": null,
+   "investment": true,
+   "investment_quote": "Seit einem Jahr werden jetzt die generativen Fertigungsanlagen D30 und D35 am Werksstandort Unna eingesetzt.",
+   "growth": false,
+   "growth_quote": null,
+   "difficulty": false,
+   "difficulty_quote": null,
+   "rd": true,
+   "rd_quote": "Um alle nötigen Maßnahmen umzusetzen, die den reibungslosen Verlauf des Rapid Manufacturing gewährleisten, wurde großer Aufwand in der eigenen Forschungs- und Entwicklungsabteilung betrieben.",
+   "cooperation": false,
+   "cooperation_quote": null,
+   "eu_projects": 0,
+   "products_offered": 25,
+   "new": [
+    "Bleaching tray blanks",
+    "Addition-curing silicone putty",
+    "Laboratory silicone",
+    "Splint cleaning set",
+    "Positioner silicones",
+    "Direct-fit earmold material"
+   ],
+   "relatedness": [
+    "related",
+    "related",
+    "related",
+    "related",
+    "related",
+    "close"
+   ]
+  },
+  "holdout": {
+   "years": [
+    2022
+   ],
+   "industry": {
+    "turnover": "grew",
+    "rd": "more",
+    "patents": "more",
+    "universities": "about as"
+   },
+   "employees": null,
+   "hiring": false,
+   "hiring_quote": null,
+   "expansion": false,
+   "expansion_quote": null,
+   "investment": false,
+   "investment_quote": null,
+   "growth": false,
+   "growth_quote": null,
+   "difficulty": false,
+   "difficulty_quote": null,
+   "rd": true,
+   "rd_quote": "Für diese und andere Spezialfälle haben wir nun ein neues Duo entwickelt, das bei diesen Arbeiten wertvolle Dienste leistet.",
+   "cooperation": false,
+   "cooperation_quote": null,
+   "eu_projects": 0,
+   "products_offered": 30,
+   "new": [
+    "Custom earmold for in-ear systems",
+    "Custom in-ear earmold",
+    "Vacuum thermoforming unit",
+    "Orthopedic shoe last",
+    "Post-curing unit"
+   ],
+   "relatedness": [
+    "close",
+    "close",
+    "close",
+    "distant",
+    "close"
+   ]
+  }
+ }
+}

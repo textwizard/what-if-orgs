@@ -1,0 +1,85 @@
+{
+ "slug": "biofabrik-com",
+ "windows": {
+  "exploration": {
+   "years": [
+    2017
+   ],
+   "industry": {
+    "turnover": "grew",
+    "rd": "more",
+    "patents": "more",
+    "universities": "more"
+   },
+   "employees": null,
+   "hiring": true,
+   "hiring_quote": "Wir suchen Maschinenprogrammierer/-innen",
+   "expansion": false,
+   "expansion_quote": null,
+   "investment": false,
+   "investment_quote": null,
+   "growth": false,
+   "growth_quote": null,
+   "difficulty": false,
+   "difficulty_quote": null,
+   "rd": true,
+   "rd_quote": "An interdisciplinary team of experts in Biology, Chemistry, Engineering, Business development, Marketing and Distribution is working in our research center near Dresden in Saxony, Germany.",
+   "cooperation": true,
+   "cooperation_quote": "Unterstützt vom Eco Innovation Programme der Europäischen Union.",
+   "eu_projects": 0,
+   "products_offered": 9,
+   "new": [
+    "organic vegan superfood drink mix",
+    "modular waste-to-energy plant extensions",
+    "waste oil to energy plant",
+    "plastic waste to fuel plant"
+   ],
+   "relatedness": [
+    "related",
+    "related",
+    "related",
+    "close"
+   ]
+  },
+  "holdout": {
+   "years": [
+    2022
+   ],
+   "industry": {
+    "turnover": "grew",
+    "rd": "more",
+    "patents": "more",
+    "universities": "more"
+   },
+   "employees": null,
+   "hiring": true,
+   "hiring_quote": "For our sales department in Palma de Mallorca we are looking for professionals who want to show what they are made of and are motivated to save the world with us!",
+   "expansion": true,
+   "expansion_quote": "An unserem Vertriebsstandort auf Mallorca haben wir ein zweites Büro eingerichtet.",
+   "investment": true,
+   "investment_quote": "Inzwischen wird die Technologie in der zweiten Anlagengeneration in einer eigens dafür erbauten Halle in Serie gefertigt.",
+   "growth": true,
+   "growth_quote": "In den letzten Monaten haben wir unsere globale Präsenz um 20 weitere Länder ausgebaut. Dadurch ist unser Vertriebsnetz so stark gewachsen, dass wir nun Partner in 36 Ländern haben",
+   "difficulty": false,
+   "difficulty_quote": null,
+   "rd": true,
+   "rd_quote": "Neben individuellen Projekten arbeiten sie an einem externen Standort an der Weiterentwicklung der WASTX Plastic.",
+   "cooperation": false,
+   "cooperation_quote": null,
+   "eu_projects": 0,
+   "products_offered": 5,
+   "new": [
+    "accelerator program for green startups",
+    "bio-based CO2-negative bitumen binder",
+    "infectious waste decontamination plant",
+    "mobile mechanical recycling plant"
+   ],
+   "relatedness": [
+    "related",
+    "related",
+    "close",
+    "close"
+   ]
+  }
+ }
+}

@@ -1,0 +1,1 @@
+{"model": "deepseek-v4-pro", "effort": "medium", "answer": {"decisions": [{"product": "B", "probability_dropped": 15, "decision": "keep", "reason": "Given Product B remains on its own page and is close to the firm's established offer, its results likely meet the aspiration level, so the firm keeps it unless slack reallocation becomes attractive."}]}}

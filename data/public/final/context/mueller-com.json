@@ -1,0 +1,87 @@
+{
+ "slug": "mueller-com",
+ "windows": {
+  "exploration": {
+   "years": [
+    2017
+   ],
+   "industry": {
+    "turnover": "grew",
+    "rd": "less",
+    "patents": "about as",
+    "universities": "less"
+   },
+   "employees": null,
+   "hiring": false,
+   "hiring_quote": null,
+   "expansion": false,
+   "expansion_quote": null,
+   "investment": false,
+   "investment_quote": null,
+   "growth": false,
+   "growth_quote": null,
+   "difficulty": false,
+   "difficulty_quote": null,
+   "rd": false,
+   "rd_quote": null,
+   "cooperation": false,
+   "cooperation_quote": null,
+   "eu_projects": 0,
+   "products_offered": 21,
+   "new": [
+    "illuminated candle arch with sound",
+    "arched one-tier Christmas pyramid",
+    "electronic music box with interchangeable discs",
+    "motif platform for electronic music box",
+    "Christmas motif platform for music box",
+    "Christmas pyramid with Dresden theme"
+   ],
+   "relatedness": [
+    "close",
+    "close",
+    "distant",
+    "distant",
+    "distant",
+    "related"
+   ]
+  },
+  "holdout": {
+   "years": [
+    2022
+   ],
+   "industry": {
+    "turnover": "grew",
+    "rd": "about as",
+    "patents": "about as",
+    "universities": "less"
+   },
+   "employees": null,
+   "hiring": false,
+   "hiring_quote": null,
+   "expansion": false,
+   "expansion_quote": null,
+   "investment": false,
+   "investment_quote": null,
+   "growth": false,
+   "growth_quote": null,
+   "difficulty": false,
+   "difficulty_quote": null,
+   "rd": false,
+   "rd_quote": null,
+   "cooperation": false,
+   "cooperation_quote": null,
+   "eu_projects": 0,
+   "products_offered": 17,
+   "new": [
+    "electronic music box with church motif",
+    "wooden nativity stable",
+    "modern incense smoker figurine"
+   ],
+   "relatedness": [
+    "related",
+    "related",
+    "close"
+   ]
+  }
+ }
+}

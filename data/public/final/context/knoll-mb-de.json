@@ -1,0 +1,87 @@
+{
+ "slug": "knoll-mb-de",
+ "windows": {
+  "exploration": {
+   "years": [
+    2017
+   ],
+   "industry": {
+    "turnover": "grew",
+    "rd": "more",
+    "patents": "more",
+    "universities": "more"
+   },
+   "employees": null,
+   "hiring": false,
+   "hiring_quote": null,
+   "expansion": true,
+   "expansion_quote": "Pünktlich zum Jahresanfang ist sie bezugsfertig: Die neue Montagehalle mit 5.000 m² Grundfläche.",
+   "investment": true,
+   "investment_quote": "Neue Nasslackiererei Ein neues Gebäude ersetzt ab Mitte 2017 die alte Nasslackiererei. Moderne Heizungs-, Lüftungs- und Beleuchtungsanlagen sorgen dann für eine optimale Energieeffizienz.",
+   "growth": false,
+   "growth_quote": null,
+   "difficulty": false,
+   "difficulty_quote": null,
+   "rd": true,
+   "rd_quote": "At EMO 2017, the company will present a new line of pumps that incorporates KNOLL's experiences in recent years.",
+   "cooperation": false,
+   "cooperation_quote": null,
+   "eu_projects": 0,
+   "products_offered": 17,
+   "new": [
+    "minimum quantity lubrication system",
+    "hydrocyclone coolant filter",
+    "gravity band coolant filter"
+   ],
+   "relatedness": [
+    "close",
+    "related",
+    "close"
+   ]
+  },
+  "holdout": {
+   "years": [
+    2022
+   ],
+   "industry": {
+    "turnover": "grew",
+    "rd": "more",
+    "patents": "more",
+    "universities": "more"
+   },
+   "employees": 1200,
+   "hiring": false,
+   "hiring_quote": null,
+   "expansion": false,
+   "expansion_quote": null,
+   "investment": false,
+   "investment_quote": null,
+   "growth": false,
+   "growth_quote": null,
+   "difficulty": false,
+   "difficulty_quote": null,
+   "rd": true,
+   "rd_quote": "Auf der Messe DST feiert der kleinste und preiswerteste Vertreter der LubiCool®-Familie, der KNOLL LubiCool®-S, Premiere.",
+   "cooperation": false,
+   "cooperation_quote": null,
+   "eu_projects": 0,
+   "products_offered": 13,
+   "new": [
+    "coolant pressure booster system",
+    "coolant cleaning centrifuge",
+    "coolant nozzles",
+    "scraper belt chip conveyor",
+    "magnetic belt chip conveyor",
+    "hinged belt chip conveyor"
+   ],
+   "relatedness": [
+    "related",
+    "related",
+    "related",
+    "close",
+    "related",
+    "close"
+   ]
+  }
+ }
+}

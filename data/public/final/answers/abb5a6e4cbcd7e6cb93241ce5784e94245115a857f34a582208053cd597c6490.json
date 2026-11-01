@@ -1,0 +1,1 @@
+{"model": "deepseek-v4-pro", "effort": "medium", "answer": {"decisions": [{"product": "A", "probability_dropped": 10, "decision": "keep", "reason": "Product A is relatively new, was prominently featured on the homepage in 2024, and likely needs more time to establish market presence."}]}}

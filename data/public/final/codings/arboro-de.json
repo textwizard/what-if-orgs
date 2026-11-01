@@ -1,0 +1,435 @@
+{
+ "slug": "arboro-de",
+ "profiles": {
+  "exploration": {
+   "strategy": {
+    "offer": "Builds, customizes, hosts, maintains and markets online shops, adding analytics, search optimization, paid advertising, conversion improvement, marketplace connections and software extensions.",
+    "customers": "Online retailers and businesses launching or running online shops, especially those seeking expert technical support and measurable marketing growth.",
+    "why_we_win": "Specialization, end-to-end delivery and sustainable measurable optimization help clients focus on selling while improving visibility, usability, traffic and sales.",
+    "resources": "Certified specialists, experienced developers and marketers, proprietary extensions, many completed shop projects, partner network, and disciplined planning, support and continuous staff development.",
+    "direction": "Toward broader multichannel and mobile commerce support, with continually improved, individually tailored online-shop optimization."
+   },
+   "context": {
+    "size": null,
+    "founded": null,
+    "industry": "Advertising and market research"
+   },
+   "seed_year": 2017
+  },
+  "holdout": {
+   "strategy": {
+    "offer": "Full-service e-commerce services: online shop creation, customization, maintenance, hosting, analytics, conversion improvement, search marketing, social media, and marketplace or price-portal integration.",
+    "customers": "Online merchants and businesses building, relaunching, operating, or improving digital shops, from smaller firms to larger companies.",
+    "why_we_win": "It argues clients benefit from combining shop technology, marketing, usability, analytics, and support in tailored, transparent, measurable services focused on sales results.",
+    "resources": "Basis includes experienced specialists, certified developers and marketers, project and design experience across many shops, plugin and interface development, structured support processes, and partner networks.",
+    "direction": null
+   },
+   "context": {
+    "size": null,
+    "founded": null,
+    "industry": "Computer programming, consultancy and related activities"
+   },
+   "seed_year": 2022
+  }
+ },
+ "years": [
+  {
+   "year": 2017,
+   "codeable": true,
+   "products": [
+    {
+     "name": "arboro Google Analytics Plugin",
+     "generic": "a web analytics integration plugin for online shops",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Curabill - Rechnungskauf für die Schweiz",
+     "generic": "an invoice payment plugin for online shops",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Mobile Assistant",
+     "generic": "a mobile app for monitoring shop statistics",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Netto und Brutto Preise Plugin",
+     "generic": "a plugin displaying net and gross prices",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "PDF Datenblatt und Fax Bestellung",
+     "generic": "a plugin for product datasheets and fax ordering",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Shopping.com Plugin",
+     "generic": "a sales tracking plugin for price comparison portals",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    }
+   ],
+   "evidence": [],
+   "success": []
+  },
+  {
+   "year": 2018,
+   "codeable": true,
+   "products": [
+    {
+     "name": "arboro Netto Report",
+     "generic": "an e-commerce shop reporting plugin",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "arboro shoppig.com ROI Tracker",
+     "generic": "a price portal ROI tracking plugin",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "arboro Kelkoo Tracking",
+     "generic": "a price comparison portal tracking plugin",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "arboro Guenstiger.de Tracking",
+     "generic": "a price comparison portal tracking plugin",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "arboro BecomeSales Tracking",
+     "generic": "a price comparison portal tracking plugin",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "arboro Google Analytics",
+     "generic": "a web analytics integration plugin",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "arboro Netto Anzeige",
+     "generic": "a net price display shop plugin",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "arboro Google Tracking",
+     "generic": "a web analytics tracking shop plugin",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "arboro PDF Creator",
+     "generic": "a PDF generation shop plugin",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "arboro VACOS SOG ERP",
+     "generic": "an ERP system integration shop plugin",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "arboro Support- und Wartungsverträge",
+     "generic": "online shop support and maintenance contracts",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "arboro Notfall-Support",
+     "generic": "an emergency support service for online shops",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    }
+   ],
+   "evidence": [
+    {
+     "product": "arboro Support- und Wartungsverträge",
+     "type": "launch",
+     "strength": 2,
+     "quote": "Mit den neuen arboro Support- und Wartungsverträgen unterstützen wir Ihren Onlineshop zum besten Preis-Leistungsverhältnis."
+    }
+   ],
+   "success": []
+  },
+  {
+   "year": 2019,
+   "codeable": true,
+   "products": [
+    {
+     "name": "arboro SEO-Plugins",
+     "generic": "search engine optimization plugins for e-commerce shops",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    }
+   ],
+   "evidence": [],
+   "success": []
+  },
+  {
+   "year": 2022,
+   "codeable": true,
+   "products": [],
+   "evidence": [],
+   "success": []
+  },
+  {
+   "year": 2023,
+   "codeable": true,
+   "products": [
+    {
+     "name": "Google GA4 Tracking",
+     "generic": "an e-commerce shop analytics tracking plugin",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Google UA Tracking",
+     "generic": "an e-commerce shop analytics tracking plugin",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "PDF Creator",
+     "generic": "an online shop PDF document generation plugin",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Netto Anzeige",
+     "generic": "an online shop net price display plugin",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "VACOS SOG ERP",
+     "generic": "an online shop to ERP system interface",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "ROQQIO / Höltl Retail",
+     "generic": "an online shop to retail system interface",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "SEO-Shop-Relaunchbegleitung",
+     "generic": "an SEO support service for shop relaunches",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    }
+   ],
+   "evidence": [],
+   "success": []
+  },
+  {
+   "year": 2024,
+   "codeable": true,
+   "products": [
+    {
+     "name": "SEO-Shop-Relaunchbegleitung",
+     "generic": "SEO support service for online shop relaunches",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "SEO-Workshops",
+     "generic": "customized search engine optimization training workshops",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    }
+   ],
+   "evidence": [],
+   "success": []
+  },
+  {
+   "year": 2025,
+   "codeable": true,
+   "products": [
+    {
+     "name": "Google GA4 Tracking",
+     "generic": "an e-commerce analytics tracking plugin",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Google UA Tracking",
+     "generic": "an e-commerce analytics tracking plugin",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "PDF Creator",
+     "generic": "an online shop PDF document generation plugin",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Netto Anzeige",
+     "generic": "an online shop net price display plugin",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "VACOS SOG ERP",
+     "generic": "an online shop ERP system interface",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "ROQQIO / Höltl Retail",
+     "generic": "an online shop retail software interface",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    }
+   ],
+   "evidence": [],
+   "success": []
+  },
+  {
+   "year": 2026,
+   "codeable": true,
+   "products": [
+    {
+     "name": "Google GA4 Tracking",
+     "generic": "an e-commerce analytics tracking plugin",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Google UA Tracking",
+     "generic": "an e-commerce analytics tracking plugin",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "PDF Creator",
+     "generic": "an online shop PDF generation plugin",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Netto Anzeige",
+     "generic": "an online shop net price display plugin",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "VACOS SOG ERP",
+     "generic": "an online shop to ERP interface",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "ROQQIO / Höltl Retail",
+     "generic": "an online shop to retail system interface",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "SEO-Shop-Relaunchbegleitung",
+     "generic": "an SEO support service for shop relaunches",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    }
+   ],
+   "evidence": [],
+   "success": []
+  }
+ ]
+}

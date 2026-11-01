@@ -1,0 +1,1087 @@
+{
+ "slug": "rea-jet-com",
+ "profiles": {
+  "exploration": {
+   "strategy": {
+    "offer": "Customized industrial coding, marking, identification and labeling systems, plus integration, consumables, training and service for direct product and packaging marking.",
+    "customers": "Manufacturers, machine builders and logistics operators across industries needing reliable, contact-free marking, compliance, identification and traceability on varied products, packaging and surfaces.",
+    "why_we_win": "It expects to win through one-stop customized solutions, robust low-maintenance technologies, common operation across systems, certified quality, and global support for harsh environments.",
+    "resources": "Its basis is in-house development, production, assembly, service and sales, broad technology and ink expertise, over 400 employees, and distributors in more than 50 countries.",
+    "direction": "It is heading toward broader digitalization, serialization and end-to-end traceability across production chains while further expanding its worldwide sales and service network."
+   },
+   "context": {
+    "size": "large",
+    "founded": 1982,
+    "industry": "Manufacture of machinery and equipment n.e.c."
+   },
+   "seed_year": 2017
+  },
+  "holdout": {
+   "strategy": {
+    "offer": "Industrial coding and marking systems, plus service, training, accessories and consumables for direct identification of products, components and packaging.",
+    "customers": "Industrial and retail operations across sectors such as food, pharmaceuticals, packaging and materials processing needing reliable coding on varied products and surfaces.",
+    "why_we_win": "It expects to win by matching technologies to each surface and application, integrating easily into production lines, and delivering customized single-source solutions.",
+    "resources": "It cites long experience, a unified operating concept, in-house development, production and service, certified quality processes, and an international sales and support network.",
+    "direction": "It is heading toward more digitalized, production-wide identification and traceability for Industry 4.0 while further expanding global service and distribution coverage."
+   },
+   "context": {
+    "size": "large",
+    "founded": 1982,
+    "industry": "Manufacture of machinery and equipment n.e.c."
+   },
+   "seed_year": 2022
+  }
+ },
+ "years": [
+  {
+   "year": 2017,
+   "codeable": true,
+   "products": [
+    {
+     "name": "REA JET HR",
+     "generic": "a thermal inkjet high-resolution industrial coding printer",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": true
+    },
+    {
+     "name": "REA JET HR pro",
+     "generic": "a high-resolution inkjet printer controller for machine integration",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "REA JET HR pro OEM",
+     "generic": "a fully integrable inkjet printer controller for OEMs",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "REA JET GK",
+     "generic": "a piezo high-resolution inkjet printer for porous surfaces",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "REA JET CL",
+     "generic": "a CO2 laser marking system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "REA JET FL",
+     "generic": "a fiber laser marking system for metal and plastic",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "TITAN Plattform",
+     "generic": "a unified operating concept for marking systems",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "PharmaScan App",
+     "generic": "a mobile app decoding pharmaceutical packaging codes",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "REA JET Paletten Etikettierer",
+     "generic": "an automatic pallet labeling system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    }
+   ],
+   "evidence": [
+    {
+     "product": "REA JET HR",
+     "type": "investment",
+     "strength": 2,
+     "quote": "Um der hohen Nachfrage an Verbrauchsmitteln im HR-Bereich gerecht zu werden, sollten die internen Prozesse effizienter gestaltet werden."
+    }
+   ],
+   "success": []
+  },
+  {
+   "year": 2018,
+   "codeable": true,
+   "products": [
+    {
+     "name": "REA JET TITAN Plattform",
+     "generic": "unified operating platform for industrial marking systems",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": true
+    },
+    {
+     "name": "REA JET DOD 2.0",
+     "generic": "large-character drop-on-demand inkjet printer",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": true
+    },
+    {
+     "name": "REA JET GK 2.0",
+     "generic": "high-resolution piezo inkjet printer",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "REA JET HR",
+     "generic": "thermal inkjet coding printer",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "REA JET Numbering",
+     "generic": "software module for backside numbering printing",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Signier Technik",
+     "generic": "marking block systems for large characters",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "REA LABEL",
+     "generic": "industrial labelling systems",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "REA VERIFIER",
+     "generic": "optical barcode verification systems",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "REA Card",
+     "generic": "cashless payment terminal solutions",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    }
+   ],
+   "evidence": [
+    {
+     "product": "REA JET DOD 2.0",
+     "type": "launch",
+     "strength": 3,
+     "quote": "Auf der Blechexpo zeigt REA die neueste Generation der zuverlässigen Großschrift Tintenstrahldrucker. Der REA JET DOD 2.0 brilliert mit hoher Geschwindigkeit und deutlich verbesserter Haltbarkeit."
+    },
+    {
+     "product": "REA JET Numbering",
+     "type": "launch",
+     "strength": 2,
+     "quote": "REA JET erweitert sein Softwareportfolio für den digitalen Inline-Druck variabler Daten. Das neue Softwaremodul REA JET Numbering ermöglicht den..."
+    },
+    {
+     "product": "Signier Technik",
+     "type": "launch",
+     "strength": 3,
+     "quote": "NEU – neben den Tinten- und Lasersystemen kann jetzt auch die Kennzeichnung von großen Codes, Texten und Logos mit Signierblöcken aus der Produktfamilie Signier Technik über die REA JET TITAN Plattform gesteuert werden."
+    },
+    {
+     "product": "REA JET DOD 2.0",
+     "type": "result",
+     "strength": 1,
+     "quote": "Bei der Holzbeschriftung in rauer Umgebung hat sich der Großschrift Tintenstrahldrucker REA JET DOD 2.0 bewährt, der noch weiter verbessert wurde"
+    }
+   ],
+   "success": []
+  },
+  {
+   "year": 2019,
+   "codeable": true,
+   "products": [
+    {
+     "name": "REA JET DOD 2.0",
+     "generic": "a large character industrial inkjet printer",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "REA JET HR",
+     "generic": "a high resolution thermal inkjet coding system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "REA JET HR pro",
+     "generic": "a high resolution inkjet printer for machine integration",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "REA JET HR pro OEM",
+     "generic": "a fully integrated OEM high resolution inkjet controller",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "REA JET GK",
+     "generic": "a high resolution piezo inkjet printer",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "REA JET GK 2.0",
+     "generic": "a new generation high resolution piezo inkjet printer",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "REA JET CL",
+     "generic": "a CO2 laser marking system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "REA JET FL",
+     "generic": "a fiber laser marking system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "REA JET TITAN Plattform",
+     "generic": "a cross-technology operating and interface platform for marking systems",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": true
+    },
+    {
+     "name": "REA CodeScan App",
+     "generic": "a mobile app for decoding product codes",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "REA JET Numbering",
+     "generic": "a software module for backside numbering printing",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    }
+   ],
+   "evidence": [
+    {
+     "product": "REA JET DOD 2.0",
+     "type": "launch",
+     "strength": 2,
+     "quote": "Mit der neuen Generation der Großschrift Tintenstrahldrucker DOD 2.0 haben wir unsere Drucksysteme weiter verbessert."
+    },
+    {
+     "product": "REA JET GK 2.0",
+     "type": "launch",
+     "strength": 2,
+     "quote": "Die neue Generation der hochauflösenden Kennzeichnungssystemen REA JET GK 2.0"
+    },
+    {
+     "product": "REA JET Numbering",
+     "type": "launch",
+     "strength": 2,
+     "quote": "REA JET expands its software portfolio for the digital inline printing of variable data. The new REA JET Numbering software module enables the secure..."
+    },
+    {
+     "product": "REA CodeScan App",
+     "type": "launch",
+     "strength": 2,
+     "quote": "CodeScan from REA is the indispensable App for decoding codes. As the successor to the PharmaScan App, we have expanded the focus"
+    }
+   ],
+   "success": []
+  },
+  {
+   "year": 2022,
+   "codeable": true,
+   "products": [
+    {
+     "name": "Großschrift Tintenstrahldrucker DOD 2.0",
+     "generic": "a large character drop-on-demand inkjet printer",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": true
+    },
+    {
+     "name": "REA JET TITAN Plattform",
+     "generic": "a cross-technology operating and controller platform for marking systems",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": true
+    },
+    {
+     "name": "REA JET HR",
+     "generic": "a high-resolution industrial inkjet printer",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "REA LABEL",
+     "generic": "industrial labelling systems",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": true
+    },
+    {
+     "name": "REA VERIFIER",
+     "generic": "barcode and matrix code verification systems",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": true
+    },
+    {
+     "name": "REA CARD",
+     "generic": "a cashless payment solution for checkouts",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": true
+    },
+    {
+     "name": "REA LabelTower",
+     "generic": "a label and packaging inspection station",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "REA VeriCube",
+     "generic": "a stand accessory for code verification",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "TransWin 32",
+     "generic": "configuration software for code verification devices",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    }
+   ],
+   "evidence": [
+    {
+     "product": "Großschrift Tintenstrahldrucker DOD 2.0",
+     "type": "launch",
+     "strength": 2,
+     "quote": "Mit der neuen Generation der Großschrift Tintenstrahldrucker DOD 2.0 haben wir unsere Drucksysteme weiter verbessert."
+    }
+   ],
+   "success": []
+  },
+  {
+   "year": 2023,
+   "codeable": true,
+   "products": [
+    {
+     "name": "REA JET TITAN Plattform",
+     "generic": "cross-technology operating platform for marking systems",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": true
+    },
+    {
+     "name": "REA TITAN Controller",
+     "generic": "controller for industrial coding and marking printers",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "REA JET CL",
+     "generic": "CO2 laser marking system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "REA JET FL",
+     "generic": "fiber laser marking system for metal, plastic",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "REA JET Laser Safety Enclosures",
+     "generic": "enclosed manual laser marking workstation",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "REA LabelTower",
+     "generic": "label inspection and verification station",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "REA LABEL",
+     "generic": "labeling systems brand",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "REA VERIFIER",
+     "generic": "barcode and code verification systems",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "REA CARD",
+     "generic": "card-related systems brand",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    }
+   ],
+   "evidence": [],
+   "success": []
+  },
+  {
+   "year": 2024,
+   "codeable": true,
+   "products": [
+    {
+     "name": "REA JET",
+     "generic": "industrial coding and marking systems",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": true
+    },
+    {
+     "name": "REA LABEL",
+     "generic": "industrial labeling systems",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": true
+    },
+    {
+     "name": "REA LASER",
+     "generic": "industrial laser marking systems",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": true
+    },
+    {
+     "name": "REA VERIFIER",
+     "generic": "1D and 2D code verification systems",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": true
+    },
+    {
+     "name": "REA LASER LC400",
+     "generic": "compact laser marking cabin",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "REA JET HR-Lube",
+     "generic": "high-resolution lubricant printing system for sheet metal",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "REA TITAN Controller",
+     "generic": "cross-device operating controller for marking systems",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "REA LabelTower",
+     "generic": "label and code inspection station",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "REA JET HR 2.0",
+     "generic": "high-resolution thermal inkjet printer",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "REA JET HR",
+     "generic": "high-resolution thermal inkjet printer series",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "REA JET HR pro OEM",
+     "generic": "integrable inkjet printer controller for machine builders",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "REA JET UP",
+     "generic": "high-resolution piezo inkjet printer",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "REA JET CL",
+     "generic": "CO2 laser marking system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "REA JET FL",
+     "generic": "fiber laser marking system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "REA JET Laser Safety Enclosures",
+     "generic": "manual laser marking workstation enclosure",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Universal Touch Controller",
+     "generic": "touchscreen controller for inkjet printers",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    }
+   ],
+   "evidence": [
+    {
+     "product": "REA JET HR-Lube",
+     "type": "result",
+     "strength": 3,
+     "quote": "The REA JET HR-Lube system was awarded with the Best Award at the Blechexpo 2023 trade fair."
+    },
+    {
+     "product": "REA LASER LC400",
+     "type": "launch",
+     "strength": 2,
+     "quote": "New: REA LASER LC400 laser cabin"
+    }
+   ],
+   "success": []
+  },
+  {
+   "year": 2025,
+   "codeable": true,
+   "products": [
+    {
+     "name": "REA JET DOD 2.0",
+     "generic": "a large-character drop-on-demand inkjet printer",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "REA JET 1.X",
+     "generic": "a large-character industrial inkjet printer",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "REA JET HR 2.0",
+     "generic": "a high-resolution thermal inkjet printer",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "REA JET HR 1.0",
+     "generic": "a high-resolution thermal inkjet printer",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "REA JET HR pro OEM",
+     "generic": "an inkjet printer controller for machine integration",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "REA JET UP",
+     "generic": "a high-resolution piezo inkjet direct printing system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "REA JET GK 2.0",
+     "generic": "a piezo inkjet marking system for porous surfaces",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "REA JET SC 2.0",
+     "generic": "an inkjet coder for non-absorbent surfaces",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "REA LABEL Etikettenspender",
+     "generic": "a label dispenser for pre-printed labels",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "REA LABEL DS",
+     "generic": "a print and apply labeling system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "REA LASER CL",
+     "generic": "a CO2 laser marking system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "REA LASER CL IP65",
+     "generic": "a protected CO2 laser marker for harsh environments",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "REA LASER FL",
+     "generic": "a fiber laser marking system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "REA LASER Markierstation",
+     "generic": "an enclosed class 1 laser marking station",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "REA VeriCube",
+     "generic": "a barcode and matrix code verifier",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "REA VeriMax",
+     "generic": "an inline code verification system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "REA VeriMax Mobile",
+     "generic": "a portable matrix code verifier",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "REA ScanCheck 3",
+     "generic": "a portable battery-operated barcode verifier",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "REA PC Scan/LD4",
+     "generic": "a high-precision barcode verification system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "REA Check ER",
+     "generic": "a portable battery-powered barcode verifier",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "REA JET Label Creator",
+     "generic": "a print layout design software",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "REA ScanLink",
+     "generic": "a code data structure analysis software",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "REA Artikeldatenbank",
+     "generic": "an article database extension for code verifiers",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Audit Trail Software",
+     "generic": "an audit trail extension for code verifiers",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    }
+   ],
+   "evidence": [],
+   "success": []
+  },
+  {
+   "year": 2026,
+   "codeable": true,
+   "products": [
+    {
+     "name": "REA JET DOD 2.0",
+     "generic": "large-character drop-on-demand industrial inkjet printer",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "REA JET 1.X",
+     "generic": "large-character industrial inkjet printer",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "REA JET HR 2.0",
+     "generic": "high-resolution thermal inkjet printer",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "REA JET UP",
+     "generic": "high-resolution piezo inkjet direct printing system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "REA JET GK 2.0",
+     "generic": "piezo inkjet marking system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "REA LABEL DS",
+     "generic": "automatic label print and apply system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "REA LABEL DLS",
+     "generic": "inline pass-through label printer applicator",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "REA LASER CL",
+     "generic": "CO2 laser marking system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "REA LASER CL IP65",
+     "generic": "dust- and water-protected CO2 marking laser",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "REA LASER CL 100W",
+     "generic": "high-power CO2 marking laser",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "REA LASER FL",
+     "generic": "fiber laser marking system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "REA VeriCube",
+     "generic": "barcode and matrix code verification device",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "REA VeriCube DF",
+     "generic": "code verifier with diffuse lighting",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "REA VeriMax",
+     "generic": "inline code verification system for production lines",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "REA VeriMax Mobile",
+     "generic": "portable tablet-based code verification device",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "REA PC-Scan LD4",
+     "generic": "PC-connected 1D barcode verifier",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "REA ScanCheck 3",
+     "generic": "portable 1D barcode verifier",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "REA Check ER",
+     "generic": "simple handheld barcode verifier",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "REA JET Label Creator",
+     "generic": "print layout design software for marking systems",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "REA ScanLink",
+     "generic": "code data structure analysis software",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "REA Artikeldatenbank",
+     "generic": "article database extension for code verifiers",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "REA JET",
+     "generic": "brand of ink-based industrial coding systems",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": true
+    },
+    {
+     "name": "REA LABEL",
+     "generic": "brand of industrial labeling systems",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": true
+    },
+    {
+     "name": "REA LASER",
+     "generic": "brand of industrial laser marking systems",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": true
+    },
+    {
+     "name": "REA VERIFIER",
+     "generic": "brand of barcode verification systems",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": true
+    }
+   ],
+   "evidence": [
+    {
+     "product": "REA JET HR 2.0",
+     "type": "launch",
+     "strength": 1,
+     "quote": "Dieses Drucksystem ist die neueste Produktgeneration unserer hochauflösenden Tintenstrahldrucker"
+    },
+    {
+     "product": "REA JET DOD 2.0",
+     "type": "launch",
+     "strength": 1,
+     "quote": "das ist unser REA JET DOD 2.0 Großschrift-Tintenstrahldrucker der neuesten Generation"
+    }
+   ],
+   "success": []
+  }
+ ]
+}

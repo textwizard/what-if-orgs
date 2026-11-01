@@ -1,0 +1,1 @@
+{"model": "deepseek-v4-pro", "effort": "medium", "answer": {"decisions": [{"product": "A", "probability_dropped": 8, "decision": "keep", "reason": "Product A is close to the firm's established trailer knowledge and benefits from its in-house R&D, so the firm can interpret results, learn, and improve it, making a drop unlikely."}]}}

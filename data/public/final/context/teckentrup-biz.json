@@ -1,0 +1,93 @@
+{
+ "slug": "teckentrup-biz",
+ "windows": {
+  "exploration": {
+   "years": [
+    2017
+   ],
+   "industry": {
+    "turnover": "grew",
+    "rd": "about as",
+    "patents": "about as",
+    "universities": "about as"
+   },
+   "employees": 850,
+   "hiring": false,
+   "hiring_quote": null,
+   "expansion": false,
+   "expansion_quote": null,
+   "investment": false,
+   "investment_quote": null,
+   "growth": false,
+   "growth_quote": null,
+   "difficulty": false,
+   "difficulty_quote": null,
+   "rd": false,
+   "rd_quote": null,
+   "cooperation": false,
+   "cooperation_quote": null,
+   "eu_projects": 0,
+   "products_offered": 9,
+   "new": [
+    "garage door operators",
+    "industrial sectional and special door range",
+    "fire protection sliding door",
+    "fire-resistant steel door",
+    "insulated industrial sectional door",
+    "glazed industrial sectional door"
+   ],
+   "relatedness": [
+    "related",
+    "related",
+    "related",
+    "close",
+    "related",
+    "close"
+   ]
+  },
+  "holdout": {
+   "years": [
+    2022
+   ],
+   "industry": {
+    "turnover": "grew",
+    "rd": "about as",
+    "patents": "about as",
+    "universities": "about as"
+   },
+   "employees": 900,
+   "hiring": false,
+   "hiring_quote": null,
+   "expansion": false,
+   "expansion_quote": null,
+   "investment": false,
+   "investment_quote": null,
+   "growth": false,
+   "growth_quote": null,
+   "difficulty": false,
+   "difficulty_quote": null,
+   "rd": true,
+   "rd_quote": "Das Tor einfach nach außen öffnen – ohne Platzverlust in der Garage: Dies gelingt mit dem neuen, zweigeteilten Drehflügeltor von Teckentrup",
+   "cooperation": false,
+   "cooperation_quote": null,
+   "eu_projects": 0,
+   "products_offered": 4,
+   "new": [
+    "fifteen-day express delivery program",
+    "seventy-two-hour express delivery program",
+    "fire-resistant steel exterior door",
+    "express delivery program for doors and gates",
+    "online ordering and digital services platform",
+    "fire and smoke protection door"
+   ],
+   "relatedness": [
+    "close",
+    "close",
+    "close",
+    "close",
+    "related",
+    "close"
+   ]
+  }
+ }
+}

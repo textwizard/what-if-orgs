@@ -1,0 +1,1 @@
+{"model": "deepseek-v4-pro", "effort": "medium", "answer": {"decisions": [{"product": "A", "probability_dropped": 15, "decision": "keep", "reason": "The offshore vessel management service is still a recently launched option with unresolved market uncertainty and relatively low cost to keep, so the firm should retain the option rather than abandon it prematurely."}]}}

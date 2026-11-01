@@ -1,0 +1,1151 @@
+{
+ "slug": "retarus-com",
+ "profiles": {
+  "exploration": {
+   "strategy": {
+    "offer": "Managed cloud communication services for secure business messaging, integration, security, archiving, file exchange, and electronic document workflows across multiple channels.",
+    "customers": "Businesses, public institutions, and channel partners needing reliable, compliant, high-volume communications in critical or regulated processes across industries.",
+    "why_we_win": "The firm argues it wins through reliable, secure, globally available services, easy integration, flexible service levels, transparent usage-based pricing, and continuous innovation.",
+    "resources": "Its basis is messaging expertise, proprietary data centers, developed interfaces, technical and support teams, partner enablement, and sustained research and development investment.",
+    "direction": "It is heading toward more innovative enterprise messaging that supports digital business processes, better customer experience, and broader global, multichannel cloud adoption."
+   },
+   "context": {
+    "size": null,
+    "founded": null,
+    "industry": "Information service activities"
+   },
+   "seed_year": 2017
+  },
+  "holdout": {
+   "strategy": {
+    "offer": "Cloud platforms and managed services for secure business communication, including email security, fax, messaging, EDI, document capture, process automation, archiving, and integration.",
+    "customers": "Mid-sized and large enterprises, global corporations, and technology service providers that need secure, integrated communication and information exchange in critical workflows.",
+    "why_we_win": "By offering one highly available, compliant cloud environment that secures and automates multiple communication channels, integrates easily with existing systems, and reduces manual effort.",
+    "resources": "Self-developed cloud technology, proprietary data centers, standard interfaces and APIs, global operational footprint, multilingual technical support, and expertise in hosted communication services.",
+    "direction": "Toward broader enterprise cloud communications that make business processes more reliable, efficient, flexible, automated, transparent, and compliant worldwide."
+   },
+   "context": {
+    "size": "large",
+    "founded": 1992,
+    "industry": "Computer programming, consultancy and related activities"
+   },
+   "seed_year": 2022
+  }
+ },
+ "years": [
+  {
+   "year": 2017,
+   "codeable": true,
+   "products": [
+    {
+     "name": "Enterprise E-Mail Archive",
+     "generic": "a cloud-based long-term email archiving service",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "eSign",
+     "generic": "an electronic invoicing service with digital signatures",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "eSign Online Archive",
+     "generic": "an online archive for signed electronic invoices",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Fax2EDI",
+     "generic": "a fax-to-EDI conversion service using OCR",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "E-Mail Encryption",
+     "generic": "a managed email encryption service",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "E-Mail Security",
+     "generic": "a managed email anti-spam and antivirus service",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Managed Web Security",
+     "generic": "a managed web access security service",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Patient Zero Detection",
+     "generic": "a notification service for previously unknown malware",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Faxolution for SAP",
+     "generic": "a cloud fax service integrated with ERP systems",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Fax Cloud",
+     "generic": "a cloud-based enterprise fax service",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    }
+   ],
+   "evidence": [
+    {
+     "product": "Faxolution for SAP",
+     "type": "result",
+     "strength": 2,
+     "quote": "With Retarus Faxolution for SAP we have a flexible and scalable solution, without having to invest in and administer in-house hardware and software."
+    },
+    {
+     "product": "eSign",
+     "type": "result",
+     "strength": 2,
+     "quote": "The Retarus invoicing solution offers us all the advantages of electronic invoicing using Software as a Service."
+    }
+   ],
+   "success": []
+  },
+  {
+   "year": 2018,
+   "codeable": true,
+   "products": [
+    {
+     "name": "Retarus Advanced Threat Protection",
+     "generic": "email sandboxing protection against malicious attachments",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Retarus Attachment Blocker",
+     "generic": "email attachment blocking service",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Retarus CxO Fraud Detection",
+     "generic": "email spear-phishing and CEO fraud detection",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Retarus AntiVirus MultiScan",
+     "generic": "multi-engine email virus scanning service",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Retarus Postdelivery Protection",
+     "generic": "post-delivery email malware and phishing screening",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Retarus Email for Applications",
+     "generic": "transactional and marketing email delivery service",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": true
+    },
+    {
+     "name": "Retarus Cloud Fax Services",
+     "generic": "cloud-based fax sending and receiving service",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": true
+    },
+    {
+     "name": "Mail2Fax & Fax2Mail",
+     "generic": "email-to-fax and fax-to-email service",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Retarus Enterprise E-Mail Archive",
+     "generic": "compliant cloud email archiving service",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Retarus E-Mail Encryption",
+     "generic": "gateway-based email encryption service",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "E-Mail Security & Compliance Services",
+     "generic": "cloud email security and compliance service suite",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": true
+    },
+    {
+     "name": "Retarus WebExpress",
+     "generic": "web platform for bulk email, fax, SMS",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Retarus Business Integration Services",
+     "generic": "B2B EDI integration service",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Enterprise SMS Services",
+     "generic": "business SMS service for desktop and applications",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Retarus SMS for Applications",
+     "generic": "API-based application SMS messaging service",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Retarus NTP Services",
+     "generic": "internet time synchronization service",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Retarus E-Mail Services",
+     "generic": "API-based email sending service",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Intelligent Document Recognition",
+     "generic": "automated document digitization and recognition service",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    }
+   ],
+   "evidence": [
+    {
+     "product": "Retarus SMS for Applications",
+     "type": "result",
+     "strength": 2,
+     "quote": "Following the adoption of Retarus SMS for Applications, Zyllem has experienced increased customer and partner satisfaction as communications became more efficient"
+    }
+   ],
+   "success": []
+  },
+  {
+   "year": 2019,
+   "codeable": true,
+   "products": [
+    {
+     "name": "Retarus Advanced Threat Protection",
+     "generic": "email sandboxing malware protection service",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Retarus Attachment Blocker",
+     "generic": "email attachment blocking service",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Retarus CxO Fraud Detection",
+     "generic": "email spoofing fraud detection service",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Retarus Cloud Fax Services",
+     "generic": "cloud-based fax sending and receiving service",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": true
+    },
+    {
+     "name": "Retarus Email for Applications",
+     "generic": "high-volume transactional email delivery service",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": true
+    },
+    {
+     "name": "Retarus Managed Capture Services",
+     "generic": "document capture and order digitization service",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Intelligent Document Recognition",
+     "generic": "handwriting and document recognition technology",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Enterprise SMS Services",
+     "generic": "enterprise SMS messaging service",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "WebExpress",
+     "generic": "web-based multichannel mass messaging platform",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Retarus Email Security",
+     "generic": "cloud email security filtering service",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": true
+    },
+    {
+     "name": "Retarus Email Encryption",
+     "generic": "email encryption service",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Enterprise Email Archive",
+     "generic": "long-term email archiving service",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Email Continuity",
+     "generic": "email availability backup service",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Managed EDI Services",
+     "generic": "managed electronic data interchange service",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "EDI Industry Solutions",
+     "generic": "preconfigured industry-specific EDI solutions",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Managed File Transfer",
+     "generic": "secure multiprotocol file transfer service",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Retarus eSign",
+     "generic": "electronic invoice signing and archiving service",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Electronic Invoicing",
+     "generic": "electronic invoicing service",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Web EDI",
+     "generic": "web-based EDI portal",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Mail2Fax & Fax2Mail",
+     "generic": "email-to-fax and fax-to-email service",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Retarus Communications Platform",
+     "generic": "cloud platform for email, fax, SMS integration",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": true
+    },
+    {
+     "name": "Retarus Secure Email Platform",
+     "generic": "integrated secure business email platform",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": true
+    },
+    {
+     "name": "Retarus Business Integration Platform",
+     "generic": "business data integration platform",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": true
+    },
+    {
+     "name": "Retarus Enterprise Cloud",
+     "generic": "enterprise cloud for business communication",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": true
+    }
+   ],
+   "evidence": [
+    {
+     "product": "Retarus Managed Capture Services",
+     "type": "result",
+     "strength": 2,
+     "quote": "For digital communications which are not subject to media disruption, the company has opted for Retarus’ Managed Capture Services."
+    },
+    {
+     "product": "Retarus Cloud Fax Services",
+     "type": "result",
+     "strength": 3,
+     "quote": "At just one of its German hubs, the air transport company sends and receives 140,000 fax pages a month."
+    }
+   ],
+   "success": []
+  },
+  {
+   "year": 2022,
+   "codeable": true,
+   "products": [
+    {
+     "name": "Secure Email Platform",
+     "generic": "a cloud email security platform",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": true
+    },
+    {
+     "name": "Messaging Platform",
+     "generic": "a cloud enterprise messaging platform",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": true
+    },
+    {
+     "name": "Intelligent Capture Services",
+     "generic": "a cloud document capture and recognition service",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Managed EDI Services",
+     "generic": "a managed electronic data interchange service",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "WebConnect for Suppliers",
+     "generic": "a web portal for supplier document exchange",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Mail2Fax & Fax2Mail",
+     "generic": "an email-to-fax and fax-to-email service",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Fax over VOIP",
+     "generic": "a cloud fax service over IP telephony",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Cloud Fax Services",
+     "generic": "a cloud fax transmission service",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "WebExpress",
+     "generic": "a web-based multichannel messaging portal",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Email Security Services",
+     "generic": "a cloud email antivirus and antispam service",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Enterprise Email Archive",
+     "generic": "a cloud email archiving service",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Email Encryption",
+     "generic": "a gateway-based email encryption service",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Intelligent Document Recognition",
+     "generic": "a document text and layout recognition engine",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "EDI Cloud",
+     "generic": "a cloud electronic data interchange service",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    }
+   ],
+   "evidence": [
+    {
+     "product": "Secure Email Platform",
+     "type": "result",
+     "strength": 2,
+     "quote": "Retarus’ results: two times “positive” and four times “strong positive”. The Secure Email Platform enhances data protection and compliance significantly"
+    },
+    {
+     "product": "Intelligent Capture Services",
+     "type": "result",
+     "strength": 2,
+     "quote": "For digital communications which are not subject to media disruption, the company has opted for Retarus’ Intelligent Capture Services."
+    },
+    {
+     "product": "Managed EDI Services",
+     "type": "result",
+     "strength": 3,
+     "quote": "It has already been using Retarus’ Managed EDI Services for several years to bill clients for its consulting services. To this end, the firm sends around 2,500 invoices a month"
+    },
+    {
+     "product": "Fax over VOIP",
+     "type": "launch",
+     "strength": 1,
+     "quote": "And Retarus has a solution for this too, try out the new Fax over VOIP."
+    }
+   ],
+   "success": []
+  },
+  {
+   "year": 2023,
+   "codeable": true,
+   "products": [
+    {
+     "name": "Retarus Secure Email Platform",
+     "generic": "a cloud email security and delivery platform",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": true
+    },
+    {
+     "name": "Retarus Messaging Platform",
+     "generic": "a cloud messaging platform for fax and SMS",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": true
+    },
+    {
+     "name": "Retarus Integration and Automation",
+     "generic": "a cloud document and EDI integration platform",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": true
+    },
+    {
+     "name": "Retarus Transactional Email",
+     "generic": "a high-volume transactional email sending service",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": true
+    },
+    {
+     "name": "Intelligent Capture Services",
+     "generic": "an automated document data capture service",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "WebConnect for Suppliers",
+     "generic": "a web portal connecting non-EDI suppliers",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Mail2Fax & Fax2Mail",
+     "generic": "an email-to-fax and fax-to-email service",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Fax over VOIP",
+     "generic": "a cloud fax service over IP telephony",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Retarus WebExpress",
+     "generic": "a web portal for multichannel mass messaging",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Retarus Cloud Fax Services",
+     "generic": "a cloud-based fax sending and receiving service",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Retarus Email Security Services",
+     "generic": "an antivirus and antispam email filtering service",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Retarus Enterprise Email Archive",
+     "generic": "an audit-compliant cloud email archiving service",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Retarus Email Encryption",
+     "generic": "a gateway-based email encryption service",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Enterprise Services",
+     "generic": "a premium support and SLA service",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    }
+   ],
+   "evidence": [
+    {
+     "product": "Intelligent Capture Services",
+     "type": "result",
+     "strength": 3,
+     "quote": "Retarus is listed as a Representative Vendor in the 2022 Gartner® Market Guide"
+    },
+    {
+     "product": "Fax over VOIP",
+     "type": "launch",
+     "strength": 2,
+     "quote": "And Retarus has a solution for this too, try out the new Fax over VOIP."
+    },
+    {
+     "product": "Retarus Secure Email Platform",
+     "type": "result",
+     "strength": 2,
+     "quote": "Find out why you need to have Retarus Secure Email Platform on your radar for securing your communications."
+    }
+   ],
+   "success": []
+  },
+  {
+   "year": 2024,
+   "codeable": true,
+   "products": [
+    {
+     "name": "Email API",
+     "generic": "a cloud API for sending transactional emails",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": true
+    },
+    {
+     "name": "Retarus Secure Email Platform",
+     "generic": "a cloud email security and delivery platform",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": true
+    },
+    {
+     "name": "Retarus Messaging Platform",
+     "generic": "a cloud messaging platform for fax, SMS, email",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Retarus Intelligent Document Processing",
+     "generic": "an AI-based document capture and order processing service",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Retarus WebConnect for Suppliers",
+     "generic": "a web portal connecting non-EDI suppliers",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Retarus Cloud EDI Integration",
+     "generic": "a cloud electronic data interchange integration service",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Retarus WebExpress",
+     "generic": "a web-based multichannel mass messaging portal",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Retarus Cloud Fax Services",
+     "generic": "a cloud fax sending and receiving service",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    }
+   ],
+   "evidence": [
+    {
+     "product": "Retarus Intelligent Document Processing",
+     "type": "result",
+     "strength": 2,
+     "quote": "Engelbert Strauss captures orders received via email with Retarus’ IDP solution."
+    },
+    {
+     "product": "Retarus Cloud EDI Integration",
+     "type": "result",
+     "strength": 2,
+     "quote": "Within the scope of a new project, Retarus now also facilitates the reporting of VAT to the Hungarian authorities, including the mandatory long-term archiving."
+    }
+   ],
+   "success": []
+  },
+  {
+   "year": 2025,
+   "codeable": true,
+   "products": [
+    {
+     "name": "Retarus WebExpress",
+     "generic": "web-based multichannel messaging platform for email, fax, SMS",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Retarus Intelligent Document Processing",
+     "generic": "cloud service for automated document capture and processing",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Retarus Cloud Fax",
+     "generic": "cloud-based fax sending and receiving service",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": true
+    },
+    {
+     "name": "Cloud Fax Connector for Epic",
+     "generic": "connector for sending faxes from EHR systems",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Cloud Fax add-in",
+     "generic": "email client add-in for cloud faxing",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Transactional Email",
+     "generic": "cloud service for high-volume transactional email delivery",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Predelivery Logic",
+     "generic": "email policy engine for rule-based processing",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Retarus Enterprise Cloud for Healthcare",
+     "generic": "cloud messaging services suite for healthcare",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Email Security & Compliance",
+     "generic": "email security gateway against viruses and spam",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Retarus Integration and Automation",
+     "generic": "cloud EDI and e-invoicing integration services",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    }
+   ],
+   "evidence": [],
+   "success": []
+  },
+  {
+   "year": 2026,
+   "codeable": true,
+   "products": [
+    {
+     "name": "Transactional Email",
+     "generic": "cloud service for high-volume application email delivery",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": true
+    },
+    {
+     "name": "Cloud Fax Connector for Epic",
+     "generic": "connector for faxing from electronic health records",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": true
+    },
+    {
+     "name": "Cloud Fax add-in for Outlook",
+     "generic": "email client add-in for sending faxes",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": true
+    },
+    {
+     "name": "Enterprise Cloud Fax",
+     "generic": "cloud-based enterprise fax service",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Trace & Recover",
+     "generic": "short-term storage and resend service for emails",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Secure Email Platform",
+     "generic": "modular cloud email security and management platform",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Secure Email Gateway",
+     "generic": "cloud email gateway filtering spam and malware",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Email Security Connector",
+     "generic": "connector integrating email security into cloud mailboxes",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Business Process Solutions",
+     "generic": "cloud services automating document exchange in supply chains",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Enterprise SMS",
+     "generic": "enterprise cloud SMS messaging service",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "SMS-for-Applications",
+     "generic": "outbound SMS API for applications",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "SMS-to-Applications",
+     "generic": "inbound SMS API for applications",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Email-to-SMS",
+     "generic": "gateway converting emails into outbound SMS",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "SMS-to-Email",
+     "generic": "gateway forwarding inbound SMS as email",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "WebExpress",
+     "generic": "web portal for fax, email, SMS broadcasts",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "SMS Connector for Salesforce",
+     "generic": "CRM connector for sending SMS",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "SMS Connector for SAP",
+     "generic": "ERP connector for outbound SMS",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "SMPP Connector",
+     "generic": "protocol connector for sending and receiving SMS",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Branded RCS for SMS",
+     "generic": "connector for branded rich mobile messaging",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "DirSync Client for Windows",
+     "generic": "directory synchronization client software",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "NeverBusy Technology",
+     "generic": "fax queuing function improving delivery rates",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "myEAS portal",
+     "generic": "web-based customer administration portal for messaging services",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    }
+   ],
+   "evidence": [],
+   "success": []
+  }
+ ]
+}

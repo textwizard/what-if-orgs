@@ -1,0 +1,1 @@
+{"model": "deepseek-v4-pro", "effort": "medium", "answer": {"decisions": [{"product": "B", "probability_dropped": 30, "decision": "keep", "reason": "The ERP interface plugin retains option value as a low-cost extension of the firm's established shop services, and its longer-term demand remains uncertain enough to justify keeping it open."}]}}

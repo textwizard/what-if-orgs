@@ -1,0 +1,1 @@
+{"model": "deepseek-v4-pro", "effort": "medium", "answer": {"decisions": [{"product": "A", "probability_dropped": 10, "decision": "keep", "reason": "Given the product is close to the firm's established offer, no performance shortfall is reported, and organizational slack allows carrying it while results remain uncertain."}]}}

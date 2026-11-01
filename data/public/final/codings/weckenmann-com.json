@@ -1,0 +1,994 @@
+{
+ "slug": "weckenmann-com",
+ "profiles": {
+  "exploration": {
+   "strategy": {
+    "offer": "Integrated equipment, software, formwork, consulting, installation, maintenance, and retrofit services for setting up, automating, and operating factories producing prefabricated building components.",
+    "customers": "Manufacturers of prefabricated building elements, construction groups, and investors needing efficient fixed or mobile production close to projects.",
+    "why_we_win": "They expect to win through customer-centered, tailored systems that combine high quality, efficient processes, automation, and lifecycle support.",
+    "resources": "Basis includes experienced engineering and planning, broad modular technology, continuous research, integrated manufacturing, and trained employees encouraged to take responsibility.",
+    "direction": "Pursue sustainable, planned growth by developing new technologies and products, expanding automation, and preserving long-term independence through responsible operations."
+   },
+   "context": {
+    "size": "medium",
+    "founded": 1957,
+    "industry": "Manufacture of machinery and equipment n.e.c."
+   },
+   "seed_year": 2017
+  },
+  "holdout": {
+   "strategy": {
+    "offer": "Integrated equipment, software, consulting, financing, spare parts, modernization, and lifecycle support for precast concrete manufacturing plants.",
+    "customers": "Precast concrete producers, plant operators, and investors needing efficient production for residential, industrial, infrastructure, and housing construction.",
+    "why_we_win": "They combine planning, machinery, formwork, controls, startup support, and service into coordinated, tailored solutions that improve quality, standardization, uptime, and investment security.",
+    "resources": "In-house engineering, manufacturing, planning, and control capabilities, broad product range, research experience, service technicians, and an international sales and support network.",
+    "direction": "Advancing future-ready, automated precast production to meet growing urban construction and affordable housing needs."
+   },
+   "context": {
+    "size": null,
+    "founded": 1957,
+    "industry": "Manufacture of machinery and equipment n.e.c."
+   },
+   "seed_year": 2022
+  }
+ },
+ "years": [
+  {
+   "year": 2017,
+   "codeable": true,
+   "products": [
+    {
+     "name": "Mobile Battery Mold: MBM®",
+     "generic": "a mobile battery mould for on-site precast production",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": true
+    },
+    {
+     "name": "M-Basis-/M-Top-Serie",
+     "generic": "a modular magnetic shuttering profile system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "X-Basis-/X-Top-Serie",
+     "generic": "a modular shuttering profile system with top profiles",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "X-Side-Serie",
+     "generic": "a modular steel shuttering system for door and window openings",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "X-Uni System",
+     "generic": "a shuttering system using timber panels",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "WAvision",
+     "generic": "a modular master computer control system for precast plants",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    }
+   ],
+   "evidence": [
+    {
+     "product": "WAvision",
+     "type": "launch",
+     "strength": 1,
+     "quote": "Für die Betonfertigteilproduktion hat Weckenmann mit WAvision jetzt ein Steuerungstool entwickelt, das sämtliche im Unternehmen vorhandene Daten nutzt"
+    }
+   ],
+   "success": []
+  },
+  {
+   "year": 2018,
+   "codeable": true,
+   "products": [
+    {
+     "name": "Gravimatic",
+     "generic": "automated flow control for concrete distributors",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "MBM",
+     "generic": "a mobile battery mould for precast concrete",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": true
+    },
+    {
+     "name": "WAvision",
+     "generic": "a control software for precast production",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "A series",
+     "generic": "a formwork profile system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "M series",
+     "generic": "a formwork profile system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "M-Basis/ M-Top series",
+     "generic": "a formwork profile system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "X-Basis/X-Top series",
+     "generic": "a formwork profile system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "X-Uni series",
+     "generic": "a formwork profile system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "X-Uni-S series",
+     "generic": "a formwork profile system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "X-Gap",
+     "generic": "a magnetic formwork system component",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "X-Smart",
+     "generic": "a magnetic formwork system component",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "X-Corner",
+     "generic": "a magnetic formwork system component",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "X-Quick",
+     "generic": "a magnetic formwork system component",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Magnetbox M",
+     "generic": "a shuttering magnet box",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Magnetblock ML / MR",
+     "generic": "a shuttering magnet block",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    }
+   ],
+   "evidence": [
+    {
+     "product": "MBM",
+     "type": "result",
+     "strength": 3,
+     "quote": "Die Weckenmann Anlagentechnik GmbH & Co. KG ist für ihre mobile Batterieschalung MBM® mit dem Innovationspreis des Landes Baden-Württemberg geeh…"
+    }
+   ],
+   "success": []
+  },
+  {
+   "year": 2019,
+   "codeable": true,
+   "products": [
+    {
+     "name": "MBM mobile battery mould",
+     "generic": "a transportable battery mould for precast concrete",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": true
+    },
+    {
+     "name": "WAvision",
+     "generic": "a control software for precast production sequences",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "MagVib",
+     "generic": "a high-frequency concrete vibration table",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "A series",
+     "generic": "a shuttering profile system for precast concrete",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "M series",
+     "generic": "a shuttering profile system for precast concrete",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "M-Basis/ M-Top series",
+     "generic": "a shuttering profile system for precast concrete",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "X-Basis/X-Top series",
+     "generic": "a shuttering profile system for precast concrete",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "X-Uni series",
+     "generic": "a shuttering profile system for precast concrete",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "X-Uni-S series",
+     "generic": "a shuttering profile system for precast concrete",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "X-Gap",
+     "generic": "a formwork system accessory",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "X-Smart",
+     "generic": "a formwork system accessory",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "X-Corner",
+     "generic": "a formwork corner element",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "X-Quick",
+     "generic": "a formwork system accessory",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "磁盒 M",
+     "generic": "a shuttering magnet box",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "磁块ML / MR",
+     "generic": "shuttering magnet blocks",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    }
+   ],
+   "evidence": [],
+   "success": []
+  },
+  {
+   "year": 2022,
+   "codeable": true,
+   "products": [
+    {
+     "name": "A-Serie",
+     "generic": "formwork profile series for precast concrete",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "M-Serie",
+     "generic": "magnetic box formwork profiles for solid precast elements",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "M-Basis-/M-Top-Serie",
+     "generic": "modular base and extension formwork profiles",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "X-Basis-/X-Top-Serie",
+     "generic": "modular formwork profiles for varying element thicknesses",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "X-Uni-Serie",
+     "generic": "magnetic fixing system for wooden formwork panels",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "X-Uni-S-Serie",
+     "generic": "modular steel formwork for door and window frames",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "X-Multi",
+     "generic": "modular magnetic fastening system for timber formwork",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "X-Gap",
+     "generic": "formwork profile extension supplement system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "X-Smart",
+     "generic": "formwork profile connection supplement system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "X-Corner",
+     "generic": "corner element for formwork systems",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "X-Quick",
+     "generic": "quick fixing accessory for formwork systems",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Magnetboxen M",
+     "generic": "shuttering magnet boxes",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Magnetleisten ML und MR",
+     "generic": "magnetic formwork strips",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "WAvision",
+     "generic": "master computer control software for precast production",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "MBM",
+     "generic": "mobile battery mould production system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": true
+    }
+   ],
+   "evidence": [],
+   "success": []
+  },
+  {
+   "year": 2023,
+   "codeable": true,
+   "products": [
+    {
+     "name": "A-Serie",
+     "generic": "shuttering profile system for precast concrete",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "M-Serie",
+     "generic": "robot-compatible shuttering profiles with integrated magnets",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "M-Basis-/M-Top-Serie",
+     "generic": "modular base and top shuttering profile system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "X-Basis-/X-Top-Serie",
+     "generic": "modular base and top shuttering profile system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "X-Uni-Serie",
+     "generic": "shuttering profile system for precast concrete",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "X-Uni-S-Serie",
+     "generic": "shuttering profile system for precast concrete",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "X-Multi",
+     "generic": "multi-purpose shuttering profile system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "X-Gap",
+     "generic": "shuttering system for precast concrete",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "X-Smart",
+     "generic": "shuttering system for precast concrete",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "X-Corner",
+     "generic": "corner shuttering system for precast concrete",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "X-Quick",
+     "generic": "shuttering system for precast concrete",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Magnetboxen M",
+     "generic": "magnetic box for fixing formwork",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Magnetleisten ML und MR",
+     "generic": "magnetic formwork strips",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Gravimatic",
+     "generic": "automated gravimetric fresh concrete dosing technology",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "WAvision",
+     "generic": "main computer for precast production control",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Schalungsroboter Serie R3",
+     "generic": "automatic shuttering robot",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Entschalroboter Serie E3",
+     "generic": "automatic de-shuttering robot",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Ein- und Entschalroboter Serie RE3",
+     "generic": "combined shuttering and de-shuttering robot",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Magazinierer Serie M3",
+     "generic": "robot for storing shuttering profiles",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Mobile Batterieschalung (MBM)",
+     "generic": "mobile battery mould for precast walls",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    }
+   ],
+   "evidence": [],
+   "success": []
+  },
+  {
+   "year": 2024,
+   "codeable": true,
+   "products": [
+    {
+     "name": "WAvisionplus",
+     "generic": "modular control software for precast concrete plants",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": true
+    },
+    {
+     "name": "ProductionManager",
+     "generic": "production planning and order management software module",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "ProductionController",
+     "generic": "production visualization and monitoring software module",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "ProductionAnalyzer",
+     "generic": "production analysis and reporting software module",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Webflow",
+     "generic": "mobile process monitoring software function",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Gravimatic",
+     "generic": "automated concrete dosing technology for distributors",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "RP / RPÖ-Gerät",
+     "generic": "combined plotting, cleaning and oiling machine",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "MRP / MRPÖ-Gerät",
+     "generic": "combined magazining, cleaning and plotting machine",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "A-Serie",
+     "generic": "shuttering profile system for precast concrete",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "M-Serie",
+     "generic": "shuttering profile system with integrated magnets",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "M-Basis-/M-Top-Serie",
+     "generic": "modular shuttering profiles for variable formwork heights",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "X-Basis-/X-Top-Serie",
+     "generic": "modular shuttering profile system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "X-Uni-Serie",
+     "generic": "magnetic fixing system for timber formwork",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "X-Uni-S-Serie",
+     "generic": "magnetic fixing system for formwork panels",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "X-Multi",
+     "generic": "shuttering system for precast concrete",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "X-Gap",
+     "generic": "magnetic shuttering accessory",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "X-Smart",
+     "generic": "magnetic shuttering accessory",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "X-Corner",
+     "generic": "magnetic shuttering corner accessory",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "X-Quick",
+     "generic": "magnetic shuttering accessory",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Magnetboxen M",
+     "generic": "shuttering magnet boxes",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Magnetleisten ML und MR",
+     "generic": "magnetic shuttering strips",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Mobile Battery Mould (MBM)",
+     "generic": "transportable battery mould for on-site precast production",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    }
+   ],
+   "evidence": [
+    {
+     "product": "WAvisionplus",
+     "type": "launch",
+     "strength": 1,
+     "quote": "Die neue Generation des etablierten Leitrechnersystems zur Prozesssteuerung und -analyse „WAvisionplus“ präsentiert sich inzwischen als modulare Steuerungslösung"
+    }
+   ],
+   "success": []
+  },
+  {
+   "year": 2025,
+   "codeable": true,
+   "products": [
+    {
+     "name": "Mobile Batterieschalung MBM®",
+     "generic": "a mobile battery mould for on-site precast production",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": true
+    },
+    {
+     "name": "A-Serie",
+     "generic": "shuttering profile series for precast concrete",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "M-Serie",
+     "generic": "shuttering profile series for precast concrete",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "M-Basis-/M-Top-Serie",
+     "generic": "shuttering profile series for precast concrete",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "X-Basis-/X-Top-Serie",
+     "generic": "shuttering profile series for precast concrete",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "X-Uni-Serie",
+     "generic": "shuttering profile series for precast concrete",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "X-Uni-S-Serie",
+     "generic": "shuttering profile series for precast concrete",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "X-Multi",
+     "generic": "multifunctional shuttering profile system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "X-Gap",
+     "generic": "magnetic shuttering system for precast elements",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "X-Smart",
+     "generic": "magnetic shuttering system for precast elements",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "X-Corner",
+     "generic": "corner shuttering system for precast elements",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "X-Quick",
+     "generic": "quick-change shuttering system for precast elements",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Magnetboxen M",
+     "generic": "shuttering magnet boxes",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Magnetleisten ML und MR",
+     "generic": "magnetic shuttering strips",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "WAvisionplus",
+     "generic": "master computer system for precast production control",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "MRP / MRPÖ-Gerät",
+     "generic": "combined plotting, cleaning and shuttering storage machine",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "RP / RPÖ-Gerät",
+     "generic": "combined plotter with cleaning and oiling units",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    }
+   ],
+   "evidence": [],
+   "success": []
+  }
+ ]
+}

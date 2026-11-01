@@ -1,0 +1,87 @@
+{
+ "slug": "ictseurope-com",
+ "windows": {
+  "exploration": {
+   "years": [
+    2017
+   ],
+   "industry": {
+    "turnover": "grew",
+    "rd": "less",
+    "patents": "less",
+    "universities": "less"
+   },
+   "employees": null,
+   "hiring": false,
+   "hiring_quote": null,
+   "expansion": false,
+   "expansion_quote": null,
+   "investment": false,
+   "investment_quote": null,
+   "growth": false,
+   "growth_quote": null,
+   "difficulty": false,
+   "difficulty_quote": null,
+   "rd": false,
+   "rd_quote": null,
+   "cooperation": false,
+   "cooperation_quote": null,
+   "eu_projects": 0,
+   "products_offered": 9,
+   "new": [
+    "passenger check-in mobile app",
+    "passenger processing technology",
+    "self-service airline check-in solution"
+   ],
+   "relatedness": [
+    "related",
+    "related",
+    "related"
+   ]
+  },
+  "holdout": {
+   "years": [
+    2022
+   ],
+   "industry": {
+    "turnover": "grew",
+    "rd": "about as",
+    "patents": "about as",
+    "universities": "less"
+   },
+   "employees": null,
+   "hiring": false,
+   "hiring_quote": null,
+   "expansion": true,
+   "expansion_quote": "31 October 2022 - ICTS Germany takes over the Deutsche Bahn AG contract i…",
+   "investment": false,
+   "investment_quote": null,
+   "growth": false,
+   "growth_quote": null,
+   "difficulty": false,
+   "difficulty_quote": null,
+   "rd": false,
+   "rd_quote": null,
+   "cooperation": false,
+   "cooperation_quote": null,
+   "eu_projects": 0,
+   "products_offered": 8,
+   "new": [
+    "passenger data transmission solution",
+    "travel health requirements api",
+    "cyber security awareness training module",
+    "behaviour analysis security system",
+    "passenger security profiling method",
+    "travel and document verification web platform"
+   ],
+   "relatedness": [
+    "close",
+    "related",
+    "close",
+    "related",
+    "related",
+    "close"
+   ]
+  }
+ }
+}

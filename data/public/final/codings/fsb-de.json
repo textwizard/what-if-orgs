@@ -1,0 +1,1577 @@
+{
+ "slug": "fsb-de",
+ "profiles": {
+  "exploration": {
+   "strategy": {
+    "offer": "Architectural hardware and system solutions for doors, windows and interiors, including electronic access control, safety-compliant fittings, and barrier-free bathroom and living products.",
+    "customers": "Architects, planners, builders, building owners and residential or project developers needing design-led, compliant, secure and accessible fittings for varied building types.",
+    "why_we_win": "It expects to win through combining design quality, ergonomics, durable materials, regulatory compliance, technical innovation and system breadth across complexity and budget levels.",
+    "resources": "Its basis is innovation management, scientific and ergonomic design know-how, patented engineering, certified product systems, sophisticated fixing technology, quality materials and skilled staff.",
+    "direction": "It is moving toward broader integrated system families, especially digital building organization and more affordable accessible solutions for projects ranging from simple to complex."
+   },
+   "context": {
+    "size": "large",
+    "founded": null,
+    "industry": "Manufacture of fabricated metal products, except machinery and equipment"
+   },
+   "seed_year": 2017
+  },
+  "holdout": {
+   "strategy": {
+    "offer": "Integrated architectural hardware and accessibility systems for doors, windows, bathrooms and access points, including safety, hygiene, fire-rated, emergency-exit and electronic entry solutions.",
+    "customers": "Architects, planners, investors, builders, installers, stockists and end customers equipping residential, commercial, public, hospitality, education and care environments.",
+    "why_we_win": "It argues that human-centered, architecture-aware design plus durable quality, compliance, sustainability and coordinated product families create superior value and planning confidence.",
+    "resources": "It cites decades of expertise, proprietary engineering and finishing, high-grade metals, broad certified ranges, ergonomic know-how, detailed planning support and in-house manufacturing.",
+    "direction": "It is extending one-stop, barrier-free and hygiene-focused system solutions while advancing sustainable materials documentation and electronic access capabilities."
+   },
+   "context": {
+    "size": null,
+    "founded": null,
+    "industry": "Manufacture of fabricated metal products, except machinery and equipment"
+   },
+   "seed_year": 2022
+  }
+ },
+ "years": [
+  {
+   "year": 2017,
+   "codeable": true,
+   "products": [
+    {
+     "name": "ErgoSystem®",
+     "generic": "barrier-free grab rail and bathroom fittings system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": true
+    },
+    {
+     "name": "ErgoSystem® E300",
+     "generic": "premium barrier-free sanitary grab handle range",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "ErgoSystem® A100",
+     "generic": "budget barrier-free sanitary grab handle range",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "METRIC®",
+     "generic": "barrier-free living fittings range",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Zutrittsmanagement M/T/F",
+     "generic": "electronic access control door hardware system family",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": true
+    },
+    {
+     "name": "M100",
+     "generic": "card-programmed electronic access door fitting",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "M300",
+     "generic": "online-capable electronic access control system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "M500",
+     "generic": "online/offline data-on-card access control system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "T300",
+     "generic": "access control system for complex buildings",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "F100 / F200 / F300",
+     "generic": "door handle with integrated fingerprint scanner",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "FSB M Access Management Software",
+     "generic": "access rights management software",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "AGL®",
+     "generic": "door handle bearing technology",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "AGL® FS",
+     "generic": "fire door handle bearing technology",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "FSB ASL®",
+     "generic": "concealed door handle bearing and rose",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Transitions",
+     "generic": "budget forged brass door lever series",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": true
+    },
+    {
+     "name": "Premium Series",
+     "generic": "stainless steel and bronze door furniture series",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Elements Series",
+     "generic": "anodized aluminium door furniture series",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "SML",
+     "generic": "standard mortise lock series",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "NML",
+     "generic": "narrow mortise lock series",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "HLL",
+     "generic": "tubular lock series",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "SLL",
+     "generic": "sliding door lever lock series",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    }
+   ],
+   "evidence": [
+    {
+     "product": "Zutrittsmanagement M/T/F",
+     "type": "result",
+     "strength": 3,
+     "quote": "Dezember 2017 Elektronische Zutrittsmanagement-Systeme von FSB gewinnen den Architects’ Darling Award 2017 Silber"
+    },
+    {
+     "product": "FSB ASL®",
+     "type": "launch",
+     "strength": 3,
+     "quote": "As of 1 April 2017, only the new ASL rose will be supplied with FSB North America locksets."
+    },
+    {
+     "product": "Transitions",
+     "type": "launch",
+     "strength": 2,
+     "quote": "FSB has introduced a new series of German manufactured door furniture called Transitions."
+    }
+   ],
+   "success": []
+  },
+  {
+   "year": 2018,
+   "codeable": true,
+   "products": [
+    {
+     "name": "L700 LightAccess Pro",
+     "generic": "electronic door access system with light-based technology",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": true
+    },
+    {
+     "name": "M500",
+     "generic": "online/offline electronic access control system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "M100",
+     "generic": "entry-level card-programmed electronic door access fitting",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "F100 | 200 | 300",
+     "generic": "door handles with fingerprint scanner",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "ErgoSystem®",
+     "generic": "barrier-free sanitary grab rail and accessory system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": true
+    },
+    {
+     "name": "ErgoSystem® A100",
+     "generic": "aluminium barrier-free bathroom handrail system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "ErgoSystem® E300",
+     "generic": "stainless steel barrier-free bathroom handrail system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "METRIC® Bad-Accessoires",
+     "generic": "bathroom accessory series",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "AGL®",
+     "generic": "compensating bearing technology for door lever fittings",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "ASL®",
+     "generic": "adapter technology for interior door handle fittings",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    }
+   ],
+   "evidence": [
+    {
+     "product": "L700 LightAccess Pro",
+     "type": "launch",
+     "strength": 2,
+     "quote": "Das neue L700 System vereint die Vorteile der elektronischen Zutrittskontrolle mit einer am Markt einzigartigen Licht-Technologie."
+    },
+    {
+     "product": "ErgoSystem®",
+     "type": "result",
+     "strength": 1,
+     "quote": "Dass wir auch in Hotels der ersten Kategorie und in öffentlichen wie privaten Gebäuden Einzug gehalten haben, ist dafür ein eindrücklicher Beweis."
+    }
+   ],
+   "success": []
+  },
+  {
+   "year": 2019,
+   "codeable": true,
+   "products": [
+    {
+     "name": "L700 LightAccess Pro",
+     "generic": "light-based electronic door access control system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": true
+    },
+    {
+     "name": "M500",
+     "generic": "online/offline electronic access management system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "M100",
+     "generic": "entry-level card-programmed electronic door fitting",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "F100 | 200 | 300",
+     "generic": "door handles with fingerprint scanner",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "ErgoSystem® A100",
+     "generic": "aluminium barrier-free sanitary grab rail system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": true
+    },
+    {
+     "name": "ErgoSystem® E300",
+     "generic": "stainless steel barrier-free sanitary grab rail system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "METRIC®",
+     "generic": "bathroom accessory series",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "AGL®",
+     "generic": "compensating bearing technology for door handles",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "ASL®",
+     "generic": "adapter mounting technology for interior door handles",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "FSB Access Management Software",
+     "generic": "software for programming electronic access systems",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Door Hardware Specification Service",
+     "generic": "door hardware specification and planning service",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Handmade – Customised solutions",
+     "generic": "custom-made door and window fittings service",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    }
+   ],
+   "evidence": [
+    {
+     "product": "L700 LightAccess Pro",
+     "type": "launch",
+     "strength": 2,
+     "quote": "Das neue L700 LightAccess Pro System vereint die Vorteile der elektronischen Zutrittskontrolle mit einer am Markt einzigartigen Licht-Technologie."
+    }
+   ],
+   "success": []
+  },
+  {
+   "year": 2022,
+   "codeable": true,
+   "products": [
+    {
+     "name": "FSB 1287",
+     "generic": "a hygienic forearm-operated door lever handle",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": true
+    },
+    {
+     "name": "FSB Anti-Infection Coating (AIC)",
+     "generic": "an antibacterial coating for door hardware",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "ErgoSystem® E300",
+     "generic": "a stainless steel barrier-free bathroom grab system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": true
+    },
+    {
+     "name": "ErgoSystem® A100",
+     "generic": "an aluminium barrier-free sanitary grab system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": true
+    },
+    {
+     "name": "A-Flex",
+     "generic": "removable modular mounting for bathroom support components",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "AGL®",
+     "generic": "a compensating bearing technology for door levers",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "AGL® FS",
+     "generic": "a bearing technology for fire-safety door fittings",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "ASL®",
+     "generic": "an adaptor bearing system for interior door levers",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Design + Security",
+     "generic": "a series of security fittings for entrance doors",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "FSB 73 7376",
+     "generic": "a security fitting for main-entrance doors",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "FSB 1242",
+     "generic": "a designer door and window handle family",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "FSB 1267",
+     "generic": "a designer door and window handle family",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "FSB 1271",
+     "generic": "a designer door and window handle family",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "FSB 1285",
+     "generic": "a door handle family with accessories",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "FSB 1147",
+     "generic": "a door lever handle set",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    }
+   ],
+   "evidence": [
+    {
+     "product": "FSB 1287",
+     "type": "launch",
+     "strength": 2,
+     "quote": "Der neue Türdrücker wird serienmäßig mit FSB Anti-Infection Coating (AIC) ausgeliefert."
+    },
+    {
+     "product": "FSB 1147",
+     "type": "result",
+     "strength": 2,
+     "quote": "FSB 1147 für das neue Bauhaus-Museum in Weimar"
+    },
+    {
+     "product": "FSB 1242",
+     "type": "launch",
+     "strength": 2,
+     "quote": "Das Griffprogramm ist in der Materialausführung Bronze und ab sofort auch in Aluminium und Edelstahl erhältlich."
+    },
+    {
+     "product": "FSB 1267",
+     "type": "launch",
+     "strength": 2,
+     "quote": "FSB 1267 ist erhältlich in den Materialausführungen Aluminium, Bronze und - jetzt neu - in Edelstahl."
+    },
+    {
+     "product": "FSB 1271",
+     "type": "launch",
+     "strength": 2,
+     "quote": "Das gilt auch für das neue Modell FSB 1271 von Jürgen Engel."
+    },
+    {
+     "product": "FSB 1285",
+     "type": "launch",
+     "strength": 2,
+     "quote": "Das gilt auch für das neue Modell FSB 1285 von Matteo Thun und Antonio Rodriguez."
+    },
+    {
+     "product": "FSB 73 7376",
+     "type": "result",
+     "strength": 2,
+     "quote": "the FSB 73 7376 model was given a mark of 1.8 by Germany’s product testing o"
+    }
+   ],
+   "success": []
+  },
+  {
+   "year": 2023,
+   "codeable": true,
+   "products": [
+    {
+     "name": "FSB 1287",
+     "generic": "an ergonomic forearm-operated door lever handle",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": true
+    },
+    {
+     "name": "ErgoSystem®",
+     "generic": "a barrier-free sanitary grab rail system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": true
+    },
+    {
+     "name": "ErgoSystem® E300",
+     "generic": "a stainless steel barrier-free sanitary system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "ErgoSystem® A100",
+     "generic": "an aluminium budget barrier-free sanitary system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "METRIC®",
+     "generic": "a barrier-free sanitary fittings range",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "FSB Anti-Infection Coating (AIC)",
+     "generic": "an antibacterial coating for metal hardware",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "FSB AGL®",
+     "generic": "a compensating bearing technology for heavy-duty handles",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "FSB ASL®",
+     "generic": "an adaptor bearing technology for door handles",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "FSB Handmade",
+     "generic": "a custom-made door and window hardware service",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "S-Flat",
+     "generic": "a series of flat square door push handles",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "FSB 1289",
+     "generic": "a door and window handle product collection",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Les Couleurs® Le Corbusier",
+     "generic": "a coloured door hardware collection",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "FSB 1305",
+     "generic": "a designer door lever handle",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "FSB 1267",
+     "generic": "a door lever handle range",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "FSB 1144",
+     "generic": "a designer door lever handle",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "FSB 1004",
+     "generic": "a classic door lever handle",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "FSB 1285",
+     "generic": "a heavy-duty door handle range",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "FSB 1271",
+     "generic": "a geometric door lever handle",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "FSB 1155",
+     "generic": "a multifunctional door lever handle",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "FSB 1147",
+     "generic": "a door handle product series",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "FSB 1242",
+     "generic": "a door lever handle",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "FSB 1244",
+     "generic": "a door lever handle",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Design + Security",
+     "generic": "a series of security entrance door fittings",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "FSB 73 7376",
+     "generic": "a security fitting for entrance doors",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    }
+   ],
+   "evidence": [
+    {
+     "product": "FSB 1289",
+     "type": "result",
+     "strength": 3,
+     "quote": "FSB 1289 model wins 2023 German Design Award"
+    },
+    {
+     "product": "FSB 1289",
+     "type": "launch",
+     "strength": 2,
+     "quote": "The new FSB 1289 product collection"
+    },
+    {
+     "product": "FSB 1285",
+     "type": "launch",
+     "strength": 2,
+     "quote": "FSB 1285 Civic/Commercial range now with matching accessories"
+    },
+    {
+     "product": "Les Couleurs® Le Corbusier",
+     "type": "launch",
+     "strength": 1,
+     "quote": "FSB's Les Couleurs® Le Corbusier completes the trio of elements of outstanding design"
+    },
+    {
+     "product": "FSB 1287",
+     "type": "launch",
+     "strength": 1,
+     "quote": "Der neue Türdrücker wird serienmäßig mit FSB Anti-Infection Coating (AIC) ausgeliefert."
+    },
+    {
+     "product": "FSB Anti-Infection Coating (AIC)",
+     "type": "launch",
+     "strength": 1,
+     "quote": "empfiehlt sich die neue antibakterielle Beschichtung für Oberflächen: FSB Anti-Infection Coating (AIC)"
+    }
+   ],
+   "success": []
+  },
+  {
+   "year": 2024,
+   "codeable": true,
+   "products": [
+    {
+     "name": "ErgoSystem®",
+     "generic": "barrier-free sanitary grab rail and accessory system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": true
+    },
+    {
+     "name": "ErgoSystem® E300",
+     "generic": "stainless steel barrier-free sanitary support system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": true
+    },
+    {
+     "name": "ErgoSystem® A100",
+     "generic": "aluminium budget barrier-free sanitary support system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "METRIC®",
+     "generic": "stainless steel bathroom accessories series",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "FSB 1291",
+     "generic": "door and window handle design",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "FSB 1292",
+     "generic": "door and window handle design",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Aluminium Pure",
+     "generic": "aluminium surface finish for door hardware",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Les Couleurs® Le Corbusier",
+     "generic": "colour finish range for door handles",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "FSB 1289",
+     "generic": "door handle product family",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Neugedachte Klassiker",
+     "generic": "series of reissued classic door handles",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "FSB 1163",
+     "generic": "door handle model",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "FSB 1147",
+     "generic": "door handle model",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "FSB 1305",
+     "generic": "door lever handle model",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "FSB 1267",
+     "generic": "door handle model",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "FSB 1144",
+     "generic": "door handle model",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "FSB 1004",
+     "generic": "door handle model",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "FSB 1271",
+     "generic": "door handle model",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "FSB 1285",
+     "generic": "door handle family with accessories",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "FSB 1287",
+     "generic": "ergonomic door lever handle",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "FSB 1155",
+     "generic": "multifunctional door lever handle",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "FSB Anti-Infection Coating",
+     "generic": "antimicrobial coating for handles",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "FSB ASL®",
+     "generic": "door fitting adapter mounting technology",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "FSB AGL",
+     "generic": "heavy-duty compensating bearing door handle technology",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "FSB 96 2399",
+     "generic": "anti-ligature door knob set",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "FSB 96 7099",
+     "generic": "anti-ligature door lever set",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "FSB Stangenbeschlag 77 7980",
+     "generic": "panic door push bar fitting",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    }
+   ],
+   "evidence": [
+    {
+     "product": "FSB 1289",
+     "type": "result",
+     "strength": 3,
+     "quote": "FSB 1289 mit dem iF DESIGN AWARD 2023 prämiert"
+    },
+    {
+     "product": "FSB 1289",
+     "type": "result",
+     "strength": 3,
+     "quote": "Das Modell FSB 1289 gewinnt den German Design Award 2023"
+    },
+    {
+     "product": "FSB 1291",
+     "type": "launch",
+     "strength": 2,
+     "quote": "FSB 1291 und FSB 1292 – Die neuen Tür- und Fenstergriffe von Foster + Partners Industrial Design"
+    },
+    {
+     "product": "FSB 1292",
+     "type": "launch",
+     "strength": 2,
+     "quote": "FSB 1291 und FSB 1292 – Die neuen Tür- und Fenstergriffe von Foster + Partners Industrial Design"
+    },
+    {
+     "product": "Aluminium Pure",
+     "type": "launch",
+     "strength": 2,
+     "quote": "Aluminium Pure von FSB: eine wegweisende Neuerung, ein neuer Look"
+    },
+    {
+     "product": "Les Couleurs® Le Corbusier",
+     "type": "launch",
+     "strength": 1,
+     "quote": "Mit Les Couleurs® Le Corbusier vervollständigt FSB den Dreiklang für gutes Desig"
+    }
+   ],
+   "success": []
+  },
+  {
+   "year": 2025,
+   "codeable": true,
+   "products": [
+    {
+     "name": "FSB AFL®",
+     "generic": "flush-mounted door handle bearing system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": true
+    },
+    {
+     "name": "FSB ASL®",
+     "generic": "standard bearing door handle set with adapter",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "FSB AGL®",
+     "generic": "heavy-duty compensating bearing door handle set",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "FSB 1291",
+     "generic": "architect-designed door and window handle",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "FSB 1292",
+     "generic": "architect-designed door and window handle family",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": true
+    },
+    {
+     "name": "FSB 1289",
+     "generic": "minimalist door handle product family",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Aluminium Pure",
+     "generic": "resource-saving aluminium surface finish for hardware",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": true
+    },
+    {
+     "name": "Les Couleurs® Le Corbusier®",
+     "generic": "colour-coated finish range for door hardware",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "FSB + JUNG",
+     "generic": "colour-matched door handles and light switches",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "ErgoSystem®",
+     "generic": "barrier-free door hardware system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "SecuFast®",
+     "generic": "tamper-proof screw fixing technology for fittings",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "FSB 7615",
+     "generic": "light patinated bronze surface finish",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "FSB 7625",
+     "generic": "dark patinated bronze surface finish",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "FSB System Components",
+     "generic": "modular hardware system components",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "FSB Türenfachplanung",
+     "generic": "door specification and planning service",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "FSB 1106",
+     "generic": "door handle design",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "FSB 1023",
+     "generic": "door handle design",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "FSB 1045",
+     "generic": "door handle design",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "FSB 1159",
+     "generic": "door handle design",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "FSB 1254",
+     "generic": "door handle design",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "FSB 1004",
+     "generic": "door handle design",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "FSB 1108",
+     "generic": "door handle design",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    }
+   ],
+   "evidence": [
+    {
+     "product": "FSB AFL®",
+     "type": "launch",
+     "strength": 2,
+     "quote": "Mit FSB AFL® erweitert FSB das Produktsortiment um flächenbündige Beschlaglösungen kombinierbar mit jedem Türdrückerdesign von FSB"
+    },
+    {
+     "product": "FSB 1292",
+     "type": "launch",
+     "strength": 2,
+     "quote": "FSB 1291 und FSB 1292: Die neuen Tür- und Fenstergriffe von Foster + Partners Industrial Design"
+    },
+    {
+     "product": "FSB 1291",
+     "type": "launch",
+     "strength": 2,
+     "quote": "FSB 1291 und FSB 1292: Die neuen Tür- und Fenstergriffe von Foster + Partners Industrial Design"
+    },
+    {
+     "product": "Aluminium Pure",
+     "type": "launch",
+     "strength": 2,
+     "quote": "Aluminium Pure für alle Produktfamilien: Ein neuer Standard fürs Sortiment"
+    },
+    {
+     "product": "Aluminium Pure",
+     "type": "launch",
+     "strength": 1,
+     "quote": "FSB beweist Zukunftsfähigkeit durch Innovation und Nachhaltigkeit, wie unlängst mit der ressourcenschonenden Oberfläche Aluminium Pure."
+    }
+   ],
+   "success": []
+  },
+  {
+   "year": 2026,
+   "codeable": true,
+   "products": [
+    {
+     "name": "FSB 1294",
+     "generic": "architectural door lever handle product family",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": true
+    },
+    {
+     "name": "FSB 1078",
+     "generic": "architectural door lever handle product family",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "FSB 1226",
+     "generic": "architectural door lever handle product family",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "FSB 1230",
+     "generic": "door lever and window handle product family",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "FSB 1291",
+     "generic": "door lever and window handle product family",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "FSB 1292",
+     "generic": "door lever and window handle product family",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "FSB 1289",
+     "generic": "door lever handle product family",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "FSB 1138",
+     "generic": "designer door lever handle product family",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "FSB AFL®",
+     "generic": "flush-mounted door hardware bearing system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "FSB AGL®",
+     "generic": "door lever set bearing system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "FSB ASL®",
+     "generic": "door lever set bearing system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Aluminium Pure",
+     "generic": "resource-saving non-anodised aluminium surface finish",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": true
+    },
+    {
+     "name": "FSB Les Couleurs® Le Corbusier®",
+     "generic": "colored door hardware in architectural palette",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "FSB 1267",
+     "generic": "door lever handle product family",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "FSB 1076",
+     "generic": "mitred door lever handle product family",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "FSB 1004",
+     "generic": "door lever handle product family",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "FSB 1147",
+     "generic": "door lever handle product family",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "FSB 1244",
+     "generic": "door lever handle product family",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "FSB 1015",
+     "generic": "door lever handle product family",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "FSB 1016",
+     "generic": "door lever handle product family",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "FSB 1003",
+     "generic": "door lever handle product family",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "FSB 1005",
+     "generic": "door lever handle product family",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "FSB 1058",
+     "generic": "door lever handle product family",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "FSB 1102",
+     "generic": "door lever handle product family",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "FSB 1106",
+     "generic": "door lever handle product family",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "FSB 1146",
+     "generic": "door lever handle product family",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "FSB 1163",
+     "generic": "door lever handle product family",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "FSB 1183",
+     "generic": "door lever handle product family",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    }
+   ],
+   "evidence": [
+    {
+     "product": "FSB 1294",
+     "type": "launch",
+     "strength": 3,
+     "quote": "Mit FSB 1294 hat das österreichische Architekturbüro Baumschlager Eberle Architekten + Mathias Hahn 2026 eine Produktfamilie entworfen"
+    },
+    {
+     "product": "Aluminium Pure",
+     "type": "launch",
+     "strength": 2,
+     "quote": "Aluminum Pure available for all Product Families: A New Standard for our Entire Product Range"
+    },
+    {
+     "product": "FSB 1291",
+     "type": "launch",
+     "strength": 2,
+     "quote": "FSB 1291 and FSB 1292: The new lever and window handles from Foster + Partners Industrial Design"
+    },
+    {
+     "product": "FSB 1292",
+     "type": "launch",
+     "strength": 2,
+     "quote": "FSB 1291 and FSB 1292: The new lever and window handles from Foster + Partners Industrial Design"
+    }
+   ],
+   "success": []
+  }
+ ]
+}

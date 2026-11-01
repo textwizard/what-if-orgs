@@ -1,0 +1,87 @@
+{
+ "slug": "fks-hamburg-de",
+ "windows": {
+  "exploration": {
+   "years": [
+    2017
+   ],
+   "industry": {
+    "turnover": "grew",
+    "rd": "less",
+    "patents": "about as",
+    "universities": "less"
+   },
+   "employees": null,
+   "hiring": false,
+   "hiring_quote": null,
+   "expansion": false,
+   "expansion_quote": null,
+   "investment": false,
+   "investment_quote": null,
+   "growth": false,
+   "growth_quote": null,
+   "difficulty": false,
+   "difficulty_quote": null,
+   "rd": false,
+   "rd_quote": null,
+   "cooperation": false,
+   "cooperation_quote": null,
+   "eu_projects": 0,
+   "products_offered": 30,
+   "new": [
+    "perfect binder",
+    "fully automatic perfect binder",
+    "booklet maker for inline and nearline"
+   ],
+   "relatedness": [
+    "close",
+    "close",
+    "close"
+   ]
+  },
+  "holdout": {
+   "years": [
+    2022
+   ],
+   "industry": {
+    "turnover": "grew",
+    "rd": "about as",
+    "patents": "about as",
+    "universities": "about as"
+   },
+   "employees": null,
+   "hiring": false,
+   "hiring_quote": null,
+   "expansion": false,
+   "expansion_quote": null,
+   "investment": false,
+   "investment_quote": null,
+   "growth": false,
+   "growth_quote": null,
+   "difficulty": false,
+   "difficulty_quote": null,
+   "rd": false,
+   "rd_quote": null,
+   "cooperation": false,
+   "cooperation_quote": null,
+   "eu_projects": 0,
+   "products_offered": 23,
+   "new": [
+    "cutting and creasing finisher",
+    "UV spot varnishing system",
+    "sheet preparation module",
+    "B2-format multifinisher system",
+    "hybrid saddle stitcher",
+    "folding add-on unit"
+   ],
+   "relatedness": [
+    "close",
+    "distant",
+    "related",
+    "close",
+    "close",
+    "close"
+   ]
+  }
+ }
+}

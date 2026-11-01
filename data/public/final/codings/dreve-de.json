@@ -1,0 +1,2065 @@
+{
+ "slug": "dreve-de",
+ "profiles": {
+  "exploration": {
+   "strategy": {
+    "offer": "Custom medical devices, materials, care products, equipment, digital manufacturing solutions, and related services and training for laboratory and clinical workflows.",
+    "customers": "Dental laboratories, clinical practices, hearing-care retailers, and end users, served through specialist trade channels in many international markets.",
+    "why_we_win": "It expects to win through continuous innovation, early adoption of digital production, reliable quality, process precision, and personal service.",
+    "resources": "Its base is skilled custom-device manufacturing, in-house research and development, motivated employees, certified quality systems, and international production and distribution capabilities.",
+    "direction": "The company is moving toward broader digital manufacturing and sustained organic international growth while continuing to launch innovative quality products."
+   },
+   "context": {
+    "size": "large",
+    "founded": 1949,
+    "industry": "Other manufacturing"
+   },
+   "seed_year": 2017
+  },
+  "holdout": {
+   "strategy": {
+    "offer": "Medical technology materials, equipment, digital manufacturing solutions, and support services for dental work, hearing-system fitting, and device care.",
+    "customers": "Dental practices and laboratories, hearing-care professionals and laboratories, large device manufacturers, and other specialist medical-technology users.",
+    "why_we_win": "It expects to win through continuously improved, integrated systems delivering precise, durable, biocompatible results, efficient workflows, and dependable support across customers’ processes.",
+    "resources": "Long experience, in-house laboratories, research and development, qualified staff, selected raw materials, digital production know-how, and certified medical-device manufacturing processes.",
+    "direction": "It is expanding digital, automated production, increasing capacity, improving sustainability, maintaining fast turnaround, and securing regulatory certification to keep launching innovative products."
+   },
+   "context": {
+    "size": null,
+    "founded": 1949,
+    "industry": "Other manufacturing"
+   },
+   "seed_year": 2022
+  }
+ },
+ "years": [
+  {
+   "year": 2017,
+   "codeable": true,
+   "products": [
+    {
+     "name": "Otoform®",
+     "generic": "ear impression materials",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": true
+    },
+    {
+     "name": "OtoVita®",
+     "generic": "hearing aid care products for consumers",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": true
+    },
+    {
+     "name": "OtoVita® Professional",
+     "generic": "professional cleaning products for hearing aid retailers",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": true
+    },
+    {
+     "name": "Polymax",
+     "generic": "earmold material",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Biopor® AB",
+     "generic": "earmold silicone material",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "VarioTherm®",
+     "generic": "thermoplastic earmold material",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Fotoplast®",
+     "generic": "light-curing earmold material",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Otoacryl",
+     "generic": "acrylic earmold material",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "RedLine",
+     "generic": "dental CAD/CAM auxiliary materials range",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "BlueSpray",
+     "generic": "scan spray for optical dental scans",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "FotoDent® cast",
+     "generic": "light-curing resin for casting patterns",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "FotoDent® denture",
+     "generic": "light-curing resin for denture bases",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "FotoDent® gingiva",
+     "generic": "light-curing resin for gingiva models",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "FotoDent® guide",
+     "generic": "light-curing resin for surgical drill guides",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "FotoDent® model",
+     "generic": "light-curing resin for dental models",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "FotoDent® tray",
+     "generic": "light-curing resin for impression trays",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "StoneBite® scan",
+     "generic": "scannable silicone bite registration material",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Dosper evo",
+     "generic": "automatic mixing and dosing device for silicones",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "QuickSnick Remover Stick",
+     "generic": "liquid for removing soft relining silicones",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "MegaBase®",
+     "generic": "soft addition silicone denture relining material",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Drufosoft® Shell Starter Set",
+     "generic": "starter kit for thermoformed mouthguards",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Labormat",
+     "generic": "dental laboratory polymerisation device",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Castdon",
+     "generic": "dental casting technology products",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "DocSnoreNix",
+     "generic": "anti-snoring oral appliance",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Print@Dreve",
+     "generic": "ordering service for 3D-printed dental models",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": true
+    }
+   ],
+   "evidence": [
+    {
+     "product": "Print@Dreve",
+     "type": "launch",
+     "strength": 2,
+     "quote": "Mit der Einführung des neuen Bestellportals Print@Dreve, welches unter www.dreve.de/dentalmodelle erreichbar ist, stellt die Dreve Dentamid GmbH nun ein komfortables Bestellsystem bereit."
+    }
+   ],
+   "success": []
+  },
+  {
+   "year": 2018,
+   "codeable": true,
+   "products": [
+    {
+     "name": "FotoTec®",
+     "generic": "light-curing resin for 3D-printed earmolds",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": true
+    },
+    {
+     "name": "VarioTherm®",
+     "generic": "earmold material for manual and milled earmolds",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Biopor® AB",
+     "generic": "biocompatible silicone earmold material",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Otoform®",
+     "generic": "silicone ear impression material",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": true
+    },
+    {
+     "name": "OtoVita®",
+     "generic": "antimicrobial hearing aid care products",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": true
+    },
+    {
+     "name": "OtoVita® Professional",
+     "generic": "hearing aid cleaning products for acoustician labs",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": true
+    },
+    {
+     "name": "Otoferm® Protect & Otopren",
+     "generic": "direct-fitting earmold materials",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Polylux LED",
+     "generic": "LED light-curing unit for earmolds",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "DLO® & DCO®",
+     "generic": "digital earmold manufacturing variants",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Fixtemp",
+     "generic": "temporary crown and bridge material",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Fixtemp 10:1",
+     "generic": "temporary crown and bridge composite",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "FotoDent®",
+     "generic": "dental 3D printing resins",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": true
+    },
+    {
+     "name": "Print@Dreve",
+     "generic": "online ordering service for 3D-printed dental models",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "DocSnoreNix®",
+     "generic": "anti-snoring dental splint",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Dreve Mouthguard",
+     "generic": "custom thermoformed sports mouthguard",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "V-Max",
+     "generic": "denture fabrication system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Castdon",
+     "generic": "pourable denture base resin",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Dynax®",
+     "generic": "dental laboratory silicones",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "RedLine",
+     "generic": "dental impression silicones and bite registration series",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "StoneBite",
+     "generic": "bite registration material",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "BlueSpray plus",
+     "generic": "contrast spray for intraoral scanning",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Dosper evo",
+     "generic": "silicone mixing and dosing unit",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "MaxiFresh™",
+     "generic": "dental splint cleaning set",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Drufomat",
+     "generic": "dental thermoforming unit",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "DrufoSmart",
+     "generic": "dental thermoforming unit",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Polymax",
+     "generic": "pressure polymerisation unit",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Labormat",
+     "generic": "dental laboratory device",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Pneupress T",
+     "generic": "dental pressure device",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "EyeVolution®",
+     "generic": "dental light-curing unit",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "BioBleach®",
+     "generic": "thermoforming blanks for bleaching trays",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    }
+   ],
+   "evidence": [
+    {
+     "product": "RedLine",
+     "type": "result",
+     "strength": 3,
+     "quote": "Jetzt verließ bereits die 200.000ste HIBC-Verpackung das Werk in Unna."
+    },
+    {
+     "product": "Polylux LED",
+     "type": "launch",
+     "strength": 2,
+     "quote": "Wir bieten modernste und leistungsstarke Lichtgeräte, wie den neuen Polylux LED mit integrierter LED-Technologie."
+    },
+    {
+     "product": "Fixtemp 10:1",
+     "type": "launch",
+     "strength": 2,
+     "quote": "Neben einer Erweiterung der Farbskala ist mit Fixtemp 10:1 nun ein Komposit verfügbar"
+    },
+    {
+     "product": "Dosper evo",
+     "type": "launch",
+     "strength": 2,
+     "quote": "Ab sofort ist der Dosper evo in den Standardfarben rot und silber lieferbar."
+    },
+    {
+     "product": "MaxiFresh™",
+     "type": "launch",
+     "strength": 2,
+     "quote": "Dort hatte Dreve-Gebietsleiterin Svenja Bremer das neue Schienen-Reinigungsset MaxiFresh™ zur Mitnahme bereitgestellt."
+    },
+    {
+     "product": "Print@Dreve",
+     "type": "launch",
+     "strength": 2,
+     "quote": "Mit der Einführung des neuen Bestellportals Print@Dreve, welches unter www.dreve.de/dentalmodelle erreichbar ist, stellt die Dreve Dentamid GmbH nun ein komfortables Bestellsystem bereit."
+    }
+   ],
+   "success": []
+  },
+  {
+   "year": 2019,
+   "codeable": true,
+   "products": [
+    {
+     "name": "Fixtemp",
+     "generic": "temporary crown and bridge dental material",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Fixtemp 10:1",
+     "generic": "composite for temporary crowns and bridges",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "FotoDent®",
+     "generic": "dental 3D printing resins",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": true
+    },
+    {
+     "name": "Print@Dreve",
+     "generic": "online ordering service for printed dental models",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": true
+    },
+    {
+     "name": "OtoVita®",
+     "generic": "antimicrobial hearing aid care products",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": true
+    },
+    {
+     "name": "OtoVita® Professional",
+     "generic": "hearing aid care products for laboratories",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Otoform®",
+     "generic": "silicone ear impression materials",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": true
+    },
+    {
+     "name": "Otoform® Xpand",
+     "generic": "expanding ear impression silicone",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Otoform® Ak",
+     "generic": "classic pressure-forming ear impression silicone",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Otoferm® Protect & Otopren",
+     "generic": "direct-fitting earmold materials",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "FotoTec®",
+     "generic": "stereolithography material for earmold production",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "VarioTherm®",
+     "generic": "thermosensitive earmold material",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "RIC-Air",
+     "generic": "thin-walled earmold for receiver-in-canal hearing aids",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "RIC unifit",
+     "generic": "universal earmold for receiver-in-canal systems",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Biopor® AB Xtrack",
+     "generic": "detectable silicone for hearing protection earmolds",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Biopor® UV-S Lack",
+     "generic": "UV-curing lacquer for silicone earmolds",
+     "seasonal": false,
+     "stage": "pilot",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "DLO®",
+     "generic": "custom hearing protection earmolds",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "SmartOrder",
+     "generic": "online ordering service for earmolds",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Drufomat scan",
+     "generic": "high-end dental thermoforming unit",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Drufosmart scan",
+     "generic": "pressure thermoforming unit with foil scanner",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Drufosmart",
+     "generic": "basic pressure thermoforming unit",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "BioBleach®",
+     "generic": "thermoforming foils for bleaching trays",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Drufosoft®",
+     "generic": "EVA thermoforming foil",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Kombiplast",
+     "generic": "two-layer PETG/EVA thermoforming foil",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "DocSnoreNix®",
+     "generic": "anti-snoring dental splint",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": true
+    },
+    {
+     "name": "Dreve Mouthguard",
+     "generic": "custom sports mouthguard",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": true
+    },
+    {
+     "name": "Dynax® Silikone",
+     "generic": "dental silicones",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Castdon",
+     "generic": "denture pouring resin",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Laborsil pro",
+     "generic": "kneadable addition-curing laboratory silicone putty",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Polymax",
+     "generic": "pressure polymerisation unit",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    }
+   ],
+   "evidence": [
+    {
+     "product": "Fixtemp 10:1",
+     "type": "launch",
+     "strength": 2,
+     "quote": "Neben einer Erweiterung der Farbskala ist mit Fixtemp 10:1 nun ein Komposit verfügbar"
+    },
+    {
+     "product": "Biopor® AB Xtrack",
+     "type": "launch",
+     "strength": 2,
+     "quote": "Neu: Detektierbarer Filter"
+    }
+   ],
+   "success": []
+  },
+  {
+   "year": 2022,
+   "codeable": true,
+   "products": [
+    {
+     "name": "Fixtemp",
+     "generic": "temporary crown and bridge material",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Fixtemp 10:1",
+     "generic": "composite for temporary crowns and bridges",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "FotoDent®",
+     "generic": "light-curing resins for dental 3D printing",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": true
+    },
+    {
+     "name": "FotoDent® biobased model",
+     "generic": "bio-based resin for printed dental models",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "FotoDent® tray",
+     "generic": "printing resin for dental impression trays",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Print@Dreve",
+     "generic": "online ordering service for printed dental models",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Dreve Mouthguard",
+     "generic": "thermoformed sports mouthguard system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Zerosil® soft",
+     "generic": "soft dental laboratory silicone",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Laborsil",
+     "generic": "dental laboratory matrix silicones",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Laborsil speed",
+     "generic": "fast-setting matrix silicone with color indicator",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Laborsil clear",
+     "generic": "transparent matrix silicone for light-curing composites",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "V-Max",
+     "generic": "dental laboratory product",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Castdon",
+     "generic": "denture base casting resin",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Dynax®",
+     "generic": "dental silicones",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "StoneBite®",
+     "generic": "scannable bite registration material",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Regofix",
+     "generic": "dental bite registration material",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Odontosil",
+     "generic": "orthodontic positioner silicones",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Drufomat",
+     "generic": "dental thermoforming devices",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Polymax",
+     "generic": "pressure polymerisation devices",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Dosper",
+     "generic": "silicone mixing and dosing device",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Labormat",
+     "generic": "dental laboratory device",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "EyeVolution®",
+     "generic": "light-curing device for dental resins",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Vacfomat V9",
+     "generic": "vacuum thermoforming device",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "PCU 90",
+     "generic": "post-curing unit for 3D prints",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "OtoVita®",
+     "generic": "antimicrobial hearing aid care products",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": true
+    },
+    {
+     "name": "OtoVita® Professional",
+     "generic": "hearing aid cleaning products for laboratories",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Otoform®",
+     "generic": "silicone ear impression materials",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": true
+    },
+    {
+     "name": "Otoform® A softX",
+     "generic": "color-changing ear impression silicone",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": true
+    },
+    {
+     "name": "Otoform® Xpand",
+     "generic": "expanding ear impression silicone",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "SmartOrder",
+     "generic": "online ordering service for earmolds",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    }
+   ],
+   "evidence": [
+    {
+     "product": "Fixtemp 10:1",
+     "type": "launch",
+     "strength": 2,
+     "quote": "Neben einer Erweiterung der Farbskala ist mit Fixtemp 10:1 nun ein Komposit verfügbar"
+    },
+    {
+     "product": "Laborsil",
+     "type": "launch",
+     "strength": 2,
+     "quote": "Für diese und andere Spezialfälle haben wir nun ein neues Duo entwickelt, das bei diesen Arbeiten wertvolle Dienste leistet."
+    },
+    {
+     "product": "Otoform® A softX",
+     "type": "launch",
+     "strength": 2,
+     "quote": "Our popular impression material Otoform® A softX now shows you that the material has cured by changing color."
+    },
+    {
+     "product": "OtoVita®",
+     "type": "launch",
+     "strength": 2,
+     "quote": "OtoVita® Unsere Pflegeserie bekommt ein Update im Wirkungsbereich und Zuwachs innerhalb der Produktlinie."
+    }
+   ],
+   "success": []
+  },
+  {
+   "year": 2023,
+   "codeable": true,
+   "products": [
+    {
+     "name": "Fixtemp",
+     "generic": "temporary crown and bridge material",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "FotoDent®",
+     "generic": "dental 3D printing resins",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "FotoDent® tray",
+     "generic": "3D printing resin for impression trays",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "FotoDent® biobased model",
+     "generic": "bio-based 3D printing resin for dental models",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Print@Dreve",
+     "generic": "dental model 3D printing order service",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Dynax®",
+     "generic": "dental impression silicones",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Zerosil® soft",
+     "generic": "soft dental laboratory silicone",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Laborsil",
+     "generic": "dental laboratory matrix silicones in cartridges",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Regofix",
+     "generic": "dental bite registration material",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "StoneBite®",
+     "generic": "hard bite registration silicone",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Dreve Mouthguard",
+     "generic": "custom thermoformed sports mouthguard",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "V-Max",
+     "generic": "dental laboratory device",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Castdon",
+     "generic": "denture base pouring resin",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Kombiplast",
+     "generic": "thermoforming blank for dental splints",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Drufosoft pro",
+     "generic": "soft thermoforming blank for dental splints",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "OtoVita®",
+     "generic": "antimicrobial hearing aid care products",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "OtoVita® Professional",
+     "generic": "hearing aid care products for laboratories",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Otoform®",
+     "generic": "ear impression silicone materials",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Otoferm® Protect",
+     "generic": "direct-fit earmold material",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Otopren",
+     "generic": "ear impression material",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Biopor® AB",
+     "generic": "earmold silicones for manual manufacturing",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Fotoplast®",
+     "generic": "light-curing earmold acrylates",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "FotoTec®",
+     "generic": "stereolithography earmold manufacturing process",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "EARsleeve",
+     "generic": "custom earmold for in-the-ear hearing aids",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "DLO®",
+     "generic": "custom 3D-printed hearing protection earmolds",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "DCO®",
+     "generic": "custom earmold product line",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    }
+   ],
+   "evidence": [
+    {
+     "product": "Laborsil",
+     "type": "launch",
+     "strength": 2,
+     "quote": "Für diese und andere Spezialfälle haben wir nun ein neues Duo entwickelt, das bei diesen Arbeiten wertvolle Dienste leistet."
+    },
+    {
+     "product": "EARsleeve",
+     "type": "launch",
+     "strength": 1,
+     "quote": "Für einen perfekten Sitz und für das ultimative Hörerlebnis, fertigen wir für die universellen IdO-Hörsysteme: Die individuelle Dreve EARsleeve."
+    }
+   ],
+   "success": []
+  },
+  {
+   "year": 2024,
+   "codeable": true,
+   "products": [
+    {
+     "name": "Fixtemp",
+     "generic": "temporary crown and bridge composite material",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "FotoDent®",
+     "generic": "dental 3D printing resins",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": true
+    },
+    {
+     "name": "FotoDent® biobased model",
+     "generic": "bio-based 3D printing resin for dental models",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Print@Dreve",
+     "generic": "online ordering service for 3D-printed dental models",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Dynax®",
+     "generic": "dental impression silicones",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Zerosil® soft",
+     "generic": "dental laboratory silicone",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Laborsil",
+     "generic": "dental laboratory silicones",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Laborsil speed",
+     "generic": "fast-setting pre-wall matrix silicone",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Laborsil clear",
+     "generic": "transparent pre-wall silicone for light-curing composites",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Laborsil pro 70",
+     "generic": "kneadable laboratory silicone",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "V-Max",
+     "generic": "dental laboratory product",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Castdon",
+     "generic": "denture base casting resin",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Dreve Mouthguard",
+     "generic": "custom sports mouthguard system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Drufomat scan",
+     "generic": "high-end dental thermoforming unit",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Drufosmart scan",
+     "generic": "pressure thermoforming unit with barcode scanner",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Drufosmart",
+     "generic": "basic pressure thermoforming unit",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Vacfomat V9 2.0",
+     "generic": "vacuum thermoforming unit for aligner splints",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "BioBleach®",
+     "generic": "thermoforming blanks for bleaching trays",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Biolon",
+     "generic": "PETG thermoforming blank",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Drufolen",
+     "generic": "polyolefin thermoforming blanks",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Drufosoft®",
+     "generic": "EVA thermoforming blank",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Drufoplast",
+     "generic": "polystyrene thermoforming blanks",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Kombiplast",
+     "generic": "two-layer PETG/EVA thermoforming blank",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "GumQuick",
+     "generic": "gingiva mask silicone material",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "MegaBase®",
+     "generic": "permanently soft denture relining silicone",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Odontosil",
+     "generic": "transparent silicone for orthodontic positioners",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "OtoVita®",
+     "generic": "antimicrobial hearing aid care products",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Otoform®",
+     "generic": "silicone ear impression materials",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Biopor® AB",
+     "generic": "silicones for manual earmold production",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Fotoplast®",
+     "generic": "acrylates for earmold production",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    }
+   ],
+   "evidence": [
+    {
+     "product": "Laborsil",
+     "type": "launch",
+     "strength": 2,
+     "quote": "Für diese und andere Spezialfälle haben wir nun ein neues Duo entwickelt, das bei diesen Arbeiten wertvolle Dienste leistet."
+    }
+   ],
+   "success": []
+  },
+  {
+   "year": 2025,
+   "codeable": true,
+   "products": [
+    {
+     "name": "Fixtemp",
+     "generic": "temporary crown and bridge material",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "FotoDent®",
+     "generic": "dental 3D printing resin product range",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": true
+    },
+    {
+     "name": "Print@Dreve",
+     "generic": "online ordering portal for printed dental models",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "OtoVita®",
+     "generic": "antimicrobial hearing aid care product series",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "OtoVita® Professional",
+     "generic": "hearing aid care products for laboratories",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Otoform®",
+     "generic": "silicone ear impression material",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Otopren",
+     "generic": "silicone for direct earmold fitting",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Biopor® AB",
+     "generic": "earmold silicone",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Fotoplast®",
+     "generic": "light-curing earmold acrylate",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Labormat-Reihe",
+     "generic": "dental wax boil-out units",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Laborsil",
+     "generic": "dental laboratory silicone in double cartridges",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Silfix",
+     "generic": "addition silicone investment material for dentures",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "GumQuick",
+     "generic": "gingiva mask silicone material",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "MegaBase®",
+     "generic": "permanently soft denture relining silicone",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Odontosil",
+     "generic": "transparent silicone for orthodontic positioners",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Dreve EARsleeve",
+     "generic": "custom earmold for universal in-ear hearing systems",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "RIC unifit",
+     "generic": "universal earmold for receiver-in-canal hearing aids",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "RIC-Air",
+     "generic": "ultra-thin-walled custom earmold",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Biopor® AB Xtrack",
+     "generic": "detectable silicone for hearing protection earmolds",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "DLO®",
+     "generic": "custom hearing protection earmold",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Drufomat scan",
+     "generic": "high-end dental thermoforming device",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Dosper evo",
+     "generic": "silicone dosing and mixing device for duplication",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Polymax",
+     "generic": "dental polymerisation device",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "EyeVolution®-Reihe",
+     "generic": "LED light-curing units",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Dreve Mouthguard",
+     "generic": "custom sports mouthguard",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "3D printed last",
+     "generic": "3D printed shoe last for orthopedic footwear",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "FotoTec®",
+     "generic": "3D printing material for earmolds",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "VarioTherm® Plus",
+     "generic": "thermosensitive earmold material",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Drufosoft pro",
+     "generic": "thermoforming foil for dental splints",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Kombiplast",
+     "generic": "thermoforming foil for dental appliances",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    }
+   ],
+   "evidence": [
+    {
+     "product": "Laborsil",
+     "type": "launch",
+     "strength": 2,
+     "quote": "For these and other special cases, we have now developed a new duo that provides valuable services in this work."
+    }
+   ],
+   "success": []
+  },
+  {
+   "year": 2026,
+   "codeable": true,
+   "products": [
+    {
+     "name": "Fixtemp",
+     "generic": "temporary crown and bridge material",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "FotoDent®",
+     "generic": "dental 3D printing resins",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": true
+    },
+    {
+     "name": "FotoDent® biobased model",
+     "generic": "biobased 3D printing resin for dental models",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Print@Dreve",
+     "generic": "online ordering service for printed dental models",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "OtoVita®",
+     "generic": "antimicrobial care products for hearing aids",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Otoform®",
+     "generic": "silicone ear impression materials",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Biopor® AB",
+     "generic": "silicones for manual earmold production",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Fotoplast®",
+     "generic": "light-curing acrylates for earmolds",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Dreve Mouthguard",
+     "generic": "custom thermoformed sports mouthguard",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Zerosil® soft",
+     "generic": "dental laboratory silicone",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Dynax® silicones",
+     "generic": "dental silicone materials",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Castdon",
+     "generic": "pourable resin for denture manufacturing",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Drufomat scan",
+     "generic": "high-end dental thermoforming unit",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Drufosmart",
+     "generic": "pressure thermoforming unit",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Vacfomat V9 2.0",
+     "generic": "vacuum thermoforming unit for aligners",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Polymax",
+     "generic": "pressure polymerisation unit",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Dosper",
+     "generic": "silicone mixing and dosing unit",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Sympress",
+     "generic": "automatic mixing unit for impression materials",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "FOLIFLEX",
+     "generic": "soft thermoforming blanks",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "FOLIDUR",
+     "generic": "hard thermoforming blanks",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "COMBILOC PLUS",
+     "generic": "multilayer thermoforming blanks",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "BioBleach®",
+     "generic": "thermoforming blanks for bleaching trays",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Biolon",
+     "generic": "PETG thermoforming blank",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Drufosoft®",
+     "generic": "EVA thermoforming blank",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Kombiplast",
+     "generic": "two-layer PETG/EVA thermoforming blank",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "DLO® Active",
+     "generic": "custom active hearing protection earpiece",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "DLO® ShotKiller",
+     "generic": "custom earplug for impulse noise protection",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "OtoSwim® Sport",
+     "generic": "custom swim earplug with membrane filter",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "PCU Vario",
+     "generic": "post-curing unit for 3D prints",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "FotoWash",
+     "generic": "cleaning unit for 3D printed parts",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    }
+   ],
+   "evidence": [
+    {
+     "product": "Vacfomat V9 2.0",
+     "type": "launch",
+     "strength": 1,
+     "quote": "Das neue Vakuum-Tiefziehgerät für Aligner."
+    }
+   ],
+   "success": []
+  }
+ ]
+}

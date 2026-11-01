@@ -1,0 +1,1 @@
+{"model": "deepseek-v4-pro", "effort": "medium", "answer": {"decisions": [{"product": "A", "probability_dropped": 20, "decision": "keep", "reason": "Because the firm has invested in Product A, given it a dedicated page, and it is close to its established range, escalation-of-commitment logic makes management likely to keep it rather than abandon that visible commitment."}]}}

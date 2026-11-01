@@ -1,0 +1,93 @@
+{
+ "slug": "bruck-de",
+ "windows": {
+  "exploration": {
+   "years": [
+    2017
+   ],
+   "industry": {
+    "turnover": "grew",
+    "rd": "more",
+    "patents": "more",
+    "universities": "about as"
+   },
+   "employees": null,
+   "hiring": false,
+   "hiring_quote": null,
+   "expansion": false,
+   "expansion_quote": null,
+   "investment": false,
+   "investment_quote": null,
+   "growth": false,
+   "growth_quote": null,
+   "difficulty": false,
+   "difficulty_quote": null,
+   "rd": false,
+   "rd_quote": null,
+   "cooperation": false,
+   "cooperation_quote": null,
+   "eu_projects": 0,
+   "products_offered": 16,
+   "new": [
+    "click-in track adapter",
+    "LED luminaire",
+    "home automation server box",
+    "luminaire family",
+    "LED luminaire family",
+    "LED spotlight series"
+   ],
+   "relatedness": [
+    "related",
+    "close",
+    "related",
+    "close",
+    "close",
+    "close"
+   ]
+  },
+  "holdout": {
+   "years": [
+    2022
+   ],
+   "industry": {
+    "turnover": "grew",
+    "rd": "more",
+    "patents": "more",
+    "universities": "more"
+   },
+   "employees": null,
+   "hiring": false,
+   "hiring_quote": null,
+   "expansion": false,
+   "expansion_quote": null,
+   "investment": false,
+   "investment_quote": null,
+   "growth": false,
+   "growth_quote": null,
+   "difficulty": false,
+   "difficulty_quote": null,
+   "rd": false,
+   "rd_quote": null,
+   "cooperation": false,
+   "cooperation_quote": null,
+   "eu_projects": 0,
+   "products_offered": 17,
+   "new": [
+    "LED track spotlight",
+    "LED ceiling luminaire",
+    "flexible LED spotlight",
+    "multi-outlet ceiling canopy",
+    "low-voltage multi-outlet canopy",
+    "round glass track luminaires"
+   ],
+   "relatedness": [
+    "close",
+    "close",
+    "close",
+    "related",
+    "related",
+    "close"
+   ]
+  }
+ }
+}

@@ -1,0 +1,1 @@
+{"model": "deepseek-v4-pro", "effort": "medium", "answer": {"decisions": [{"product": "A", "probability_dropped": 10, "decision": "keep", "reason": "Product A is an incremental extension of the established offer with low keeping costs and unresolved but limited uncertainty, so the option is kept open."}]}}

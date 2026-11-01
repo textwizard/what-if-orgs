@@ -1,0 +1,93 @@
+{
+ "slug": "wiltmann-de",
+ "windows": {
+  "exploration": {
+   "years": [
+    2017
+   ],
+   "industry": {
+    "turnover": "grew",
+    "rd": "about as",
+    "patents": "less",
+    "universities": "less"
+   },
+   "employees": 800,
+   "hiring": false,
+   "hiring_quote": null,
+   "expansion": false,
+   "expansion_quote": null,
+   "investment": false,
+   "investment_quote": null,
+   "growth": false,
+   "growth_quote": null,
+   "difficulty": false,
+   "difficulty_quote": null,
+   "rd": false,
+   "rd_quote": null,
+   "cooperation": false,
+   "cooperation_quote": null,
+   "eu_projects": 0,
+   "products_offered": 6,
+   "new": [
+    "organic sliced ham",
+    "organic sliced cured smoked pork",
+    "organic pepper-coated salami",
+    "beef in aspic deli specialty",
+    "fennel-flavoured sliced salami",
+    "liver pâté with veal"
+   ],
+   "relatedness": [
+    "close",
+    "close",
+    "close",
+    "related",
+    "close",
+    "close"
+   ]
+  },
+  "holdout": {
+   "years": [
+    2022
+   ],
+   "industry": {
+    "turnover": "grew",
+    "rd": "less",
+    "patents": "less",
+    "universities": "about as"
+   },
+   "employees": null,
+   "hiring": true,
+   "hiring_quote": "Wir sind immer auf der Suche nach engagierten Nachwuchskräften.",
+   "expansion": false,
+   "expansion_quote": null,
+   "investment": false,
+   "investment_quote": null,
+   "growth": false,
+   "growth_quote": null,
+   "difficulty": false,
+   "difficulty_quote": null,
+   "rd": false,
+   "rd_quote": null,
+   "cooperation": false,
+   "cooperation_quote": null,
+   "eu_projects": 0,
+   "products_offered": 14,
+   "new": [
+    "organic sliced salami platter",
+    "organic poultry mini salami snacks",
+    "premium salami snack for sharing",
+    "organic boiled pork sausage",
+    "organic thinly sliced chicken breast",
+    "organic herb-coated salami"
+   ],
+   "relatedness": [
+    "close",
+    "close",
+    "close",
+    "related",
+    "related",
+    "close"
+   ]
+  }
+ }
+}

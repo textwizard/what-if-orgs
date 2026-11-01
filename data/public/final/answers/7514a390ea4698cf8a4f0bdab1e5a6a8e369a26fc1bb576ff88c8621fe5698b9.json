@@ -1,0 +1,1 @@
+{"model": "deepseek-v4-pro", "effort": "medium", "answer": {"decisions": [{"product": "A", "probability_dropped": 10, "decision": "keep", "reason": "The product remains an unresolved option with low carrying costs and few alternative new options, so its option value justifies keeping it on the market."}]}}

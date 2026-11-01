@@ -1,0 +1,85 @@
+{
+ "slug": "colt-net",
+ "windows": {
+  "exploration": {
+   "years": [
+    2017
+   ],
+   "industry": {
+    "turnover": "fell",
+    "rd": "more",
+    "patents": "about as",
+    "universities": "more"
+   },
+   "employees": 500,
+   "hiring": true,
+   "hiring_quote": "2017 New Grads Recruitment",
+   "expansion": true,
+   "expansion_quote": "November 16, 2016 – As part of its ongoing growth initiative, Colt Technology Services today announced the expansion of its sales and support teams into North America",
+   "investment": true,
+   "investment_quote": "12 January 2017 – Colt, the global high bandwidth network provider, announced today it will expand and enhance the Colt IQ Network™ in Singapore and Hong Kong in 2017",
+   "growth": false,
+   "growth_quote": null,
+   "difficulty": false,
+   "difficulty_quote": null,
+   "rd": false,
+   "rd_quote": null,
+   "cooperation": false,
+   "cooperation_quote": null,
+   "eu_projects": 0,
+   "products_offered": 30,
+   "new": [
+    "audio and web conferencing service",
+    "metropolitan data centre connection network",
+    "optical spectrum connectivity service",
+    "voice number ordering portal",
+    "carrier pre-selection telephony service",
+    "direct voice network connection service"
+   ],
+   "relatedness": [
+    "close",
+    "close",
+    "related",
+    "related",
+    "close",
+    "close"
+   ]
+  },
+  "holdout": {
+   "years": [
+    2022
+   ],
+   "industry": {
+    "turnover": "stayed about level",
+    "rd": "more",
+    "patents": "about as",
+    "universities": "more"
+   },
+   "employees": 5000,
+   "hiring": false,
+   "hiring_quote": null,
+   "expansion": true,
+   "expansion_quote": "they have entered into an exclusive arrangement for the proposed sale of Lumen’s Europe, Middle East and Africa (EMEA) business to Colt for $1.8 billion",
+   "investment": false,
+   "investment_quote": null,
+   "growth": false,
+   "growth_quote": null,
+   "difficulty": false,
+   "difficulty_quote": null,
+   "rd": false,
+   "rd_quote": null,
+   "cooperation": false,
+   "cooperation_quote": null,
+   "eu_projects": 0,
+   "products_offered": 14,
+   "new": [
+    "cloud contact centre service",
+    "call number routing platform"
+   ],
+   "relatedness": [
+    "related",
+    "close"
+   ]
+  }
+ }
+}

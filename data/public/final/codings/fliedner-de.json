@@ -1,0 +1,974 @@
+{
+ "slug": "fliedner-de",
+ "profiles": {
+  "exploration": {
+   "strategy": {
+    "offer": "Care, housing, therapy, work and counseling services for older people, people with disabilities, and people with mental illness, plus vocational training and applied research.",
+    "customers": "Older adults, people with disabilities, people with psychological or psychosomatic conditions, their families, and professionals and managers in health and social services.",
+    "why_we_win": "It argues that linking frontline practice with science, lifelong learning, and individualized treatment creates better care quality and more effective services.",
+    "resources": "Its basis is a broad service network, specialized clinical and care staff, a certified education provider, and research teams working with external academic partners.",
+    "direction": "It is heading toward closer integration of care, education, and interdisciplinary research to develop and evaluate new service models."
+   },
+   "context": {
+    "size": null,
+    "founded": 1844,
+    "industry": "Residential care activities"
+   },
+   "seed_year": 2017
+  },
+  "holdout": {
+   "strategy": {
+    "offer": "Provides eldercare, disability housing and support, mental health and psychosomatic treatment, training, research, and related practical services.",
+    "customers": "Serves older adults, people with disabilities or mental illness, families and caregivers, learners, and institutional clients needing support or operational services.",
+    "why_we_win": "Expects success through person-centered, needs-based support, active client participation, and flexible concepts spanning outpatient, residential, therapeutic, educational, and everyday-life assistance.",
+    "resources": "Built on multidisciplinary professional teams, specialist medical and care expertise, practical therapy and production know-how, and a broad network of facilities.",
+    "direction": null
+   },
+   "context": {
+    "size": null,
+    "founded": null,
+    "industry": "Residential care activities"
+   },
+   "seed_year": 2022
+  }
+ },
+ "years": [
+  {
+   "year": 2017,
+   "codeable": true,
+   "products": [
+    {
+     "name": "Fliedner Akademie",
+     "generic": "continuing education academy for health and social care",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Fachseminar für Altenpflege (Seminarhaus)",
+     "generic": "vocational school for geriatric nursing",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Tagungszentrum Duisburg",
+     "generic": "conference and seminar center",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Fliedner Klinik Berlin",
+     "generic": "psychiatric and psychotherapy clinic",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Fliedner Klinik Düsseldorf",
+     "generic": "psychiatric and psychotherapy clinic",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Fliedner Krankenhaus Ratingen",
+     "generic": "hospital for psychiatry and psychosomatics",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Fachklinik Haus Siloah",
+     "generic": "specialist psychiatric clinic",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Borderline-Ambulanz",
+     "generic": "outpatient clinic for borderline personality disorder",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Fliedner Werkstätten",
+     "generic": "sheltered workshops for people with disabilities",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Das Dorf - Wohnen im Alter",
+     "generic": "residential care village for elderly people",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Das Dorf - Wohnen für Menschen mit Behinderungen",
+     "generic": "residential facility for people with disabilities",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Fliedner Residenz",
+     "generic": "senior residence",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Seniorenstift Katzenelnbogen",
+     "generic": "senior care home with assisted apartments",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "fliedner mobil",
+     "generic": "ambulatory home care service",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "KoKoBe Mülheim",
+     "generic": "counseling center for people with intellectual disabilities",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Café Theodor",
+     "generic": "day care for people with dementia",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Waldruhe",
+     "generic": "residential therapeutic facility for people with disabilities",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Dorf im Dorf",
+     "generic": "residential facility for people with disabilities",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Haus Bethesda",
+     "generic": "residential care facility",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Haus Engelbert",
+     "generic": "residential care facility",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Hermann-Giese-Haus",
+     "generic": "residential facility for people with disabilities",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Friedensheim",
+     "generic": "senior care center",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Engelsstift",
+     "generic": "senior care home",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Altenwohnanlage Großenbaum",
+     "generic": "senior housing complex with care",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Dorf am Hagebölling",
+     "generic": "residential care village for elderly people",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Stadtwohnen Hagebölling",
+     "generic": "urban assisted living for seniors",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Orbis",
+     "generic": "social care facility",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Waldhof",
+     "generic": "residential care facility",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Haltepunkt Kaiserstraße",
+     "generic": "support facility for people with disabilities",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "FliednerService",
+     "generic": "support service for people with disabilities",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    }
+   ],
+   "evidence": [],
+   "success": []
+  },
+  {
+   "year": 2018,
+   "codeable": true,
+   "products": [
+    {
+     "name": "Fliedner Servicewohnen am Park",
+     "generic": "serviced rental apartments for seniors",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Fliedner Küche am Park",
+     "generic": "catering service for care facilities",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Memory Mobil",
+     "generic": "mobile dementia information and memory testing service",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "fliedner mobil",
+     "generic": "mobile outpatient care service",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Hatschisi",
+     "generic": "theatre project for people with disabilities",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Chefarztsprechstunde für Privatversicherte",
+     "generic": "chief physician consultation for privately insured patients",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Borderline-Ambulanz",
+     "generic": "outpatient clinic for borderline personality disorder",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    }
+   ],
+   "evidence": [
+    {
+     "product": "Chefarztsprechstunde für Privatversicherte",
+     "type": "launch",
+     "strength": 1,
+     "quote": "*NEU* Chefarztsprechstunde für Privatversicherte"
+    }
+   ],
+   "success": []
+  },
+  {
+   "year": 2019,
+   "codeable": true,
+   "products": [
+    {
+     "name": "GeKo®",
+     "generic": "a sign language learning kit with course",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Memory Mobil",
+     "generic": "a mobile dementia information and memory-testing service",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "fliedner mobil",
+     "generic": "an outpatient mobile care service",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    }
+   ],
+   "evidence": [],
+   "success": []
+  },
+  {
+   "year": 2022,
+   "codeable": true,
+   "products": [
+    {
+     "name": "Fliedner Servicewohnen am Park",
+     "generic": "rental apartments for seniors with services",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Fliedner Küche am Park",
+     "generic": "catering service for care facilities",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "fliedner mobil",
+     "generic": "outpatient mobile care service",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Burn-Out-Prävention (BOP)",
+     "generic": "eight-week burnout prevention therapy group",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Fliedner Adventsmanufaktur",
+     "generic": "handmade Christmas gifts from sheltered workshop",
+     "seasonal": true,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    }
+   ],
+   "evidence": [],
+   "success": []
+  },
+  {
+   "year": 2023,
+   "codeable": true,
+   "products": [
+    {
+     "name": "Fliedner Klinik Berlin",
+     "generic": "a psychiatric and psychotherapeutic day clinic",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Fliedner Klinik Düsseldorf",
+     "generic": "a psychiatric and psychosomatic day clinic",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Fliedner Krankenhaus Ratingen",
+     "generic": "a psychiatric hospital with inpatient and outpatient care",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Memory Mobil",
+     "generic": "a mobile dementia information and memory testing service",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Mitten im Leben, aktiv sein in eigener Sache",
+     "generic": "a supported self-help group for early dementia",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Fliedners Holzwerk",
+     "generic": "a carpentry workshop for custom furniture",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Fliedner Küche am Park",
+     "generic": "a catering service for care facilities",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Grossenbaum Küchenbetrieb",
+     "generic": "a catering kitchen for senior care facilities",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Servicewohnen im Dorf am Hagebölling",
+     "generic": "serviced barrier-free apartments for seniors",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Stadtwohnen Hagebölling",
+     "generic": "senior apartments with a service package",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Fliedners Wallstraße",
+     "generic": "a counseling service for senior living options",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    }
+   ],
+   "evidence": [
+    {
+     "product": "Grossenbaum Küchenbetrieb",
+     "type": "result",
+     "strength": 2,
+     "quote": "Unser Betrieb ist durch die Lebensmittelüberwachung der Stadt Duisburg mit dem „Smiley“ ausgezeichnet."
+    }
+   ],
+   "success": []
+  },
+  {
+   "year": 2024,
+   "codeable": true,
+   "products": [
+    {
+     "name": "Fliedner Klinik Berlin",
+     "generic": "a private psychiatric and psychotherapeutic clinic",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Fliedner Klinik Düsseldorf",
+     "generic": "a private psychiatric and psychotherapeutic clinic",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Fliedner Klinik Gevelsberg",
+     "generic": "a psychiatric and psychotherapeutic clinic",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Fliedner Krankenhaus Ratingen",
+     "generic": "a psychiatric hospital",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Fachklinik Haus Siloah",
+     "generic": "a specialist clinic for mental health",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Burn-Out-Prävention (BOP)",
+     "generic": "an eight-week burnout prevention group therapy",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Fliedner Werkstätten",
+     "generic": "a sheltered workshop for disabled people",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Lettershop",
+     "generic": "a mailing and postal dispatch service",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Fliedners Werkstattladen",
+     "generic": "a retail shop run by a sheltered workshop",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Fliedner Küche am Park",
+     "generic": "a catering service for care homes and clinics",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Rollende Küche",
+     "generic": "a meal delivery service for seniors",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Fliedner Akademie",
+     "generic": "a training academy with conference hotel",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Fliedner Pflegeschule",
+     "generic": "a nursing school",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "fliedner mobil Hohndorf",
+     "generic": "an outpatient home care service",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Theodor Fliedner Tagespflege Hohndorf",
+     "generic": "a day care service for seniors",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Fliedners BeWo",
+     "generic": "an assisted living support service",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Fliedners Soziotherapie",
+     "generic": "an outpatient sociotherapy service",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Dorf am Hagebölling",
+     "generic": "a senior care village with service apartments",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Das Dorf – Wohnen im Alter",
+     "generic": "a residential care village for seniors",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Waldhof - Betreutes Wohnen für ältere Menschen",
+     "generic": "barrier-free assisted living apartments for seniors",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Hofgemeinschaft Birkenwäldchen",
+     "generic": "an ambulatory supported shared living community",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Hatschisi",
+     "generic": "a theatre project for disabled residents",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    }
+   ],
+   "evidence": [
+    {
+     "product": "Waldhof - Betreutes Wohnen für ältere Menschen",
+     "type": "launch",
+     "strength": 2,
+     "quote": "sind 20 barrierefreie Mietwohnungen für Senior:innen in den Größen 55 und 60 m² sowie 75m² entstanden"
+    }
+   ],
+   "success": []
+  },
+  {
+   "year": 2025,
+   "codeable": true,
+   "products": [
+    {
+     "name": "Abendstation",
+     "generic": "evening psychiatric day-patient treatment program",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Fliedners Neue Straße – Beratung von Mensch zu Mensch",
+     "generic": "local walk-in counseling office for care services",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "fliedner mobil",
+     "generic": "an outpatient home nursing service",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Fliedners Manufaktur",
+     "generic": "handicraft workshop for people with disabilities",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Fliedners Werkstattladen",
+     "generic": "shop selling handmade products from sheltered workshops",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Rollende Küche",
+     "generic": "lunch delivery service for senior residents",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Fliedner Werkstätten",
+     "generic": "sheltered workshops offering contract production and services",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    }
+   ],
+   "evidence": [
+    {
+     "product": "Abendstation",
+     "type": "launch",
+     "strength": 2,
+     "quote": "Die Abendstation ist ein neues psychiatrisch-psychotherapeutisches Angebot der Fliedner Klinik Berlin."
+    },
+    {
+     "product": "Fliedners Neue Straße – Beratung von Mensch zu Mensch",
+     "type": "launch",
+     "strength": 2,
+     "quote": "Mit der Eröffnung des neuen Ladenlokals Neue Straße 8 führt die Theodor Fliedner Stiftung gleich mehrere Angebote in den Räumlichkeiten zusammen"
+    }
+   ],
+   "success": []
+  },
+  {
+   "year": 2026,
+   "codeable": true,
+   "products": [
+    {
+     "name": "Fliedner Werkstätten",
+     "generic": "sheltered workshop for people with disabilities",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": true
+    },
+    {
+     "name": "Fliedner Pflegeschule",
+     "generic": "nursing training school",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Fliedner Akademie",
+     "generic": "continuing education and seminar centre for care professions",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Fliedner Carepool",
+     "generic": "flexible nursing staff pool across care facilities",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Fliedner Krankenhaus Ratingen",
+     "generic": "psychiatric hospital",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Fliedner Klinik Berlin",
+     "generic": "psychiatric and psychotherapeutic clinic",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Fliedner Klinik Düsseldorf",
+     "generic": "psychiatric and psychotherapeutic clinic",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Fliedner Klinik Gevelsberg",
+     "generic": "psychiatric and psychotherapeutic clinic",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Fliedner Pflege und Wohnen am Park",
+     "generic": "residential care home for elderly",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Das Dorf - Wohnen im Alter",
+     "generic": "residential care village for elderly",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Theos Gärtchen",
+     "generic": "accessible therapeutic garden for care home residents",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "theaterlabor hatschisi",
+     "generic": "inclusive participatory theatre platform",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Tagesstruktur Café WIR",
+     "generic": "day structure service for people with disabilities",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Mietwohnungen Hohndorf",
+     "generic": "rental apartments for supported living",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Betreutes Wohnen in der Ernst-Schneller-Siedlung",
+     "generic": "assisted living apartments",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Gesundheitliche Versorgungsplanung",
+     "generic": "advance care planning counselling for end of life",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    }
+   ],
+   "evidence": [
+    {
+     "product": "Fliedner Werkstätten",
+     "type": "investment",
+     "strength": 3,
+     "quote": "In der ersten Etage stehen auf der zweiten Fliedner-Fläche rund 2.400m² für die Fliedner Werkstätten bereit."
+    },
+    {
+     "product": "Fliedner Pflegeschule",
+     "type": "investment",
+     "strength": 3,
+     "quote": "Im zweiten Geschoss wurde auf einer Fläche von ca. 1.650 m² ein moderner Standort für die generalistische Pflegeausbildung erschaffen."
+    },
+    {
+     "product": "Fliedner Werkstätten",
+     "type": "result",
+     "strength": 3,
+     "quote": "95 Menschen mit Behinderungen durchlaufen in der Betriebsstätte Parkstadt unter anderem eine rund zwei Jahre dauernde Berufsbildungsmaßnahme"
+    },
+    {
+     "product": "Fliedner Werkstätten",
+     "type": "result",
+     "strength": 2,
+     "quote": "Die Zusammenarbeit hat nicht nur zu einer Erweiterung der Art der Versendungen geführt, von einfachen Paketen hin zu individuellen und hochwertigen Produktsendungen"
+    },
+    {
+     "product": "Theos Gärtchen",
+     "type": "launch",
+     "strength": 2,
+     "quote": "Unser neues Freizeitangebot im Grünen heißt „Theos Gärtchen“."
+    }
+   ],
+   "success": []
+  }
+ ]
+}

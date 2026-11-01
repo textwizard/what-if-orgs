@@ -1,0 +1,1 @@
+{"model": "deepseek-v4-pro", "effort": "medium", "answer": {"decisions": [{"product": "A", "probability_dropped": 20, "decision": "keep", "reason": "The product is still in early stages with high uncertainty and low continuing cost, so the option should be kept open until results reveal its value."}]}}

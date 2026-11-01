@@ -1,0 +1,1 @@
+{"model": "claude-opus-5-5", "effort": "medium", "answer": {"decisions": [{"product": "A", "probability_dropped": 8, "decision": "keep", "reason": "The inbound SMS API builds directly on the firm's existing messaging, API and hosted communication expertise, and the firm does its own R&D, so it can interpret early results and improve the product rather than drop it."}]}}

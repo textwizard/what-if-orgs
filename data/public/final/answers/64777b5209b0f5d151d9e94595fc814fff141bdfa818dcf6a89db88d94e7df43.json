@@ -1,0 +1,1 @@
+{"model": "gpt-5.4", "effort": "medium", "answer": {"decisions": [{"product": "B", "probability_dropped": 35, "decision": "keep", "reason": "Unlike the other 2018 plugins, this one remained visible with its own page in 2019, suggesting comparatively better fit or demand, so we would keep it unless 2022 sales and integration usage deteriorate materially."}]}}

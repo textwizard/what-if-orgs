@@ -1,0 +1,1623 @@
+{
+ "slug": "doppstadt-de",
+ "profiles": {
+  "exploration": {
+   "strategy": {
+    "offer": "Mobile and stationary machinery, plants, parts, consulting, training, repairs, and maintenance for processing, separating, mixing, conveying, and upgrading waste and other material streams.",
+    "customers": "Recycling, waste-management, biomass, composting, construction-material, mining, and related operators needing on-site or plant-based material processing worldwide.",
+    "why_we_win": "They argue customers benefit from flexible deployment, tailored solutions, reliable high-quality machines, low downtime, efficient operating costs, and close service support.",
+    "resources": "Long experience, skilled employees, modern production, quality materials, recognized suppliers, trained technicians, a global sales-and-parts network, telematics, and practical training capabilities.",
+    "direction": "Advance technical development, broaden international activities, and keep adapting the portfolio to tougher processing requirements with resource-saving recycling solutions."
+   },
+   "context": {
+    "size": null,
+    "founded": 1965,
+    "industry": "Manufacture of machinery and equipment n.e.c."
+   },
+   "seed_year": 2017
+  },
+  "holdout": {
+   "strategy": {
+    "offer": "Tailored mobile and stationary recycling and material-processing systems, plus parts, maintenance, telematics, training, rental and on-site support.",
+    "customers": "Organizations seeking sustainable, economical, application-specific processing of waste, organics and raw materials across international markets.",
+    "why_we_win": "We combine customer collaboration, reliable easy-to-maintain equipment, strong cost-benefit performance, high quality and responsive support to minimize downtime and fit each operation.",
+    "resources": "Experienced employees, environmental-technology know-how, modern production, quality materials, structured processes, telematics, and dependable supplier and service networks underpin delivery.",
+    "direction": "Advance environmental technology with cleaner machine generations, modular solutions and expanded after-sales capabilities for changing customer and regulatory requirements."
+   },
+   "context": {
+    "size": null,
+    "founded": 1965,
+    "industry": "Manufacture of machinery and equipment n.e.c."
+   },
+   "seed_year": 2022
+  }
+ },
+ "years": [
+  {
+   "year": 2017,
+   "codeable": true,
+   "products": [
+    {
+     "name": "SPLITTER",
+     "generic": "a spiral shaft separator for recycling materials",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": true
+    },
+    {
+     "name": "DM-Reihe",
+     "generic": "continuous and batch mixers for organic waste",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "DU",
+     "generic": "a compost windrow turner",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Gritbuster",
+     "generic": "a water-based separation machine for grit",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "HDS",
+     "generic": "a water-based material separation machine",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "SM 720 SA Plus",
+     "generic": "a mobile trommel screening machine",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "BASIC",
+     "generic": "a screening machine",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "AK 310 Eco Power",
+     "generic": "a mobile high-speed shredder",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "AK 560 EcoPower",
+     "generic": "a mobile high-speed shredder",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "AK 635 EcoPower",
+     "generic": "a mobile high-speed shredder",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "DW 308 Rhino",
+     "generic": "a stationary slow-speed roll crusher",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Parts+ Package",
+     "generic": "a spare and wear parts supply package",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Service+ Package",
+     "generic": "a machine maintenance service contract package",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Doppstadt Telematik",
+     "generic": "a remote machine status monitoring system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    }
+   ],
+   "evidence": [
+    {
+     "product": "SM 720 SA Plus",
+     "type": "launch",
+     "strength": 3,
+     "quote": "Seit dem 1. März kann die Maschine, bedarfsgerecht ausgestattet, bestellt werden."
+    },
+    {
+     "product": "SM 720 SA Plus",
+     "type": "launch",
+     "strength": 2,
+     "quote": "Die Serienproduktion unserer derzeit leistungsfähigsten Siebmaschine ist angelaufen."
+    },
+    {
+     "product": "DW 308 Rhino",
+     "type": "launch",
+     "strength": 3,
+     "quote": "Der DW 308 Rhino ersetzt den DW 3080 E2 Mammut und ist damit der neue größte stationäre Walzenbrecher, den wir anbieten."
+    },
+    {
+     "product": "AK 310 Eco Power",
+     "type": "launch",
+     "strength": 3,
+     "quote": "Our AK 235 Profi model now has a successor: The new Doppstadt shredder, the AK 310 Eco Power, has more powerful drive technology"
+    },
+    {
+     "product": "AK 560 EcoPower",
+     "type": "launch",
+     "strength": 3,
+     "quote": "Ab Oktober sind unsere mobilen Schredderlösungen, die EcoPower-Zerkleinerer AK 560 und AK 635, mit..."
+    },
+    {
+     "product": "AK 635 EcoPower",
+     "type": "launch",
+     "strength": 3,
+     "quote": "Ab Oktober sind unsere mobilen Schredderlösungen, die EcoPower-Zerkleinerer AK 560 und AK 635, mit..."
+    },
+    {
+     "product": "BASIC",
+     "type": "launch",
+     "strength": 2,
+     "quote": "Wer auf der Suche nach einer effizienten Siebmaschine für unterschiedliche bestimmte Materialmengen ist, der kommt an ihr nicht vorbei. Die neue BASIC..."
+    }
+   ],
+   "success": []
+  },
+  {
+   "year": 2018,
+   "codeable": true,
+   "products": [
+    {
+     "name": "INVENTHOR Type 9",
+     "generic": "a slow-speed shaft shredder for biomass and waste",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": true
+    },
+    {
+     "name": "518 FLEX",
+     "generic": "a compact modular trommel screen",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "DH",
+     "generic": "a drum chipper for wood chip production",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "AK EcoPower",
+     "generic": "a mobile high-speed grinder for green waste",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "AK 640 VE",
+     "generic": "a stationary electric fine shredder",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "NZ 180 VE",
+     "generic": "a stationary electric secondary shredder",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "DZ 750",
+     "generic": "a combined slow and fast waste wood shredder",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "CURO Type 250",
+     "generic": "a mid-speed shredder for refuse-derived fuel",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "KIMO",
+     "generic": "a secondary shredder for refuse-derived fuel",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "DW 3060 Typ F",
+     "generic": "a mobile slow-speed single-shaft shredder",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "DW 2060 K",
+     "generic": "a tracked slow-speed single-shaft shredder",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Ceron",
+     "generic": "a slow-speed shredder series",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "SM Plus",
+     "generic": "a mobile trommel screen with windsifting",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "SM 414",
+     "generic": "a compact mobile trommel screen",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "SST",
+     "generic": "a stationary trommel screen",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "DST",
+     "generic": "a star screen for wood and green waste",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Selector",
+     "generic": "a flat screen for removing oversize particles",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "SWS 800",
+     "generic": "a screen splitter for wrapping material",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "SPLITTER UNIT",
+     "generic": "a stationary pre-separation system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "DM 215 E",
+     "generic": "a stationary batch mixer for biowaste",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Gurttrommel Line",
+     "generic": "conveyor belt pulleys for mining conveyors",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Parts+ Package",
+     "generic": "a tailored spare parts supply package",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Service+ Package",
+     "generic": "a tailored maintenance service contract",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Doppstadt Telematik",
+     "generic": "a telematics system for remote machine monitoring",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    }
+   ],
+   "evidence": [
+    {
+     "product": "INVENTHOR Type 9",
+     "type": "launch",
+     "strength": 3,
+     "quote": "Unsere neue Zerkleinerer-Generation der ‚‚INVENTHOR Type 9‘ aus der Smart Shredding Line ist eine Hochleistungslösung für Biomasse und Abfall."
+    },
+    {
+     "product": "518 FLEX",
+     "type": "launch",
+     "strength": 3,
+     "quote": "Daher wird es Zeit, ihrem zusätzlichen Können einen neuen Namen zu geben: Aus BASIC 518 wird 518 FLEX."
+    },
+    {
+     "product": "518 FLEX",
+     "type": "result",
+     "strength": 1,
+     "quote": "Die Siebtrommelmaschine von Doppstadt hat sich unter dem Namen BASIC 518 schon viele Freunde gemacht."
+    }
+   ],
+   "success": []
+  },
+  {
+   "year": 2019,
+   "codeable": true,
+   "products": [
+    {
+     "name": "INVENTHOR Type 9",
+     "generic": "a mobile slow-speed shredder",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "CERON",
+     "generic": "stationary single-shaft pre-shredders",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "DW 2060 K",
+     "generic": "a tracked slow-speed single-roller shredder",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "DW 3060 Typ F",
+     "generic": "a slow-speed shredder on trailer",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "DW 3060 Typ F - BioPower",
+     "generic": "a slow-speed shredder with reinforced drive",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "DW 2060 E Stationär",
+     "generic": "a stationary electric slow-speed shredder",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "CURO Type 250",
+     "generic": "a mid-speed shredder for refuse-derived fuels",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "KIMO",
+     "generic": "secondary shredders for refuse-derived fuels",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "DZ 750",
+     "generic": "a combined slow and fast waste wood shredder",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "AK-Baureihe",
+     "generic": "mobile high-speed shredders",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "AK 640 K",
+     "generic": "a tracked mobile high-speed shredder",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "AK 560 EcoPower",
+     "generic": "a mobile high-speed shredder",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "DH-Baureihe",
+     "generic": "mobile and stationary wood chippers",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "DU 265",
+     "generic": "a tractor-mounted compost windrow side turner",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "DU 320",
+     "generic": "a tractor-mounted compost windrow side turner",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Gritbuster WT-250",
+     "generic": "a wet screening plant for street sweepings",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Waschbär",
+     "generic": "drum screens for wet classification and washing",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "HB 40 R",
+     "generic": "a mobile sedimentation filter unit",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "HB 100 R",
+     "generic": "a mobile sedimentation filter unit",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "IHB 40 R",
+     "generic": "a containerised water treatment unit",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "518 FLEX",
+     "generic": "a compact modular drum screen",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "SM 518",
+     "generic": "a mobile drum screen",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "SST 720",
+     "generic": "a stationary drum screen",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "HDS-M",
+     "generic": "a mobile screening machine",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "WS 2000 K",
+     "generic": "a tracked mobile screening machine",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Parts+ Package",
+     "generic": "a tailored spare and wear parts package",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Service+ Package",
+     "generic": "a tailored machine maintenance service package",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Doppstadt Telematics",
+     "generic": "remote machine monitoring system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    }
+   ],
+   "evidence": [
+    {
+     "product": "518 FLEX",
+     "type": "launch",
+     "strength": 3,
+     "quote": "In den vergangenen Monaten hat sie sich enorm weiterentwickelt. Daher wird es Zeit, ihrem zusätzlichen Können einen neuen Namen zu geben: Aus BASIC 518 wird 518 FLEX."
+    },
+    {
+     "product": "CERON",
+     "type": "launch",
+     "strength": 2,
+     "quote": "Mit der neuen CERON Generation setzen wir aktuell Maßstäbe im Segment der stationären Einwellen-Vorzerkleinerer."
+    },
+    {
+     "product": "CERON",
+     "type": "result",
+     "strength": 3,
+     "quote": "Zum Einsatz kommen der Einwalzenzerkleinerer DW 256 Ceron Type B, die stationäre Siebmaschine SST 720"
+    },
+    {
+     "product": "SST 720",
+     "type": "result",
+     "strength": 3,
+     "quote": "Zum Einsatz kommen der Einwalzenzerkleinerer DW 256 Ceron Type B, die stationäre Siebmaschine SST 720"
+    },
+    {
+     "product": "AK 560 EcoPower",
+     "type": "result",
+     "strength": 3,
+     "quote": "Die Auslieferung des Zerkleinerers AK 560 EcoPower an unseren langjährigen Kunden Da-Di-Werk Messel am 11. Juli 2019"
+    },
+    {
+     "product": "AK-Baureihe",
+     "type": "launch",
+     "strength": 3,
+     "quote": "Doppstadt stellt zur Messe RecyclingAktiv Anfang September alle Modelle der AK-Baureihe mit der neuesten Motoren- und Abgastechnologie EU-Stufe V vor."
+    }
+   ],
+   "success": []
+  },
+  {
+   "year": 2022,
+   "codeable": true,
+   "products": [
+    {
+     "name": "METHOR",
+     "generic": "a mobile modular multipurpose recycling machine",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": true
+    },
+    {
+     "name": "INVENTHOR TYPE 6",
+     "generic": "a mobile slow speed shredder",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": true
+    },
+    {
+     "name": "INVENTHOR 6 Plus",
+     "generic": "a high-power mobile slow speed shredder",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "INVENTHOR TYPE 9",
+     "generic": "a mobile slow speed shredder",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "AK 315",
+     "generic": "a mobile fine shredder grinder",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "AK 565",
+     "generic": "a mobile fine shredder grinder",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "AK 565 K",
+     "generic": "a tracked mobile fine shredder grinder",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "AK 565 Plus",
+     "generic": "a mobile fine shredder grinder",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "AK 640 K",
+     "generic": "a tracked mobile fine shredder grinder",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "AK 640 SA",
+     "generic": "a mobile fine shredder grinder",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "518 FLEX",
+     "generic": "a compact mobile drum screening machine",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "SM 518.2",
+     "generic": "a mobile drum screening machine",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "SM 620.2",
+     "generic": "a mobile drum screening machine",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "SM 620.2 K",
+     "generic": "a tracked mobile drum screening machine",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "SM 620.2 SA",
+     "generic": "a mobile drum screening machine",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "SM 720 SA Plus",
+     "generic": "a mobile drum screening machine",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "SM 720 K",
+     "generic": "a tracked mobile drum screening machine",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "SM 726",
+     "generic": "a mobile drum screening machine",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Ceron Type 306",
+     "generic": "a stationary slow speed pre-shredder",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Splitter Unit 425",
+     "generic": "a screening unit for shredded material",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Parts+ Package",
+     "generic": "a spare parts supply service package",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Doppstadt-Telematik",
+     "generic": "a remote machine monitoring telematics service",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    }
+   ],
+   "evidence": [
+    {
+     "product": "METHOR",
+     "type": "result",
+     "strength": 2,
+     "quote": "Our dealer Zemteka from Klaipéda/Lithuania bought the first Methor for the Lithuanian market."
+    },
+    {
+     "product": "SM 720 SA Plus",
+     "type": "result",
+     "strength": 2,
+     "quote": "Our team recently carried out the commissioning and training for an SM 720 SA Plus in Chile!"
+    },
+    {
+     "product": "Ceron Type 306",
+     "type": "result",
+     "strength": 2,
+     "quote": "Das Team der Doppstadt Systemtechnik GmbH (DSG) hat nicht nur den robusten Vorzerkleinerer Ceron Type 306 aus der Slow Speed Shredder Line auf die Spur gebracht"
+    },
+    {
+     "product": "AK 565 K",
+     "type": "launch",
+     "strength": 2,
+     "quote": "Der AK 565 K ist ein ganz neu entwickeltes Modell der AK Baureihe. Er löst das Vorgängermodell AK 510 K BioPower ab."
+    },
+    {
+     "product": "INVENTHOR 6 Plus",
+     "type": "launch",
+     "strength": 2,
+     "quote": "Auf dieser Leistungsschau durfte natürlich auch unser neuer INVENTHOR 6 Plus nicht fehlen"
+    },
+    {
+     "product": "AK 315",
+     "type": "result",
+     "strength": 1,
+     "quote": "Mit unserem kleinsten mobilen Shredder AK 315 hatten wir die passende Antwort"
+    }
+   ],
+   "success": []
+  },
+  {
+   "year": 2023,
+   "codeable": true,
+   "products": [
+    {
+     "name": "METHOR",
+     "generic": "a mobile multipurpose recycling shredding system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": true
+    },
+    {
+     "name": "INVENTHOR 6",
+     "generic": "a mobile slow speed shredder",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": true
+    },
+    {
+     "name": "INVENTHOR 6 PLUS",
+     "generic": "a high-power mobile slow speed shredder",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "INVENTHOR 9",
+     "generic": "a mobile slow speed shredder",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "AK 315",
+     "generic": "a mobile towed grinder for green waste and wood",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "AK 565",
+     "generic": "a mobile high-speed grinder",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "AK 640",
+     "generic": "a mobile high-speed grinder",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "518 FLEX",
+     "generic": "a mobile trommel screen",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "SM 518.2",
+     "generic": "a combined mobile trommel and star screen",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "SM 620.2",
+     "generic": "a mobile trommel screen",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "SM 620 Plus",
+     "generic": "a mobile trommel screen",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "SM 720.2 K",
+     "generic": "a mobile trommel screen",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "CERON",
+     "generic": "a single-shaft shredder series",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Ceron Type 308",
+     "generic": "a large single-shaft shredder",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "SELECTOR 800.2",
+     "generic": "a spiral shaft separator screen",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Doppstadt MMAK",
+     "generic": "a mobile-modular waste processing plant concept",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Parts+ Package",
+     "generic": "a tailored spare parts supply service",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Doppstadt-Telematik",
+     "generic": "a telematics machine monitoring service",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    }
+   ],
+   "evidence": [
+    {
+     "product": "INVENTHOR 6 PLUS",
+     "type": "result",
+     "strength": 3,
+     "quote": "Deshalb wundert es nicht, dass wir bereits 50 Modelle des INVENTHOR 6 PLUS erfolgreich an Kunden auf der ganzen Welt vermitteln konnten."
+    },
+    {
+     "product": "INVENTHOR 6 PLUS",
+     "type": "launch",
+     "strength": 2,
+     "quote": "Mit eingebautem Caterpillar-Motor ist unsere neue Recyclinglösung ein Garant für eine zuverlässige Aufbereitung von Altholz sowie Gewerbe- und Baumischabfall."
+    },
+    {
+     "product": "SM 620 Plus",
+     "type": "result",
+     "strength": 3,
+     "quote": "Das ließ sich Doppstadt nicht zweimal sagen und überzeugte Vornkahl von seiner Siebmaschine SM 620 Plus."
+    },
+    {
+     "product": "INVENTHOR 6",
+     "type": "result",
+     "strength": 2,
+     "quote": "„Der INVENTHOR 6 schreddert nicht nur unseren täglichen Standardinput, sondern ist zudem für zahlreiche weitere anspruchsvolle Materialien wie Autoreifen geeignet."
+    },
+    {
+     "product": "Ceron Type 308",
+     "type": "result",
+     "strength": 2,
+     "quote": "In dem Beitrag wird deutlich, welche Rolle dabei unser Ceron Type 308 – der größte seiner Baureihe – spielt."
+    },
+    {
+     "product": "CERON",
+     "type": "launch",
+     "strength": 2,
+     "quote": "Die neuen CERON TYPES schaffen selbst schwierigste Zerkleinerungsaufgaben und zählen zu den leistungsfähigsten Vertretern im Bereich der Einwellen-Zerkleinerer."
+    },
+    {
+     "product": "SM 518.2",
+     "type": "launch",
+     "strength": 2,
+     "quote": "Unsere neue SM 518.2 ist Trommel- und Sternsiebmaschine zugleich."
+    },
+    {
+     "product": "METHOR",
+     "type": "launch",
+     "strength": 2,
+     "quote": "Mit den Messepremieren INVENTHOR TYPE 6 und METHOR setzen wir auch nach 55 Jahren Firmengeschichte die Serie an technischen Innovationen ungebremst fort."
+    },
+    {
+     "product": "Doppstadt MMAK",
+     "type": "result",
+     "strength": 3,
+     "quote": "Mit Doppstadt MMAK mehr als 600.000 Euro pro Jahr eingespart!"
+    }
+   ],
+   "success": []
+  },
+  {
+   "year": 2024,
+   "codeable": true,
+   "products": [
+    {
+     "name": "METHOR",
+     "generic": "a mobile multipurpose single-shaft shredder",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": true
+    },
+    {
+     "name": "E-METHOR",
+     "generic": "an electrically driven mobile single-shaft shredder",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "INVENTHOR 6.2",
+     "generic": "a mobile slow speed shredder",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "INVENTHOR 9",
+     "generic": "a mobile slow speed shredder",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "INVENTHOR 6 PLUS",
+     "generic": "a high-performance mobile waste shredder",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": true
+    },
+    {
+     "name": "AK 315",
+     "generic": "a mobile high-speed wood grinder",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "AK 565",
+     "generic": "a mobile high-speed wood grinder",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "AK 565 K",
+     "generic": "a mobile high-speed wood grinder",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "AK 565 Plus",
+     "generic": "a mobile high-speed wood grinder",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "AK 640 K",
+     "generic": "a mobile high-speed wood grinder",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "AK 640 SA",
+     "generic": "a mobile high-speed wood grinder",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "AK 560",
+     "generic": "a mobile high-speed wood grinder",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "AK 640",
+     "generic": "a mobile high-speed wood grinder",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "SM 518.2",
+     "generic": "a mobile trommel screening machine",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "SM 620.2",
+     "generic": "a mobile trommel screening machine",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "SM 620.2 K",
+     "generic": "a mobile trommel screening machine",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "SM 620.2 SA",
+     "generic": "a mobile trommel screening machine",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "SM 720 K",
+     "generic": "a mobile trommel screening machine",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "SM 726",
+     "generic": "a mobile trommel screening machine",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "MMAK",
+     "generic": "a mobile modular waste processing plant concept",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": true
+    },
+    {
+     "name": "Doppstadt Academy",
+     "generic": "a machine operator training program",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Doppstadt-Telematik",
+     "generic": "a remote machine monitoring telematics service",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    }
+   ],
+   "evidence": [
+    {
+     "product": "INVENTHOR 6 PLUS",
+     "type": "result",
+     "strength": 3,
+     "quote": "Deshalb wundert es nicht, dass wir bereits 50 Modelle des INVENTHOR 6 PLUS erfolgreich an Kunden auf der ganzen Welt vermitteln konnten."
+    },
+    {
+     "product": "INVENTHOR 6 PLUS",
+     "type": "launch",
+     "strength": 2,
+     "quote": "Mit eingebautem Caterpillar-Motor ist unsere neue Recyclinglösung ein Garant für eine zuverlässige Aufbereitung von Altholz sowie Gewerbe- und Baumischabfall."
+    },
+    {
+     "product": "MMAK",
+     "type": "result",
+     "strength": 3,
+     "quote": "More than 600,000 euros saved per year with Doppstadt MMAK!"
+    },
+    {
+     "product": "MMAK",
+     "type": "result",
+     "strength": 2,
+     "quote": "hat sich der regionale Entsorger Wiese Umwelt Service GmbH mit Sitz in Berga (Thüringen) vor mehr als einem Jahr für die Investition in das mobil-modulare Aufbereitungskonzept (MMAK) von Doppstadt entschieden."
+    },
+    {
+     "product": "E-METHOR",
+     "type": "launch",
+     "strength": 2,
+     "quote": "Unser langsam laufender Einwellenzerkleinerer ist auch mit Elektroantrieb erhältlich."
+    }
+   ],
+   "success": []
+  },
+  {
+   "year": 2025,
+   "codeable": true,
+   "products": [
+    {
+     "name": "Selector 800.2",
+     "generic": "a hooklift-mobile spiral shaft and star screen",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Selector 400",
+     "generic": "a mobile spiral shaft screening separator",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "SM 518.2",
+     "generic": "a compact mobile trommel and star screen",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "SM 620.2 K",
+     "generic": "a tracked mobile trommel screening machine",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "SM 620.2 SA",
+     "generic": "a semi-trailer mobile trommel screening machine",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "SM 620.3",
+     "generic": "a hybrid diesel-electric mobile trommel screen",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": true
+    },
+    {
+     "name": "SM 720.2 SA",
+     "generic": "a large semi-trailer trommel screening machine",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "DU 265",
+     "generic": "a tractor-mounted compost windrow turner",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Inventhor 9",
+     "generic": "a mobile shredder for waste and green cuttings",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "DoppBasket System",
+     "generic": "an optional strip basket for shredders",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Doppstadt Telematics",
+     "generic": "a remote machine monitoring telematics system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    }
+   ],
+   "evidence": [
+    {
+     "product": "SM 620.3",
+     "type": "launch",
+     "strength": 2,
+     "quote": "Die Zukunft startet jetzt, denn wir bringen mit der SM 620.3 die neue Generation unserer Trommelsiebmaschinen an den Start."
+    },
+    {
+     "product": "SM 518.2",
+     "type": "launch",
+     "strength": 1,
+     "quote": "Unser kleinstes hochflexibles Nachfolgemodell der bewährten Siebmaschine SM 518 Plus fährt jetzt mit neuester Motorentechnik nach Abgasnorm Stufe V vor"
+    },
+    {
+     "product": "Inventhor 9",
+     "type": "launch",
+     "strength": 1,
+     "quote": "Der INVENTHOR 9 ist die neue Top-Lösung für jede noch so anspruchsvolle Aufgabe."
+    }
+   ],
+   "success": []
+  },
+  {
+   "year": 2026,
+   "codeable": true,
+   "products": [
+    {
+     "name": "METHOR",
+     "generic": "a mobile single-shaft shredder for waste processing",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": true
+    },
+    {
+     "name": "INVENTHOR",
+     "generic": "a series of shredders for waste and wood",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Core Shredder Line",
+     "generic": "a series of mobile twin-shaft shredders",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "CoreShred 3",
+     "generic": "a compact mobile twin-shaft shredder",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "CoreShred 8",
+     "generic": "a mid-class mobile twin-shaft shredder",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "CoreShred 9",
+     "generic": "a high-performance mobile twin-shaft shredder",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "AK - Baureihe",
+     "generic": "a series of mobile high-speed flail shredders",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "AK 565",
+     "generic": "a mobile high-speed flail shredder",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "AK 565 K",
+     "generic": "a tracked mobile high-speed flail shredder",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "SM - Baureihe",
+     "generic": "a series of mobile trommel screens",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "SELECTOR - Baureihe",
+     "generic": "a series of mobile spiral shaft screens",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Selector 400",
+     "generic": "a mobile screen with spiral shaft deck",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "DU - Baureihe",
+     "generic": "a series of slow-speed shredders",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "RB 8",
+     "generic": "a horizontal grinder for wood and green waste",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "RB 12",
+     "generic": "a high-power horizontal grinder for wood waste",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Doppstadt Telematics",
+     "generic": "a machine telematics and remote diagnosis portal",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "MMPC",
+     "generic": "a mobile modular waste processing plant concept",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "3D Altholzkorb",
+     "generic": "a screen basket option for shredders",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    }
+   ],
+   "evidence": [
+    {
+     "product": "AK 565 K",
+     "type": "launch",
+     "strength": 2,
+     "quote": "Der AK 565 K ist ein ganz neu entwickeltes Modell der AK Baureihe. Er löst das Vorgängermodell AK 510 K BioPower ab."
+    },
+    {
+     "product": "AK 565",
+     "type": "launch",
+     "strength": 1,
+     "quote": "Der neue Motor erfüllt die Abgasnorm Stufe V."
+    },
+    {
+     "product": "RB 12",
+     "type": "launch",
+     "strength": 2,
+     "quote": "DOPPSTADT RB HORIZONTAL GRINDER - JETZT AUCH IN EUROPA UND DEM REST DER WELT"
+    },
+    {
+     "product": "RB 8",
+     "type": "launch",
+     "strength": 2,
+     "quote": "DOPPSTADT RB HORIZONTAL GRINDER - JETZT AUCH IN EUROPA UND DEM REST DER WELT"
+    }
+   ],
+   "success": []
+  }
+ ]
+}

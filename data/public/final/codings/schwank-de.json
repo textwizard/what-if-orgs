@@ -1,0 +1,944 @@
+{
+ "slug": "schwank-de",
+ "profiles": {
+  "exploration": {
+   "strategy": {
+    "offer": "Energy-efficient heating, cooling, heat-recovery, and control systems for halls, industrial buildings, commercial spaces, sports venues, and outdoor areas, plus planning, installation support, and maintenance.",
+    "customers": "Industrial and commercial facility operators, including mid-sized businesses and larger organizations needing efficient climate solutions for large indoor or outdoor spaces.",
+    "why_we_win": "It expects to win through lower energy costs, CO2 reduction, reliable performance, regulatory compliance, fast payback, strong service, and consistent product quality.",
+    "resources": "Its basis is long experience, engineering know-how, advanced products, quality-focused production and control, and teams supporting design, realization, service, and maintenance.",
+    "direction": "To keep improving efficient, innovative, dependable climate solutions that save energy, cut emissions, and exceed customer expectations."
+   },
+   "context": {
+    "size": null,
+    "founded": null,
+    "industry": "Manufacture of machinery and equipment n.e.c."
+   },
+   "seed_year": 2017
+  },
+  "holdout": {
+   "strategy": {
+    "offer": "Customized heating, ventilation, cooling and heat-recovery systems for large non-residential spaces, including turnkey planning, installation, service and financing options.",
+    "customers": "Operators of industrial, commercial and logistics facilities, plus other non-residential venues needing efficient climate control for halls, workshops, sports spaces or outdoor areas.",
+    "why_we_win": "It argues tailored, energy-efficient systems, fast payback, dependable quality, and one-stop delivery from advice through lifetime support outperform fragmented alternatives.",
+    "resources": "In-house research, engineering and manufacturing, long sector experience, structured innovation processes, and a dense field-service network provide the foundation.",
+    "direction": "Moving toward broader integrated building-climate solutions with stronger ventilation, renewable and heat-recovery elements, and lower-carbon heating such as hydrogen-ready systems."
+   },
+   "context": {
+    "size": null,
+    "founded": null,
+    "industry": "Manufacture of machinery and equipment n.e.c."
+   },
+   "seed_year": 2022
+  }
+ },
+ "years": [
+  {
+   "year": 2017,
+   "codeable": true,
+   "products": [
+    {
+     "name": "hybridSchwank aero",
+     "generic": "a hybrid waste heat recovery system for halls",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "ThermoControl Plus",
+     "generic": "a control system for hall heating",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "tetraSchwank Green Building",
+     "generic": "an energy-efficient building heating concept",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    }
+   ],
+   "evidence": [],
+   "success": []
+  },
+  {
+   "year": 2018,
+   "codeable": true,
+   "products": [
+    {
+     "name": "ultraSchwank",
+     "generic": "a high-efficiency gas radiant tube heater",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "deltaSchwank",
+     "generic": "a high-efficiency gas radiant tube heater",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": true
+    },
+    {
+     "name": "SchwankControl Touch",
+     "generic": "a touchscreen control system for heating installations",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "smartHeat",
+     "generic": "a networked heating control system with ModBus",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "IC 4000",
+     "generic": "an automatic burner control unit for heaters",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "SchwankAir",
+     "generic": "an air curtain for doors",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    }
+   ],
+   "evidence": [
+    {
+     "product": "deltaSchwank",
+     "type": "launch",
+     "strength": 2,
+     "quote": "deltaSchwank ist die neue Generation von Schwank Hocheffizienz-Dunkelstrahlern."
+    },
+    {
+     "product": "deltaSchwank",
+     "type": "result",
+     "strength": 2,
+     "quote": "Erste deltaSchwank Anlage in Betrieb"
+    },
+    {
+     "product": "IC 4000",
+     "type": "launch",
+     "strength": 2,
+     "quote": "Schwank ist mit der serienmäßigen Einführung des IC 4000 Feuerungsautomaten in allen Heizsystemen ein weiter Meilenstein auf dem Gebiet der Heizungsregelung gelungen."
+    }
+   ],
+   "success": []
+  },
+  {
+   "year": 2019,
+   "codeable": true,
+   "products": [
+    {
+     "name": "SchwankControl Touch",
+     "generic": "touchscreen control system for hall heating",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "SchwankAir",
+     "generic": "warm air heaters and door air curtains",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "tetraSchwank",
+     "generic": "heat recovery system for radiant heaters",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "deltaSchwank",
+     "generic": "gas-fired infrared tube heater",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "terrasSchwank",
+     "generic": "gas infrared patio heater",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "supraSchwank",
+     "generic": "premium gas infrared plaque heater",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "primoSchwank",
+     "generic": "standard gas infrared plaque heater",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "ecoSchwank",
+     "generic": "basic gas infrared plaque heater",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "superTube",
+     "generic": "gas-fired infrared tube heater",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "calorSchwank",
+     "generic": "gas-fired infrared tube heater",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "infraSchwank",
+     "generic": "gas-fired infrared tube heater",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "novoSchwank",
+     "generic": "gas-fired infrared tube heater",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "aeroSchwank",
+     "generic": "gas-fired warm air unit",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "hybridSchwank",
+     "generic": "hybrid heating system with heat recovery",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Whisper-Jet",
+     "generic": "low-noise burner for infrared heaters",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "ThermoControl Plus",
+     "generic": "heating control unit",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "IC 4000",
+     "generic": "burner control unit for heating systems",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "GHP",
+     "generic": "gas-engine heat pump for heating and cooling",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "GasCheck",
+     "generic": "annual gas installation safety inspection service",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    }
+   ],
+   "evidence": [
+    {
+     "product": "deltaSchwank",
+     "type": "result",
+     "strength": 2,
+     "quote": "Unser hocheffizienter Dunkelstrahler deltaSchwank hat eine weitere Jury von sich überzeugt. Diesmal wegen seiner besonderen Bauweise."
+    },
+    {
+     "product": "IC 4000",
+     "type": "launch",
+     "strength": 2,
+     "quote": "Schwank ist mit der serienmäßigen Einführung des IC 4000 Feuerungsautomaten in allen Heizsystemen ein weiterer Meilenstein auf dem Gebiet der Heizungsregelung gelungen."
+    },
+    {
+     "product": "GHP",
+     "type": "launch",
+     "strength": 2,
+     "quote": "Schwank now offers an efficient solution for the heating and cooling of industrial and trade facilities with the GHP."
+    }
+   ],
+   "success": []
+  },
+  {
+   "year": 2022,
+   "codeable": true,
+   "products": [
+    {
+     "name": "deltaSchwank",
+     "generic": "a high-efficiency gas dark infrared radiant heater",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": true
+    },
+    {
+     "name": "evoSchwank",
+     "generic": "a gas infrared luminous radiant heater",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "aeroSchwank H",
+     "generic": "a compact indoor ventilation unit with heat recovery",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "aeroSchwank H-R",
+     "generic": "an outdoor ventilation unit with heat recovery",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "aeroSchwank H-RI",
+     "generic": "a rooftop ventilation unit for decentralized hall ventilation",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "hybridSchwank aero",
+     "generic": "an air-to-air heat recovery system for heaters",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "hybridSchwank hydro",
+     "generic": "an air-to-water flue gas heat recovery system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "tetraSchwank",
+     "generic": "a condensing heat recovery system for radiant heaters",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "terrasSchwank",
+     "generic": "a gas infrared patio heater",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "solarSchwank airU",
+     "generic": "a solar air collector for hall heating",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "solarSchwank airG",
+     "generic": "a solar air collector for hall heating",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Warmlufterzeuger XTR",
+     "generic": "a series of warm air heaters",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "supraCondens",
+     "generic": "a condensing warm air heater",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Torluftschleier Serie H",
+     "generic": "an industrial door air curtain",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Torluftschleier Serie A",
+     "generic": "an industrial door air curtain",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "MonsterFans",
+     "generic": "industrial high-volume low-speed ceiling fans",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "aeroSchwank Luftreiniger",
+     "generic": "a HEPA room air purifier",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "SchwankControl Touch",
+     "generic": "a touch control system for heating installations",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "smartHeat",
+     "generic": "an integrated heating control system with ModBus",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Premium GaraPlus Paket",
+     "generic": "an extended warranty service package",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    }
+   ],
+   "evidence": [
+    {
+     "product": "MonsterFans",
+     "type": "launch",
+     "strength": 3,
+     "quote": "Schwank launcht im Juli 2020 eine vollkommen neue Produktreihe, die sogar als eigene Marke auftrifft. Es handelt sich um HVLS-Ventilatoren für die Industrie."
+    },
+    {
+     "product": "solarSchwank airU",
+     "type": "launch",
+     "strength": 2,
+     "quote": "Der Hallenklima-Experte Schwank hat darauf reagiert und mit der Erweiterung seines Produktportfolios um Solar-Luftkollektoren einen weiteren Baustein für klimaneutrales Heizen geschaffen."
+    }
+   ],
+   "success": []
+  },
+  {
+   "year": 2023,
+   "codeable": true,
+   "products": [
+    {
+     "name": "geniumSchwank",
+     "generic": "hydrogen-capable gas dark infrared hall heater",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": true
+    },
+    {
+     "name": "deltaSchwank",
+     "generic": "gas-fired dark infrared radiant hall heater",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "bluTek-Brenner",
+     "generic": "burner component for radiant heaters",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "eSchwank D-Serie 2200-4500",
+     "generic": "electric infrared panel heater for halls",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "eSchwank EZ-2000",
+     "generic": "electric halogen infrared heater for outdoor areas",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "eSchwank H-Serie 3000-6000",
+     "generic": "industrial electric infrared hall heater",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "hybridSchwank hydro",
+     "generic": "flue gas heat recovery system with water exchanger",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "SchwankControl Touch",
+     "generic": "touch control system for heating installations",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "SchwankAir",
+     "generic": "industrial door air curtain",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "MonsterFans",
+     "generic": "high volume low speed industrial ceiling fan",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "GaraPlus",
+     "generic": "premium extended warranty service package",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "GasCheck",
+     "generic": "annual gas line inspection service",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    }
+   ],
+   "evidence": [
+    {
+     "product": "geniumSchwank",
+     "type": "launch",
+     "strength": 3,
+     "quote": "In der zweiten Januarwoche 2023 ist die zu 100% wasserstofffähige Geräteserie mit dem Namen geniumSchwank in einem Ulmer Gewerbebetrieb in den Realbetrieb gegangen."
+    }
+   ],
+   "success": []
+  },
+  {
+   "year": 2024,
+   "codeable": true,
+   "products": [
+    {
+     "name": "geniumSchwank",
+     "generic": "hydrogen-capable gas infrared tube heater",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": true
+    },
+    {
+     "name": "aeroSchwank H",
+     "generic": "compact indoor ventilation unit with heat recovery",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "aeroSchwank H-R",
+     "generic": "outdoor ventilation unit with heat recovery",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "aeroSchwank H-RI",
+     "generic": "rooftop decentralized ventilation unit with heat recovery",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "tetraSchwank",
+     "generic": "condensing heat recovery system for tube heaters",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "deltaSchwank",
+     "generic": "modulating high-efficiency gas infrared tube heater",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "SchwankControl Touch",
+     "generic": "touchscreen control system for hall heating",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Premium GaraPlus",
+     "generic": "extended warranty and maintenance service package",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    }
+   ],
+   "evidence": [
+    {
+     "product": "geniumSchwank",
+     "type": "launch",
+     "strength": 2,
+     "quote": "Mit dem neuen, einzigartigen Heizsystem hat Schwank einen innovativen Durchbruch erreicht"
+    }
+   ],
+   "success": []
+  },
+  {
+   "year": 2025,
+   "codeable": true,
+   "products": [
+    {
+     "name": "geniumSchwank",
+     "generic": "multi-gas and hydrogen infrared tube heater",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": true
+    },
+    {
+     "name": "eSchwank D-Serie",
+     "generic": "electric infrared panel heater for industry",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": true
+    },
+    {
+     "name": "eSchwank S-Serie",
+     "generic": "high-output electric infrared hall heater",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": true
+    },
+    {
+     "name": "aeroSchwank H",
+     "generic": "compact indoor ventilation unit with heat recovery",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "aeroSchwank H-RI",
+     "generic": "rooftop ventilation unit with heat recovery",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "hybridSchwank hydro",
+     "generic": "flue gas heat recovery system for heaters",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "SchwankAir supraCondens H",
+     "generic": "condensing gas warm air heater",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Serie H",
+     "generic": "gas-fired industrial door air curtain",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "calorSchwank",
+     "generic": "gas infrared tube heater",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "infraSchwank",
+     "generic": "gas infrared tube heater",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "solarSchwank airU und airG",
+     "generic": "solar air collector",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Warmlufterzeuger XTR",
+     "generic": "gas warm air heater series",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Premium GaraPlus",
+     "generic": "full-service maintenance and extended warranty package",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "SchwankControl",
+     "generic": "control system for hall heating",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "tetraSchwank",
+     "generic": "condensing infrared heating system with heat recovery",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    }
+   ],
+   "evidence": [
+    {
+     "product": "geniumSchwank",
+     "type": "result",
+     "strength": 3,
+     "quote": "Im Februar gingen die ersten Geräte in den Wasserstoff-Testbetrieb der Dillinger Hütte."
+    },
+    {
+     "product": "geniumSchwank",
+     "type": "launch",
+     "strength": 2,
+     "quote": "Seit diesem Jahr bietet es die erste 100%ige Wasserstoffheizung an"
+    },
+    {
+     "product": "eSchwank S-Serie",
+     "type": "launch",
+     "strength": 2,
+     "quote": "Mit der Eigenentwicklung eines leistungsfähigen Elektrostrahlers hat der Hallenklimaspezialist Schwank sein Portfolio um ein weiteres klimaneutrales Produkt ergänzt."
+    }
+   ],
+   "success": []
+  },
+  {
+   "year": 2026,
+   "codeable": true,
+   "products": [
+    {
+     "name": "aeroSchwank H",
+     "generic": "compact indoor ventilation unit with heat recovery",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "aeroSchwank H-RI",
+     "generic": "rooftop ventilation unit with heat recovery",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "eSchwank D-Serie",
+     "generic": "electric infrared ceiling heater for halls",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "eSchwank EZ-2000",
+     "generic": "plug-and-play halogen infrared heater for outdoor areas",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "SchwankAir XTR-V",
+     "generic": "vertical gas-fired warm air heater",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "SchwankAir XTR-C",
+     "generic": "ducted gas-fired warm air heater",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "SchwankAir supraCondens H",
+     "generic": "condensing gas warm air heater",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "SchwankControl Touch",
+     "generic": "control system for hall heating installations",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Serie A",
+     "generic": "industrial door air curtain",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "geniumSchwank",
+     "generic": "multi-gas and hydrogen dark radiant heater",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": true
+    },
+    {
+     "name": "Premium GaraPlus",
+     "generic": "full-service maintenance and extended warranty package",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    }
+   ],
+   "evidence": [
+    {
+     "product": "geniumSchwank",
+     "type": "launch",
+     "strength": 2,
+     "quote": "Mit dem neuen, einzigartigen Heizsystem hat Schwank einen innovativen Durchbruch erreicht"
+    }
+   ],
+   "success": []
+  }
+ ]
+}

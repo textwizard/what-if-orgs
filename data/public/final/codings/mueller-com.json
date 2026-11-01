@@ -1,0 +1,975 @@
+{
+ "slug": "mueller-com",
+ "profiles": {
+  "exploration": {
+   "strategy": {
+    "offer": "Handcrafted wooden decorative articles, especially seasonal pyramids, incense figures, arches, candleholders, music boxes, and accessories.",
+    "customers": "Consumers seeking high-quality handcrafted seasonal home décor, gifts, and collectible wooden folk art.",
+    "why_we_win": "The firm relies on longstanding craft tradition, detailed handwork, rich natural materials, and distinctive construction methods to create expressive premium pieces.",
+    "resources": "Its basis is workshop craftsmanship in carving, turning, painting, assembly, material selection, and specialized in-house production techniques.",
+    "direction": null
+   },
+   "context": {
+    "size": null,
+    "founded": 1899,
+    "industry": "Manufacture of wood and of products of wood and cork, except furniture; manufacture of articles of straw and plaiting materials"
+   },
+   "seed_year": 2017
+  },
+  "holdout": {
+   "strategy": {
+    "offer": "Handcrafted wooden decorative and gift products, plus accessories, spare parts, repairs, themed collections, and custom small-batch items with optional lighting or music features.",
+    "customers": "Private buyers and specialist retailers seeking high-quality seasonal and year-round wooden home décor, gifts, and collectible craft products.",
+    "why_we_win": "They rely on careful handwork, strong design, customer-focused service, and emotionally appealing products that share their fascination with wood.",
+    "resources": "Experienced loyal staff, in-house workshops, long-built design knowledge, fully self-made production, sustainably sourced wood, and capabilities for repair and customization.",
+    "direction": "They are moving toward blending traditional woodcraft with contemporary designs and technology while investing in employees, service, sustainability, and broader customer access."
+   },
+   "context": {
+    "size": null,
+    "founded": 1899,
+    "industry": "Manufacture of wood and of products of wood and cork, except furniture; manufacture of articles of straw and plaiting materials"
+   },
+   "seed_year": 2022
+  }
+ },
+ "years": [
+  {
+   "year": 2017,
+   "codeable": true,
+   "products": [
+    {
+     "name": "Zuhause im Erzgebirge",
+     "generic": "series of carved wooden folk art figures",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "In den Tiefen des Waldes",
+     "generic": "series of carved wooden folk art figures",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Besuch im Hasen- und Bärenland",
+     "generic": "series of wooden animal figurines",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Historisches Dresden neu entdecken",
+     "generic": "series of wooden historical city figures",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Auf Reisen um die Welt",
+     "generic": "series of wooden figures of world cultures",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Unterwegs zur Arbeit",
+     "generic": "series of wooden figures depicting occupations",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Stille Nacht in Bethlehem",
+     "generic": "series of wooden nativity figures",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Sportliche Winterfreuden",
+     "generic": "series of wooden winter sports figures",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Im Weihnachtsland",
+     "generic": "series of wooden Christmas decoration figures",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Müllerchen",
+     "generic": "series of small wooden incense smokers",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Pyramide Heilige Geschichte",
+     "generic": "multi-tier wooden Christmas pyramid with nativity scenes",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": true
+    },
+    {
+     "name": "Pyramide Waldleute",
+     "generic": "one-tier wooden Christmas candle pyramid",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Pyramide Geschenkeengel Spitzbogen",
+     "generic": "pointed-arch wooden Christmas candle pyramid",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Pyramide Musikantenengel Spitzbogen",
+     "generic": "pointed-arch wooden Christmas candle pyramid",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Pyramide Rehe geschnitzt",
+     "generic": "wooden candle pyramid with carved deer",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Pyramide Bescherung Spitzbogen",
+     "generic": "pointed-arch wooden Christmas candle pyramid",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Pyramide Erzgebirgsfiguren Spitzbogen",
+     "generic": "pointed-arch wooden Christmas candle pyramid",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Pyramide Christi Geburt",
+     "generic": "wooden nativity candle pyramid",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Bogenpyramide Christi Geburt",
+     "generic": "arched wooden nativity candle pyramid",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Pyramide Winterkinder",
+     "generic": "one-tier wooden Christmas candle pyramid",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Bogenpyramide Frauenkirche",
+     "generic": "arched wooden pyramid with LED lighting",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Bogenpyramide Seiffener Kirche",
+     "generic": "arched wooden pyramid with LED lighting",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Bogenpyramide Basilius-Kathedrale",
+     "generic": "arched wooden pyramid with historical figures",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Pyramide Waldmotiv",
+     "generic": "three-tier wooden Christmas pyramid",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Pyramide Erzgebirgsmotiv",
+     "generic": "three-tier wooden Christmas pyramid",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Schwibbogen Seiffener Dorf",
+     "generic": "illuminated wooden candle arch",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Schwibbogen Kurrende",
+     "generic": "wooden candle arch with carol singers",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Schwibbogen Christi Geburt",
+     "generic": "wooden nativity candle arch",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    }
+   ],
+   "evidence": [
+    {
+     "product": "Müllerchen",
+     "type": "launch",
+     "strength": 1,
+     "quote": "Die neuen Müllerchen"
+    }
+   ],
+   "success": []
+  },
+  {
+   "year": 2018,
+   "codeable": true,
+   "products": [
+    {
+     "name": "RauchKnacker®",
+     "generic": "a hybrid wooden nutcracker and incense smoker",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": true
+    },
+    {
+     "name": "Rolf Zuckowski Edition",
+     "generic": "motif platforms for electronic music boxes",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": true
+    },
+    {
+     "name": "Die Jahresuhr",
+     "generic": "an anniversary motif platform for music box",
+     "seasonal": true,
+     "stage": "market",
+     "scale": "single",
+     "featured": true
+    },
+    {
+     "name": "Ich bin stark",
+     "generic": "a motif platform for electronic music box",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "In der Weihnachtsbäckerei",
+     "generic": "a Christmas motif platform for music box",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Elektronische Spieldose V3.7",
+     "generic": "an electronic wooden music box with Bluetooth",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Schwibbogen Seiffener Dorf",
+     "generic": "an illuminated wooden candle arch",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Schwibbogen Alt Dresden",
+     "generic": "an illuminated wooden candle arch",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Bogenpyramide Heilige Geschichte",
+     "generic": "a wooden Christmas pyramid with nativity scenes",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Pyramide Heilige Geschichte",
+     "generic": "a multi-tier wooden Christmas pyramid",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Pyramide Seiffener Dorf",
+     "generic": "a wooden Christmas pyramid",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Pyramide ''Alt Dresden''",
+     "generic": "a wooden Christmas pyramid",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Pyramide ''Ein koloniales Dorf''",
+     "generic": "a wooden Christmas pyramid",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Die neuen Müllerchen",
+     "generic": "a series of small wooden figurines",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Frauenkirche Dresden",
+     "generic": "an illuminated wooden church model",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    }
+   ],
+   "evidence": [
+    {
+     "product": "RauchKnacker®",
+     "type": "launch",
+     "strength": 2,
+     "quote": "Das erste hybride Produkt Erzgebirgischer Holzkunst und eine Weltneuheit zugleich: Der RauchKnacker® wird dem interessierten Fachpublikum vorgestellt und gewinnt viele Herzen."
+    },
+    {
+     "product": "Die Jahresuhr",
+     "type": "launch",
+     "strength": 2,
+     "quote": "Aus Anlass des runden Geburtstages erscheint die neueste Plattform „Die Jahresuhr“, die aus über 125 Einzelteilen besteht"
+    }
+   ],
+   "success": []
+  },
+  {
+   "year": 2019,
+   "codeable": true,
+   "products": [
+    {
+     "name": "Elektronische Spieldosen",
+     "generic": "electronic wooden music boxes with exchangeable discs",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": true
+    },
+    {
+     "name": "Rolf Zuckowski Edition",
+     "generic": "electronic music box series with children's songs",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "In der Weihnachtsbäckerei",
+     "generic": "Christmas-themed electronic wooden music box",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Ich bin stark",
+     "generic": "Easter-themed music box motif platform",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Müllerchen®",
+     "generic": "series of small wooden decorative figures",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": true
+    },
+    {
+     "name": "120 Jahre Müller",
+     "generic": "commemorative anniversary colored wooden Christmas pyramid",
+     "seasonal": true,
+     "stage": "market",
+     "scale": "single",
+     "featured": true
+    },
+    {
+     "name": "Alt Dresden",
+     "generic": "wooden candle arch with integrated sound electronics",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Seiffener Dorf",
+     "generic": "large fully illuminated wooden candle arch",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Frauenkirche Dresden M1:500",
+     "generic": "detailed natural wood church model kit",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Kerzenhalter Seiffener Kirche",
+     "generic": "wooden tealight candle holder with church",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Moderne Säulenpyramide mit Christi Geburt",
+     "generic": "modern one-tier wooden nativity pyramid",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Stille Nacht in Bethlehem",
+     "generic": "themed series of wooden nativity decorations",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Sportliche Winterfreuden",
+     "generic": "themed series of wooden winter sport figures",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Auf Reisen um die Welt",
+     "generic": "themed series of wooden international motif decorations",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    }
+   ],
+   "evidence": [
+    {
+     "product": "Rolf Zuckowski Edition",
+     "type": "result",
+     "strength": 2,
+     "quote": "Aufgrund des großen Erfolges der ersten Spieldose aus der Rolf Zuckowski Edition gibt es jetzt eine zweite Auflage."
+    },
+    {
+     "product": "Ich bin stark",
+     "type": "launch",
+     "strength": 2,
+     "quote": "gibt es jetzt eine zweite Auflage. Unter dem Titel \"Ich bin stark\" werden Rolfs Hasengeschichten erzählt."
+    },
+    {
+     "product": "In der Weihnachtsbäckerei",
+     "type": "launch",
+     "strength": 2,
+     "quote": "Pünktlich zur Weihnachtszeit gibt es eine neue elektronische Spieldose, welche passend zur Jahreszeit \"In der Weihnachtsbäckerei\" heißt."
+    },
+    {
+     "product": "120 Jahre Müller",
+     "type": "launch",
+     "strength": 3,
+     "quote": "Diese Pyramide ist die erste komplett farbige Pyramide aus den Müllerschen Werkstätten und sie wird nur im Jubiläumsjahr gefertigt."
+    }
+   ],
+   "success": []
+  },
+  {
+   "year": 2022,
+   "codeable": true,
+   "products": [
+    {
+     "name": "RauchKnacker®",
+     "generic": "a combined wooden incense smoker and nutcracker",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": true
+    },
+    {
+     "name": "Müllerchen®",
+     "generic": "a series of wooden incense smoker figures",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": true
+    },
+    {
+     "name": "Hello Kitty x Müllerchen®",
+     "generic": "a licensed crossover wooden incense smoker figure",
+     "seasonal": true,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Rolf Zuckowski Edition",
+     "generic": "motif platforms for electronic music boxes",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": true
+    },
+    {
+     "name": "Die Jahresuhr",
+     "generic": "a motif platform for an electronic music box",
+     "seasonal": true,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Ich bin stark",
+     "generic": "a motif platform for an electronic music box",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Elektronische Spieldose V3.7",
+     "generic": "an electronic music box base with Bluetooth sound",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Schwibbogen Seiffener Dorf",
+     "generic": "an illuminated wooden candle arch",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Schwibbogen Alt Dresden",
+     "generic": "an illuminated wooden candle arch",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Pyramide Heilige Geschichte",
+     "generic": "a multi-tier wooden Christmas pyramid",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Bogenpyramide Heilige Geschichte",
+     "generic": "a limited-run arched wooden Christmas pyramid",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Frauenkirche Dresden",
+     "generic": "an illuminated wooden church model",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Pyramide Rehe",
+     "generic": "a carved one-tier wooden Christmas pyramid",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Pyramide Seiffener Dorf Spitzbogen",
+     "generic": "a one-tier wooden Christmas pyramid",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Pyramide ''Alt Dresden'' Spitzbogen",
+     "generic": "a one-tier wooden Christmas pyramid",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Bogenpyramide Wintermotiv",
+     "generic": "a one-tier arched wooden Christmas pyramid",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Pyramide Christi Geburt",
+     "generic": "a one-tier wooden nativity Christmas pyramid",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Nofretete",
+     "generic": "a wooden incense smoker figure",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Martin Luther",
+     "generic": "a commemorative wooden incense smoker figure",
+     "seasonal": true,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Moderne Räucherfiguren",
+     "generic": "a series of modern wooden incense smoker figures",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    }
+   ],
+   "evidence": [
+    {
+     "product": "Hello Kitty x Müllerchen®",
+     "type": "result",
+     "strength": 3,
+     "quote": "BRONZE für die innovative Hello Kitty x Müllerchen® Weihnachtsdekoration im tmtplaza Hongkong."
+    }
+   ],
+   "success": []
+  },
+  {
+   "year": 2023,
+   "codeable": true,
+   "products": [
+    {
+     "name": "RauchKnacker®",
+     "generic": "hybrid wooden incense smoker and nutcracker figure",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": true
+    },
+    {
+     "name": "Müllerchen®",
+     "generic": "small wooden incense smoker figures",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": true
+    },
+    {
+     "name": "Hello Kitty x Müllerchen®",
+     "generic": "licensed crossover wooden incense smoker figure",
+     "seasonal": true,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Die Jahresuhr",
+     "generic": "wooden motif platform for electronic music box",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Discovering Dresden's History",
+     "generic": "wooden decorative series with historic city motifs",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Edition Dresdner Frauenkirche",
+     "generic": "electronic music box with wooden church motif",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "A Trip around the World",
+     "generic": "wooden figure series with international motifs",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Nofretete",
+     "generic": "wooden incense smoker figure",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Martin Luther",
+     "generic": "commemorative wooden incense smoker figure",
+     "seasonal": true,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Krippenstall \"Leonardo\"",
+     "generic": "wooden nativity stable",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Zappelmann \"Hofnarr Schmiedel\"",
+     "generic": "wooden jumping jack figure",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Magic of the sea",
+     "generic": "modern wooden incense smoker figurine",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    }
+   ],
+   "evidence": [],
+   "success": []
+  },
+  {
+   "year": 2024,
+   "codeable": true,
+   "products": [
+    {
+     "name": "Die Jahresuhr",
+     "generic": "a motif platform for electronic music boxes",
+     "seasonal": true,
+     "stage": "market",
+     "scale": "single",
+     "featured": true
+    },
+    {
+     "name": "Old Dresden",
+     "generic": "a wooden candle arch with electronic sound",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Müllerchen",
+     "generic": "a series of wooden incense smoker figures",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "RauchKnacker",
+     "generic": "a wooden nutcracker that doubles as incense smoker",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Frauenkirche",
+     "generic": "an illuminated wooden church model",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Schwibbogen Alpendorf",
+     "generic": "an electrically lit wooden candle arch",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Zappelmann \"Hofnarr Schmiedel\"",
+     "generic": "a wooden jumping jack figure",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    }
+   ],
+   "evidence": [
+    {
+     "product": "Die Jahresuhr",
+     "type": "launch",
+     "strength": 2,
+     "quote": "Aus Anlass des runden Geburtstages erscheint die neueste Plattform „Die Jahresuhr“, die aus über 125 Einzelteilen besteht"
+    }
+   ],
+   "success": []
+  },
+  {
+   "year": 2025,
+   "codeable": true,
+   "products": [
+    {
+     "name": "Die Jahresuhr",
+     "generic": "handcrafted wooden motif platform for music box",
+     "seasonal": true,
+     "stage": "market",
+     "scale": "single",
+     "featured": true
+    },
+    {
+     "name": "Pyramide Heilige Geschichte",
+     "generic": "multi-tier wooden Christmas pyramid, electrically driven",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "RauchKnacker®",
+     "generic": "wooden nutcracker that also works as smoker",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Müllerchen®",
+     "generic": "series of wooden incense smoker figures",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Bogenpyramide Basilius-Kathedrale",
+     "generic": "wooden arch pyramid depicting a cathedral",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Schwibbogen Alpendorf",
+     "generic": "illuminated wooden candle arch",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    }
+   ],
+   "evidence": [
+    {
+     "product": "Die Jahresuhr",
+     "type": "launch",
+     "strength": 2,
+     "quote": "Aus Anlass des runden Geburtstages erscheint die neueste Plattform „Die Jahresuhr“, die aus über 125 Einzelteilen besteht"
+    }
+   ],
+   "success": []
+  }
+ ]
+}

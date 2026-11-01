@@ -1,0 +1,1 @@
+{"model": "deepseek-v4-pro", "effort": "medium", "answer": {"decisions": [{"product": "A", "probability_dropped": 10, "decision": "keep", "reason": "Given high uncertainty and only one year on the market with no negative signals, the option remains open because keeping costs are likely low relative to potential value."}]}}

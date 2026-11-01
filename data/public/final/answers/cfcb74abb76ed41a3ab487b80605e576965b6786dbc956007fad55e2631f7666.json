@@ -1,0 +1,1 @@
+{"model": "deepseek-v4-pro", "effort": "medium", "answer": {"decisions": [{"product": "A", "probability_dropped": 80, "decision": "drop", "reason": "The product is distant from the firm's core services and shows no continued website presence after 2019, so its option value appears low and abandonment is warranted under real options reasoning."}]}}

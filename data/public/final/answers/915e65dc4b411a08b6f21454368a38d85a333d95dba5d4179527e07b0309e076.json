@@ -1,0 +1,1 @@
+{"model": "deepseek-v4-pro", "effort": "medium", "answer": {"decisions": [{"product": "A", "probability_dropped": 10, "decision": "keep", "reason": "Under real options reasoning, Product A is a flagship close to the established offer whose option value is still uncertain and its carrying cost is low relative to that option, so it is kept."}]}}

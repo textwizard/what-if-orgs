@@ -1,0 +1,1 @@
+{"model": "deepseek-v4-pro", "effort": "medium", "answer": {"decisions": [{"product": "A", "probability_dropped": 15, "decision": "keep", "reason": "Given the early stage and high uncertainty about 5G/3D-integration demand, the option value of keeping the product on the market outweighs the likely modest cost, so the firm should keep it open rather than drop it."}]}}

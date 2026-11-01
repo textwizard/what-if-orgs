@@ -1,0 +1,1 @@
+{"model": "deepseek-v4-pro", "effort": "medium", "answer": {"decisions": [{"product": "A", "probability_dropped": 15, "decision": "keep", "reason": "Product A is an incremental service building on established capabilities with low marginal cost and still-unresolved market potential, so real options reasoning favors keeping it open rather than dropping it."}]}}

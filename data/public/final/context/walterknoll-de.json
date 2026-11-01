@@ -1,0 +1,93 @@
+{
+ "slug": "walterknoll-de",
+ "windows": {
+  "exploration": {
+   "years": [
+    2017
+   ],
+   "industry": {
+    "turnover": "stayed about level",
+    "rd": "about as",
+    "patents": "more",
+    "universities": "about as"
+   },
+   "employees": null,
+   "hiring": true,
+   "hiring_quote": "Im Ausbildungsjahr 2017 sind bereits alle Ausbildungsplätze für den Bereich Industriekaufmann-/frau vergeben. Wir freuen uns weiterhin auf Ihre Bewerbungen für die gewerblichen Ausbildungsplätze, sowie für die dualen Studiengänge.",
+   "expansion": false,
+   "expansion_quote": null,
+   "investment": false,
+   "investment_quote": null,
+   "growth": false,
+   "growth_quote": null,
+   "difficulty": false,
+   "difficulty_quote": null,
+   "rd": true,
+   "rd_quote": "Die patentierte Verbindungstechnik Easy Handle sorgt dafür: werkzeuglos, einfach und schnell.",
+   "cooperation": false,
+   "cooperation_quote": null,
+   "eu_projects": 0,
+   "products_offered": 30,
+   "new": [
+    "height-adjustable executive desk system",
+    "chair family",
+    "floor cushions from carpets",
+    "soft upholstered sofa",
+    "high standing table",
+    "rug collection"
+   ],
+   "relatedness": [
+    "related",
+    "close",
+    "related",
+    "close",
+    "close",
+    "distant"
+   ]
+  },
+  "holdout": {
+   "years": [
+    2022
+   ],
+   "industry": {
+    "turnover": "grew",
+    "rd": "about as",
+    "patents": "about as",
+    "universities": "less"
+   },
+   "employees": null,
+   "hiring": false,
+   "hiring_quote": null,
+   "expansion": false,
+   "expansion_quote": null,
+   "investment": false,
+   "investment_quote": null,
+   "growth": false,
+   "growth_quote": null,
+   "difficulty": false,
+   "difficulty_quote": null,
+   "rd": false,
+   "rd_quote": null,
+   "cooperation": false,
+   "cooperation_quote": null,
+   "eu_projects": 0,
+   "products_offered": 24,
+   "new": [
+    "low-pile decorative carpet (1)",
+    "hand-knotted wool silk carpet",
+    "low-pile decorative carpet (2)",
+    "corner bench",
+    "low-pile carpet",
+    "swivel shell chair"
+   ],
+   "relatedness": [
+    "close",
+    "close",
+    "close",
+    "related",
+    "close",
+    "close"
+   ]
+  }
+ }
+}

@@ -1,0 +1,389 @@
+{
+ "slug": "schoepe-display-com",
+ "profiles": {
+  "exploration": {
+   "strategy": {
+    "offer": "End-to-end development, design, prototyping, printing, production, packing, fulfillment, logistics, and retail delivery for point-of-sale display solutions.",
+    "customers": "Consumer brands, manufacturers, and retailers needing in-store promotional and product-carrying displays.",
+    "why_we_win": "A one-stop model, display focus, problem-solving innovation, dependable quality, and strong service should deliver effective retail placement and reliable execution.",
+    "resources": "Experienced staff, large production and warehouse capacity, in-house design and manufacturing, trained packing teams, electronic logistics, and certified quality, environmental, and energy systems.",
+    "direction": "Further strengthen and expand its market position through high quality, distinctive service, and continued innovation."
+   },
+   "context": {
+    "size": "large",
+    "founded": null,
+    "industry": "Manufacture of paper and paper products"
+   },
+   "seed_year": 2017
+  },
+  "holdout": {
+   "strategy": {
+    "offer": "End-to-end development, production, assembly, packing, testing, and logistics for custom and standard temporary retail displays made from paper-based board materials.",
+    "customers": "Brand manufacturers, industrial companies, retailers, and agencies needing in-store promotion and product presentation solutions.",
+    "why_we_win": "It expects success through display-only focus, integrated one-stop execution, problem-solving innovation, certified quality, reliability, and sustainable operations.",
+    "resources": "Its basis is experienced staff, sizeable production and logistics capacity, in-house design and printing, shipping-test capability, trained assembly teams, and multiple management certifications.",
+    "direction": "Heading toward deeper brand-strategy collaboration, broader 3D cardboard offerings, stronger information security, and continued sustainability management."
+   },
+   "context": {
+    "size": "medium",
+    "founded": 1984,
+    "industry": "Manufacture of paper and paper products"
+   },
+   "seed_year": 2022
+  }
+ },
+ "years": [
+  {
+   "year": 2017,
+   "codeable": true,
+   "products": [
+    {
+     "name": "Schoepe Standarddisplays",
+     "generic": "individually printable standard cardboard POS displays",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "3D-Standfiguren",
+     "generic": "patented self-standing cardboard promotional figure",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": true
+    }
+   ],
+   "evidence": [],
+   "success": []
+  },
+  {
+   "year": 2018,
+   "codeable": true,
+   "products": [
+    {
+     "name": "Schoepe Standarddisplays",
+     "generic": "customizable printed cardboard standard POS displays",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": true
+    },
+    {
+     "name": "3D-Standfiguren",
+     "generic": "patented self-standing cardboard promotional figure",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": true
+    }
+   ],
+   "evidence": [],
+   "success": []
+  },
+  {
+   "year": 2019,
+   "codeable": true,
+   "products": [
+    {
+     "name": "Schoepe Standarddisplays",
+     "generic": "customizable printed standard cardboard retail displays",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": true
+    },
+    {
+     "name": "3D-Standfiguren",
+     "generic": "patented self-standing cardboard stand-up figure",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": true
+    },
+    {
+     "name": "100 | Regaldisplay variabel 1/4-Palette",
+     "generic": "adjustable cardboard shelf display quarter pallet",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "101 | Regaldisplay variabel mit Lochrückwand 1/4 Palette",
+     "generic": "cardboard shelf display with pegboard back",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "102 | Regaldisplay 1/4 Palettte",
+     "generic": "cardboard shelf display quarter pallet",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "103 | Regaldisplay 1/8-Palette",
+     "generic": "cardboard shelf display eighth pallet",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "120 | Stapelschüttendisplay 1/4-Palette",
+     "generic": "stackable cardboard tray display",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "121 | Vierkantschütte 1/4-Palette",
+     "generic": "square cardboard dump bin display",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "122 | Sechseckschütte",
+     "generic": "hexagonal cardboard dump bin display",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    }
+   ],
+   "evidence": [],
+   "success": []
+  },
+  {
+   "year": 2022,
+   "codeable": true,
+   "products": [
+    {
+     "name": "pappe3D",
+     "generic": "a brand of cardboard point-of-sale displays",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": true
+    },
+    {
+     "name": "3D-Standfigur",
+     "generic": "a patented self-standing cardboard stand-up figure",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    }
+   ],
+   "evidence": [
+    {
+     "product": "pappe3D",
+     "type": "launch",
+     "strength": 2,
+     "quote": "Wir starten unsere Marke pappe3D!"
+    }
+   ],
+   "success": []
+  },
+  {
+   "year": 2023,
+   "codeable": true,
+   "products": [
+    {
+     "name": "pappe3D",
+     "generic": "online shop for customizable cardboard consumer products",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": true
+    },
+    {
+     "name": "3D-Standfigur",
+     "generic": "self-standing cardboard promotional standee",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    }
+   ],
+   "evidence": [
+    {
+     "product": "pappe3D",
+     "type": "launch",
+     "strength": 2,
+     "quote": "We launch our brand pappe3D!"
+    },
+    {
+     "product": "pappe3D",
+     "type": "launch",
+     "strength": 2,
+     "quote": "wird sich nun, da der Webshop live gegangen ist, um alle Online-Marketing-Aktivitäten kümmern."
+    },
+    {
+     "product": "pappe3D",
+     "type": "investment",
+     "strength": 2,
+     "quote": "Leo Grathwohl ergänzt die Leitung des pappe3D-Teams. Sein Zuständigkeitsbereich liegt auf den internen Prozessen und der Produkt-Entwicklung."
+    }
+   ],
+   "success": []
+  },
+  {
+   "year": 2024,
+   "codeable": true,
+   "products": [
+    {
+     "name": "Schoepe Standard Displays",
+     "generic": "a range of standard cardboard POS displays",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "122 | Sechseckschütte",
+     "generic": "a hexagonal cardboard dump bin display",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "102 | Regaldisplay 1/4 Palette",
+     "generic": "a quarter-pallet cardboard shelf display",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "101 | Adjustable shelf display with pegboard ¼ pallet",
+     "generic": "a quarter-pallet cardboard pegboard display",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "150 | Counter display 1-2 Facings",
+     "generic": "a small cardboard counter display",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "172 | Holzpalette",
+     "generic": "a wooden display pallet",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "201 | Ellipse big 196 cm",
+     "generic": "a large freestanding cardboard information display",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Kundenportal Schoepedia",
+     "generic": "an online customer portal for display projects",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "LiLo Little Loc",
+     "generic": "a cardboard packaging or display solution",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    }
+   ],
+   "evidence": [
+    {
+     "product": "LiLo Little Loc",
+     "type": "result",
+     "strength": 3,
+     "quote": "Deutscher Verpackungspreis 2024 für \"LiLo Little Loc\""
+    }
+   ],
+   "success": []
+  },
+  {
+   "year": 2025,
+   "codeable": true,
+   "products": [
+    {
+     "name": "pappe3D",
+     "generic": "online shop brand for personalised cardboard articles",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": true
+    },
+    {
+     "name": "140 | DVD/CD Display 1/4-Palette",
+     "generic": "cardboard quarter-pallet display for media products",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "173 | Stapeltray für Palettenmantel 1/4-Palette",
+     "generic": "cardboard stacking tray for pallet display",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "221 | Deco cube 30 cm",
+     "generic": "cardboard decorative display cube",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    }
+   ],
+   "evidence": [
+    {
+     "product": "pappe3D",
+     "type": "launch",
+     "strength": 2,
+     "quote": "pappe3D – Unser neuer Online-Endkunden-Shop"
+    }
+   ],
+   "success": []
+  },
+  {
+   "year": 2026,
+   "codeable": true,
+   "products": [
+    {
+     "name": "POS-Display 1/4-Palette variable Trayabstände",
+     "generic": "a custom-printed cardboard point-of-sale floor display",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    }
+   ],
+   "evidence": [],
+   "success": []
+  }
+ ]
+}

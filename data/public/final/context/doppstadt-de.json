@@ -1,0 +1,93 @@
+{
+ "slug": "doppstadt-de",
+ "windows": {
+  "exploration": {
+   "years": [
+    2017
+   ],
+   "industry": {
+    "turnover": "grew",
+    "rd": "more",
+    "patents": "more",
+    "universities": "more"
+   },
+   "employees": null,
+   "hiring": false,
+   "hiring_quote": null,
+   "expansion": false,
+   "expansion_quote": null,
+   "investment": false,
+   "investment_quote": null,
+   "growth": false,
+   "growth_quote": null,
+   "difficulty": false,
+   "difficulty_quote": null,
+   "rd": true,
+   "rd_quote": "Bei den Splittern handelt es sich um eine patentierte Technologie zur wirtschaftlichen Trennung selbst schwierigster Materialien.",
+   "cooperation": false,
+   "cooperation_quote": null,
+   "eu_projects": 0,
+   "products_offered": 12,
+   "new": [
+    "compact modular trommel screen",
+    "mobile trommel screens",
+    "stationary electric secondary shredder",
+    "secondary shredder for refuse-derived fuel",
+    "mobile slow-speed shredder",
+    "shredders for waste and wood"
+   ],
+   "relatedness": [
+    "close",
+    "close",
+    "related",
+    "related",
+    "related",
+    "close"
+   ]
+  },
+  "holdout": {
+   "years": [
+    2022
+   ],
+   "industry": {
+    "turnover": "grew",
+    "rd": "more",
+    "patents": "more",
+    "universities": "more"
+   },
+   "employees": null,
+   "hiring": true,
+   "hiring_quote": "Für 2022 haben wir uns daher vorgenommen, den eingeschlagenen Weg weiterzuverfolgen und auch personell weiter aufzurüsten.",
+   "expansion": false,
+   "expansion_quote": null,
+   "investment": true,
+   "investment_quote": "In den vergangenen Monaten haben wir daher trotz Corona-Krise investiert und eine neue Fertigungsstraße in unserem Werk in Calbe umgesetzt.",
+   "growth": true,
+   "growth_quote": "Unser Field Service-Team wurde von 7 auf 15 Mitarbeiter aufgestockt",
+   "difficulty": false,
+   "difficulty_quote": null,
+   "rd": true,
+   "rd_quote": "Unser Standort in Calbe ist das Herzstück unserer Produktion und ein bedeutendes Entwicklungszentrum.",
+   "cooperation": true,
+   "cooperation_quote": "Dieser Herausforderung stellt sich das Forschungsprojekt „RESSOURCE.WDVS“ der FH Münster.",
+   "eu_projects": 0,
+   "products_offered": 12,
+   "new": [
+    "mobile modular waste processing plant concept (1)",
+    "mobile slow-speed shredder",
+    "mobile modular waste processing plant concept (2)",
+    "mobile trommel screen",
+    "slow-speed shredders",
+    "mobile spiral shaft screens"
+   ],
+   "relatedness": [
+    "related",
+    "close",
+    "related",
+    "close",
+    "close",
+    "related"
+   ]
+  }
+ }
+}

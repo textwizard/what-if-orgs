@@ -1,0 +1,87 @@
+{
+ "slug": "schoellerallibert-com",
+ "windows": {
+  "exploration": {
+   "years": [
+    2017
+   ],
+   "industry": {
+    "turnover": "grew",
+    "rd": "more",
+    "patents": "more",
+    "universities": "more"
+   },
+   "employees": 2000,
+   "hiring": false,
+   "hiring_quote": null,
+   "expansion": true,
+   "expansion_quote": "On the 12th of May 2016, Schoeller Allibert opened a new production plant in Zabrze, Poland.",
+   "investment": true,
+   "investment_quote": "Ludo Gielen and Schoeller Allibert jointly invest 15 million euros in new greenfield in Beringen",
+   "growth": false,
+   "growth_quote": null,
+   "difficulty": false,
+   "difficulty_quote": null,
+   "rd": true,
+   "rd_quote": "Schoeller Allibert is active worldwide and develops its complete product range at its in-house development departments.",
+   "cooperation": false,
+   "cooperation_quote": null,
+   "eu_projects": 0,
+   "products_offered": 22,
+   "new": [
+    "reusable citrus harvesting crate",
+    "spill-retention pallet",
+    "medium-duty rackable pallet",
+    "foldable large container",
+    "stackable plastic crate",
+    "plastic pallet with load retainers"
+   ],
+   "relatedness": [
+    "close",
+    "related",
+    "close",
+    "close",
+    "close",
+    "related"
+   ]
+  },
+  "holdout": {
+   "years": [
+    2022
+   ],
+   "industry": {
+    "turnover": "grew",
+    "rd": "about as",
+    "patents": "more",
+    "universities": "more"
+   },
+   "employees": 2000,
+   "hiring": false,
+   "hiring_quote": null,
+   "expansion": false,
+   "expansion_quote": null,
+   "investment": false,
+   "investment_quote": null,
+   "growth": false,
+   "growth_quote": null,
+   "difficulty": false,
+   "difficulty_quote": null,
+   "rd": true,
+   "rd_quote": "After more than 2.5 years of research Schoeller Allibert, a Global player & European market leader in plastic returnable packaging for logistics, has succeeded in producing a new, high-quality plastic big box",
+   "cooperation": false,
+   "cooperation_quote": null,
+   "eu_projects": 0,
+   "products_offered": 12,
+   "new": [
+    "large bulk container",
+    "bulk-container valve",
+    "used packaging take-back service"
+   ],
+   "relatedness": [
+    "close",
+    "related",
+    "related"
+   ]
+  }
+ }
+}

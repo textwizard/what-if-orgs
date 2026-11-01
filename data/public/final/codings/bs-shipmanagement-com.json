@@ -1,0 +1,814 @@
+{
+ "slug": "bs-shipmanagement-com",
+ "profiles": {
+  "exploration": {
+   "strategy": {
+    "offer": "Outsourced vessel management and related maritime support, including crew, commercial, operations, training, corporate administration, travel, recycling, and specialised project services.",
+    "customers": "Ship owners and other maritime clients needing end-to-end management, operational support, and advisory services for vessels and related companies.",
+    "why_we_win": "It combines tailored services, cost-effective day-to-day execution, continuous market analysis, and consistent quality and safety standards through close customer proximity.",
+    "resources": "Large pools of qualified seafarers and shore staff, wholly owned global management and recruiting centres, training facilities, and structured development systems.",
+    "direction": "Broaden service scope, deepen international coverage, and support safer, cleaner, more sustainable shipping operations."
+   },
+   "context": {
+    "size": "large",
+    "founded": null,
+    "industry": "Warehousing and support activities for transportation"
+   },
+   "seed_year": 2017
+  },
+  "holdout": {
+   "strategy": {
+    "offer": "Integrated third-party ship management and complementary maritime services, including technical, crew, commercial, training, procurement, maintenance, travel, lay-up, recycling, and project support.",
+    "customers": "Ship owners, operators and other maritime businesses seeking tailored support across vessel operations, lifecycle projects, crewing, compliance, and performance improvement.",
+    "why_we_win": "Long-term relationships, experienced retained people, transparent tailored service, strong safety and compliance, and digital tools drive vessel availability, lower operating costs, and protect clients’ reputations.",
+    "resources": "International network of management, crewing and training centres; large seafarer and shore workforce; software, procurement systems, supplier links, project managers, and maritime know-how.",
+    "direction": "Expanding from core ship management into integrated maritime solutions, with more digitalisation and greater support for efficiency, transparency, and environmental performance."
+   },
+   "context": {
+    "size": "large",
+    "founded": 1972,
+    "industry": "Warehousing and support activities for transportation"
+   },
+   "seed_year": 2022
+  }
+ },
+ "years": [
+  {
+   "year": 2017,
+   "codeable": true,
+   "products": [
+    {
+     "name": "Green Recycling",
+     "generic": "environmentally sound ship recycling advisory service",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Hanseatic Cruise Services",
+     "generic": "passenger vessel management service",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    }
+   ],
+   "evidence": [],
+   "success": []
+  },
+  {
+   "year": 2018,
+   "codeable": true,
+   "products": [
+    {
+     "name": "Seachef",
+     "generic": "onboard ship catering and housekeeping service",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Green Recycling",
+     "generic": "environmentally sound ship recycling advisory service",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "BSM Offshore",
+     "generic": "third-party ship management for offshore energy vessels",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": true
+    }
+   ],
+   "evidence": [
+    {
+     "product": "BSM Offshore",
+     "type": "launch",
+     "strength": 2,
+     "quote": "Bernhard Schulte Shipmanagement (BSM) has set up a new business unit to focus on the oil and gas and offshore energy renewable markets."
+    },
+    {
+     "product": "Seachef",
+     "type": "result",
+     "strength": 3,
+     "quote": "Seachef today caters to the tastes and food preferences of over 40 nationalities onboard over 400 vessels and continues to grow."
+    }
+   ],
+   "success": []
+  },
+  {
+   "year": 2019,
+   "codeable": true,
+   "products": [
+    {
+     "name": "Schulte Marine Concept",
+     "generic": "newbuilding, conversion and retrofit ship project services",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    }
+   ],
+   "evidence": [
+    {
+     "product": "Schulte Marine Concept",
+     "type": "result",
+     "strength": 2,
+     "quote": "The successful delivery could not have been done without the strong support of Schulte Marine Concept, who oversaw the plan approval and site supervision"
+    }
+   ],
+   "success": []
+  },
+  {
+   "year": 2022,
+   "codeable": true,
+   "products": [
+    {
+     "name": "LiveFleet",
+     "generic": "an online vessel information portal for shipowners",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": true
+    },
+    {
+     "name": "Performance Overview",
+     "generic": "a real-time vessel performance monitoring tool",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Fleet Performance Centre",
+     "generic": "a vessel performance and emissions monitoring service",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Lay-Up Services",
+     "generic": "a vessel lay-up management service",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Green Recycling",
+     "generic": "a ship recycling management and supervision service",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Seachef Hospitality Services",
+     "generic": "an onboard crew catering service",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    }
+   ],
+   "evidence": [
+    {
+     "product": "Performance Overview",
+     "type": "launch",
+     "strength": 3,
+     "quote": "20 April 2022 - New “Performance Overview” tool integrated into LiveFleet"
+    },
+    {
+     "product": "Fleet Performance Centre",
+     "type": "investment",
+     "strength": 2,
+     "quote": "BSM’s extended Fleet Performance Centre is supporting ship owners’ efforts in reducing their vessels’ carbon impact."
+    },
+    {
+     "product": "Seachef Hospitality Services",
+     "type": "result",
+     "strength": 3,
+     "quote": "Today, it has more than 1,200 hospitality professionals who support crew welfare and well-being – by catering to the taste and dietary needs of more than 40 nationalities on board over 450 vessels."
+    }
+   ],
+   "success": []
+  },
+  {
+   "year": 2023,
+   "codeable": true,
+   "products": [
+    {
+     "name": "Seachef Hospitality Services",
+     "generic": "maritime catering and housekeeping management services",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Eurasia Travel Network",
+     "generic": "crew and corporate travel management service",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Hanseatic Maritime Advisory",
+     "generic": "ship inspection, audit and consultancy services",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "BSM Cruise Services",
+     "generic": "cruise vessel ship management services",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "YPI CREW",
+     "generic": "superyacht crew recruitment service",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Hanseatic Connect",
+     "generic": "healthcare and hospitality staff recruitment service",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "LiveFleet",
+     "generic": "online fleet monitoring platform",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Performance Overview",
+     "generic": "ship performance analytics tool",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "smartPAL",
+     "generic": "ship management enterprise resource planning system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "BSMPay",
+     "generic": "digital payment platform for seafarers",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    }
+   ],
+   "evidence": [
+    {
+     "product": "Performance Overview",
+     "type": "launch",
+     "strength": 3,
+     "quote": "Published on 20 April 2022 - New “Performance Overview” tool integrated into LiveFleet"
+    },
+    {
+     "product": "Hanseatic Maritime Advisory",
+     "type": "result",
+     "strength": 3,
+     "quote": "Experience with providing services to over 80 Customers and 280 unique vessels - Over 1500 services provided from inception of Company in late 2019"
+    },
+    {
+     "product": "Hanseatic Maritime Advisory",
+     "type": "result",
+     "strength": 2,
+     "quote": "Fleet inspection contracts with a highly reputable Containership Operator and a Ship Finance Leasing Company"
+    },
+    {
+     "product": "Seachef Hospitality Services",
+     "type": "result",
+     "strength": 2,
+     "quote": "Seachef caters to the taste and dietary needs of more than 40 nationalities on board over 450 vessels."
+    },
+    {
+     "product": "Eurasia Travel Network",
+     "type": "result",
+     "strength": 2,
+     "quote": "offering specialised solutions to more than 25,000 seafarers servicing 1,000 vessels worldwide."
+    }
+   ],
+   "success": []
+  },
+  {
+   "year": 2024,
+   "codeable": true,
+   "products": [
+    {
+     "name": "LiveFleet",
+     "generic": "a digital fleet performance monitoring platform",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": true
+    },
+    {
+     "name": "Seachef Hospitality Services",
+     "generic": "onboard catering and hospitality management services",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Eurasia Travel Network",
+     "generic": "crew and corporate travel management services",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Hanseatic Chartering",
+     "generic": "vessel chartering and sale and purchase broking",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Hanseatic Maritime Advisory",
+     "generic": "ship inspection, audit and maritime consultancy services",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "BSM Cruise Services",
+     "generic": "ship management services for cruise vessels",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "YPI CREW",
+     "generic": "superyacht crew recruitment services",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Hanseatic Connect",
+     "generic": "healthcare and hospitality staff recruitment services",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "cruisePAL",
+     "generic": "digital software suite for cruise line operations",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "PAL",
+     "generic": "ship management software",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "FuelEU Dashboard",
+     "generic": "emissions compliance dashboard software tool",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "FuelEU Simulator",
+     "generic": "emissions compliance cost simulation software tool",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Maritime Energy Centre",
+     "generic": "alternative marine fuels consultancy services",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "BSM Smart Academy",
+     "generic": "maritime education programme with partner universities",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Schulte Marine Concept",
+     "generic": "newbuilding and vessel conversion project management",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Fleet Performance Centre",
+     "generic": "ship performance monitoring and decarbonisation services",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Emission Management Services",
+     "generic": "emissions monitoring and regulatory compliance services",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    }
+   ],
+   "evidence": [
+    {
+     "product": "BSM Smart Academy",
+     "type": "result",
+     "strength": 3,
+     "quote": "This brings the partner network of the BSM Smart Academy, which was only launched by the BSM in April 2024, to six maritime institutions."
+    },
+    {
+     "product": "BSM Smart Academy",
+     "type": "launch",
+     "strength": 3,
+     "quote": "the BSM Smart Academy, which was only launched by the BSM in April 2024"
+    },
+    {
+     "product": "cruisePAL",
+     "type": "result",
+     "strength": 2,
+     "quote": "Several industry-leading companies have already integrated the solution, further underscoring its potential to drive efficiency and innovation in cruise line operations in the future."
+    },
+    {
+     "product": "FuelEU Dashboard",
+     "type": "launch",
+     "strength": 2,
+     "quote": "In addition, a FuelEU Dashboard and a FuelEU Simulator have been designed, which are also fully integrated into BSM’s PAL ship management software."
+    },
+    {
+     "product": "FuelEU Simulator",
+     "type": "launch",
+     "strength": 2,
+     "quote": "In addition, a FuelEU Dashboard and a FuelEU Simulator have been designed, which are also fully integrated into BSM’s PAL ship management software."
+    },
+    {
+     "product": "BSM Cruise Services",
+     "type": "investment",
+     "strength": 3,
+     "quote": "Designed to accommodate around 45 employees, the office is dedicated to recruiting and placing Indonesian hospitality staff for cruise ship hotel and culinary roles"
+    },
+    {
+     "product": "Emission Management Services",
+     "type": "result",
+     "strength": 3,
+     "quote": "By 31 August 2024, Monitoring Plans for all vessels under the scope of FuelEU Maritime had to be submitted to authorised verifiers. BSM successfully transferred all plans before that deadline"
+    },
+    {
+     "product": "Seachef Hospitality Services",
+     "type": "result",
+     "strength": 2,
+     "quote": "With a pool of over 1200 hospitality professionals Seachef caters to the taste and dietary needs of more than 40 nationalities on board over 400 vessels."
+    }
+   ],
+   "success": []
+  },
+  {
+   "year": 2025,
+   "codeable": true,
+   "products": [
+    {
+     "name": "LiveFleet",
+     "generic": "a fleet performance monitoring platform for shipowners",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": true
+    },
+    {
+     "name": "smartPAL",
+     "generic": "a maritime enterprise resource planning software",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "cruisePAL",
+     "generic": "a digital software suite for cruise operations",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "BSMPay",
+     "generic": "a digital payment platform for seafarers",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "BSM Smart Academy",
+     "generic": "a seafarer cadet training programme with universities",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Hanseatic Chartering",
+     "generic": "a vessel chartering and sale-purchase brokerage service",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Schulte Marine Concept (S.M.C.)",
+     "generic": "a ship newbuilding and conversion consultancy service",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "BSM Catering Services",
+     "generic": "a maritime catering and hospitality management service",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "BSM Cruise Services",
+     "generic": "a ship management service for cruise vessels",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "YPI CREW",
+     "generic": "a superyacht crew recruitment service",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Hanseatic Connect",
+     "generic": "a recruitment service for cruise staff",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    }
+   ],
+   "evidence": [
+    {
+     "product": "cruisePAL",
+     "type": "result",
+     "strength": 2,
+     "quote": "Several industry-leading companies have already integrated the solution, further underscoring its potential to drive efficiency and innovation in cruise line operations in the future."
+    },
+    {
+     "product": "cruisePAL",
+     "type": "launch",
+     "strength": 2,
+     "quote": "first-of-its-kind digital solution suite cruisePAL sets new industry benchmark"
+    },
+    {
+     "product": "LiveFleet",
+     "type": "launch",
+     "strength": 2,
+     "quote": "LiveFleet has been updated with new features in both the LiveFleet desktop platform and the LiveFleet mobile app."
+    },
+    {
+     "product": "BSM Smart Academy",
+     "type": "result",
+     "strength": 3,
+     "quote": "This brings the partner network of the BSM Smart Academy, which was only launched by the BSM in April 2024, to six maritime institutions."
+    },
+    {
+     "product": "BSM Smart Academy",
+     "type": "launch",
+     "strength": 3,
+     "quote": "the BSM Smart Academy, which was only launched by the BSM in April 2024"
+    }
+   ],
+   "success": []
+  },
+  {
+   "year": 2026,
+   "codeable": true,
+   "products": [
+    {
+     "name": "LiveFleet",
+     "generic": "a fleet performance monitoring platform for clients",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": true
+    },
+    {
+     "name": "LiveFleet Mobile App",
+     "generic": "a mobile app for vessel performance monitoring",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "smartPAL",
+     "generic": "ship management ERP software",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "FuelEU Dashboard",
+     "generic": "a dashboard for emission compliance penalties",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "FuelEU Simulator",
+     "generic": "a simulation tool for emission compliance costs",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "EU-ETS Dashboard",
+     "generic": "a dashboard for emissions trading declarations",
+     "seasonal": false,
+     "stage": "pilot",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "CII Calculator",
+     "generic": "a carbon intensity calculation tool",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "CII Predictor",
+     "generic": "a carbon intensity forecasting tool",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "BSM Catering Services",
+     "generic": "maritime catering and hospitality management services",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "BSM Cruise Services",
+     "generic": "ship management services for cruise vessels",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Schulte Marine Concept",
+     "generic": "newbuilding and conversion project management services",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Hanseatic Chartering",
+     "generic": "vessel chartering and sale and purchase broking",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "YPI CREW",
+     "generic": "superyacht crew recruitment services",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Hanseatic Connect",
+     "generic": "healthcare and hospitality staff recruitment for ships",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Maritime Energy Centre",
+     "generic": "alternative marine fuels consultancy services",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    }
+   ],
+   "evidence": [
+    {
+     "product": "LiveFleet",
+     "type": "launch",
+     "strength": 2,
+     "quote": "LiveFleet has been updated with new features in both the LiveFleet desktop platform and the LiveFleet mobile app."
+    },
+    {
+     "product": "LiveFleet Mobile App",
+     "type": "launch",
+     "strength": 2,
+     "quote": "The new section “Voyage & Performance” in the LiveFleet mobile app offers three new overviews"
+    },
+    {
+     "product": "EU-ETS Dashboard",
+     "type": "launch",
+     "strength": 2,
+     "quote": "The EU-ETS Dashboard (beta version) under Finacial Reporting, features client-specific insights into EU-ETS declarations and outstanding balances"
+    },
+    {
+     "product": "FuelEU Dashboard",
+     "type": "launch",
+     "strength": 2,
+     "quote": "In addition, a FuelEU Dashboard and a FuelEU Simulator have been designed, which are also fully integrated into BSM’s PAL ship management software."
+    },
+    {
+     "product": "FuelEU Simulator",
+     "type": "launch",
+     "strength": 2,
+     "quote": "In addition, a FuelEU Dashboard and a FuelEU Simulator have been designed, which are also fully integrated into BSM’s PAL ship management software."
+    },
+    {
+     "product": "BSM Catering Services",
+     "type": "result",
+     "strength": 2,
+     "quote": "With a pool of over 1200 hospitality professionals BSM Catering Services caters to the taste and dietary needs of more than 40 nationalities on board over 400 vessels."
+    },
+    {
+     "product": "Schulte Marine Concept",
+     "type": "result",
+     "strength": 2,
+     "quote": "To date, S.M.C. has completed more than 955 vessels from bulk carriers, container vessels, tankers, gas carriers, passenger vessels, offshore units to floating dry docks"
+    }
+   ],
+   "success": []
+  }
+ ]
+}

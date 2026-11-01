@@ -1,0 +1,1 @@
+{"model": "deepseek-v4-pro", "effort": "medium", "answer": {"decisions": [{"product": "A", "probability_dropped": 20, "decision": "keep", "reason": "The LiDAR sensor builds closely on the firm's existing optical and electronic knowledge, so the firm can assimilate early market feedback and improve the product rather than drop it."}]}}

@@ -1,0 +1,1 @@
+{"model": "deepseek-v4-pro", "effort": "medium", "answer": {"decisions": [{"product": "A", "probability_dropped": 10, "decision": "keep", "reason": "The product is close to the firm's established offer and has been on the market for only one year, so it is likely to be continued."}]}}

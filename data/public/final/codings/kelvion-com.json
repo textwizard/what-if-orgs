@@ -1,0 +1,1042 @@
+{
+ "slug": "kelvion-com",
+ "profiles": {
+  "exploration": {
+   "strategy": {
+    "offer": "Integrated heat exchange equipment and lifecycle services, spanning multiple exchanger types, cooling systems, spare parts, maintenance, onsite support, upgrades, and modernization.",
+    "customers": "Industrial customers in energy, oil and gas, chemicals, marine, food, climate control, refrigeration, transportation, and other demanding process applications.",
+    "why_we_win": "It promises efficient, safe, sustainable, precisely tailored solutions and reliable worldwide support that improve customers’ operations in harsh, complex conditions.",
+    "resources": "Broad product portfolio, extensive know-how, precise engineering, manufacturing and installation capabilities, qualified technicians, global service sites, and learning from ongoing service work.",
+    "direction": "Continue innovating and continuously improving products and services to increase customer efficiency, availability, sustainability, and long-term operational performance."
+   },
+   "context": {
+    "size": null,
+    "founded": null,
+    "industry": "Manufacture of machinery and equipment n.e.c."
+   },
+   "seed_year": 2017
+  },
+  "holdout": {
+   "strategy": {
+    "offer": "Industrial heat exchange equipment, cooling and heating systems, and lifecycle services including installation, maintenance, repairs, upgrades, spare parts, and performance-based usage models.",
+    "customers": "Industrial customers worldwide in energy, process industries, food, buildings, data centers, marine, refrigeration, heavy industry, and transportation.",
+    "why_we_win": "It expects to win through customized integrated solutions, proven reliability in demanding conditions, broad service support, continuous improvement, and focus on customer and stakeholder expectations.",
+    "resources": "Its basis is long heat-exchange experience, global manufacturing and service presence, trained engineers and technicians, broad portfolio, testing facilities, and disciplined quality systems.",
+    "direction": "It is moving toward more efficient, lower-emission heat exchange, waste-heat recovery, and continuously improved products, services, and operational sustainability."
+   },
+   "context": {
+    "size": null,
+    "founded": 1920,
+    "industry": "Manufacture of machinery and equipment n.e.c."
+   },
+   "seed_year": 2022
+  }
+ },
+ "years": [
+  {
+   "year": 2017,
+   "codeable": true,
+   "products": [
+    {
+     "name": "NF100M",
+     "generic": "heat exchanger plate for viscous media",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Kelvion ProEquip Tube",
+     "generic": "shell-and-tube heat exchanger for clean-in-place heating",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": true
+    },
+    {
+     "name": "NT series",
+     "generic": "gasketed plate heat exchanger series",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "NW150L",
+     "generic": "stainless steel heat exchanger plate",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Concitherm",
+     "generic": "rising-film plate evaporator series",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "FreeFlow Series",
+     "generic": "plate heat exchanger for fibrous media",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Goedhart AU",
+     "generic": "designed-to-order slaughterhouse air cooler",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Goedhart BC50/BC50XF",
+     "generic": "industrial blast freezer air cooler range",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Goedhart BR50/BR50XF",
+     "generic": "stainless steel blast freezer air cooler range",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Goedhart DRR",
+     "generic": "dual discharge ceiling-mounted industrial air cooler",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Goedhart DRS",
+     "generic": "dual discharge ceiling-mounted industrial air cooler",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Goedhart DU",
+     "generic": "designed-to-order dual discharge air cooler",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Goedhart DVR",
+     "generic": "dual discharge copper/aluminium industrial air cooler",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Kelvion DV-Radion",
+     "generic": "industrial dual discharge air cooler",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Renzmann-PR 200",
+     "generic": "transformer oil propeller pump",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Kelvion TOAC Smart",
+     "generic": "standardized transformer oil air cooler",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Kelvion leakage test procedure",
+     "generic": "hydrogen-based heat exchanger leak testing service",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Searle GF",
+     "generic": "gas cooler for CO2 refrigeration",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Kelvion Conbraze",
+     "generic": "brazed plate heat exchanger series",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Goedhart FC38S",
+     "generic": "commercial air cooler",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Küba SG industrial",
+     "generic": "industrial air cooler",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Searle MS",
+     "generic": "refrigeration condenser",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Searle NSQ-NCQ",
+     "generic": "refrigeration condensing unit",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Energy Modular Radiators",
+     "generic": "modular radiator for transformer cooling",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    }
+   ],
+   "evidence": [
+    {
+     "product": "NF100M",
+     "type": "launch",
+     "strength": 3,
+     "quote": "09. November 2017 NF100M – from Kelvion, the new heat exchanger plate for viscous and particle-containing media"
+    },
+    {
+     "product": "NW150L",
+     "type": "launch",
+     "strength": 2,
+     "quote": "Mit der neuen Edelstahl-Wärmetauscherplatte NW150L rundet Kelvion ihr Plattenangebot für viskose und partikelhaltige Medien nach unten ab."
+    },
+    {
+     "product": "Kelvion TOAC Smart",
+     "type": "launch",
+     "strength": 3,
+     "quote": "dank der neuen, standardisierten Luftkühler-Lösung Vorstellung des Kelvion TOAC Smart auf der CWIEME in Berlin vom 20.-22. Juni 2017"
+    },
+    {
+     "product": "Renzmann-PR 200",
+     "type": "launch",
+     "strength": 3,
+     "quote": "24. May 2017 With its transformer oil pump of type Renzmann-PR 200, Kelvion offers an internationally unique combination"
+    },
+    {
+     "product": "Goedhart DRR",
+     "type": "launch",
+     "strength": 2,
+     "quote": "The Goedhart DRR is a new customized industrial range of dual discharge ceiling mounted air coolers."
+    },
+    {
+     "product": "Goedhart DVR",
+     "type": "launch",
+     "strength": 2,
+     "quote": "The Goedhart DVR is a new customized industrial range of dual discharge ceiling mounted air coolers."
+    }
+   ],
+   "success": []
+  },
+  {
+   "year": 2018,
+   "codeable": true,
+   "products": [
+    {
+     "name": "Air Cooled Condenser A-Tube",
+     "generic": "an air cooled condenser with galvanized steel fins",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "AHRI Series (NA / NC / NG Series)",
+     "generic": "certified gasketed plate heat exchangers for HVAC",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Air Cooled Condenser ALEX",
+     "generic": "an air cooled condenser with aluminium fins",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Bloksma Box cooler",
+     "generic": "a marine box cooler cooling system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Bloksma FlowBox",
+     "generic": "a plug-and-run marine cooling unit",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "FreeFlow Series",
+     "generic": "plate heat exchangers for fibrous, solid-bearing media",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "GBH Series",
+     "generic": "high pressure brazed plate heat exchangers",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "GG-DG Series",
+     "generic": "plate heat exchangers for potable water heating",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Goedhart BC50/BC50XF",
+     "generic": "industrial blast freezer air coolers",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Goedhart BR50/BR50XF",
+     "generic": "stainless steel industrial blast freezer air coolers",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "NF100M",
+     "generic": "a heat exchanger plate for viscous media",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "PF series",
+     "generic": "finned shell-and-tube oil coolers",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Bloksma NF",
+     "generic": "compact oil coolers for engines and turbines",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Air Preheater",
+     "generic": "a finned tube air preheater",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    }
+   ],
+   "evidence": [
+    {
+     "product": "NF100M",
+     "type": "launch",
+     "strength": 3,
+     "quote": "09. November 2017 With its new NF100M heat exchanger plate, Kelvion offers a solution for operations with viscous and particle-containing media"
+    },
+    {
+     "product": "Bloksma Box cooler",
+     "type": "result",
+     "strength": 1,
+     "quote": "is well-known for its high quality standard which resulted in a major market share in water cooling systems."
+    }
+   ],
+   "success": []
+  },
+  {
+   "year": 2019,
+   "codeable": true,
+   "products": [
+    {
+     "name": "K°Bloc",
+     "generic": "a fully welded plate heat exchanger",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "K°Flex",
+     "generic": "a fully welded plate heat exchanger",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Rekuluvo and Rekugavo",
+     "generic": "fully welded plate heat exchangers",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Concitherm",
+     "generic": "a gasketed plate heat exchanger",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "K°Skid",
+     "generic": "a skid-mounted plate heat exchanger unit",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "NT series",
+     "generic": "gasketed plate heat exchangers",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "NX series",
+     "generic": "gasketed plate heat exchangers",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "GBS series",
+     "generic": "brazed plate heat exchangers",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "GBH series",
+     "generic": "brazed plate heat exchangers",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "XCR series",
+     "generic": "brazed plate heat exchangers",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Kelvion KDC",
+     "generic": "a commercial air cooler",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Küba SG series",
+     "generic": "industrial refrigeration air coolers",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Küba SF",
+     "generic": "a blast freezer air cooler",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Küba KVB",
+     "generic": "commercial refrigeration air coolers",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Küba MSM & MSA",
+     "generic": "refrigeration condensers",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Searle SM series",
+     "generic": "custom refrigeration air coolers",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Searle TEC / TECX series",
+     "generic": "commercial refrigeration air coolers",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Searle MS series",
+     "generic": "air-cooled refrigeration condensers",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Searle LF series",
+     "generic": "dry coolers",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Goedhart VCI",
+     "generic": "a custom industrial air cooler",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Goedhart FC38S",
+     "generic": "a commercial air cooler",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Goedhart KOAL-S",
+     "generic": "an air-cooled condenser",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Diesta Tube",
+     "generic": "a finned tube for air coolers",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Groovy Tube",
+     "generic": "a finned tube for air coolers",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "CW Tube",
+     "generic": "a finned tube for air coolers",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "MASH",
+     "generic": "an air-cooled steam condenser",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "ALEX",
+     "generic": "an air-cooled steam condenser",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "CMC series",
+     "generic": "modular wet cooling towers",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "CMDR series",
+     "generic": "modular wet cooling towers",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "AFC",
+     "generic": "a compressed gas cooler technology",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    }
+   ],
+   "evidence": [],
+   "success": []
+  },
+  {
+   "year": 2022,
+   "codeable": true,
+   "products": [
+    {
+     "name": "K°Bond",
+     "generic": "a printed circuit diffusion-bonded heat exchanger",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "LIFEHX",
+     "generic": "a heat exchanger lifecycle service program",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Heat Exchange as a Service",
+     "generic": "a pay-per-use heat exchanger subscription service",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": true
+    },
+    {
+     "name": "Kelvion Adiabatic System",
+     "generic": "an adiabatic pre-cooling system for air coolers",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "V-Bank",
+     "generic": "a range of V-shaped industrial air coolers",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    }
+   ],
+   "evidence": [
+    {
+     "product": "K°Bond",
+     "type": "result",
+     "strength": 3,
+     "quote": "The Helmholtz Zentrum in Dresden has chosen Kelvion’s innovative printed circuit K°Bond heat exchangers to test a power cycle using supercritical CO2 for the project “Carbosola”."
+    }
+   ],
+   "success": []
+  },
+  {
+   "year": 2023,
+   "codeable": true,
+   "products": [
+    {
+     "name": "K°NOW HOW",
+     "generic": "heat exchanger lifecycle service offering",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "LIFEHX",
+     "generic": "heat exchanger lifecycle efficiency service program",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Heat Exchange as a Service",
+     "generic": "pay-per-use heat exchanger subscription model",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "CTI Services",
+     "generic": "cooling tower service offering",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Printed Circuit Heat Exchanger K°Bond",
+     "generic": "printed circuit heat exchanger",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "AFX AIR FIN COOLER",
+     "generic": "single tube air fin cooler",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "AIR COOLED CONDENSER MASH",
+     "generic": "single tube air cooled condenser",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "AIR COOLED CONDENSER ACX",
+     "generic": "single tube air cooled condenser",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "DIESTA",
+     "generic": "enhanced heat exchanger tubes",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "REKUGAVO",
+     "generic": "large refinery heat recovery exchanger",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    }
+   ],
+   "evidence": [
+    {
+     "product": "DIESTA",
+     "type": "result",
+     "strength": 2,
+     "quote": "DIESTA tubes and the consequent improved performance were the winning factor in the order for several air fin coolers (AFCs)."
+    }
+   ],
+   "success": []
+  },
+  {
+   "year": 2024,
+   "codeable": true,
+   "products": [
+    {
+     "name": "Heat Exchange as a Service",
+     "generic": "pay-per-use heat exchanger subscription service",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Shields/Seals",
+     "generic": "heat exchanger tube end repair inserts",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Full-Length Tube Liners",
+     "generic": "full-length liners for corroded heat exchanger tubes",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "CTI Services",
+     "generic": "heat exchanger tube repair service",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Air Cooled Condenser MASH",
+     "generic": "air cooled condenser",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Air Cooled Condenser ACX",
+     "generic": "air cooled condenser",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Support Package",
+     "generic": "basic heat exchanger service contract",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Corrective Package",
+     "generic": "heat exchanger service contract with audits",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Preventive Package",
+     "generic": "comprehensive heat exchanger maintenance contract",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    }
+   ],
+   "evidence": [],
+   "success": []
+  },
+  {
+   "year": 2025,
+   "codeable": true,
+   "products": [
+    {
+     "name": "Kelvion MCC",
+     "generic": "a commercial refrigeration air cooler series",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Kelvion KCC/KCB",
+     "generic": "a ceiling-mounted refrigeration air cooler series",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Kelvion MCK",
+     "generic": "a commercial refrigeration air cooler series",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Kelvion CSK / GSK",
+     "generic": "a customized air cooler for industrial applications",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Kelvion FM",
+     "generic": "a counter-mounted refrigeration air cooler",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "GB 790",
+     "generic": "a plate heat exchanger plate size",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "V-Bank",
+     "generic": "a V-shaped dry cooler range",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Support Package",
+     "generic": "a basic heat exchanger service contract",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Corrective Package",
+     "generic": "an intermediate heat exchanger service contract",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Preventive Package",
+     "generic": "a comprehensive preventive heat exchanger service contract",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    }
+   ],
+   "evidence": [
+    {
+     "product": "GB 790",
+     "type": "launch",
+     "strength": 2,
+     "quote": "Kelvion continues to lead the way in green technologies with the launch of our latest plate size of GB 790."
+    },
+    {
+     "product": "Kelvion FM",
+     "type": "launch",
+     "strength": 2,
+     "quote": "The counter air cooler FM-FX32 is now available as Multi-Gas unit for A1, A2L and A3 refrigerants, as well as FM-CX80 for CO2 up to 80 bar."
+    },
+    {
+     "product": "Kelvion KCC/KCB",
+     "type": "launch",
+     "strength": 2,
+     "quote": "The KCC/KCB ceiling-mounted air cooler series is adapted for use with A1, A2L and A3 refrigerants. The new FX32 combines HX32 (A1) and FX28 (A2L)"
+    },
+    {
+     "product": "Kelvion MCC",
+     "type": "launch",
+     "strength": 2,
+     "quote": "EXPLORE OUR NEW SUCCESSORS IN THE COMMERCIAL AIRCOOLER LINEUP:"
+    },
+    {
+     "product": "Kelvion CSK / GSK",
+     "type": "launch",
+     "strength": 1,
+     "quote": "Kelvion CSK / GSK A NEW CUSTOMIZED COOLER COMING SOON"
+    },
+    {
+     "product": "V-Bank",
+     "type": "launch",
+     "strength": 2,
+     "quote": "NEXT GENERATION OF VERSATILITY WITH UPDATED V-BANK AND UPDATED ADIABATIC PAD SYSTEM"
+    }
+   ],
+   "success": []
+  },
+  {
+   "year": 2026,
+   "codeable": true,
+   "products": [
+    {
+     "name": "Mega-Bay & Giga-Bay",
+     "generic": "large heat rejection condenser or dry cooler",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "K°Flex",
+     "generic": "a process heat transfer heat exchanger",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "K°Bond",
+     "generic": "a printed circuit heat exchanger",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    }
+   ],
+   "evidence": [],
+   "success": []
+  }
+ ]
+}

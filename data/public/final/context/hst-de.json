@@ -1,0 +1,93 @@
+{
+ "slug": "hst-de",
+ "windows": {
+  "exploration": {
+   "years": [
+    2017
+   ],
+   "industry": {
+    "turnover": "grew",
+    "rd": "more",
+    "patents": "more",
+    "universities": "more"
+   },
+   "employees": 120,
+   "hiring": true,
+   "hiring_quote": "Entwicklungsingenieur Software\nStellenangebot\nAssistenz (m/w) International\nStellenangebot\nLeiter(in) des Produktmanagements KANiO",
+   "expansion": false,
+   "expansion_quote": null,
+   "investment": false,
+   "investment_quote": null,
+   "growth": false,
+   "growth_quote": null,
+   "difficulty": false,
+   "difficulty_quote": null,
+   "rd": true,
+   "rd_quote": "als einer der wenigen in unserer Branche auf Eigenentwicklungen Wert zu legen.",
+   "cooperation": true,
+   "cooperation_quote": "Das Projekt KOMMUNAL 4.0 ist als einer der 16 Sieger aus ca. 130 Bewerbern des Technologiewettbewerbs „SMART SERVICE WELT“ des BMWi hervorgegangen.",
+   "eu_projects": 0,
+   "products_offered": 28,
+   "new": [
+    "process data archiving and reporting software (1)",
+    "process data archiving and reporting software (2)",
+    "manhole floor door with integrated safety railing",
+    "floating sludge extractor for tanks",
+    "control technology for water engineering machinery",
+    "flow measurement automation and system software"
+   ],
+   "relatedness": [
+    "close",
+    "close",
+    "related",
+    "related",
+    "related",
+    "close"
+   ]
+  },
+  "holdout": {
+   "years": [
+    2022
+   ],
+   "industry": {
+    "turnover": "grew",
+    "rd": "more",
+    "patents": "more",
+    "universities": "more"
+   },
+   "employees": 215,
+   "hiring": false,
+   "hiring_quote": null,
+   "expansion": true,
+   "expansion_quote": "Erstinformation: Axel Zangenberg – Nachfolge zukunftssicher gelungen!Spezialisten unter einem Dach. Die HST Systemtechnik GmbH & Co. KG mit Sitz in Meschede hat 100 % der…",
+   "investment": false,
+   "investment_quote": null,
+   "growth": false,
+   "growth_quote": null,
+   "difficulty": false,
+   "difficulty_quote": null,
+   "rd": true,
+   "rd_quote": "Mit dem Systemupdate vom 14.09.2021 wurde die SCADA.web Version 3.0.4 veröffentlicht.",
+   "cooperation": true,
+   "cooperation_quote": "Einen Meilenstein stellt das im Jahr 2016 initiierte F&E-Projekt „Kommunal 4.0 Customized Services für die Wasserwirtschaft“ (gefördert durch das BMWi) dar.",
+   "eu_projects": 1,
+   "products_offered": 27,
+   "new": [
+    "fouling detection automation for heat exchangers",
+    "web tool for weir dimensioning",
+    "fouling detection system for heat exchangers",
+    "a spring-controlled flap weir",
+    "energy management system for water facilities",
+    "overflow flap gate for water level regulation"
+   ],
+   "relatedness": [
+    "related",
+    "related",
+    "related",
+    "close",
+    "related",
+    "close"
+   ]
+  }
+ }
+}

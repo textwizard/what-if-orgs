@@ -1,0 +1,91 @@
+{
+ "slug": "wiwa-de",
+ "windows": {
+  "exploration": {
+   "years": [
+    2017
+   ],
+   "industry": {
+    "turnover": "grew",
+    "rd": "more",
+    "patents": "more",
+    "universities": "more"
+   },
+   "employees": 135,
+   "hiring": false,
+   "hiring_quote": null,
+   "expansion": false,
+   "expansion_quote": null,
+   "investment": false,
+   "investment_quote": null,
+   "growth": false,
+   "growth_quote": null,
+   "difficulty": false,
+   "difficulty_quote": null,
+   "rd": true,
+   "rd_quote": "Mit der Neuentwicklung der WIWA PU GUN 4040 erweitern wir unser großes Angebot an innovativer PU-Applikationstechnik mit einer eigenen Spritzpistole.",
+   "cooperation": false,
+   "cooperation_quote": null,
+   "eu_projects": 0,
+   "products_offered": 1,
+   "new": [
+    "two-component resin injection unit",
+    "heavy-duty airless spraying unit series",
+    "fire protection spraying unit",
+    "high-pressure cleaner",
+    "single-component high-pressure injection pump",
+    "single-component injection pump"
+   ],
+   "relatedness": [
+    "related",
+    "related",
+    "close",
+    "distant",
+    "related",
+    "related"
+   ]
+  },
+  "holdout": {
+   "years": [
+    2022
+   ],
+   "industry": {
+    "turnover": "grew",
+    "rd": "more",
+    "patents": "more",
+    "universities": "more"
+   },
+   "employees": 135,
+   "hiring": false,
+   "hiring_quote": null,
+   "expansion": false,
+   "expansion_quote": null,
+   "investment": false,
+   "investment_quote": null,
+   "growth": false,
+   "growth_quote": null,
+   "difficulty": false,
+   "difficulty_quote": null,
+   "rd": true,
+   "rd_quote": "Entwicklung eines Multiconnector Edge Gateways zur leichten Überführung von Produkten und Anlagen in die Industrie 4.0",
+   "cooperation": true,
+   "cooperation_quote": "Dieses Förderprojekt wird durch das Land Hessen unterstützt und findet vom 01.08.2021 bis zum 31.08.2023 in Zusammenarbeit mit der konzeptpark GmbH in Lahnau statt.",
+   "eu_projects": 0,
+   "products_offered": 17,
+   "new": [
+    "two-component glass flake spraying system",
+    "low-pressure injection pump",
+    "low-pressure material transfer pump",
+    "fire protection flow monitoring",
+    "hydraulic two-component spraying system"
+   ],
+   "relatedness": [
+    "related",
+    "close",
+    "related",
+    "related",
+    "close"
+   ]
+  }
+ }
+}

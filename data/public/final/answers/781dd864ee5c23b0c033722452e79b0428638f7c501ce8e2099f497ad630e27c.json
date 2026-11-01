@@ -1,0 +1,1 @@
+{"model": "deepseek-v4-pro", "effort": "medium", "answer": {"decisions": [{"product": "A", "probability_dropped": 10, "decision": "keep", "reason": "The firm has visibly committed to Product A on its website and it builds on established capabilities, so escalation of commitment favors persisting rather than dropping after only one year."}]}}

@@ -1,0 +1,1 @@
+{"model": "deepseek-v4-pro", "effort": "medium", "answer": {"decisions": [{"product": "A", "probability_dropped": 10, "decision": "keep", "reason": "The service was only launched in 2018 and targets growing offshore energy markets, so it is unlikely to be dropped within its first full year."}]}}

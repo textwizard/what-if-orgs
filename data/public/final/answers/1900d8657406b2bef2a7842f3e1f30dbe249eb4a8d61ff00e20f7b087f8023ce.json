@@ -1,0 +1,1 @@
+{"model": "claude-opus-5-5", "effort": "medium", "answer": {"decisions": [{"product": "A", "probability_dropped": 8, "decision": "keep", "reason": "The inbound SMS API sits close to the firm's core messaging platform and reuses existing infrastructure at low marginal cost, and it strengthens the integrated multichannel offer, so dropping it would gain little."}]}}

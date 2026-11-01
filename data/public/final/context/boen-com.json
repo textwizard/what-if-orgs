@@ -1,0 +1,93 @@
+{
+ "slug": "boen-com",
+ "windows": {
+  "exploration": {
+   "years": [
+    2017
+   ],
+   "industry": {
+    "turnover": "grew",
+    "rd": "less",
+    "patents": "about as",
+    "universities": "less"
+   },
+   "employees": null,
+   "hiring": false,
+   "hiring_quote": null,
+   "expansion": false,
+   "expansion_quote": null,
+   "investment": false,
+   "investment_quote": null,
+   "growth": false,
+   "growth_quote": null,
+   "difficulty": false,
+   "difficulty_quote": null,
+   "rd": true,
+   "rd_quote": "The finishing and colors of our wood flooring have been developed to underline our search for being ourselves with adaptable, smooth surfaces",
+   "cooperation": false,
+   "cooperation_quote": null,
+   "eu_projects": 0,
+   "products_offered": 15,
+   "new": [
+    "area elastic sports flooring system",
+    "mobile sports floor system for arenas (1)",
+    "mobile sports floor system for arenas (2)",
+    "chevron pattern hardwood parquet floor",
+    "squash court floor surface finish",
+    "oak skirting for sports floors"
+   ],
+   "relatedness": [
+    "related",
+    "related",
+    "related",
+    "close",
+    "related",
+    "related"
+   ]
+  },
+  "holdout": {
+   "years": [
+    2022
+   ],
+   "industry": {
+    "turnover": "grew",
+    "rd": "about as",
+    "patents": "about as",
+    "universities": "less"
+   },
+   "employees": null,
+   "hiring": true,
+   "hiring_quote": "For our location in Kareivonys, Elektrėnai we are looking for a Digital Customer Journey Manager 100% position",
+   "expansion": false,
+   "expansion_quote": null,
+   "investment": false,
+   "investment_quote": null,
+   "growth": false,
+   "growth_quote": null,
+   "difficulty": false,
+   "difficulty_quote": null,
+   "rd": true,
+   "rd_quote": "have the most advanced research and development department in the industry with highly specialised and experienced employees.",
+   "cooperation": false,
+   "cooperation_quote": null,
+   "eu_projects": 0,
+   "products_offered": 9,
+   "new": [
+    "cleaning soap for wood floors",
+    "maintenance oil for wooden floors",
+    "care product for oiled wood floors",
+    "floor underlay with moisture protection",
+    "high density floor underlay foam",
+    "oak parquet floor"
+   ],
+   "relatedness": [
+    "related",
+    "related",
+    "related",
+    "related",
+    "related",
+    "close"
+   ]
+  }
+ }
+}

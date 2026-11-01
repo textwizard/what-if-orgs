@@ -1,0 +1,1 @@
+{"model": "deepseek-v4-pro", "effort": "medium", "answer": {"decisions": [{"product": "B", "probability_dropped": 15, "decision": "keep", "reason": "Product B is close to the firm's established offer, so the cost of keeping this option is low and its value remains sufficiently uncertain to justify keeping it on the market."}]}}

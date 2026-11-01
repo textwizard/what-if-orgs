@@ -1,0 +1,91 @@
+{
+ "slug": "boller-gmbh-de",
+ "windows": {
+  "exploration": {
+   "years": [
+    2017
+   ],
+   "industry": {
+    "turnover": "grew",
+    "rd": "about as",
+    "patents": "about as",
+    "universities": "about as"
+   },
+   "employees": null,
+   "hiring": false,
+   "hiring_quote": null,
+   "expansion": false,
+   "expansion_quote": null,
+   "investment": false,
+   "investment_quote": null,
+   "growth": false,
+   "growth_quote": null,
+   "difficulty": false,
+   "difficulty_quote": null,
+   "rd": false,
+   "rd_quote": null,
+   "cooperation": false,
+   "cooperation_quote": null,
+   "eu_projects": 0,
+   "products_offered": 11,
+   "new": [
+    "flanged dismantling joint for valves",
+    "ceiling or floor pipe bracket",
+    "pipe support bracket",
+    "powder-coated public waste bin",
+    "powder-coated waste bin with ashtray",
+    "outdoor public ashtrays"
+   ],
+   "relatedness": [
+    "close",
+    "related",
+    "related",
+    "distant",
+    "distant",
+    "distant"
+   ]
+  },
+  "holdout": {
+   "years": [
+    2022
+   ],
+   "industry": {
+    "turnover": "grew",
+    "rd": "about as",
+    "patents": "about as",
+    "universities": "about as"
+   },
+   "employees": null,
+   "hiring": false,
+   "hiring_quote": null,
+   "expansion": false,
+   "expansion_quote": null,
+   "investment": false,
+   "investment_quote": null,
+   "growth": false,
+   "growth_quote": null,
+   "difficulty": false,
+   "difficulty_quote": null,
+   "rd": false,
+   "rd_quote": null,
+   "cooperation": false,
+   "cooperation_quote": null,
+   "eu_projects": 0,
+   "products_offered": 2,
+   "new": [
+    "pipe cleaning box for sewers",
+    "public waste bins",
+    "ground sleeves for posts",
+    "cast iron ground sleeves",
+    "steel ground sleeves"
+   ],
+   "relatedness": [
+    "related",
+    "distant",
+    "related",
+    "related",
+    "related"
+   ]
+  }
+ }
+}

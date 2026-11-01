@@ -1,0 +1,93 @@
+{
+ "slug": "enet-eu",
+ "windows": {
+  "exploration": {
+   "years": [
+    2017
+   ],
+   "industry": {
+    "turnover": "grew",
+    "rd": "more",
+    "patents": "about as",
+    "universities": "more"
+   },
+   "employees": null,
+   "hiring": false,
+   "hiring_quote": null,
+   "expansion": true,
+   "expansion_quote": "Nach dem Erwerb eines Nebengrundstücks begannen im März 2017 die ersten Bodenarbeiten.",
+   "investment": true,
+   "investment_quote": "21. Juli 2017 Die ene't GmbH hat ihr Rechenzentrum am Standort Hückelhoven in Betrieb genommen.",
+   "growth": false,
+   "growth_quote": null,
+   "difficulty": false,
+   "difficulty_quote": null,
+   "rd": true,
+   "rd_quote": "Seit Mai 2017 steht eine neue Generation des ene't Navigator® zur Verfügung, die nun vor allem auf flexibles, prozessorientiertes und modularisiertes Arbeiten setzt.",
+   "cooperation": false,
+   "cooperation_quote": null,
+   "eu_projects": 0,
+   "products_offered": 5,
+   "new": [
+    "Address autocomplete web service",
+    "Austrian gas grid fee database",
+    "Peak load window determination service",
+    "End-customer tariff database",
+    "Custom web services",
+    "Postal code lookup service"
+   ],
+   "relatedness": [
+    "related",
+    "close",
+    "close",
+    "close",
+    "related",
+    "related"
+   ]
+  },
+  "holdout": {
+   "years": [
+    2022
+   ],
+   "industry": {
+    "turnover": "grew",
+    "rd": "more",
+    "patents": "about as",
+    "universities": "more"
+   },
+   "employees": 100,
+   "hiring": false,
+   "hiring_quote": null,
+   "expansion": false,
+   "expansion_quote": null,
+   "investment": false,
+   "investment_quote": null,
+   "growth": false,
+   "growth_quote": null,
+   "difficulty": false,
+   "difficulty_quote": null,
+   "rd": true,
+   "rd_quote": "Geschäftsführer Dipl.-Ing. Roland Hambach dankte Norbert Berens herzlich für die vergangenen vier Jahre, in denen er die Software-Entwicklung des Unternehmens mit großem Fachwissen und Engagement unterstützte.",
+   "cooperation": false,
+   "cooperation_quote": null,
+   "eu_projects": 0,
+   "products_offered": 20,
+   "new": [
+    "Location-based margin analysis",
+    "Location-based gas tariff comparison",
+    "Regional electricity tariff calculator",
+    "Regional energy tariff calculator",
+    "Regional area definition tool",
+    "Site-specific energy tariff comparison"
+   ],
+   "relatedness": [
+    "related",
+    "close",
+    "close",
+    "related",
+    "related",
+    "close"
+   ]
+  }
+ }
+}

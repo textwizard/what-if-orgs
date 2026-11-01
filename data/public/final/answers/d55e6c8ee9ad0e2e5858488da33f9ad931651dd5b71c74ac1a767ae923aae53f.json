@@ -1,0 +1,1 @@
+{"model": "deepseek-v4-pro", "effort": "medium", "answer": {"decisions": [{"product": "B", "probability_dropped": 25, "decision": "keep", "reason": "The ERP interface plugin is still an open option with unresolved prospects and relatively low keeping costs, so it should be kept until clearer value signals emerge."}]}}

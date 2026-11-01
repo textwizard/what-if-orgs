@@ -1,0 +1,89 @@
+{
+ "slug": "hennig-am-de",
+ "windows": {
+  "exploration": {
+   "years": [
+    2017
+   ],
+   "industry": {
+    "turnover": "stayed about level",
+    "rd": "more",
+    "patents": "more",
+    "universities": "more"
+   },
+   "employees": 280,
+   "hiring": false,
+   "hiring_quote": null,
+   "expansion": true,
+   "expansion_quote": "Deutsches Schwindelmedikament schließt gravierende Versorgungslücken in Nordamerika",
+   "investment": true,
+   "investment_quote": "HENNIG ARZNEIMITTEL investiert 7,5 Millionen Euro in den Ausbau des Standorts Flörsheim",
+   "growth": false,
+   "growth_quote": null,
+   "difficulty": false,
+   "difficulty_quote": null,
+   "rd": true,
+   "rd_quote": "Bei neuen Produkten stellt z. B. die Entwicklung neuer Analysemethoden auch erfahrenste Mitarbeiter immer wieder vor neue Herausforderungen.",
+   "cooperation": false,
+   "cooperation_quote": null,
+   "eu_projects": 0,
+   "products_offered": 5,
+   "new": [
+    "dietary supplement range",
+    "skin and hair dietary supplement",
+    "joint health dietary supplement",
+    "mushroom-based immune dietary supplement",
+    "generic blood pressure medication",
+    "over-the-counter migraine triptan tablet"
+   ],
+   "relatedness": [
+    "related",
+    "related",
+    "related",
+    "related",
+    "distant",
+    "distant"
+   ]
+  },
+  "holdout": {
+   "years": [
+    2022
+   ],
+   "industry": {
+    "turnover": "grew",
+    "rd": "more",
+    "patents": "more",
+    "universities": "more"
+   },
+   "employees": null,
+   "hiring": false,
+   "hiring_quote": null,
+   "expansion": true,
+   "expansion_quote": "Mit den erweiterten Kapazitäten und der Modernisierung der neuen Konfektionierungsanlage eröffnet sich auch die Chance, die Auftragsfertigung für andere Unternehmen weiter auszubauen.",
+   "investment": true,
+   "investment_quote": "Die Ausgaben in Höhe von 7,5 Millionen Euro flossen sowohl in den Bau des neuen Konfektionierungsgebäudes und die Modernisierung des Maschinenparks, als auch in die Serialisierungssysteme",
+   "growth": false,
+   "growth_quote": null,
+   "difficulty": false,
+   "difficulty_quote": null,
+   "rd": true,
+   "rd_quote": "Darüber hinaus entwickelt HENNIG ARZNEIMITTEL eine neue zeitgesteuerte Freisetzung des Medikaments.",
+   "cooperation": false,
+   "cooperation_quote": null,
+   "eu_projects": 0,
+   "products_offered": 17,
+   "new": [
+    "vertigo combination tablet",
+    "generic antidepressant hard capsule",
+    "combination antihypertensive film tablet",
+    "bone and joint dietary supplement"
+   ],
+   "relatedness": [
+    "close",
+    "distant",
+    "close",
+    "related"
+   ]
+  }
+ }
+}

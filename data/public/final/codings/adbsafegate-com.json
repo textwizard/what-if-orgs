@@ -1,0 +1,1122 @@
+{
+ "slug": "adbsafegate-com",
+ "profiles": {
+  "exploration": {
+   "strategy": {
+    "offer": "Integrated airport operations solutions and services spanning airfield, gate and tower, including guidance, control, automation, planning, installation, maintenance, training and spare parts.",
+    "customers": "Airports, airport operators, airlines and air traffic control stakeholders seeking safer, more efficient, predictable and sustainable aircraft movements and ground operations.",
+    "why_we_win": "It expects integrated, consultative, data-driven solutions to break operational silos, remove bottlenecks, raise throughput and safety, and reduce costs using existing infrastructure.",
+    "resources": "Its basis is long airport-operational experience, system-integration know-how, broad technology and service coverage, global support teams, and coordinated R&D, engineering and project capabilities.",
+    "direction": "It is moving toward fully integrated, intelligent airport operations with greater automation, real-time information sharing, collaborative decision-making, sustainability and capacity growth."
+   },
+   "context": {
+    "size": null,
+    "founded": null,
+    "industry": "Manufacture of electrical equipment"
+   },
+   "seed_year": 2017
+  },
+  "holdout": {
+   "strategy": {
+    "offer": "Integrated hardware, software, and lifecycle services for airport operations, including lighting, docking, traffic control, surveillance, analytics, planning, installation, training, and maintenance.",
+    "customers": "Airports, airlines, and air navigation providers seeking safer, more predictable, efficient airside, gate, and tower operations.",
+    "why_we_win": "By integrating operational systems and data across the airport, it helps customers remove bottlenecks, raise safety and throughput, and cut delays, costs, and environmental impact.",
+    "resources": "Global engineering and service teams, broad installed equipment experience, product development capability, and expertise in design, integration, project delivery, maintenance, and training.",
+    "direction": "Heading toward more automated, data-driven, digitally integrated airport operations, with stronger end-to-end project responsibility and expanded service and software capabilities."
+   },
+   "context": {
+    "size": null,
+    "founded": null,
+    "industry": "Manufacture of electrical equipment"
+   },
+   "seed_year": 2022
+  }
+ },
+ "years": [
+  {
+   "year": 2017,
+   "codeable": true,
+   "products": [
+    {
+     "name": "Safedock",
+     "generic": "an advanced visual docking guidance system for aircraft",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": true
+    },
+    {
+     "name": "SafeControl Apron Management",
+     "generic": "an apron management software system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": true
+    },
+    {
+     "name": "Power HF",
+     "generic": "a constant current regulator for airfield lighting",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": true
+    },
+    {
+     "name": "ACEMAX",
+     "generic": "an advanced surface movement guidance and control system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "DIFLIS",
+     "generic": "an electronic flight strip system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "OPTAMOS",
+     "generic": "a departure management planning tool",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "INFOMAX",
+     "generic": "an air traffic control information system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "DECLOS",
+     "generic": "a digital pre-departure clearance system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Integrated Controller Working Position (CWP)",
+     "generic": "an integrated single-screen air traffic controller workstation",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": true
+    },
+    {
+     "name": "Integrated Tower Solution",
+     "generic": "an integrated airport tower air traffic management package",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": true
+    },
+    {
+     "name": "VIS",
+     "generic": "a constant current regulator range",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "CRE",
+     "generic": "a constant current regulator range",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    }
+   ],
+   "evidence": [
+    {
+     "product": "Safedock",
+     "type": "result",
+     "strength": 3,
+     "quote": "ADB SAFEGATE has successfully delivered four Safedock T1 Advanced Visual Docking Guidance Systems (A-VDGS) and a SafeControl Apron Management (SAM) System"
+    },
+    {
+     "product": "Safedock",
+     "type": "result",
+     "strength": 3,
+     "quote": "ADB SAFEGATE is the market leader in docking guidance systems with 45 of the 50 largest airports in the world using Safedock A-VDGS."
+    },
+    {
+     "product": "Safedock",
+     "type": "result",
+     "strength": 3,
+     "quote": "During construction of the new terminal, ADB SAFEGATE installed an additional 28 Safedock systems on the new international gates"
+    },
+    {
+     "product": "Safedock",
+     "type": "result",
+     "strength": 3,
+     "quote": "ADB SAFEGATE has installed over 7,000 Safedock advanced visual docking guidance systems across the globe."
+    },
+    {
+     "product": "SafeControl Apron Management",
+     "type": "result",
+     "strength": 2,
+     "quote": "as well as its SafeControl Apron Management software at both terminals."
+    },
+    {
+     "product": "Power HF",
+     "type": "launch",
+     "strength": 3,
+     "quote": "The launch of the updated Power HF at inter airport follows a successful field test at Brussels Airport."
+    },
+    {
+     "product": "Integrated Controller Working Position (CWP)",
+     "type": "launch",
+     "strength": 3,
+     "quote": "The company’s latest solution, the Integrated Controller Working Position (CWP), will also be showcased at the event."
+    },
+    {
+     "product": "Integrated Tower Solution",
+     "type": "result",
+     "strength": 2,
+     "quote": "The airport has chosen AviBit, now a part of ADB Safegate, to install its Integrated Tower Solution to enable A-CDM"
+    }
+   ],
+   "success": []
+  },
+  {
+   "year": 2018,
+   "codeable": true,
+   "products": [
+    {
+     "name": "Safedock A-VDGS",
+     "generic": "an advanced visual docking guidance system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": true
+    },
+    {
+     "name": "SafeControl Apron Management",
+     "generic": "an apron management software system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Integrated Controller Working Position (CWP)",
+     "generic": "an integrated single-screen air traffic controller workstation",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": true
+    },
+    {
+     "name": "ONECONTROL",
+     "generic": "an integrated controller working position system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "ACEMAX",
+     "generic": "an advanced surface movement guidance and control system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "AIRMAX",
+     "generic": "an air situation display for surveillance",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "DIFLIS",
+     "generic": "a digital flight strip system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "OPTAMOS",
+     "generic": "a departure stream planning tool",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "ACE3",
+     "generic": "a distributed airfield lighting control and monitoring unit",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "SafeLED",
+     "generic": "LED airfield ground lighting",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Tower ATM package",
+     "generic": "a suite of air traffic control tower systems",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    }
+   ],
+   "evidence": [
+    {
+     "product": "Safedock A-VDGS",
+     "type": "result",
+     "strength": 3,
+     "quote": "ADB SAFEGATE is the market leader in docking guidance systems with 45 of the 50 largest airports in the world using Safedock A-VDGS."
+    },
+    {
+     "product": "Safedock A-VDGS",
+     "type": "result",
+     "strength": 2,
+     "quote": "ADB SAFEGATE partners with Southwest Florida International Airport to improve gate performance Safedock A-VDGS technology supports ramp safety"
+    },
+    {
+     "product": "SafeLED",
+     "type": "result",
+     "strength": 3,
+     "quote": "The Airport’s second runway, scheduled to be operational by late 2019, will be powered by ADB SAFEGATE’s SafeLED airfield lighting (AGL)"
+    },
+    {
+     "product": "ACE3",
+     "type": "launch",
+     "strength": 2,
+     "quote": "ACE3™, ADB SAFEGATE’s latest distributed control and monitoring solution for ALCMS sets new industry standard"
+    },
+    {
+     "product": "Integrated Controller Working Position (CWP)",
+     "type": "launch",
+     "strength": 3,
+     "quote": "At the World ATM Congress in Madrid from March 7 – 9 we are presenting our integrated tower solutions. The latest solution, the Integrated Controller Working Position (CWP), will also be showcased"
+    }
+   ],
+   "success": []
+  },
+  {
+   "year": 2019,
+   "codeable": true,
+   "products": [
+    {
+     "name": "ACE3",
+     "generic": "distributed control and monitoring unit for airfield lighting",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Power HF",
+     "generic": "constant current regulator for airfield lighting",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Safedock T1",
+     "generic": "advanced visual docking guidance system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "SafeControl Apron Management (SAM)",
+     "generic": "apron management integration software",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "OneControl Integrated Controller Working Position",
+     "generic": "integrated air traffic controller workstation software",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": true
+    },
+    {
+     "name": "OneControl MLAT",
+     "generic": "multilateration aircraft surveillance system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": true
+    },
+    {
+     "name": "Follow the Greens",
+     "generic": "airfield lighting based taxi guidance solution",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    }
+   ],
+   "evidence": [
+    {
+     "product": "OneControl MLAT",
+     "type": "launch",
+     "strength": 3,
+     "quote": "At inter airport Europe 2019, ADB SAFEGATE announces one of the most advanced, flexible and adaptable multilateration (MLAT) products to improve approach and ground surveillance at airports."
+    },
+    {
+     "product": "Safedock T1",
+     "type": "result",
+     "strength": 3,
+     "quote": "More than 40 boarding gates, both international and domestic, will be equipped starting mid 2018."
+    },
+    {
+     "product": "Safedock T1",
+     "type": "result",
+     "strength": 2,
+     "quote": "the GTAA once again turned to ADB SAFEGATE to deploy its latest Safedock T1 advanced visual docking guidance system (A-VDGS) and SafeControl Apron Management (SAM) integration solution."
+    },
+    {
+     "product": "SafeControl Apron Management (SAM)",
+     "type": "result",
+     "strength": 2,
+     "quote": "SWJV selected ADB SAFEGATE to deploy its state-of-the-art Advanced Visual Docking Guidance System (A-VDGS) and SafeControl Apron Management (SAM) solution to ramp up gate operations at the new terminal."
+    },
+    {
+     "product": "ACE3",
+     "type": "launch",
+     "strength": 2,
+     "quote": "ADB SAFEGATE now launches a new distributed control and monitoring solution for airfield lighting control and monitoring systems (ALCMS) that will set new industry standards."
+    }
+   ],
+   "success": []
+  },
+  {
+   "year": 2022,
+   "codeable": true,
+   "products": [
+    {
+     "name": "Airfield 4.0",
+     "generic": "an integrated intelligent airfield lighting technology",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": true
+    },
+    {
+     "name": "Safedock A-VDGS",
+     "generic": "an advanced visual aircraft docking guidance system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": true
+    },
+    {
+     "name": "Safedock X",
+     "generic": "a fully automated aircraft docking system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "SafeControl Apron Management",
+     "generic": "an apron management software",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "ACE3",
+     "generic": "a distributed airfield lighting control and monitoring unit",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "OneControl MLAT",
+     "generic": "an airport multilateration surveillance system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "OneControl Integrated Controller Working Position",
+     "generic": "an integrated air traffic controller workstation",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Power HF",
+     "generic": "a compact constant current regulator for airfield lighting",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Integrated Tower Solution",
+     "generic": "an integrated airport tower control system suite",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "ACEMAX",
+     "generic": "an advanced surface movement guidance and control system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "DIFLIS",
+     "generic": "an electronic flight strips system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "DECLOS",
+     "generic": "a digital pre-departure clearance system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "OPTAMOS",
+     "generic": "a departure management system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "AXON",
+     "generic": "a range of airfield lights",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "APEX",
+     "generic": "an airport collaboration software tool",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Resource Management Express",
+     "generic": "a cloud-based airport resource management software",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "ADB SAFEGATE Training Academy",
+     "generic": "a training program for airport systems",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    }
+   ],
+   "evidence": [
+    {
+     "product": "Airfield 4.0",
+     "type": "result",
+     "strength": 3,
+     "quote": "Marking the largest airfield lighting contract in ADB SAFEGATE Australia’s history, the company is set to deliver its latest Airfield 4.0 technology to Western Sydney International (WSI) Airport."
+    },
+    {
+     "product": "Safedock A-VDGS",
+     "type": "result",
+     "strength": 2,
+     "quote": "The Dallas Fort Worth International Airport (DFW) is the first to add ADB SAFEGATE’s latest advanced visual docking guidance system (A-VDGS) – the Safedock..."
+    },
+    {
+     "product": "Safedock A-VDGS",
+     "type": "result",
+     "strength": 3,
+     "quote": "21 new Safedock units for safe and precise docking of aircraft at their stands, combined with individually-controlled lead-in lights"
+    },
+    {
+     "product": "Safedock A-VDGS",
+     "type": "result",
+     "strength": 3,
+     "quote": "With more than 10,000 units installed, ADB SAFEGATE’s Safedock A-VDGS is the world’s most widely deployed docking system."
+    },
+    {
+     "product": "SafeControl Apron Management",
+     "type": "result",
+     "strength": 2,
+     "quote": "Extension of the SafeControl Apron Management System to allow efficient allocation of stands."
+    }
+   ],
+   "success": []
+  },
+  {
+   "year": 2023,
+   "codeable": true,
+   "products": [
+    {
+     "name": "OneControl",
+     "generic": "integrated controller working position software for towers",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": true
+    },
+    {
+     "name": "OneControl MLAT",
+     "generic": "airport multilateration surveillance system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "OneControl Surveillance Service",
+     "generic": "airport surveillance data fusion service",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Airport Safety Support Service",
+     "generic": "safety net alerting service for controllers",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Airfield 4.0",
+     "generic": "connected intelligent airfield lighting technology offering",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": true
+    },
+    {
+     "name": "LINC 360",
+     "generic": "individual light control and monitoring system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "LINC Node",
+     "generic": "IoT gateway for airfield lighting infrastructure",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "AXON",
+     "generic": "LED airfield lights with built-in sensors",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Safedock",
+     "generic": "advanced visual docking guidance system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Safedock X",
+     "generic": "automated aircraft docking guidance system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "SafeControl Apron Management",
+     "generic": "apron management software",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "ACE3",
+     "generic": "distributed control unit for airfield lighting",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "ALIS",
+     "generic": "cloud airside maintenance inspection and tracking software",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "RELIANCE",
+     "generic": "intelligent airfield lighting product portfolio",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "RELIANCE Red/Green taxiway centerline light",
+     "generic": "switchable taxiway centerline and stop bar light",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "RELIANCE LED omni directional lights",
+     "generic": "omnidirectional LED airfield lights",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "RELIANCE LED sign",
+     "generic": "LED airfield guidance sign",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Cortex SAFE-R",
+     "generic": "integrated runway status lights system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "AGL+1",
+     "generic": "airfield ground lighting training course",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Series Circuit Troubleshooting training program",
+     "generic": "airfield circuit troubleshooting training course",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    }
+   ],
+   "evidence": [
+    {
+     "product": "LINC 360",
+     "type": "result",
+     "strength": 2,
+     "quote": "ADB SAFEGATE will deliver a complete airfield ground lighting (AGL) solution, including approach, runway and taxiway integrated with its new LINC 360 Individual Light Control and Monitoring System (ILCMS)."
+    },
+    {
+     "product": "Airfield 4.0",
+     "type": "result",
+     "strength": 2,
+     "quote": "Marking the largest airfield lighting contract in ADB SAFEGATE Australia’s history, the company is set to deliver its latest Airfield 4.0 technology to Western Sydney International (WSI) Airport."
+    },
+    {
+     "product": "OneControl Surveillance Service",
+     "type": "result",
+     "strength": 2,
+     "quote": "ADB SAFEGATE will replace the original Data Fusion System with a state-of-the-art Multi-sensor Data Fusion System that is fully compliant with the latest EUROCAE ED-87 standards and is core to ADB SAFEGATE’s OneControl Surveillance Service."
+    },
+    {
+     "product": "ALIS",
+     "type": "result",
+     "strength": 2,
+     "quote": "ALIS is also in use at McCarran International Airport in Las Vegas, the Birmingham Airport in the UK and Qatar’s Hamad International Airport"
+    }
+   ],
+   "success": []
+  },
+  {
+   "year": 2024,
+   "codeable": true,
+   "products": [
+    {
+     "name": "Airside 4.0",
+     "generic": "integrated connected airside digitalization solution portfolio",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": true
+    },
+    {
+     "name": "Airfield 4.0",
+     "generic": "connected smart airfield lighting and monitoring solution",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": true
+    },
+    {
+     "name": "Safedock A-VDGS",
+     "generic": "advanced visual docking guidance system for aircraft",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": true
+    },
+    {
+     "name": "Safedock Flex",
+     "generic": "flexible-platform aircraft visual docking guidance system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "SafeControl Apron Management",
+     "generic": "airport apron management software system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Intelligent AiPRON",
+     "generic": "intelligent airport apron management solution",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "OneControl",
+     "generic": "integrated air traffic controller working position",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "OneControl MLAT",
+     "generic": "airport multilateration surveillance system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "LINC 360",
+     "generic": "individual airfield light control and monitoring system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": true
+    },
+    {
+     "name": "LINC Node",
+     "generic": "cloud monitoring device for airfield lighting",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "AXON EQ",
+     "generic": "intelligent LED inset airfield light with sensors",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": true
+    },
+    {
+     "name": "Power HF",
+     "generic": "compact constant current regulator for airfield lighting",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "AS-FIDS",
+     "generic": "airport flight information display software",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Training Academy",
+     "generic": "customer training and certification programme",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "AGL-CDP",
+     "generic": "airfield lighting design professional certification course",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    }
+   ],
+   "evidence": [],
+   "success": []
+  },
+  {
+   "year": 2025,
+   "codeable": true,
+   "products": [
+    {
+     "name": "Airside 4.0",
+     "generic": "connected airside solutions and strategy portfolio",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": true
+    },
+    {
+     "name": "Intelligent AiPRON",
+     "generic": "apron management software suite",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": true
+    },
+    {
+     "name": "AiPRON Finance",
+     "generic": "aeronautical revenue calculation and billing software",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "AiPRON 360",
+     "generic": "AI aircraft turnaround management software",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "AiPRON Manager",
+     "generic": "web-based apron equipment monitoring software",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "AiPRON Resource",
+     "generic": "apron resource management software module",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "AiPRON Connect",
+     "generic": "apron connectivity software module",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Safedock FleX",
+     "generic": "advanced visual docking guidance system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": true
+    },
+    {
+     "name": "Safedock T1",
+     "generic": "advanced visual docking guidance system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "SafeControl Apron Management",
+     "generic": "apron management system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "OneControl",
+     "generic": "integrated air traffic controller working position",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "OneControl MLAT",
+     "generic": "multilateration surveillance system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "OneControl Surveillance Service",
+     "generic": "airport surveillance data fusion service",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Airport Safety Support Service",
+     "generic": "controller safety net alerting service",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "AXON",
+     "generic": "LED airfield ground lights",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "LINC 360",
+     "generic": "integrated airfield light control and monitoring system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "ALIS",
+     "generic": "cloud-enabled airside maintenance service tool",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Intelligent Airfield",
+     "generic": "sensor-based airfield monitoring portfolio",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    }
+   ],
+   "evidence": [
+    {
+     "product": "Safedock FleX",
+     "type": "result",
+     "strength": 2,
+     "quote": "Under this new contract, ADB SAFEGATE will deliver its latest Safedock FleX Advanced Visual Docking Guidance Systems (A-VDGS) and AiPRON Manager – giving Lima Airport a complete set of tools"
+    },
+    {
+     "product": "AiPRON Manager",
+     "type": "result",
+     "strength": 2,
+     "quote": "The latest contract includes ADB SAFEGATE’s Safedock FleX A-VDGS and AiPRON Manager, setting the airport up for future advances in intelligent apron management."
+    },
+    {
+     "product": "AiPRON 360",
+     "type": "launch",
+     "strength": 3,
+     "quote": "The holistic solution, introduced in February 2023, as part of ADB SAFEGATE’s Intelligent AiPRON software suite"
+    },
+    {
+     "product": "AXON",
+     "type": "result",
+     "strength": 3,
+     "quote": "Bhogapuram Airport, being a new greenfield airport built by GVIAL, demands innovative solutions such as ADB SAFEGATE’s AXON lights and LINC 360 Integrated Light Control and Monitoring System (ILCMS)."
+    },
+    {
+     "product": "LINC 360",
+     "type": "result",
+     "strength": 3,
+     "quote": "Bhogapuram Airport, being a new greenfield airport built by GVIAL, demands innovative solutions such as ADB SAFEGATE’s AXON lights and LINC 360 Integrated Light Control and Monitoring System (ILCMS)."
+    },
+    {
+     "product": "OneControl Surveillance Service",
+     "type": "result",
+     "strength": 2,
+     "quote": "ADB SAFEGATE will replace the original Data Fusion System with a state-of-the-art Multi-sensor Data Fusion System that is fully compliant with the latest EUROCAE ED-87 standards and is core to ADB SAFEGATE’s OneControl Surveillance Service."
+    },
+    {
+     "product": "Intelligent AiPRON",
+     "type": "launch",
+     "strength": 2,
+     "quote": "ADB SAFEGATE has launched the Intelligent AiPRON – an exciting new operational platform that goes beyond digitalization"
+    },
+    {
+     "product": "Intelligent Airfield",
+     "type": "launch",
+     "strength": 2,
+     "quote": "See our new Intelligent Airfield portfolio that uses sensors and wireless telemetry to collect real-time data from multiple sources"
+    },
+    {
+     "product": "Airside 4.0",
+     "type": "result",
+     "strength": 3,
+     "quote": "honored at the prestigious Airport Technology Excellence Awards 2024, achieving awards in four categories: Environmental Initiatives, Innovation, Safety, and Business Expansion. This showcases ADB SAFEGATE’s dedication to redefining airport operations with smart Airside 4.0® solutions."
+    }
+   ],
+   "success": []
+  },
+  {
+   "year": 2026,
+   "codeable": false,
+   "products": [],
+   "evidence": [],
+   "success": []
+  }
+ ]
+}

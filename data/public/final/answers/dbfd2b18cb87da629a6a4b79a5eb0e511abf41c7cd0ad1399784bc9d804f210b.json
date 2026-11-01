@@ -1,0 +1,1 @@
+{"model": "deepseek-v4-pro", "effort": "medium", "answer": {"decisions": [{"product": "B", "probability_dropped": 10, "decision": "keep", "reason": "The firm has invested in Product B and publicly committed to it with its own website page since 2023, so management would persist with the product rather than write off that commitment."}]}}

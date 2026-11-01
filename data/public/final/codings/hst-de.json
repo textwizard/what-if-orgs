@@ -1,0 +1,1894 @@
+{
+ "slug": "hst-de",
+ "profiles": {
+  "exploration": {
+   "strategy": {
+    "offer": "Integrated machinery, automation software, planning, implementation, maintenance, and operational services for technical infrastructure and process facilities.",
+    "customers": "Municipal and industrial operators, utilities, and engineering planners responsible for water, energy, and other infrastructure assets.",
+    "why_we_win": "It combines proprietary products, open interoperable systems, and outcome responsibility to deliver trustworthy, efficient solutions tailored to each project.",
+    "resources": "Basis includes multidisciplinary engineering, software and service teams, internal product development, standardized modules, digital support infrastructure, and documented project experience.",
+    "direction": "It is moving toward more connected, web-based, secure, and data-driven infrastructure management with predictive planning and operation."
+   },
+   "context": {
+    "size": "medium",
+    "founded": null,
+    "industry": "Manufacture of machinery and equipment n.e.c."
+   },
+   "seed_year": 2017
+  },
+  "holdout": {
+   "strategy": {
+    "offer": "Integrated machinery, automation software, engineering, and service for planning, equipping, controlling, monitoring, and operating water, wastewater, flood-control, and related energy infrastructure.",
+    "customers": "Municipalities, utilities, infrastructure operators, associations, and engineering planners responsible for building, modernizing, and safely operating public water, wastewater, and energy systems.",
+    "why_we_win": "It promises tailored end-to-end solutions, open interoperable technology, transparent service, and responsibility for outcomes beyond delivery, supported by extensive practical project experience.",
+    "resources": "Engineering development, proprietary products, standardized yet flexible IT modules, documented know-how from thousands of projects, service portals, and a multidisciplinary workforce.",
+    "direction": "It is heading toward broader digital networking of infrastructure assets for intelligent system-wide control, simpler operations, higher efficiency, and environmental protection, including energy recovery."
+   },
+   "context": {
+    "size": "medium",
+    "founded": 1981,
+    "industry": "Manufacture of machinery and equipment n.e.c."
+   },
+   "seed_year": 2022
+  }
+ },
+ "years": [
+  {
+   "year": 2017,
+   "codeable": true,
+   "products": [
+    {
+     "name": "KANiO",
+     "generic": "operations management and maintenance planning software",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": true
+    },
+    {
+     "name": "KANiO ISMS",
+     "generic": "information security management software tool",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "SCADA V10",
+     "generic": "process control and supervisory software",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "SCADA.web",
+     "generic": "web-based process control system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "smartSCADA",
+     "generic": "compact process visualization software",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "smartKANiO",
+     "generic": "compact operations management software",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "NiRA.web",
+     "generic": "web portal for precipitation forecasts",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "TeleMatic",
+     "generic": "telecontrol and automation hardware system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "SensoMatic-EMA",
+     "generic": "overflow event measurement and logging system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "HydroJack",
+     "generic": "automatic wastewater lifting station",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "HydroMat",
+     "generic": "flow and level regulating device",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Pure flux",
+     "generic": "wastewater heat exchanger",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Schlamm-Rekuperator",
+     "generic": "modular heat recovery unit for sludge",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "HydroKlar",
+     "generic": "clear water decanting device",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "HydroScum",
+     "generic": "floating scum removal device",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "ASK-Wehr",
+     "generic": "automatic weir for retention basins",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "ASA-Wehr",
+     "generic": "retention, flushing and discharge weir",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "ESK-Wehr",
+     "generic": "control weir for stormwater structures",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "FSK-GSK-Wehr",
+     "generic": "control weir for stormwater structures",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "VSR-Rechen",
+     "generic": "screen for separating solids from wastewater",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "HSR-Rechen",
+     "generic": "screen for separating solids from wastewater",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "AWS-Strahljet",
+     "generic": "jet flow generator for basin cleaning",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "AWS-PicoStrahljet",
+     "generic": "small jet flow generator for basin cleaning",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "AWS-Spülkippe",
+     "generic": "tipping bucket flushing device for basins",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "IntelliFlush",
+     "generic": "automatic sewer flushing system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "IntelliGrid",
+     "generic": "optically controlled basin cleaning system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Hydrofittings",
+     "generic": "fittings for water management structures",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "RSK-Twin-Klappe",
+     "generic": "non-return flap valve",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "STW-Tauchwand",
+     "generic": "scum baffle wall for overflow structures",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "HST Akademie",
+     "generic": "software and automation training courses",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    }
+   ],
+   "evidence": [
+    {
+     "product": "KANiO",
+     "type": "result",
+     "strength": 1,
+     "quote": "marktführendes Betriebsführungssystem in der Wasserwirtschaft"
+    }
+   ],
+   "success": []
+  },
+  {
+   "year": 2018,
+   "codeable": true,
+   "products": [
+    {
+     "name": "KANiO",
+     "generic": "operations and maintenance management software for utilities",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": true
+    },
+    {
+     "name": "KANiO ISMS",
+     "generic": "information security management system software tool",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "SCADA V10 Reporter",
+     "generic": "process data archiving and reporting software",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "HydroDat V8 Reporter",
+     "generic": "process data archiving and reporting software",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "SECURA Bodentor",
+     "generic": "manhole floor door with integrated safety railing",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "ASA-Weir",
+     "generic": "automatic retention and flushing weir",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "HydroScum-FLAP",
+     "generic": "floating sludge extractor for tanks",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "HydroScum-FLOAT/P",
+     "generic": "floating sludge extractor for tanks",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "HydroJack",
+     "generic": "automatic wastewater lifting station",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "NiRa.web",
+     "generic": "radar precipitation measurement data service",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "HydroMatic",
+     "generic": "control technology for water engineering machinery",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "TeleMatic",
+     "generic": "automation and telecontrol solution for valves",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    }
+   ],
+   "evidence": [
+    {
+     "product": "ASA-Weir",
+     "type": "result",
+     "strength": 2,
+     "quote": "Das Public Utilities Board in Singapur hat sich nach längerem Auswahlverfahren zur Wasserspiegelregulierung eines Vorfluters im Innenstadtbereich entschieden."
+    },
+    {
+     "product": "ASA-Weir",
+     "type": "result",
+     "strength": 3,
+     "quote": "Mittlerweile wurden weltweit über 100 solcher Wehre installiert."
+    }
+   ],
+   "success": []
+  },
+  {
+   "year": 2019,
+   "codeable": true,
+   "products": [
+    {
+     "name": "KANiO",
+     "generic": "operations management software for sewer networks",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": true
+    },
+    {
+     "name": "smartKANiO",
+     "generic": "compact operations management software for utilities",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "SCADA V10",
+     "generic": "process control system for water infrastructure",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "SCADA.web",
+     "generic": "web-based remote access portal for plant monitoring",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "smartSCADA",
+     "generic": "compact SCADA software for water plants",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "NiRA.web",
+     "generic": "web portal for precipitation data",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "TeleMatic",
+     "generic": "telecontrol station hardware for remote monitoring",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "SensoMatic-EMA",
+     "generic": "sensor-based measurement and control unit",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "HydroJack75",
+     "generic": "automatic wastewater lifting station",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": true
+    },
+    {
+     "name": "ASA-Weir",
+     "generic": "automatic retention and flushing weir",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": true
+    },
+    {
+     "name": "ASK-Wehr",
+     "generic": "float-controlled weir without external energy",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Hydrofittings",
+     "generic": "fittings for water special structures",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "HydroMat-HQ",
+     "generic": "flow regulation device for sewer systems",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "HydroScum-SLIDE/P",
+     "generic": "scum removal device for basins",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "VSR-Rechen",
+     "generic": "screen for wastewater solids separation",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "HSR Rechen",
+     "generic": "screen for wastewater solids separation",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "STW/V-Tauchwand",
+     "generic": "baffle wall for stormwater overflow",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "STW/R-Tauchwand",
+     "generic": "baffle wall for stormwater overflow",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "RSK/P-Klappe",
+     "generic": "backflow flap for sewer structures",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Pure flux P",
+     "generic": "wastewater heat recovery system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Pure flux P2",
+     "generic": "wastewater heat recovery system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Pure flux F",
+     "generic": "wastewater heat recovery system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "HST Abwasserturbine",
+     "generic": "turbine generating electricity from wastewater flow",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Schlammzyklon",
+     "generic": "sludge cyclone separator",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Schlamm-Rekuperator",
+     "generic": "sludge recuperator for treatment plants",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "SBR-Unit/System",
+     "generic": "sequencing batch reactor wastewater treatment unit",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "HST Akademie",
+     "generic": "training courses for system users",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    }
+   ],
+   "evidence": [
+    {
+     "product": "KANiO",
+     "type": "result",
+     "strength": 3,
+     "quote": "KANiO – Erfahrungsbericht im Kanalbetrieb inkl. KANiO 4 Migration und Ausweitung auf andere Fachbereiche – Siegfried Rupprecht, ENNI Moers"
+    },
+    {
+     "product": "NiRA.web",
+     "type": "result",
+     "strength": 3,
+     "quote": "NiRA.web bei der ESi Siegen – Stephan Roth, Entsorgungsbetriebe Siegen (ESi)"
+    },
+    {
+     "product": "KANiO",
+     "type": "result",
+     "strength": 3,
+     "quote": "KANiO – Schwerpunkteinsatz im Bereich Sonderbauwerke – Horst Baxpehler, Erftverband"
+    },
+    {
+     "product": "HST Akademie",
+     "type": "launch",
+     "strength": 3,
+     "quote": "Neuerungen aus den Produktbereichen und Vorstellung der HST Akademie – Uwe Frigger, HST Systemtechnik"
+    }
+   ],
+   "success": []
+  },
+  {
+   "year": 2022,
+   "codeable": true,
+   "products": [
+    {
+     "name": "KANiO",
+     "generic": "operations management software for utility infrastructure",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "SCADA.web",
+     "generic": "web-based SCADA control system software",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "TeleMatic",
+     "generic": "control and monitoring automation system for plants",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "TeleMatic Manager",
+     "generic": "central software for connecting remote control stations",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "TeleMatic Standard",
+     "generic": "process data acquisition and archiving software",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Nira.web",
+     "generic": "web portal for precipitation data",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "SensoMatic",
+     "generic": "data acquisition system for sensors",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "IntelliScreen",
+     "generic": "intelligent process control for wastewater screens",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "HSR-Rechen",
+     "generic": "screen for combined sewer overflow",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "IntelliNet",
+     "generic": "networked autonomous control system for wastewater networks",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "IntelliGrid",
+     "generic": "optical contamination detection for tank cleaning control",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "IntelliFlush",
+     "generic": "automation for automatic sewer flushing waves",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "AWS-Strahljet",
+     "generic": "automatic jet cleaner for stormwater tanks",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Airlift",
+     "generic": "coarse-bubble aeration system for wastewater mixing",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "ASA-Wehr",
+     "generic": "hydraulic reinforced concrete lifting weir",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "ASK-Wehr",
+     "generic": "float-controlled automatic flap weir",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "ESK-Wehr",
+     "generic": "electro-hydraulic controlled flap weir",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "AWS-Spülkippe",
+     "generic": "tipping flush bucket for stormwater tank cleaning",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "AWS-Spülklappe",
+     "generic": "flushing flap gate for tanks and sewers",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "AWS-Spülschütz",
+     "generic": "flushing gate for sewer storage cascade cleaning",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "AWS-Vakuum",
+     "generic": "vacuum flushing system for tank cleaning",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Düsenbelüfter",
+     "generic": "nozzle aerator for activated sludge tanks",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Pure flux P",
+     "generic": "wastewater heat recovery system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "HydroMatic",
+     "generic": "control software for cleaning equipment",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "smartSCADA",
+     "generic": "compact SCADA control system for plants",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "smartKANiO",
+     "generic": "compact operations management software module",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "TeleCam",
+     "generic": "camera monitoring for process plants",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    }
+   ],
+   "evidence": [
+    {
+     "product": "SCADA.web",
+     "type": "launch",
+     "strength": 3,
+     "quote": "Mit dem Systemupdate vom 14.09.2021 wurde die SCADA.web Version 3.0.4 veröffentlicht."
+    },
+    {
+     "product": "KANiO",
+     "type": "result",
+     "strength": 2,
+     "quote": "Über 30 Jahre Erfahrung mit technischer Betriebsführung und hunderte von Installationen machen das Betriebsführungssystem KANiO von HST zum Branchenbesten."
+    },
+    {
+     "product": "KANiO",
+     "type": "result",
+     "strength": 2,
+     "quote": "Stadtwerke Borken/Westfalen sind durch die Unterstützung von KANiO® zertifiziert"
+    },
+    {
+     "product": "IntelliScreen",
+     "type": "result",
+     "strength": 2,
+     "quote": "Die intelligente Prozess- und Maschinensteuerung „IntelliScreen“ steuert den HSR-Rechen in Heusenstamm verlegungsabhängig"
+    },
+    {
+     "product": "AWS-Strahljet",
+     "type": "launch",
+     "strength": 2,
+     "quote": "The new generation of AWS Jet Cleaner, in addition to the already proven IntelliGrid system, relies on a workspace in three dimensions."
+    }
+   ],
+   "success": []
+  },
+  {
+   "year": 2023,
+   "codeable": true,
+   "products": [
+    {
+     "name": "ASA-Wehr",
+     "generic": "a hydraulic reinforced-concrete lifting weir",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "ASK-Wehr",
+     "generic": "a float-controlled automatic flap weir",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "AWS-Spülkippe",
+     "generic": "a tipping flush bucket for basin cleaning",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "AWS-Spülschütz",
+     "generic": "a flushing gate for basin cleaning",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "AWS-Strahljet",
+     "generic": "an automatic jet cleaner for stormwater basins",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "HSR-Rechen",
+     "generic": "a self-cleaning horizontal bar screen",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "TeleMatic",
+     "generic": "PC-based telecontrol and process monitoring system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Hydromat-HQ",
+     "generic": "a stationary partially filled flow measurement system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "KANiO",
+     "generic": "operations management software for utilities",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": true
+    },
+    {
+     "name": "Pure flux P",
+     "generic": "a pipe heat exchanger for wastewater heat",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "SCADA V10",
+     "generic": "SCADA control system for water and energy",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Schlamm-Rekuperator",
+     "generic": "a modular sludge heat recovery exchanger",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Sensomatic-EMA",
+     "generic": "an electronic overflow quantity measurement system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "NiRA.web",
+     "generic": "a web-based precipitation data portal",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "TeleCam",
+     "generic": "a camera-based remote plant monitoring system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "STW/R-Tauchwand",
+     "generic": "a scum baffle for stormwater overflows",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "IntelliFlush",
+     "generic": "automation for automatic sewer flushing",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "IntelliGrid",
+     "generic": "optical soiling detection automation for basin cleaning",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "IntelliScreen",
+     "generic": "automation for intelligent screen and filter systems",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "IntelliStream",
+     "generic": "fouling detection automation for heat exchangers",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "IntelliFlow",
+     "generic": "flow measurement automation and system software",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "HydroMatic",
+     "generic": "process control software for cleaning equipment",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "smartSCADA",
+     "generic": "compact SCADA module for local plants",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "smartKANiO",
+     "generic": "compact operations management software module",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    }
+   ],
+   "evidence": [],
+   "success": []
+  },
+  {
+   "year": 2024,
+   "codeable": true,
+   "products": [
+    {
+     "name": "Pure flux P",
+     "generic": "a wastewater heat recovery system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": true
+    },
+    {
+     "name": "KANiO",
+     "generic": "operation and maintenance management software",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": true
+    },
+    {
+     "name": "smartKANiO",
+     "generic": "mobile operation management software extension",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "SCADA.web",
+     "generic": "a web-based SCADA telecontrol portal",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "smartSCADA",
+     "generic": "a mobile SCADA alarm and monitoring app",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "TeleMatic",
+     "generic": "a station control and condition monitoring system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "TeleMatic Manager",
+     "generic": "central software for connecting remote stations",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Nira.web",
+     "generic": "an online precipitation data portal",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "SensoMatic",
+     "generic": "a data acquisition system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "IntelliNet",
+     "generic": "a networked control system for wastewater infrastructure",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "AWS Jet Cleaner",
+     "generic": "a jet cleaner for basin cleaning",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "IntelliGrid",
+     "generic": "an automated basin cleaning control system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Airlift",
+     "generic": "a coarse-bubble aeration wastewater mixing system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Anaconda",
+     "generic": "a flow measurement and throttle control system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "IntelliFlow",
+     "generic": "self-checking software for flow controllers",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "ASA-Wehr",
+     "generic": "a hydraulic reinforced concrete lifting weir",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "ASK-Wehr",
+     "generic": "a float-controlled automatic flap weir",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "AWS-Rotationsstrahler",
+     "generic": "a rotating jet cleaner for round tanks",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "AWS-Spülkippe",
+     "generic": "a tipping flush bucket for stormwater tanks",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "AWS-Spülklappe",
+     "generic": "a flushing flap for stormwater tanks",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "AWS-Spülschütz",
+     "generic": "a flushing gate for sewer storage channels",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "AWS-Vakuum",
+     "generic": "a vacuum flushing system for storage tanks",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "ESK-Wehr",
+     "generic": "an electro-hydraulic flap weir",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "GSK-Wehr",
+     "generic": "a counterweight-controlled flap weir",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "FSK-Wehr",
+     "generic": "a spring-controlled flap weir",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "HSR-Rechen",
+     "generic": "a horizontal bar screen for overflow structures",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "IntelliFlush",
+     "generic": "automation for automatic sewer flushing",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "IntelliScreen",
+     "generic": "automation for intelligent screening and filtering",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "HydroMatic",
+     "generic": "a control unit for weir level regulation",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    }
+   ],
+   "evidence": [
+    {
+     "product": "SCADA.web",
+     "type": "result",
+     "strength": 2,
+     "quote": "Die Überwachung der technischen Einrichtungen und Anlagen erfolgt über das HST Fernwirkportal SCADA.web."
+    },
+    {
+     "product": "AWS Jet Cleaner",
+     "type": "launch",
+     "strength": 1,
+     "quote": "The new generation of AWS Jet Cleaner, in addition to the already proven IntelliGrid system, relies on a workspace in three dimensions."
+    },
+    {
+     "product": "HSR-Rechen",
+     "type": "result",
+     "strength": 2,
+     "quote": "HSR Rechen – Stadt Heusenstamm"
+    }
+   ],
+   "success": []
+  },
+  {
+   "year": 2025,
+   "codeable": true,
+   "products": [
+    {
+     "name": "KANiO",
+     "generic": "operations management and maintenance software for utilities",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": true
+    },
+    {
+     "name": "Pure flux P",
+     "generic": "wastewater heat recovery system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "ASK-Wehr",
+     "generic": "automatic flap weir for sewer structures",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "NiRA.web",
+     "generic": "online precipitation forecast data portal",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "GIREA",
+     "generic": "energy management system for water facilities",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Alarm-Manager",
+     "generic": "alarm management module for SCADA systems",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "AWS-3D-Strahljet",
+     "generic": "three-axis jet cleaner for storage basins",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "AWS-Schwenk-Strahljet",
+     "generic": "swiveling jet cleaner for basins",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "AWS-Rotationsstrahler",
+     "generic": "rotary jet cleaner for round tanks",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "AWS-Spülschütz",
+     "generic": "flushing gate for sewer storage cleaning",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "AWS-Strahljet",
+     "generic": "automatic jet cleaner for stormwater basins",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "ESK-Wehr",
+     "generic": "electro-hydraulic flap weir",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Alligator",
+     "generic": "pneumatic flow regulator with integrated flow measurement",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "IntelliFlow",
+     "generic": "self-checking software for flow regulators",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "IntelliGrid",
+     "generic": "optical dirt detection automation for basin cleaning",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "IntelliScreen",
+     "generic": "process control system for screens",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "IntelliNet",
+     "generic": "sewer network real-time control system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "HydroMatic",
+     "generic": "control software for basin cleaning equipment",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "HSR-Rechen",
+     "generic": "screen for combined sewer overflows",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "TeleMatic",
+     "generic": "telecontrol system for water facilities",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "SCADA V10",
+     "generic": "SCADA control system software",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "smartSCADA",
+     "generic": "compact SCADA control system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "SensoMatic-EMA",
+     "generic": "measurement and monitoring unit",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "TeleCam",
+     "generic": "remote camera monitoring system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "ASA-Wehr",
+     "generic": "automatic weir for overflow structures",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "AWS-Spülkippe",
+     "generic": "tipping flush unit for basin cleaning",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Hydromat-HQ",
+     "generic": "flow control unit for sewer structures",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "STW/R-Tauchwand",
+     "generic": "scum baffle for overflow structures",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Wehr-Konfigurator",
+     "generic": "web tool for weir dimensioning",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "smartKANiO",
+     "generic": "compact operations management software module",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    }
+   ],
+   "evidence": [
+    {
+     "product": "AWS-3D-Strahljet",
+     "type": "launch",
+     "strength": 2,
+     "quote": "Neuzugang im HST Portfolio Ein neuer Spieler steht auf dem Platz: Der AWS-3D-Strahljet!"
+    },
+    {
+     "product": "Wehr-Konfigurator",
+     "type": "launch",
+     "strength": 2,
+     "quote": "Beispielsweise können Sie mit dem neuen Wehr-Konfigurator im Web schnell und unkompliziert die Bemessung von festen und beweglichen Überlaufwehren durchführen."
+    },
+    {
+     "product": "KANiO",
+     "type": "result",
+     "strength": 1,
+     "quote": "Über 30 Jahre Erfahrung mit technischer Betriebsführung und hunderten von Installationen machen das Betriebsführungssystem KANiO von HST zum Branchenbesten."
+    },
+    {
+     "product": "IntelliScreen",
+     "type": "result",
+     "strength": 2,
+     "quote": "Die intelligente Prozess- und Maschinensteuerung „IntelliScreen“ steuert den HSR-Rechen in Heusenstamm verlegungsabhängig"
+    }
+   ],
+   "success": []
+  },
+  {
+   "year": 2026,
+   "codeable": true,
+   "products": [
+    {
+     "name": "IntelliNet",
+     "generic": "networked autonomous control system for water infrastructure",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "IntelliGrid",
+     "generic": "jet cleaner system for tank cleaning",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "TeleMatic",
+     "generic": "station automation and condition monitoring system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "TeleMatic Manager",
+     "generic": "central software for connecting remote telemetry stations",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "SCADA.web",
+     "generic": "web-based remote monitoring SCADA portal",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "SCADA V10 Smarte Mobilität",
+     "generic": "mobile app for operating SCADA systems",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Alarm-Manager",
+     "generic": "integrated SCADA alarm management module",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "HST Alarm App",
+     "generic": "smartphone app for alarm notifications",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "smartSCADA",
+     "generic": "SCADA control system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "KANiO",
+     "generic": "operations and maintenance management software",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": true
+    },
+    {
+     "name": "smartKANiO",
+     "generic": "compact maintenance management software module",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "NiRA.web",
+     "generic": "online precipitation forecast and data portal",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "HydroLight-Ex",
+     "generic": "floodable explosion-proof fluorescent tube light",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Airlift",
+     "generic": "coarse-bubble aeration system for wastewater mixing",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "ASK-Wehr",
+     "generic": "automatic float-controlled flap weir",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "AWS-3D-Strahljet",
+     "generic": "three-axis jet cleaner for storage tanks",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "AWS-Rotationsstrahler",
+     "generic": "rotating jet cleaner for round tanks",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "AWS-Vakuum",
+     "generic": "vacuum flushing system for tank cleaning",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Fischbauch- und Torsions-Stauklappe / Wehr",
+     "generic": "overflow flap gate for water level regulation",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "HydroKlar-FLOAT",
+     "generic": "floating clear water decanter for SBR plants",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "HydroKlar-SLIDE",
+     "generic": "compact clear water decanter for SBR plants",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "HydroMatic",
+     "generic": "water level control unit",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Pure flux P",
+     "generic": "pipe heat exchanger for wastewater heat recovery",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "RSK-TWIN-Klappe",
+     "generic": "dual-function flap valve for flood pumping stations",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "IntelliFlush Automation",
+     "generic": "automated sewer flushing control system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "IntelliStream Automation",
+     "generic": "fouling detection system for heat exchangers",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "SensoMatic EMA",
+     "generic": "overflow quantity measurement system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    }
+   ],
+   "evidence": [
+    {
+     "product": "AWS-3D-Strahljet",
+     "type": "launch",
+     "strength": 2,
+     "quote": "Neuzugang im HST Portfolio Ein neuer Spieler steht auf dem Platz: Der AWS-3D-Strahljet!"
+    },
+    {
+     "product": "KANiO",
+     "type": "result",
+     "strength": 3,
+     "quote": "Since 2007, around 380 kilometers of sewage network, 55 kilometers of pressure pipes, 10,000 shafts and 7,700 road runs have been managed, organized and documented in the city of Willich"
+    },
+    {
+     "product": "KANiO",
+     "type": "result",
+     "strength": 2,
+     "quote": "Reduced personnel costs, lower energy consumption and reduced use of materials: the benefits of KANiO® as a management system in Willich’s wastewater operation have been considerable."
+    },
+    {
+     "product": "SCADA.web",
+     "type": "result",
+     "strength": 1,
+     "quote": "SCADA.web wurde aus guten Grund vielfach ausgezeichnet."
+    }
+   ],
+   "success": []
+  }
+ ]
+}

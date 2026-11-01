@@ -1,0 +1,83 @@
+{
+ "slug": "planoptik-com",
+ "windows": {
+  "exploration": {
+   "years": [
+    2017
+   ],
+   "industry": {
+    "turnover": "grew",
+    "rd": "more",
+    "patents": "more",
+    "universities": "about as"
+   },
+   "employees": null,
+   "hiring": false,
+   "hiring_quote": null,
+   "expansion": false,
+   "expansion_quote": null,
+   "investment": false,
+   "investment_quote": null,
+   "growth": false,
+   "growth_quote": null,
+   "difficulty": false,
+   "difficulty_quote": null,
+   "rd": true,
+   "rd_quote": "Plan Optik set the benchmark regarding perfect glass wafer surfaces by introducing it's proprietary development MDF polishing to the market.",
+   "cooperation": false,
+   "cooperation_quote": null,
+   "eu_projects": 1,
+   "products_offered": 2,
+   "new": [
+    "glass-silicon wafers with vertical through contacts",
+    "carrier wafer for handling smaller diameter wafers",
+    "copper interposer glass wafer",
+    "brand for off-the-shelf glass and quartz wafers",
+    "glass-based circuit boards"
+   ],
+   "relatedness": [
+    "related",
+    "related",
+    "related",
+    "close",
+    "distant"
+   ]
+  },
+  "holdout": {
+   "years": [
+    2022
+   ],
+   "industry": {
+    "turnover": "grew",
+    "rd": "more",
+    "patents": "more",
+    "universities": "more"
+   },
+   "employees": null,
+   "hiring": true,
+   "hiring_quote": "Für das Ausbildungsjahr 2022 suchen wir am Standort Elsoff (WW) Auszubildende als KAUFMANN / -FRAU IM E-COMMERCE (m/w/d)",
+   "expansion": true,
+   "expansion_quote": "POH Termelő és Kereskedelmi Kft. Székhelye: 7100 Szekszárd",
+   "investment": true,
+   "investment_quote": "In den kommenden 12 bis 18 Monaten wird Plan Optik eine eigene Produktion für die gemeinsamen Anwendungen aufbauen.",
+   "growth": true,
+   "growth_quote": "Umsatzprognose erhöht, erwartete EBIT-Marge konkretisiert Elsoff, 29.11.2022 – Die Plan Optik AG (ISIN DE000A0HGQS8) hat ihre erfolgreiche Geschäftsentwicklung auch im bisherigen Verlauf des zweiten Halbjahres fortgesetzt.",
+   "difficulty": false,
+   "difficulty_quote": null,
+   "rd": true,
+   "rd_quote": "Plan Optik AG has now expanded its capabilities by developing sophisticated processes for thin wafer production",
+   "cooperation": false,
+   "cooperation_quote": null,
+   "eu_projects": 1,
+   "products_offered": 4,
+   "new": [
+    "copper-coated glass packaging substrates",
+    "laser-based glass structuring for through-glass vias"
+   ],
+   "relatedness": [
+    "close",
+    "related"
+   ]
+  }
+ }
+}

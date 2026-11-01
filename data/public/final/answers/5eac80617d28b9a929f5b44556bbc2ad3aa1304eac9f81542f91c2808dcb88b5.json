@@ -1,0 +1,1 @@
+{"model": "deepseek-v4-pro", "effort": "medium", "answer": {"decisions": [{"product": "B", "probability_dropped": 10, "decision": "keep", "reason": "The product is still presented on its own page, indicating the firm continues to see option value while uncertainty remains and the cost of keeping it is likely low relative to the firm's resources."}]}}

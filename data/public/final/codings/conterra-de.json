@@ -1,0 +1,1165 @@
+{
+ "slug": "conterra-de",
+ "profiles": {
+  "exploration": {
+   "strategy": {
+    "offer": "Integrated geospatial IT solutions, including consulting, software engineering, data transformation, web/mobile applications, security, licensing, monitoring, managed services, support, and training.",
+    "customers": "Private companies and public-sector organizations needing to embed geographic information into business processes, infrastructure, customer services, analytics, and operational decision-making.",
+    "why_we_win": "We combine enterprise integration, sector understanding, open standards, and user-focused design to turn geodata into more efficient, transparent, cost-effective processes.",
+    "resources": "Experienced GIS and IT specialists, software engineering methods, reusable architectures, research and standards participation, and close cooperation with major platform and technology providers.",
+    "direction": "Further develop integrated enterprise geospatial solutions by anticipating and shaping emerging standards, technologies, and market developments, then applying them in customer environments."
+   },
+   "context": {
+    "size": "medium",
+    "founded": 1993,
+    "industry": "Computer programming, consultancy and related activities"
+   },
+   "seed_year": 2017
+  },
+  "holdout": {
+   "strategy": {
+    "offer": "Tailored geospatial IT solutions, software components, data integration services, consulting, engineering, managed operations, support, and practical training.",
+    "customers": "Private-sector organizations and public administrations needing geospatial information embedded in everyday business and administrative processes.",
+    "why_we_win": "They combine standard platforms with open, extensible components and user-centered design to solve complex requirements efficiently, transparently, and cost-effectively.",
+    "resources": "An interdisciplinary team of over 190 specialists, decades of experience, industry know-how, innovation, certified trainers, and active research and standards participation.",
+    "direction": "Expand sustainable, user-centered geospatial IT integrated with broader enterprise systems while anticipating and shaping emerging technical and market developments."
+   },
+   "context": {
+    "size": "medium",
+    "founded": null,
+    "industry": "Computer programming, consultancy and related activities"
+   },
+   "seed_year": 2022
+  }
+ },
+ "years": [
+  {
+   "year": 2017,
+   "codeable": true,
+   "products": [
+    {
+     "name": "map.apps",
+     "generic": "a toolkit and runtime for web GIS apps",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": true
+    },
+    {
+     "name": "map.apps Extensions",
+     "generic": "functional extensions for a web GIS toolkit",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "map.apps SDI",
+     "generic": "spatial data infrastructure extension for GIS toolkit",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "security.manager",
+     "generic": "access control software for geo services",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "security.manager – ArcGIS Edition",
+     "generic": "access control software for GIS platform services",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "license.manager",
+     "generic": "license and fee management for geo services",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "service.monitor",
+     "generic": "monitoring and analytics software for GIS services",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "smart.finder",
+     "generic": "search software for geodata",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "smart.finder SDI",
+     "generic": "metadata search software for spatial data infrastructures",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "gis.pad",
+     "generic": "mobile field data capture GIS software",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "gg.mobil",
+     "generic": "mobile software for cadastral geodata maintenance",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "INSPIRE Solution Pack for FME",
+     "generic": "schema mapping add-on for data transformation software",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Insurance Solution",
+     "generic": "modular GIS applications for insurers",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Support Plus",
+     "generic": "extended software support service package",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    }
+   ],
+   "evidence": [
+    {
+     "product": "map.apps",
+     "type": "launch",
+     "strength": 3,
+     "quote": "24.05.2017 map.apps 4.1 – Volle Integration in die ArcGIS PlattformMit der neuen Version map.apps 4.1 bietet con terra dem Nutzer eine Reihe neuer Funktionen und Möglichkeiten."
+    },
+    {
+     "product": "security.manager – ArcGIS Edition",
+     "type": "launch",
+     "strength": 3,
+     "quote": "05.07.2017 Zugriffskontrolle auch für ArcGIS FeatureServicescon terra security.manager – ArcGIS Edition V. 1.1"
+    },
+    {
+     "product": "service.monitor",
+     "type": "launch",
+     "strength": 3,
+     "quote": "28.02.2017 Mehr Flexibilität mit dem service.monitor 4.2Die neue Version 4.2 des service.monitor bietet den Anwendern jetzt noch mehr Flexibilität"
+    },
+    {
+     "product": "map.apps SDI",
+     "type": "launch",
+     "strength": 3,
+     "quote": "07.11.2017 map.apps SDI integriert BKG SuchdienstNeue map.apps SDI Extension unterstützt bundesweite Suchanfragen."
+    },
+    {
+     "product": "security.manager – ArcGIS Edition",
+     "type": "result",
+     "strength": 3,
+     "quote": "09.11.2017 Erfolgreiche Esri European Petroleum GIS Conferencecon terra beteiligt sich als Sponsor / Wintershall präsentiert den Einsatz von security.manager ArcGIS Edition"
+    },
+    {
+     "product": "map.apps",
+     "type": "result",
+     "strength": 3,
+     "quote": "31.08.2017 Neue Baustellen-App für die Stadt OberhausenDie Stadt Oberhausen hat eine Baustellen-App als neuen Service für Bürger auf Basis von map.apps veröffentlicht."
+    },
+    {
+     "product": "map.apps",
+     "type": "result",
+     "strength": 3,
+     "quote": "08.05.2017 Bohrpunktkarte Deutschland - Eine für Alle!Bund-Länder-Kooperation für bundeseinheitliche Bohrpunktdarstellung auf map.apps-Basis"
+    },
+    {
+     "product": "security.manager – ArcGIS Edition",
+     "type": "result",
+     "strength": 2,
+     "quote": "Wintershall setzt den security.manager – ArcGIS Edition ein, um einen sicheren und kontrollierten Zugriff zu ermöglichen."
+    }
+   ],
+   "success": []
+  },
+  {
+   "year": 2018,
+   "codeable": true,
+   "products": [
+    {
+     "name": "map.apps",
+     "generic": "a web mapping application development framework",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": true
+    },
+    {
+     "name": "map.apps SDI",
+     "generic": "a spatial data infrastructure web mapping extension",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "security.manager",
+     "generic": "an access control software for geo web services",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "service.monitor",
+     "generic": "a monitoring and analytics software for web services",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "smart.finder SDI",
+     "generic": "a geo-metadata management and search system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "gis.pad",
+     "generic": "a mobile spatial data capture software",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Insurance Solution",
+     "generic": "a GIS solution suite for insurers",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Support Plus",
+     "generic": "an extended software support service package",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Spatial UX",
+     "generic": "a user experience design service for map applications",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "INSPIRE Solution Pack for FME",
+     "generic": "a data transformation toolkit for INSPIRE compliance",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "VueTOC",
+     "generic": "a mobile map layer control component",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Charting Bundle",
+     "generic": "a chart visualization plugin for web maps",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Hierarchical Search Bundle",
+     "generic": "a hierarchical search plugin for web maps",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    }
+   ],
+   "evidence": [
+    {
+     "product": "map.apps",
+     "type": "launch",
+     "strength": 3,
+     "quote": "map.apps 4.5 – Mehrwerte in 2D und 3D\n30.10.2018Mit einem ganzen Bündel an Neuerungen präsentiert sich das neue map.apps von con terra."
+    },
+    {
+     "product": "map.apps",
+     "type": "result",
+     "strength": 3,
+     "quote": "31.08.2017\nNeue Baustellen-App für die Stadt OberhausenDie Stadt Oberhausen hat eine Baustellen-App als neuen Service für Bürger auf Basis von map.apps veröffentlicht."
+    },
+    {
+     "product": "map.apps",
+     "type": "launch",
+     "strength": 2,
+     "quote": "With map.apps 4.4 a new version of map.apps is available for download, which brings extensive innovations for line 4 of map.apps."
+    },
+    {
+     "product": "map.apps",
+     "type": "launch",
+     "strength": 3,
+     "quote": "24.05.2017\nmap.apps 4.1 – Volle Integration in die ArcGIS PlattformMit der neuen Version map.apps 4.1 bietet con terra dem Nutzer eine Reihe neuer Funktio"
+    },
+    {
+     "product": "map.apps SDI",
+     "type": "launch",
+     "strength": 3,
+     "quote": "07.11.2017\nmap.apps SDI integriert BKG SuchdienstNeue map.apps SDI Extension unterstützt bundesweite Suchanfragen."
+    },
+    {
+     "product": "security.manager",
+     "type": "result",
+     "strength": 3,
+     "quote": "09.11.2017\nErfolgreiche Esri European Petroleum GIS Conferencecon terra beteiligt sich als Sponsor / Wintershall präsentiert den Einsatz von security.manager ArcGIS Edition"
+    },
+    {
+     "product": "security.manager",
+     "type": "launch",
+     "strength": 2,
+     "quote": "With the new releases 1.2.0 (ArcGIS Edition) and 4.12.0 (Enterprise Edition) the security.manager now supports ArcGIS 10.6.0."
+    },
+    {
+     "product": "security.manager",
+     "type": "launch",
+     "strength": 3,
+     "quote": "05.07.2017\nZugriffskontrolle auch für ArcGIS FeatureServicescon terra security.manager – ArcGIS Edition V. 1.1"
+    },
+    {
+     "product": "service.monitor",
+     "type": "launch",
+     "strength": 2,
+     "quote": "service.monitor 4.3 is now available for download and offers many innovations, especially in the area of analytics."
+    },
+    {
+     "product": "VueTOC",
+     "type": "launch",
+     "strength": 3,
+     "quote": "08.01.2018\nVueTOC – Optimierte Kartensteuerung für Handy und TabletNeuer Lösungsansatz erzielt Verbesserung der Bedienbarkeit von Karteninhalten auf mobilen Endgeräten"
+    },
+    {
+     "product": "Charting Bundle",
+     "type": "launch",
+     "strength": 2,
+     "quote": "Wir freuen uns, Ihnen heute das neue Charting Bundle für Linie 4 von map.apps vorstellen zu können."
+    },
+    {
+     "product": "Charting Bundle",
+     "type": "launch",
+     "strength": 2,
+     "quote": "In den letzten vier Wochen haben wir vier Releases von map.apps Charts veröffentlicht."
+    },
+    {
+     "product": "Hierarchical Search Bundle",
+     "type": "launch",
+     "strength": 2,
+     "quote": "Mit dem sog. Hierarchical Search Bundle können Sie ganz einfach eine hierarchische Suche auf Ihren Daten realisieren."
+    }
+   ],
+   "success": []
+  },
+  {
+   "year": 2019,
+   "codeable": true,
+   "products": [
+    {
+     "name": "map.apps",
+     "generic": "a web GIS app building software platform",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": true
+    },
+    {
+     "name": "map.apps ETL",
+     "generic": "a web map extension for geodata processing workflows",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "service.monitor",
+     "generic": "an analytics and monitoring tool for GIS services",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "security.manager",
+     "generic": "an access control software for GIS services",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "smart.finder",
+     "generic": "a search component for geodata applications",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "map.apps Smart Search",
+     "generic": "a search extension for web map apps",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "con terra data services",
+     "generic": "browser-based geodata transformation services",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Deutsche Version für FME Desktop",
+     "generic": "a German localization of data integration software",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "con terra Service-Paket",
+     "generic": "a support and training service bundle",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "gis.pad & gg.mobil",
+     "generic": "mobile field data capture software for spatial information",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    }
+   ],
+   "evidence": [
+    {
+     "product": "map.apps",
+     "type": "launch",
+     "strength": 2,
+     "quote": "With map.apps 4.7 a new version of map.apps is available for download, which brings important new functions for line 4."
+    },
+    {
+     "product": "map.apps",
+     "type": "launch",
+     "strength": 2,
+     "quote": "With map.apps 4.6, a new version of map.apps is available for download, which brings new features for line 4 and updates to the basic technology of map.apps."
+    },
+    {
+     "product": "map.apps",
+     "type": "launch",
+     "strength": 2,
+     "quote": "With map.apps 4.5, a new version of map.apps is available for download, which brings extensive innovations for line 4 of map.apps."
+    },
+    {
+     "product": "service.monitor",
+     "type": "launch",
+     "strength": 2,
+     "quote": "service.monitor 4.3 steht jetzt zum Download bereit und bietet insbesondere im Bereich Analytics viele Neuerungen."
+    },
+    {
+     "product": "service.monitor",
+     "type": "launch",
+     "strength": 2,
+     "quote": "service.monitor 4.3.3 available"
+    },
+    {
+     "product": "smart.finder",
+     "type": "launch",
+     "strength": 2,
+     "quote": "The search component smart.finder and the map.apps Smart Search Extension are now offered in version 1.6.0."
+    },
+    {
+     "product": "map.apps Smart Search",
+     "type": "launch",
+     "strength": 2,
+     "quote": "The search component smart.finder and the map.apps Smart Search Extension are now offered in version 1.6.0."
+    },
+    {
+     "product": "security.manager",
+     "type": "launch",
+     "strength": 2,
+     "quote": "The recently-released version 1.3 of ArcGIS Edition of the security.manager has been rolled out, providing a load of new features!"
+    },
+    {
+     "product": "security.manager",
+     "type": "launch",
+     "strength": 2,
+     "quote": "With the new releases 1.2.0 (ArcGIS Edition) and 4.12.0 (Enterprise Edition) the security.manager now"
+    },
+    {
+     "product": "con terra Service-Paket",
+     "type": "launch",
+     "strength": 1,
+     "quote": "Mit unserem neuen, flexiblen con terra Service-Paket bieten wir Ihnen eine attraktive Ergänzung zum Standardsupport für Produkte aus dem Portfolio der con terra."
+    }
+   ],
+   "success": []
+  },
+  {
+   "year": 2022,
+   "codeable": true,
+   "products": [
+    {
+     "name": "map.apps",
+     "generic": "web mapping application platform software",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": true
+    },
+    {
+     "name": "map.apps Extensions",
+     "generic": "functional extensions for web mapping software",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Advanced Editing",
+     "generic": "browser-based geodata capture and editing extension",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "map.apps ETL",
+     "generic": "data integration extension for web mapping software",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "map.apps SDI",
+     "generic": "spatial data infrastructure and open data extension",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "map.apps Smart Search",
+     "generic": "search navigation extension for mapping apps",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "map.apps User Management",
+     "generic": "user and permission management extension",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "service.monitor",
+     "generic": "monitoring and analytics software for GIS services",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "smart.finder",
+     "generic": "geospatial information search software",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "security.manager NEXT",
+     "generic": "access authorization software for geo services",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "con terra data services",
+     "generic": "cloud-hosted geodata transformation services",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Spatial UX",
+     "generic": "user experience design service for geo applications",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "gis.pad & gg.mobil",
+     "generic": "mobile spatial data capture software",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    }
+   ],
+   "evidence": [
+    {
+     "product": "smart.finder",
+     "type": "launch",
+     "strength": 3,
+     "quote": "Geoinformationen einfach finden 18.01.2022 Neue smart.finder-Version punktet mit Gebietssuche."
+    },
+    {
+     "product": "security.manager NEXT",
+     "type": "launch",
+     "strength": 3,
+     "quote": "security.manager NEXT 1.2 02.12.2021 Erweiterte Autorisierungsmöglichkeiten"
+    },
+    {
+     "product": "Spatial UX",
+     "type": "result",
+     "strength": 2,
+     "quote": "EUMETSAT setzt in diesem Kontext auf das umfassende Leistungsangebot Spatial UX der con terra GmbH."
+    }
+   ],
+   "success": []
+  },
+  {
+   "year": 2023,
+   "codeable": true,
+   "products": [
+    {
+     "name": "con terra Technologies",
+     "generic": "software platform for building GIS solutions",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": true
+    },
+    {
+     "name": "map.apps",
+     "generic": "web GIS app builder software",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": true
+    },
+    {
+     "name": "map.apps Extensions",
+     "generic": "functional extensions for web GIS app software",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Advanced Editing",
+     "generic": "browser-based geodata editing extension",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "map.apps ETL",
+     "generic": "data integration extension for web GIS apps",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "map.apps SDI",
+     "generic": "spatial data infrastructure extension for web apps",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "map.apps Smart Search",
+     "generic": "search extension for web GIS apps",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "service.monitor",
+     "generic": "monitoring and analytics software for geo services",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "smart.finder SDI",
+     "generic": "geo-metadata management and search system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "security.manager – ArcGIS Edition",
+     "generic": "access control software for GIS web services",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "con terra data services",
+     "generic": "cloud service for geodata transformation",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Open Pioneer",
+     "generic": "open framework for GIS application development",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "con terra Technologies Identity Services",
+     "generic": "identity and access service for GIS applications",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "FME Format Plug-Ins",
+     "generic": "data format reader and writer plug-ins",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Spatial UX",
+     "generic": "usability and design service for map applications",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    }
+   ],
+   "evidence": [
+    {
+     "product": "con terra Technologies Identity Services",
+     "type": "launch",
+     "strength": 3,
+     "quote": "Der neue Identity Service von con terra ermöglicht die nahtlose Integration von GeoIT-Anwandungen."
+    }
+   ],
+   "success": []
+  },
+  {
+   "year": 2024,
+   "codeable": true,
+   "products": [
+    {
+     "name": "con terra Technologies",
+     "generic": "a GIS software component platform",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": true
+    },
+    {
+     "name": "map.apps",
+     "generic": "a web GIS application builder software",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": true
+    },
+    {
+     "name": "map.apps Extensions",
+     "generic": "functional extensions for web GIS software",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Advanced Editing",
+     "generic": "a browser-based geodata editing extension",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "map.apps ETL",
+     "generic": "a data integration extension for web GIS",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "map.apps SDI",
+     "generic": "a spatial data infrastructure extension",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "map.apps Smart Search",
+     "generic": "a search extension for web GIS",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "map.apps User Management",
+     "generic": "a user management module for GIS software",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "security.manager Enterprise Edition",
+     "generic": "an access control software for GIS servers",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "security.manager NEXT",
+     "generic": "an access control software for GIS services",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "security.manager ArcGIS Edition",
+     "generic": "an access control software for GIS platforms",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "service.monitor",
+     "generic": "an analytics and monitoring software for geo services",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "smart.finder",
+     "generic": "a geodata search software",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "smart.finder SDI",
+     "generic": "a geo-metadata management and search software",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "con terra Technologies Identity Services",
+     "generic": "a single sign-on authentication service for GIS",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Open Pioneer",
+     "generic": "an open framework for GIS solutions",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Spatial Discovery",
+     "generic": "a geodata business process consulting workshop",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Spatial UX",
+     "generic": "a user experience design service for GIS",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    }
+   ],
+   "evidence": [
+    {
+     "product": "con terra Technologies Identity Services",
+     "type": "launch",
+     "strength": 2,
+     "quote": "Der neue Identity Service von con terra ermöglicht die nahtlose Integration von GeoIT-Anwendungen in bestehende Nutzermanagementsysteme"
+    },
+    {
+     "product": "map.apps",
+     "type": "launch",
+     "strength": 3,
+     "quote": "4.18.0 | May 21, 2024"
+    }
+   ],
+   "success": []
+  },
+  {
+   "year": 2025,
+   "codeable": true,
+   "products": [
+    {
+     "name": "con terra Technologies",
+     "generic": "a GIS software component platform",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": true
+    },
+    {
+     "name": "service.monitor",
+     "generic": "a monitoring and analytics tool for geo-services",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "map.apps",
+     "generic": "a web mapping application framework",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "map.apps SDI",
+     "generic": "a web mapping application for spatial data infrastructures",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "map.apps Smart Search",
+     "generic": "a search extension for web mapping applications",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Identity Service",
+     "generic": "an authentication and identity delegation service",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "smart.finder",
+     "generic": "a geospatial search application",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "security.manager Enterprise",
+     "generic": "an access control software for geo-services",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Gebäudeinformationsdienst",
+     "generic": "a building data digital twin service",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    }
+   ],
+   "evidence": [
+    {
+     "product": "map.apps SDI",
+     "type": "launch",
+     "strength": 3,
+     "quote": "5.8.0 | October 24, 2025"
+    },
+    {
+     "product": "map.apps SDI",
+     "type": "launch",
+     "strength": 3,
+     "quote": "5.7.0 | February 26 , 2025"
+    },
+    {
+     "product": "security.manager Enterprise",
+     "type": "launch",
+     "strength": 3,
+     "quote": "4.23.0 | 15. Oktober 2025"
+    },
+    {
+     "product": "map.apps Smart Search",
+     "type": "launch",
+     "strength": 3,
+     "quote": "2.6.1 | November 14, 2024"
+    }
+   ],
+   "success": []
+  },
+  {
+   "year": 2026,
+   "codeable": true,
+   "products": [
+    {
+     "name": "con terra Technologies",
+     "generic": "a software platform for building GIS solutions",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": true
+    },
+    {
+     "name": "map.apps",
+     "generic": "a web GIS application framework",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": true
+    },
+    {
+     "name": "Identity Service",
+     "generic": "a single sign-on authentication service",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "security.manager",
+     "generic": "an access control software for geo web services",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "service.monitor",
+     "generic": "a monitoring and analytics software for web services",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Spatial UX",
+     "generic": "a user experience design service for GIS applications",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "GeoAI Discovery Workshop",
+     "generic": "a workshop exploring geospatial AI use cases",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    }
+   ],
+   "evidence": [
+    {
+     "product": "map.apps",
+     "type": "launch",
+     "strength": 3,
+     "quote": "4.20.0 | 10. November 2025"
+    },
+    {
+     "product": "map.apps",
+     "type": "launch",
+     "strength": 3,
+     "quote": "4.19.0 | 20. Januar 2025"
+    },
+    {
+     "product": "Spatial UX",
+     "type": "result",
+     "strength": 2,
+     "quote": "EUMETSAT setzt in diesem Kontext auf das umfassende Leistungsangebot Spatial UX der con terra GmbH."
+    }
+   ],
+   "success": []
+  }
+ ]
+}

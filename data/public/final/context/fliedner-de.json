@@ -1,0 +1,73 @@
+{
+ "slug": "fliedner-de",
+ "windows": {
+  "exploration": {
+   "years": [
+    2017
+   ],
+   "industry": {},
+   "employees": null,
+   "hiring": false,
+   "hiring_quote": null,
+   "expansion": false,
+   "expansion_quote": null,
+   "investment": false,
+   "investment_quote": null,
+   "growth": false,
+   "growth_quote": null,
+   "difficulty": false,
+   "difficulty_quote": null,
+   "rd": true,
+   "rd_quote": "Die Abteilung für Wissenschaft, Forschung und Entwicklung verbindet Grundlagenforschung, klinische Forschung und praxisbezogene Anwendungsforschung mit den Anforderungen an eine patienten- und bewohnerorientierte Versorgung.",
+   "cooperation": false,
+   "cooperation_quote": null,
+   "eu_projects": 0,
+   "products_offered": 24,
+   "new": [
+    "Sign language learning kit"
+   ],
+   "relatedness": [
+    "distant"
+   ]
+  },
+  "holdout": {
+   "years": [
+    2022
+   ],
+   "industry": {},
+   "employees": 2600,
+   "hiring": true,
+   "hiring_quote": "Fliedner Pflege und Wohnen am Park\nPflegeexperte für die Qualitätssicherung (m/w/div)\nDuisburg",
+   "expansion": true,
+   "expansion_quote": "Mülheim an der Ruhr, 27.10.2021\nKreativität und Innovation schaffen neue Perspektiven\nDie Theodor Fliedner Stiftung mietet Bildungsstandort in der PARKSTADT Mülheim",
+   "investment": false,
+   "investment_quote": null,
+   "growth": false,
+   "growth_quote": null,
+   "difficulty": false,
+   "difficulty_quote": null,
+   "rd": true,
+   "rd_quote": "Die Abteilung für Wissenschaft, Forschung und Entwicklung verbindet Grundlagenforschung, klinische Forschung und praxisbezogene Anwendungsforschung",
+   "cooperation": false,
+   "cooperation_quote": null,
+   "eu_projects": 0,
+   "products_offered": 5,
+   "new": [
+    "Evening psychiatric day-patient program",
+    "Carpentry workshop for custom furniture",
+    "Outpatient sociotherapy service",
+    "Counseling service for senior living",
+    "Retail shop from sheltered workshop",
+    "Meal delivery service for seniors"
+   ],
+   "relatedness": [
+    "related",
+    "related",
+    "close",
+    "close",
+    "related",
+    "close"
+   ]
+  }
+ }
+}

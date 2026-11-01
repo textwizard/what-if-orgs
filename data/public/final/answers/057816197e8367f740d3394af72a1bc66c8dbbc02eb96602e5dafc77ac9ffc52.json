@@ -1,0 +1,1 @@
+{"model": "deepseek-v4-pro", "effort": "medium", "answer": {"decisions": [{"product": "A", "probability_dropped": 10, "decision": "keep", "reason": "The product was launched only in 2023 and has its own website page, suggesting it is still in an early growth phase with no indication of failure, so it is unlikely to be dropped within the coming year."}]}}

@@ -1,0 +1,1548 @@
+{
+ "slug": "wiwa-de",
+ "profiles": {
+  "exploration": {
+   "strategy": {
+    "offer": "Spray application, plural-component, pumping, fluid-handling, extrusion and injection equipment, plus guns, accessories, manuals, spare parts, repairs and application guidance.",
+    "customers": "Industrial and construction users needing painting, coating, sealing, bonding and material-processing solutions for steel, concrete, vehicles, machinery, infrastructure and marine assets.",
+    "why_we_win": "It argues precision, reliability, high manufacturing standards and tailored solutions for diverse specifications create dependable performance across demanding applications.",
+    "resources": "Qualified engineering and production staff, in-house manufacturing, long experience, service documentation, and company branches and distributors that support customers globally.",
+    "direction": "Further develop innovative application technology and customized solutions, working with global sales and service experts to serve varied industrial requirements."
+   },
+   "context": {
+    "size": "medium",
+    "founded": 1950,
+    "industry": "Manufacture of machinery and equipment n.e.c."
+   },
+   "seed_year": 2017
+  },
+  "holdout": {
+   "strategy": {
+    "offer": "Develops and manufactures application equipment and systems for spraying, coating, material conveying, extrusion, injection, bonding, sealing, and surface preparation, including customized system configurations.",
+    "customers": "Serves industrial users worldwide needing reliable processing of paints, coatings, adhesives, sealants, cleaning media, and construction repair materials across manufacturing and infrastructure sectors.",
+    "why_we_win": "Expects success through precision, reliability, durable performance under harsh conditions, high quality standards, and tailoring systems to specific customer processes and materials.",
+    "resources": "Built on decades of engineering and production know-how, qualified employees, extensive product and service capabilities, strong customization skills, and near-complete in-house manufacturing.",
+    "direction": "Aims to expand beyond its core region, deliver future-oriented solutions, and enable customers’ digitalized, interoperable production environments with lower implementation effort."
+   },
+   "context": {
+    "size": "medium",
+    "founded": 1950,
+    "industry": "Manufacture of machinery and equipment n.e.c."
+   },
+   "seed_year": 2022
+  }
+ },
+ "years": [
+  {
+   "year": 2017,
+   "codeable": true,
+   "products": [
+    {
+     "name": "WIWA PU GUN 4040",
+     "generic": "a pneumatic two-component spray gun for polyurethane foam and polyurea",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    }
+   ],
+   "evidence": [
+    {
+     "product": "WIWA PU GUN 4040",
+     "type": "launch",
+     "strength": 2,
+     "quote": "Mit der Neuentwicklung der WIWA PU GUN 4040 erweitern wir unser großes Angebot an innovativer PU-Applikationstechnik mit einer eigenen Spritzpistole."
+    }
+   ],
+   "success": []
+  },
+  {
+   "year": 2018,
+   "codeable": true,
+   "products": [
+    {
+     "name": "PHOENIX GX",
+     "generic": "a multipurpose airless paint spraying unit",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": true
+    },
+    {
+     "name": "WIWA PROFIT",
+     "generic": "an airless paint spraying unit",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "WIWA PHOENIX",
+     "generic": "an airless paint spraying unit",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "WIWA EFFECTIVE",
+     "generic": "an airless paint spraying unit",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "WIWA PROFESSIONAL",
+     "generic": "an airless paint spraying unit",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "WIWA HERKULES GX SERIES",
+     "generic": "a heavy-duty airless spraying unit series",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "HERKULES PFP",
+     "generic": "an airless sprayer for fire protection coatings",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "WIWA RS-1",
+     "generic": "a paint spraying unit",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "WIWA POWERPACK XL",
+     "generic": "a hydraulic high-output spraying unit",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "WIWA FLEXIMIX 2",
+     "generic": "an electronic plural component mixing and dosing unit",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "WIWA FLEXIMIX 1",
+     "generic": "an electronic plural component mixing and dosing unit",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "WIWA DUOMIX 333 PFP",
+     "generic": "a plural component sprayer for fire protection coatings",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "WIWA DUOMIX 300/333",
+     "generic": "a plural component airless spraying unit",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "WIWA DUOMIX 270",
+     "generic": "a plural component airless spraying unit",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "WIWA DUOMIX 230",
+     "generic": "a plural component airless spraying unit",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "WIWA POWERPACK 2K XXL Hydraulisch",
+     "generic": "a hydraulic plural component spraying unit",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "WIWA DUOMIX PU 540",
+     "generic": "a polyurea and PU foam spraying unit",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "WIWA DUOMIX PU HYDRAULIK",
+     "generic": "a hydraulic polyurea spraying unit",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Duomix PU 460",
+     "generic": "a polyurea spraying unit",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "WIWA INJECT HD 1",
+     "generic": "a single component injection pump",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "WIWA INJECT HD 2",
+     "generic": "a single component injection pump",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "WIWA 2K-INJECT 14025",
+     "generic": "a plural component injection unit",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "WIWA 2K-INJECT 25015",
+     "generic": "a plural component injection unit",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "WIWA VULKAN",
+     "generic": "an extrusion pump for viscous materials",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "WIWA 4-VENTIL-PUMPE",
+     "generic": "a four-ball transfer pump",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "WIWA 250 D",
+     "generic": "an airless manual spray gun",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "WIWA 500 D",
+     "generic": "an airless manual spray gun",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "WIWA AIR COMBI",
+     "generic": "an air-assisted airless spray gun",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "WIWA 2K PU GUN 4040",
+     "generic": "a plural component polyurea spray gun",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "WIWA DATALOGGER",
+     "generic": "a data logging accessory for spray equipment",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    }
+   ],
+   "evidence": [
+    {
+     "product": "PHOENIX GX",
+     "type": "launch",
+     "strength": 2,
+     "quote": "PHOENIX GX – die neuen leistungsstarken Vielzweckgeräte für die Holz- und Metallackierung sowie sonstige Beschichtungen in Industrie und Handwerk."
+    },
+    {
+     "product": "WIWA FLEXIMIX 1",
+     "type": "result",
+     "strength": 2,
+     "quote": "Airblast Eurospray Ltd. designed a system consisting of two WIWA Fleximix I 3 K (three component) systems which supply two spray booths."
+    },
+    {
+     "product": "WIWA FLEXIMIX 2",
+     "type": "result",
+     "strength": 2,
+     "quote": "For priming KEMPF employs an electric WIWA FLEXIMIX II for two colors which draws the primers out of 200 liter barrels."
+    },
+    {
+     "product": "WIWA FLEXIMIX 1",
+     "type": "result",
+     "strength": 2,
+     "quote": "For applying paint, which is now used in more than 400 different color shades here, an electric WIWA 3K FLEXIMIX in the low-pressure range is utilized."
+    }
+   ],
+   "success": []
+  },
+  {
+   "year": 2019,
+   "codeable": true,
+   "products": [
+    {
+     "name": "PHOENIX GX",
+     "generic": "a multi-purpose airless paint spraying unit",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": true
+    },
+    {
+     "name": "PROFIT",
+     "generic": "an airless paint spraying unit",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "PHOENIX",
+     "generic": "an airless paint spraying unit",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "EFFECTIVE",
+     "generic": "an airless paint spraying unit",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "PROFESSIONAL",
+     "generic": "an airless paint spraying unit",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Professional GX",
+     "generic": "an airless paint spraying unit",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "HERKULES GX SERIES",
+     "generic": "heavy-duty airless spraying units for thick coatings",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Herkules PFP",
+     "generic": "a spraying unit for passive fire protection coatings",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "RS-1",
+     "generic": "a coating application unit",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "POWERPACK XL",
+     "generic": "a high-output single-component spraying unit",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "FLEXIMIX 2",
+     "generic": "a two-component mixing and spraying unit",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "FLEXIMIX 1",
+     "generic": "a two-component mixing and spraying unit",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "DUOMIX 333 PFP",
+     "generic": "a two-component unit for fire protection coatings",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "DUOMIX 300/333",
+     "generic": "a two-component airless coating unit",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "DUOMIX 270",
+     "generic": "a two-component airless coating unit",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "DUOMIX 230",
+     "generic": "a two-component airless coating unit",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "POWERPACK 2K XXL Hydraulisch",
+     "generic": "a hydraulic two-component coating unit",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "INJECT HD 1",
+     "generic": "a single-component injection pump for crack repair",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "INJECT HD 2",
+     "generic": "an injection pump for crack repair",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "2K-INJECT 14025",
+     "generic": "a two-component resin injection unit",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "2K-INJECT 25015",
+     "generic": "a two-component resin injection unit",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "DUOMIX INJECT 230032 & 230040",
+     "generic": "two-component injection units",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "DUOMIX PU 540",
+     "generic": "a polyurea spraying unit",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "DUOMIX PU HYDRAULIK",
+     "generic": "a hydraulic polyurea spraying unit",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "2K PU GUN 4040",
+     "generic": "a two-component polyurethane spray gun",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "AIR COMBI",
+     "generic": "an air-assisted airless spray gun",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "500 D",
+     "generic": "a manual airless spray gun",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "400 Airless Automatikpistole",
+     "generic": "an automatic airless spray gun",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "VULKAN",
+     "generic": "an extrusion pump for viscous materials",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "DATALOGGER",
+     "generic": "a data logger for coating equipment",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    }
+   ],
+   "evidence": [
+    {
+     "product": "PHOENIX GX",
+     "type": "launch",
+     "strength": 2,
+     "quote": "PHOENIX GX – die neuen leistungsstarken Vielzweckgeräte für die Holz- und Metallackierung sowie sonstige Beschichtungen in Industrie und Handwerk."
+    },
+    {
+     "product": "DUOMIX 333 PFP",
+     "type": "result",
+     "strength": 2,
+     "quote": "Manufacturer: Carboline\nMaterial: Thermo-Lag 3000\nRecommended WIWA equipment: Duomix 333 PFP"
+    }
+   ],
+   "success": []
+  },
+  {
+   "year": 2022,
+   "codeable": true,
+   "products": [
+    {
+     "name": "WIWA PROFIT",
+     "generic": "a pneumatic airless paint spraying pump",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "WIWA PHOENIX GX",
+     "generic": "a pneumatic airless paint spraying pump",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "WIWA PROFESSIONAL CLASSIC",
+     "generic": "a high-capacity airless coating pump",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "WIWA PROFESSIONAL GX",
+     "generic": "a high-capacity airless coating pump",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "WIWA HERKULES GX",
+     "generic": "a heavy-duty airless pump for viscous coatings",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "WIWA HERKULES HX",
+     "generic": "a hydraulic heavy-duty airless coating pump",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "WIWA EFFECTIVE",
+     "generic": "a compact airless paint spraying unit",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "WIWA DUOMIX 230 MINI",
+     "generic": "a two-component airless spraying system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "WIWA DUOMIX 270 GX",
+     "generic": "a two-component airless spraying system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "WIWA DUOMIX 333 GX",
+     "generic": "a two-component airless spraying system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "WIWA DUOMIX 333 GX PFP",
+     "generic": "a two-component sprayer for passive fire protection",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "WIWA FLEXIMIX",
+     "generic": "an electronic multi-component mixing and dosing system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "WIWA DUOMIX SPF",
+     "generic": "a spray polyurethane foam proportioning system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "WIWA DUOMIX PU 540",
+     "generic": "a polyurethane two-component spraying system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "WIWA DUOMIX PU HYDRAULIK",
+     "generic": "a hydraulic polyurethane two-component spraying system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "WIWA INJECT 2K",
+     "generic": "a two-component injection pump for construction",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "WIWA INJECT GUARD",
+     "generic": "an injection pump for building protection",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "WIWA INJECT HD",
+     "generic": "a single-component high-pressure injection pump",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "WIWA VULKAN GX",
+     "generic": "a priming piston pump for extrusion materials",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "WIWA HIGH PRESSURE CLEANER",
+     "generic": "a pneumatic or hydraulic high-pressure cleaner",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "OPC UA Multiconnector Edge Gateway",
+     "generic": "an industrial protocol conversion edge gateway",
+     "seasonal": false,
+     "stage": "pilot",
+     "scale": "single",
+     "featured": false
+    }
+   ],
+   "evidence": [
+    {
+     "product": "OPC UA Multiconnector Edge Gateway",
+     "type": "investment",
+     "strength": 3,
+     "quote": "Dieses Förderprojekt wird durch das Land Hessen unterstützt und findet vom 01.08.2021 bis zum 31.08.2023 in Zusammenarbeit mit der konzeptpark GmbH in Lahnau statt."
+    }
+   ],
+   "success": []
+  },
+  {
+   "year": 2023,
+   "codeable": true,
+   "products": [
+    {
+     "name": "2K GLASSFLAKE-ANLAGE GX",
+     "generic": "two-component glass flake spraying system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "PROFIT",
+     "generic": "airless paint spraying pump",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "PHOENIX GX",
+     "generic": "airless paint spraying pump",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "PROFESSIONAL CLASSIC",
+     "generic": "airless high-pressure spraying pump",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "PROFESSIONAL GX",
+     "generic": "airless high-pressure spraying pump",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "HERKULES GX",
+     "generic": "heavy-duty airless spraying pump",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "HERKULES GX PFP",
+     "generic": "airless pump for passive fire protection coatings",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "HERKULES HX",
+     "generic": "hydraulic airless spraying pump",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "EFFECTIVE",
+     "generic": "compact airless paint sprayer",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "DUOMIX 230 MINI",
+     "generic": "compact two-component spraying system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "DUOMIX 270 GX",
+     "generic": "two-component airless spraying system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "DUOMIX 333 GX",
+     "generic": "two-component airless spraying system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "DUOMIX 333 GX PFP",
+     "generic": "two-component system for fire protection coatings",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "FLEXIMIX",
+     "generic": "electronic two-component mixing and dosing system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "DUOMIX SPF",
+     "generic": "spray polyurethane foam proportioning system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "DUOMIX PU 540",
+     "generic": "polyurethane two-component proportioning machine",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "DUOMIX PU HX",
+     "generic": "hydraulic polyurethane proportioning machine",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "INJECT 2K 14025 GX",
+     "generic": "two-component injection pump for building protection",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "INJECT 2K 333 GX",
+     "generic": "large two-component injection system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "INJECT HD",
+     "generic": "single-component high-pressure injection pump",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "INJECT GUARD",
+     "generic": "injection monitoring device",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "VULKAN GX",
+     "generic": "scoop piston pump for high-viscosity materials",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "DOSYS M",
+     "generic": "two-component metering and dispensing unit",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "DOSYS XL",
+     "generic": "large two-component metering and dispensing unit",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "PU GUN 4040",
+     "generic": "polyurethane spray gun, manual or automatic",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "Gun Flush Box",
+     "generic": "spray gun cleaning box",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "HIGH PRESSURE CLEANER",
+     "generic": "pneumatic or hydraulic high-pressure cleaner",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "PFP FLOW CONTROL",
+     "generic": "flow monitoring for fire protection coating",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "OPC UA Multiconnector Edge Gateway",
+     "generic": "industrial communication protocol gateway",
+     "seasonal": false,
+     "stage": "pilot",
+     "scale": "single",
+     "featured": false
+    }
+   ],
+   "evidence": [
+    {
+     "product": "INJECT 2K 14025 GX",
+     "type": "result",
+     "strength": 3,
+     "quote": "Dafür wurden mit unserer WIWA DUOMIX INJECT 2K 14025 über ca. 180 Mauerwerkspacker insgesamt 320 Kilogramm Material eingebracht."
+    },
+    {
+     "product": "DOSYS M",
+     "type": "result",
+     "strength": 2,
+     "quote": "Since 2018, Reitz Natursteintechnik, a German manufacturer for machine beds and components based on granite or concrete, has been working with one of our WIWA DOSYS M."
+    },
+    {
+     "product": "OPC UA Multiconnector Edge Gateway",
+     "type": "investment",
+     "strength": 3,
+     "quote": "Dieses Förderprojekt wird durch das Land Hessen unterstützt und findet vom 01.08.2021 bis zum 31.08.2023 in Zusammenarbeit mit der konzeptpark GmbH in Lahnau statt."
+    }
+   ],
+   "success": []
+  },
+  {
+   "year": 2024,
+   "codeable": true,
+   "products": [
+    {
+     "name": "PROFIT",
+     "generic": "an airless paint spraying pump",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "PHOENIX GX",
+     "generic": "an airless paint spraying pump",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "PROFESSIONAL CLASSIC",
+     "generic": "an airless paint spraying pump",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "PROFESSIONAL GX",
+     "generic": "an airless paint spraying pump",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "HERKULES GX",
+     "generic": "a heavy-duty airless coating pump",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "HERKULES GX PFP",
+     "generic": "an airless pump for fire protection coatings",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "HERKULES HX",
+     "generic": "a hydraulic airless coating pump",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "EFFECTIVE",
+     "generic": "an airless paint spraying pump",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "2K GLASSFLAKE-ANLAGE GX",
+     "generic": "a two-component glass flake spraying unit",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "DUOMIX",
+     "generic": "a plural-component spraying system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "DUOMIX SPF",
+     "generic": "a spray polyurethane foam proportioner",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "DUOMIX PU 540",
+     "generic": "a polyurethane foam dosing and spraying unit",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "DUOMIX PU HX",
+     "generic": "a hydraulic polyurethane dosing unit",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "FLEXIMIX",
+     "generic": "a variable-ratio plural-component spraying system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "INJECT 2K",
+     "generic": "a two-component injection pump",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "INJECT GUARD",
+     "generic": "an injection monitoring device",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "INJECT ND 1",
+     "generic": "a low-pressure injection pump",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "INJECT HD",
+     "generic": "a high-pressure injection pump",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "VULKAN GX",
+     "generic": "a high-pressure extrusion pump for viscous materials",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "NIEDERDRUCKPUMPEN GX",
+     "generic": "a low-pressure material transfer pump",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "DOSYS",
+     "generic": "a material dosing system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "PU GUN 4040",
+     "generic": "a polyurethane spray gun",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "HIGH PRESSURE CLEANER",
+     "generic": "a pneumatic or hydraulic high-pressure cleaner",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "PFP FLOW CONTROL",
+     "generic": "a flow control device for fire protection coating",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "Gun Flush Box",
+     "generic": "a spray gun cleaning box",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    }
+   ],
+   "evidence": [
+    {
+     "product": "INJECT HD",
+     "type": "result",
+     "strength": 3,
+     "quote": "Seit Sommer 2022 arbeitet die Lehrwerkstatt mit zwei WIWA INJECT HD 2, die zur Verarbeitung von Epoxidharzen und PU-Schäumen für solche Fälle sehr gut geeignet sind."
+    },
+    {
+     "product": "DUOMIX PU 540",
+     "type": "result",
+     "strength": 3,
+     "quote": "Mitte April 2021 wurde bei der Firma Gibrat in Frankreich, einem Hersteller von Kühlvitrinen für die Lebensmittelindustrie, eine unserer WIWA DUOMIX PU 540 in Betrieb genommen."
+    },
+    {
+     "product": "INJECT ND 1",
+     "type": "result",
+     "strength": 3,
+     "quote": "mit unserer WIWA INJECT ND 1 - die sich zu dem Zeitpunkt noch in der Testphase befand - im Dezember 2021 auf einer Baustelle im hessischen Niederdorfelden"
+    },
+    {
+     "product": "NIEDERDRUCKPUMPEN GX",
+     "type": "launch",
+     "strength": 2,
+     "quote": "The proven WIWA air motors continue to be used for the new low-pressure pumps."
+    }
+   ],
+   "success": []
+  },
+  {
+   "year": 2025,
+   "codeable": true,
+   "products": [
+    {
+     "name": "WIWA 2K GLASSFLAKE-ANLAGE GX",
+     "generic": "two-component airless system for glass flake coatings",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "WIWA PROFIT",
+     "generic": "pneumatic airless paint sprayer",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "WIWA PHOENIX GX",
+     "generic": "pneumatic airless paint sprayer",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "WIWA PROFESSIONAL CLASSIC",
+     "generic": "pneumatic airless high-pressure paint pump",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "WIWA PROFESSIONAL GX",
+     "generic": "pneumatic airless high-pressure paint pump",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "WIWA HERKULES GX",
+     "generic": "heavy-duty airless sprayer for high-viscosity coatings",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "WIWA HERKULES GX PFP",
+     "generic": "airless sprayer for passive fire protection coatings",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "WIWA HERKULES HX",
+     "generic": "hydraulic airless sprayer for heavy coatings",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "WIWA EFFECTIVE",
+     "generic": "compact airless paint sprayer",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "WIWA DUOMIX 230 MINI",
+     "generic": "compact two-component spraying system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "WIWA DUOMIX 270 GX",
+     "generic": "two-component airless spraying system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "WIWA DUOMIX 333 GX",
+     "generic": "two-component airless spraying system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "WIWA DUOMIX HX",
+     "generic": "hydraulic two-component spraying system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "WIWA DUOMIX 333 GX PFP",
+     "generic": "two-component sprayer for fire protection coatings",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "WIWA DUOMIX SPF",
+     "generic": "two-component spray foam processing system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "WIWA DUOMIX PU 540",
+     "generic": "two-component polyurethane spraying system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "WIWA DUOMIX PU HX",
+     "generic": "hydraulic two-component polyurethane spraying system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "WIWA FLEXIMIX",
+     "generic": "multi-component mixing and dosing spray system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "WIWA INJECT 2K",
+     "generic": "two-component injection pump system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "WIWA INJECT GUARD",
+     "generic": "injection system accessory",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "WIWA INJECT ND 1",
+     "generic": "low-pressure injection pump",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "WIWA INJECT HD",
+     "generic": "high-pressure injection pump",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "WIWA VULKAN GX",
+     "generic": "scoop piston pump for high-viscosity materials",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "WIWA DOSYS",
+     "generic": "material dosing system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "WIWA PU GUN 4040",
+     "generic": "polyurethane spray gun",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "WIWA PFP FLOW CONTROL",
+     "generic": "flow control for fire protection coating application",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "WIWA Gun Flush Box",
+     "generic": "spray gun cleaning box",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    }
+   ],
+   "evidence": [],
+   "success": []
+  },
+  {
+   "year": 2026,
+   "codeable": true,
+   "products": [
+    {
+     "name": "WIWA PROFESSIONAL GX",
+     "generic": "an industrial high-pressure material pump",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "WIWA PROFIT",
+     "generic": "an airless high-pressure paint pump",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "WIWA HIGH PRESSURE CLEANER",
+     "generic": "a pneumatic or hydraulic high-pressure cleaner",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "line",
+     "featured": false
+    },
+    {
+     "name": "WIWA DOSYS M",
+     "generic": "a two-component material dosing and mixing system",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    },
+    {
+     "name": "WIWA INJECT 2K 333 GX",
+     "generic": "a two-component injection pump unit",
+     "seasonal": false,
+     "stage": "market",
+     "scale": "single",
+     "featured": false
+    }
+   ],
+   "evidence": [
+    {
+     "product": "WIWA INJECT 2K 333 GX",
+     "type": "result",
+     "strength": 3,
+     "quote": "Unsere amerikanische Tochtergesellschaft WIWA LLC betreute das Projekt vor Ort mit einer WIWA INJECT 2K 333 GX"
+    }
+   ],
+   "success": []
+  }
+ ]
+}

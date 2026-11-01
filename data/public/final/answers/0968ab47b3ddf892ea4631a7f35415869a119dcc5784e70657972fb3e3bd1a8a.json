@@ -1,0 +1,1 @@
+{"model": "deepseek-v4-pro", "effort": "medium", "answer": {"decisions": [{"product": "A", "probability_dropped": 15, "decision": "keep", "reason": "Product A is actively promoted on the home page and no signals of underperformance relative to aspirations, so the firm retains it under slack and avoids premature search."}]}}

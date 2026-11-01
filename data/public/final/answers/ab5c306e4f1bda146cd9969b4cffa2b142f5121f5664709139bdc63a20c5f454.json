@@ -1,0 +1,1 @@
+{"model": "deepseek-v4-pro", "effort": "medium", "answer": {"decisions": [{"product": "A", "probability_dropped": 75, "decision": "drop", "reason": "Product A is distant from the firm's core care and education services, so despite its own R&D the firm can hardly interpret early results or improve it, making a drop likely."}]}}

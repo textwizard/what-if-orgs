@@ -1,0 +1,89 @@
+{
+ "slug": "dampsoft-de",
+ "windows": {
+  "exploration": {
+   "years": [
+    2017
+   ],
+   "industry": {
+    "turnover": "grew",
+    "rd": "more",
+    "patents": "about as",
+    "universities": "more"
+   },
+   "employees": null,
+   "hiring": false,
+   "hiring_quote": null,
+   "expansion": false,
+   "expansion_quote": null,
+   "investment": false,
+   "investment_quote": null,
+   "growth": true,
+   "growth_quote": "Dampsoft gewinnt 11.000sten Kunden auf der IDS",
+   "difficulty": false,
+   "difficulty_quote": null,
+   "rd": true,
+   "rd_quote": "BFS und Dampsoft haben gemeinsam eine intelligente Verknüpfung von Factoring und Praxissoftware entwickelt.",
+   "cooperation": false,
+   "cooperation_quote": null,
+   "eu_projects": 0,
+   "products_offered": 18,
+   "new": [
+    "digital patient anamnesis and consent app",
+    "continuing education institute for dental professionals",
+    "remote screen sharing support tool",
+    "practice performance analytics dashboard",
+    "complete dental practice bundle",
+    "job and practice listing portal"
+   ],
+   "relatedness": [
+    "close",
+    "related",
+    "related",
+    "related",
+    "close",
+    "distant"
+   ]
+  },
+  "holdout": {
+   "years": [
+    2022
+   ],
+   "industry": {
+    "turnover": "grew",
+    "rd": "more",
+    "patents": "about as",
+    "universities": "more"
+   },
+   "employees": null,
+   "hiring": false,
+   "hiring_quote": null,
+   "expansion": false,
+   "expansion_quote": null,
+   "investment": false,
+   "investment_quote": null,
+   "growth": false,
+   "growth_quote": null,
+   "difficulty": false,
+   "difficulty_quote": null,
+   "rd": true,
+   "rd_quote": "Neben unserem Firmenhauptsitz im hohen Norden betreiben wir mehrere Kundenservice- und Entwicklungsstandorte (gelb), u.a. in Berlin, Hamburg oder Nürnberg.",
+   "cooperation": false,
+   "cooperation_quote": null,
+   "eu_projects": 0,
+   "products_offered": 25,
+   "new": [
+    "large practice package for anamnesis app",
+    "customer support service for dental assistants",
+    "materials management module",
+    "secure healthcare messaging service"
+   ],
+   "relatedness": [
+    "close",
+    "related",
+    "related",
+    "related"
+   ]
+  }
+ }
+}

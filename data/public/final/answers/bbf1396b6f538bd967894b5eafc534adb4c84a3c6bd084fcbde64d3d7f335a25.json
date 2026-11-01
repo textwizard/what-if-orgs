@@ -1,0 +1,1 @@
+{"model": "deepseek-v4-pro", "effort": "medium", "answer": {"decisions": [{"product": "B", "probability_dropped": 15, "decision": "keep", "reason": "The ERP interface plugin builds closely on the firm's existing online-shop and integration knowledge, so management can interpret its early results and apply improvements, making it likely to be kept."}]}}
