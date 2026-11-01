@@ -5,6 +5,7 @@ __pycache__/
 .DS_Store
 # All closed data stay local; the public export and the artifact are published.
 data/*
+!data/README.md
 !data/public/
 data/public/*
 !data/public/final/
