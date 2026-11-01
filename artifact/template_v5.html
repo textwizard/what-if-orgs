@@ -146,7 +146,7 @@ const COL = {none: "var(--none)", btf: "var(--btf)", ac: "var(--ac)", esc: "var(
 const base = c => c.replace(/-na$/, "").split("_")[0];
 const NAME = c => c === "record" ? "Record" : D.theories[base(c)];
 const SHORT = {none: "no theory", btf: "behavioral theory", ac: "absorptive capacity", esc: "escalation", ro: "real options"};
-const YEARS = [2018, 2019, 2022, 2023, 2024, 2025, 2026], DEC = {2019: 1, 2022: 1, 2024: 1, 2025: 1};
+const YEARS = [2018, 2019, 2022, 2023, 2024, 2025, 2026], DEC = {2019: 1, 2024: 1, 2025: 1};
 const LEVEL = ["not mentioned", "mentioned", "page of its own", "home page"], OP = [0.12, 0.38, 0.66, 1];
 const WIN = {exploration: "Products of 2018, decided 2019", holdout: "Products of 2023–24, decided 2024–25"};
 const WINNOTE = {exploration: "fitting set, before the pandemic", holdout: "held out, never used for fitting"};
