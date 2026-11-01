@@ -13,7 +13,7 @@ What-if organizations are language-model agents that represent specific real org
 | `protocols/` | Coding protocols given to the language model (products and statements per year, situation, strategy, theory of value, NACE division, relatedness, aliases) |
 | `theories/` | Theory texts in both framings, considerations (F) and conditions (B) |
 | `pilot/` | Numbered analysis scripts of the proof of concept (diagnostics, anchor contrast, hot stove analysis, figures) |
-| `artifact/` | The research artifact: the built page (`index.html`), its template, and the build scripts |
+| `artifact/` | The research artifact: the built page (`index.html`, served at https://textwizard.github.io/what-if-orgs/), its template, and the build scripts |
 | `data/public/final/` | The public data of the 50 firms (see Data) |
 | `docs/design.md` | The design record: every decision of the design with its reasons, in the order taken |
 | `paths.example.yaml` | Template for the local paths to sources that cannot be redistributed |
