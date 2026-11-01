@@ -88,7 +88,7 @@ pre { font: 11.5px/1.5 ui-monospace, SFMono-Regular, Menlo, monospace; white-spa
 <body>
 <div class="top"><div class="in">
   <a class="mark" data-page="intro" href="#intro" style="text-decoration:none;cursor:pointer"><svg width="40" height="13" viewBox="0 0 58 18" aria-hidden="true"><rect x="0" y="0" width="12" height="18" rx="2" fill="var(--btf)"/><rect x="15" y="0" width="12" height="18" rx="2" fill="var(--ac)"/><rect x="30" y="0" width="12" height="18" rx="2" fill="var(--esc)"/><rect x="45.75" y="0.75" width="10.5" height="16.5" rx="2" fill="none" stroke="var(--ink)" stroke-width="1.5"/></svg>What-If Organizations</a>
-  <nav id="nav"><a data-page="intro" class="on">Intro</a><a data-page="simulator">Simulator</a><a data-page="firms">Firms</a><a data-page="validation">Validation</a></nav>
+  <nav id="nav"><a data-page="intro" class="on">Intro</a><a data-page="firms">Firms</a><a data-page="simulator">Simulator</a><a data-page="validation">Validation</a></nav>
 </div></div>
 
 <section class="page on" id="intro"><div class="wrap">
@@ -97,10 +97,18 @@ pre { font: 11.5px/1.5 ui-monospace, SFMono-Regular, Menlo, monospace; white-spa
   <div class="card" style="padding: 28px 30px 22px"><div class="strategy"><!--ARCH--></div>
     <p class="note" style="text-align:center">The empirical strategy. The values in this figure are illustrative; the data are on the three pages.</p></div>
   <div class="row c3" style="margin-top: 16px">
-    <a class="card go" data-page="simulator" href="#simulator" style="margin-top:22px"><b>Simulator</b><span>The results for any choice of firms, theories, and model, computed from the published decisions.</span><em>Open →</em></a>
     <a class="card go" data-page="firms" href="#firms" style="margin-top:22px"><b>Firms</b><span>The web data from which each what-if organization is built, the record of its products, and its decisions under every theory with the reasons given.</span><em>Open →</em></a>
+    <a class="card go" data-page="simulator" href="#simulator" style="margin-top:22px"><b>Simulator</b><span>The results for any choice of firms, theories, and model, computed from the published decisions.</span><em>Open →</em></a>
     <a class="card go" data-page="validation" href="#validation" style="margin-top:22px"><b>Validation</b><span>Levels and ranking on the held-out window, what the theories attend to, the simulation on the firm's own history, and the three models side by side.</span><em>Open →</em></a>
   </div>
+</div></section>
+
+<section class="page" id="firms"><div class="wrap">
+  <p class="eyebrow">Firm database</p><h2 id="firms-h"></h2>
+  <p class="sub" id="firms-sub"></p>
+  <div class="r" style="display:flex;gap:10px;align-items:center;margin-bottom:6px"><label style="font:400 13px var(--font);color:var(--sec)">Firm</label><select id="firm-pick"></select></div>
+  <div id="firmdetail"></div>
+  <div class="card" style="padding: 18px 28px 14px"><h3 style="margin-bottom:2px">All firms</h3><p class="cap" style="margin:0 0 8px">The table sorts by any column; a row opens the firm above.</p><div style="overflow:auto;max-height:560px"><table class="t" id="dbtable"></table></div></div>
 </div></section>
 
 <section class="page" id="simulator"><div class="wrap">
@@ -115,14 +123,6 @@ pre { font: 11.5px/1.5 ui-monospace, SFMono-Regular, Menlo, monospace; white-spa
     <div class="crow"><label>Output</label><div class="cc"><div class="seg" id="wb-out"></div></div></div>
   </div>
   <div class="card"><h3 id="wb-h"></h3><p class="cap" id="wb-sub"></p><div id="wb-body"></div><p class="note" id="wb-note"></p></div>
-</div></section>
-
-<section class="page" id="firms"><div class="wrap">
-  <p class="eyebrow">Firm database</p><h2 id="firms-h"></h2>
-  <p class="sub" id="firms-sub"></p>
-  <div class="r" style="display:flex;gap:10px;align-items:center;margin-bottom:6px"><label style="font:400 13px var(--font);color:var(--sec)">Firm</label><select id="firm-pick"></select></div>
-  <div id="firmdetail"></div>
-  <div class="card" style="padding: 18px 28px 14px"><h3 style="margin-bottom:2px">All firms</h3><p class="cap" style="margin:0 0 8px">The table sorts by any column; a row opens the firm above.</p><div style="overflow:auto;max-height:560px"><table class="t" id="dbtable"></table></div></div>
 </div></section>
 
 <section class="page" id="validation"><div class="wrap">
