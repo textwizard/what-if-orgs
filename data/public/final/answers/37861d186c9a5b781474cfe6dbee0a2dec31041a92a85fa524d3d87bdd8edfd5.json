@@ -1,0 +1,1 @@
+{"model": "deepseek-v4-pro", "effort": "medium", "answer": {"decisions": [{"product": "B", "probability_dropped": 10, "decision": "keep", "reason": "Because Product B builds directly on the firm's established glass processing and polishing knowledge, the firm has the absorptive capacity to interpret its early results and improve it, so withdrawal risk is low."}]}}

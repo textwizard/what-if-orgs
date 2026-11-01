@@ -1,0 +1,1 @@
+{"model": "deepseek-v4-pro", "effort": "medium", "answer": {"decisions": [{"product": "D", "probability_dropped": 5, "decision": "keep", "reason": "D remains a close-to-core, low-cost option with no negative signals, so its real option value still justifies keeping it open while uncertainty resolves."}]}}
