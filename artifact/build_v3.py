@@ -1,9 +1,9 @@
 """Build the research artifact (v3): one page per component of the proof of concept, from the data of the final sample.
 
-Pages: platform (architecture and funnel), record (what the archived websites show), reference organizations (the
-replay against the record), weights (calibration, validation, coherence), what-if (assigned results and a theory swap
-on a real firm), firms (every firm with its sources), methods (protocols, prompts, models, costs, release). The data
-of every figure is embedded as JSON; figures are drawn in the page. Model and framing pickers apply to every figure.
+Writes data_v3.json (or data_public.json with --public) for the page template: funnel and counts, the record of every
+firm, the simulation on the record (levels, ranking, anchor contrasts), weights and validation, the own-history run
+(hot stove measures and cohort survival over time), the theory swap, the firms with their sources, and the methods
+(protocols, prompts, models, release). build_v5.py injects the data into template_v5.html; figures are drawn in the page.
 
 Run from whatif-organizations with PYTHONPATH set: python3 ../09_whatif_pilot/explorer/build_v3.py [--public]
 --public leaves out everything that comes from the closed frame (its NACE code and size class per firm), so that the
@@ -300,21 +300,35 @@ def hotstove(model):
         m = m[m.p_drop.notna()]
         out["n_rows"] = int(len(m)); out["n_draws"] = int(m.draw.max()); out["firm_windows"] = int(m.groupby(["slug", "window"]).ngroups)
         out["branches"] = sorted(m.branch.unique(), key=lambda b: (b != "record-as-memory", len(b), b))
+        out["curves"] = survival_curves(model, m)
     return out
 
 
-def whatif():
-    """Persistence after an early failure or success by theory, from the replay test with assigned results."""
-    s = (HERE / "index.html").read_text()
-    i = s.index("const D = ") + len("const D = ")
-    D = json.loads(s[i:s.index(";\n", i)])
-    keep = {"gpt-5.4_medium": "gpt-5.4", "claude-opus-5-5_medium": "Claude Opus 5.5", "deepseek-v4-pro_thinking": "DeepSeek V4 Pro"}
-    surv = {keep[m]: {c: v for c, v in cs.items() if c in ("none", "twin", "btf_F", "ac_F", "btf_B", "ac_B")}
-            for m, cs in D["survival"].items() if m in keep}
-    summary = [r for r in D["summary"] if r["model"] in keep and r["condition"] in ("none", "twin", "btf_F", "ac_F", "btf_B", "ac_B")]
-    for r in summary:
-        r["model"] = keep[r["model"]]
-    return {"survival": surv, "summary": summary, "real": D["real"]}
+def survival_curves(model, m):
+    """Share of the first-year cohort still on the market, over time: the record at every archived year, the agent under
+    each condition at the launch year, after its own first-year decisions (mean over draws), and after the second year
+    (expected from its probabilities). Per window, equal weight per firm-window; only firm-windows the condition decided."""
+    years = CONFIG["record"]["years"]
+    prod = pd.read_csv(ROOT / "data" / "closed" / "products.csv")[["slug", "generic", "entry", "drop"]].drop_duplicates(["slug", "generic", "entry"])
+    dec = pd.read_csv(REC / model / "decisions.csv")
+    draws = m[m.branch.str.startswith("draw") & m.decided_year1].copy()
+    out = {}
+    for w, (y1, y2) in years.items():
+        launch = CONFIG["simulation"]["windows"][w][0]
+        ys = [y for y in [2017, 2018, 2019, 2022, 2023, 2024, 2025] if y >= launch]     # a drop in 2026 is not observable
+        cw = {}
+        for c, g in draws[draws.window == w].groupby("condition"):
+            per = []
+            for (slug, b), gb in g.groupby(["slug", "branch"]):
+                n = int(gb.n_decided_year1.iloc[0])
+                per.append({"slug": slug, "s1": 1 - gb.n_dropped_year1.iloc[0] / n, "s2": (1 - gb.p_drop).sum() / n})
+            per = pd.DataFrame(per).groupby("slug").mean()
+            d1 = dec[(dec.condition == c) & (dec.window == w) & (dec.year == y1) & dec.slug.isin(per.index)][["slug", "generic", "entry"]].drop_duplicates()
+            d1 = d1.merge(prod, on=["slug", "generic", "entry"], how="left")
+            rec = [float(d1.groupby("slug").apply(lambda gg: ((gg["drop"].isna()) | (gg["drop"] > y)).mean()).mean()) if y >= y1 else 1.0 for y in ys]
+            cw[c] = {"agent": [1.0, round(float(per.s1.mean()), 4), round(float(per.s2.mean()), 4)], "record": [round(v, 4) for v in rec], "n_firm_windows": int(len(per))}
+        out[w] = {"years": ys, "agent_years": [launch, y1, y2], "conditions": cw}
+    return out
 
 
 def costs():
@@ -323,7 +337,7 @@ def costs():
     log["step"] = log.purpose.str.split().str[0]
     steps = {"coding": "Coding of products, evidence, and profiles", "context": "Situation of the firm", "value": "Theory of value",
              "division": "NACE division", "aliases": "Product aliases", "relatedness": "Relatedness", "record": "Replay on the record",
-             "simulate": "What-if replays and instrument tests", "phrasing": "Framing tests", "reidentification": "Re-identification test",
+             "simulate": "Simulations on assigned results and instrument tests", "phrasing": "Framing tests", "reidentification": "Re-identification test",
              "recall": "Recall test"}
     t = log.groupby("step").agg(calls=("usd", "size"), tokens_in=("tokens_in", "sum"), tokens_out=("tokens_out", "sum"), usd=("usd", "sum"))
     rows = [{"step": steps.get(k, k), "calls": int(r.calls), "tokens_in": int(r.tokens_in), "tokens_out": int(r.tokens_out), "usd": round(float(r.usd), 2)}

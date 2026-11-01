@@ -250,32 +250,30 @@ px, py = cells["g"]; px += IN; top = py + PH - 10
 letter(px, top, "g", "What-if experiments")
 text(px, top - 14, "the same firm, simulated otherwise", color=MUTE, fontsize=5.5)
 agent(px + 2, top - 46, 30, 18, lw=0.5)
-for k, (lab, th, anc, sub) in enumerate((("another theory", THEORY["ac"], True, "swap the text, keep the firm"), ("no anchors", THEORY["btf"], False, "the firm reduced to industry, size, age"), ("assigned results", THEORY["btf"], True, "early failure or success, potential known"))):
+for k, (lab, th, anc, sub) in enumerate((("another theory", THEORY["ac"], True, "swap the text, keep the firm"), ("no anchors", THEORY["btf"], False, "the firm reduced to industry, size, age"), ("own history", THEORY["btf"], True, "its own first-year decisions as its past"))):
     yy = top - 27 - k * 17
     agent(px + 52, yy - 6, 16, 12, theory=th, lw=0.45, anchors=anc)
     arrow(px + 33, top - 37, px + 51, yy, color=MUTE, lw=0.5)
     text(px + 73, yy + 2, lab, fontsize=5.5, fontweight="bold"); text(px + 73, yy - 5, sub, color=MUTE, fontsize=5)
 ax.add_patch(Rectangle((px + 52 + 16 * 0.12, top - 27 - 34 - 6 + 12 * 0.55), 16 * 0.24, 12 * 0.3, fc=PANEL, ec=OBS, lw=0.5, ls=(0, (1, 1)), zorder=6))
-text(px, top - 86, "assigned results: share of products kept after an early failure", color=MUTE, fontsize=5.5)
+text(px, top - 86, "own history: share of the first-year cohort still on the market", color=MUTE, fontsize=5.5)
 gx0, gx1, gy0, gy1 = px + 20, px + 108, top - 160, top - 96
 ax.plot([gx0, gx0], [gy0, gy1], color=FAINT, lw=0.5); ax.plot([gx0, gx1], [gy0, gy0], color=FAINT, lw=0.5)
 text(gx0 - 3, gy1, "100%", ha="right", color=FAINT, fontsize=5); text(gx0 - 3, gy0, "0%", ha="right", color=FAINT, fontsize=5)
-for t_ in range(5):
-    text(gx0 + t_ * (gx1 - gx0) / 4, gy0 - 6, f"t{t_}", ha="center", color=FAINT, fontsize=5)
-curves = {THEORY["btf"]: [1, 0.72, 0.5, 0.42, 0.38], THEORY["ac"]: [1, 0.9, 0.82, 0.78, 0.76], THEORY["none"]: [1, 0.8, 0.65, 0.6, 0.58]}
+for t_, lab in enumerate(("launch", "year 1", "year 2", "later")):
+    text(gx0 + t_ * (gx1 - gx0) / 3, gy0 - 6, lab, ha="center", color=FAINT, fontsize=5)
+ax.plot([gx0 + t_ * (gx1 - gx0) / 3 for t_ in range(4)], [gy0 + q * (gy1 - gy0) for q in [1, 0.86, 0.73, 0.69]], color=OBS, lw=1.3, zorder=3)
+curves = {THEORY["btf"]: [1, 0.83, 0.63], THEORY["ac"]: [1, 0.83, 0.65], THEORY["esc"]: [1, 0.87, 0.70], THEORY["ro"]: [1, 0.85, 0.67]}
 for c, v in curves.items():
-    ax.plot([gx0 + t_ * (gx1 - gx0) / 4 for t_ in range(5)], [gy0 + q * (gy1 - gy0) for q in v], color=c, lw=1.3 if c != THEORY["none"] else 1, zorder=3)
-ax.plot([gx0 + t_ * (gx1 - gx0) / 4 for t_ in range(5)], [gy0 + q * (gy1 - gy0) for q in [1, 0.3, 0.25, 0.25, 0.25]], color=MUTE, lw=0.8, ls=(0, (1.5, 1.5)), zorder=3)
-for q, lab in ((0.76, "AC"), (0.58, "none"), (0.38, "BTF"), (0.25, "twin")):
-    text(gx1 + 3, gy0 + q * (gy1 - gy0), lab, fontsize=5)
-lines_(px + 140, top - 100, ["the twin: a rule-based", "learner, the hot stove", "effect", "", "the forgone outcome is", "known, so the cost of", "dropping a product with", "potential is counted", "for each theory"], dy=7, color=MUTE, fontsize=5)
+    ax.plot([gx0 + t_ * (gx1 - gx0) / 3 for t_ in range(3)], [gy0 + q * (gy1 - gy0) for q in v], color=c, lw=1.1, zorder=3)
+for q, lab, col in ((0.69, "record", OBS), (0.62, "theories", MUTE)):
+    text(gx1 + 3, gy0 + q * (gy1 - gy0), lab, fontsize=5, color=col)
+lines_(px + 140, top - 100, ["the agent decides year 1,", "then carries its own", "decisions as its past", "into year 2", "", "a hot stove effect: the", "more it dropped, the", "more it drops; the cohort", "is compared with the record"], dy=7, color=MUTE, fontsize=5)
 
 out = HERE / "analysis" / "figures"; out.mkdir(parents=True, exist_ok=True)
 for ext in ("pdf", "svg", "png"):
     fig.savefig(out / f"architecture.{ext}", dpi=300 if ext == "png" else None)
-for d in (HERE / "explorer", HERE / "artifact"):               # the explorer folder of the pilot, or artifact/ in the repository
-    if d.exists():
-        shutil.copy(out / "architecture.svg", d / "architecture.svg")
+shutil.copy(out / "architecture.svg", HERE / "explorer" / "architecture.svg")
 prop = HERE.parent / "org_sci" / "org_sci_sub" / "What_If_Organizations" / "figures"
 if prop.exists():
     shutil.copy(out / "architecture.pdf", prop / "architecture.pdf")
