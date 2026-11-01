@@ -82,7 +82,7 @@ boxes = [
     ("What-if organization", ["an agent built from the firm:", "anchors, a theory text, memory", "of its own decisions"]),
     ("Simulate", ["the same firm and record,", "decided year by year under no", "theory and each theory"]),
     ("Calibrate, validate", ["a mix of the conditions fitted", "before the pandemic, tested", "after it against the record"]),
-    ("What-if experiments", ["another theory, no anchors, or", "assigned results: outcomes the", "record cannot show"]),
+    ("What-if experiments", ["another theory, no anchors, or", "its own history: outcomes the", "record cannot show"]),
 ]
 bx = [BX0 + i * (BW + BG) for i in range(6)]
 for i, ((name, desc), x) in enumerate(zip(boxes, bx)):
@@ -182,7 +182,7 @@ for r_, (lab, lv, drop, res) in enumerate(rows):
             ax.add_patch(Circle((XR(i) + 3.5, yy + 2.8), 1.7, fc=PAPER, ec=INK, lw=0.5, zorder=5))
 for k, (lab, op) in enumerate((("home page", 1.0), ("own page", 0.66), ("mentioned", 0.38))):
     ax.add_patch(Rectangle((px + k * 62, top - 146), 8, 6, fc=OBS, ec="none", alpha=op, zorder=3)); text(px + 11 + k * 62, top - 143, lab, color=MUTE, fontsize=5)
-text(px, top - 155, "×", color=RED, fontsize=7, fontweight="bold"); text(px + 8, top - 155, "disappeared for good", color=MUTE, fontsize=5)
+text(px, top - 155, "×", color=RED, fontsize=7, fontweight="bold"); text(px + 8, top - 155, "taken off the market", color=MUTE, fontsize=5)
 ax.add_patch(Circle((px + 92, top - 155), 1.7, fc=PAPER, ec=INK, lw=0.5)); text(px + 97, top - 155, "a stated result, with its quote", color=MUTE, fontsize=5)
 text(px, top - 168, "“… now in use at forty sites” — verbatim, or it is not kept", color=MUTE, fontsize=5, style="italic")
 
@@ -259,16 +259,17 @@ ax.add_patch(Rectangle((px + 52 + 16 * 0.12, top - 27 - 34 - 6 + 12 * 0.55), 16 
 text(px, top - 86, "own history: share of the first-year cohort still on the market", color=MUTE, fontsize=5.5)
 gx0, gx1, gy0, gy1 = px + 20, px + 108, top - 160, top - 96
 ax.plot([gx0, gx0], [gy0, gy1], color=FAINT, lw=0.5); ax.plot([gx0, gx1], [gy0, gy0], color=FAINT, lw=0.5)
-text(gx0 - 3, gy1, "100%", ha="right", color=FAINT, fontsize=5); text(gx0 - 3, gy0, "0%", ha="right", color=FAINT, fontsize=5)
+text(gx0 - 3, gy1, "100%", ha="right", color=FAINT, fontsize=5); text(gx0 - 3, gy0, "50%", ha="right", color=FAINT, fontsize=5)
+sc = lambda v: (v - 0.5) / 0.5
 for t_, lab in enumerate(("launch", "year 1", "year 2", "later")):
     text(gx0 + t_ * (gx1 - gx0) / 3, gy0 - 6, lab, ha="center", color=FAINT, fontsize=5)
-ax.plot([gx0 + t_ * (gx1 - gx0) / 3 for t_ in range(4)], [gy0 + q * (gy1 - gy0) for q in [1, 0.86, 0.73, 0.69]], color=OBS, lw=1.3, zorder=3)
+ax.plot([gx0 + t_ * (gx1 - gx0) / 3 for t_ in range(4)], [gy0 + sc(q) * (gy1 - gy0) for q in [1, 0.86, 0.73, 0.69]], color=OBS, lw=1.3, zorder=3)
 curves = {THEORY["btf"]: [1, 0.83, 0.63], THEORY["ac"]: [1, 0.83, 0.65], THEORY["esc"]: [1, 0.87, 0.70], THEORY["ro"]: [1, 0.85, 0.67]}
 for c, v in curves.items():
-    ax.plot([gx0 + t_ * (gx1 - gx0) / 3 for t_ in range(3)], [gy0 + q * (gy1 - gy0) for q in v], color=c, lw=1.1, zorder=3)
-for q, lab, col in ((0.69, "record", OBS), (0.62, "theories", MUTE)):
-    text(gx1 + 3, gy0 + q * (gy1 - gy0), lab, fontsize=5, color=col)
-lines_(px + 140, top - 100, ["the agent decides year 1,", "then carries its own", "decisions as its past", "into year 2", "", "a hot stove effect: the", "more it dropped, the", "more it drops; the cohort", "is compared with the record"], dy=7, color=MUTE, fontsize=5)
+    ax.plot([gx0 + t_ * (gx1 - gx0) / 3 for t_ in range(3)], [gy0 + sc(q) * (gy1 - gy0) for q in v], color=c, lw=1.1, zorder=3)
+for q, lab, col in ((0.70, "record", OBS), (0.63, "theories", MUTE)):
+    text(gx1 + 3, gy0 + sc(q) * (gy1 - gy0), lab, fontsize=5, color=col)
+lines_(px + 150, top - 100, ["the agent decides year 1,", "then carries its own", "decisions into year 2;", "", "the cohort is compared", "with the record, which", "shows what the dropped", "products went on to do"], dy=7, color=MUTE, fontsize=5)
 
 out = HERE / "analysis" / "figures"; out.mkdir(parents=True, exist_ok=True)
 for ext in ("pdf", "svg", "png"):
