@@ -48,9 +48,3 @@ The sample frame and the variables that define its cells come from the firm pane
 ## Licences
 
 Code is released under the MIT licence (`LICENSE`); the data in `data/public/` under CC BY 4.0 (`DATA_LICENSE.md`). The theory texts and protocols are part of the code.
-
-## Citation
-
-Dahlke, J., and Calvino, F. (2026). *What-if organizations: Synthetic agents for organization science research*. Stage 1 proposal, Organization Science.
-
-The views expressed are those of the authors and cannot be attributed to the OECD or its member countries.
