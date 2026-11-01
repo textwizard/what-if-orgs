@@ -60,7 +60,8 @@ svg { display: block; max-width: 100%; overflow: visible; } svg text { font-fami
 svg text.t { fill: var(--ink); font-size: 12px; } svg text.h { fill: var(--ink); font-size: 12px; font-weight: 600; } svg text.n { font-size: 11px; }
 svg .rowh:hover rect.bg { fill: var(--track); } svg .click { cursor: pointer; }
 .legend { display: flex; flex-wrap: wrap; gap: 6px 16px; font: 400 12.5px var(--font); color: var(--sec); margin-top: 10px; } .legend span { display: inline-flex; align-items: center; gap: 6px; }
-.sw { display: inline-block; width: 9px; height: 9px; border-radius: 50%; } .sw.box { width: 9px; height: 11px; border-radius: 2px; }
+.sw { display: inline-block; width: 9px; height: 9px; border-radius: 50%; } .sw.box { width: 9px; height: 11px; border-radius: 2px; } .sw.hollow { background: var(--card) !important; border: 2px solid; width: 7px; height: 7px; } .sw.line { width: 16px; height: 3px; border-radius: 0; } .sw.tick { width: 3px; height: 12px; border-radius: 0; } .sw.band { width: 14px; height: 10px; border-radius: 2px; opacity: .25; }
+.ctl { padding: 4px 28px; } .crow { display: grid; grid-template-columns: 78px 1fr; align-items: center; gap: 14px; padding: 13px 0; border-top: 1px solid var(--hair); } .crow:first-child { border-top: 0; } .crow > label { font: 600 12px var(--font); color: var(--sec); text-transform: uppercase; letter-spacing: .03em; } .cc { display: flex; flex-wrap: wrap; gap: 8px 10px; align-items: center; } .cc .sep { width: 1px; height: 22px; background: var(--hair); margin: 0 4px; } .cc .lab { font: 400 12.5px var(--font); color: var(--sec); margin-left: 4px; }
 table.t { border-collapse: collapse; width: 100%; font: 400 13.5px/1.45 var(--font); }
 table.t th { text-align: left; font-weight: 600; color: var(--sec); font-size: 12px; letter-spacing: .02em; padding: 8px 12px 8px 0; border-bottom: 1px solid var(--hair); white-space: nowrap; position: sticky; top: 0; background: var(--card); }
 table.t th.sort { cursor: pointer; } table.t th.sort:hover { color: var(--ink); }
@@ -104,18 +105,19 @@ pre { font: 11.5px/1.5 ui-monospace, SFMono-Regular, Menlo, monospace; white-spa
 <section class="page" id="simulator"><div class="wrap">
   <p class="eyebrow">Simulator</p><h2>The data, the theory, and the model of a what-if organization, with the result.</h2>
   <p class="sub">Computed in the browser from the published decisions; the address of the page carries the selection.</p>
-  <div class="modules">
-    <div class="mod"><p class="k">Data</p><div class="r"><div class="seg" id="wb-scope"></div></div><div class="r" id="wb-valuerow"><select id="wb-value"></select></div><div class="r"><label>Window</label><div class="seg" id="wb-win"></div></div></div>
-    <div class="mod"><p class="k">Theory</p><div class="chips" id="wb-conds"></div><div class="r"><label>Texts</label><div class="seg" id="wb-framing"></div></div><div class="r" id="wb-anchorsrow"><label>Web anchors</label><div class="seg" id="wb-anchors"></div></div></div>
-    <div class="mod"><p class="k">Model</p><div class="r"><div class="seg" id="wb-model"></div></div><p class="note" id="wb-modelnote" style="margin-top:12px"></p></div>
-    <div class="mod"><p class="k">Output</p><div class="r"><div class="seg" id="wb-out"></div></div></div>
+  <div class="card ctl">
+    <div class="crow"><label>Data</label><div class="cc"><div class="seg" id="wb-scope"></div><span id="wb-valuerow"><select id="wb-value"></select></span><span class="sep"></span><span class="lab">Decisions</span><div class="seg" id="wb-win"></div></div></div>
+    <div class="crow"><label>Theory</label><div class="cc"><div class="chips" id="wb-conds"></div><span class="sep"></span><span class="lab">Texts</span><div class="seg" id="wb-framing"></div><span id="wb-anchorsrow"><span class="lab">Web anchors</span> <div class="seg" id="wb-anchors" style="display:inline-flex"></div></span></div></div>
+    <div class="crow"><label>Model</label><div class="cc"><div class="seg" id="wb-model"></div><span class="lab" id="wb-modelnote"></span></div></div>
+    <div class="crow"><label>Output</label><div class="cc"><div class="seg" id="wb-out"></div></div></div>
   </div>
   <div class="card"><h3 id="wb-h"></h3><p class="cap" id="wb-sub"></p><div id="wb-body"></div><p class="note" id="wb-note"></p></div>
 </div></section>
 
 <section class="page" id="firms"><div class="wrap">
   <p class="eyebrow">Firm database</p><h2 id="firms-h"></h2>
-  <p class="sub">One firm at a time, with its record, the decision of each agent on every product with its reason, and the sources; a firm is chosen in the table below.</p>
+  <p class="sub">One firm at a time, with its record, the decision of each agent on every product with its reason, and the sources.</p>
+  <div class="r" style="display:flex;gap:10px;align-items:center;margin-bottom:6px"><label style="font:400 13px var(--font);color:var(--sec)">Firm</label><select id="firm-pick"></select></div>
   <div class="row c4" id="dbstats"></div>
   <div id="firmdetail"></div>
   <div class="card" style="padding: 18px 28px 14px"><h3 style="margin-bottom:2px">All firms</h3><p class="cap" style="margin:0 0 8px">The table sorts by any column; a row opens the firm above.</p><div style="overflow:auto;max-height:560px"><table class="t" id="dbtable"></table></div></div>
@@ -169,6 +171,8 @@ const grid = (x0, x1, y0, y1, ticks, x) => ticks.map(t => `<line x1="${x(t)}" x2
 const dot = (x, y, c, r = 5) => `<circle cx="${x}" cy="${y}" r="${r}" fill="${c}" stroke="var(--card)" stroke-width="1.5"/>`;
 const lowHigh = obj => { const e = Object.entries(obj).sort((a, b) => a[1] - b[1]); return [e[0], e[e.length - 1]]; };
 const list = a => a.length < 2 ? a.join("") : a.slice(0, -1).join(", ") + " and " + a[a.length - 1];
+const legend = items => `<div class="legend" style="margin-top:8px">${items.map(([shape, col, lab]) => `<span><i class="sw ${shape === "dot" ? "" : shape}" style="${shape === "hollow" ? `border-color:${col}` : `background:${col}`}"></i>${lab}</span>`).join("")}</div>`;
+const THLEG = () => THEORIES().map(t => ["dot", COL[t], SHORT[t]]);
 
 /* cases: one row per firm, decision year and product, for any model */
 const CASES = {};
@@ -194,7 +198,7 @@ function stats(rows, c) { const rs = rows.filter(r => r.p[c] != null); if (!rs.l
   return {n: rs.length, mean, rec, brier, ll, auc: aucOf(ps, ys), drop: rs.filter(r => r.dec[c] === "drop").length / rs.length, ci: bootstrap(rs, r => r.p[c])}; }
 
 /* levels chart shared by validation and simulator */
-function levelsChart(sel, items, opts = {}) {
+function levelsChart(sel, items, opts = {}) { const items0 = items;
   const left = 56, pw = W - left - 30, ph = opts.ph || 190, top = 24, ymax = Math.max(0.3, ...items.map(([, m, ci]) => ci ? ci[1] : m)) * 1.1, y = v => top + ph - v / ymax * ph;
   let s = [0, 0.1, 0.2, 0.3, 0.4, 0.5].filter(t => t <= ymax).map(t => `<line x1="${left}" x2="${left + pw}" y1="${y(t)}" y2="${y(t)}" stroke="var(--hair)" stroke-width="1"/><text class="n" x="${left - 8}" y="${y(t) + 4}" text-anchor="end">${pct(t)}</text>`).join("");
   const rec = items.find(([k]) => k === "record"); if (rec && rec[2]) s += `<rect x="${left}" y="${y(rec[2][1])}" width="${pw}" height="${Math.max(0, y(rec[2][0]) - y(rec[2][1]))}" fill="var(--obs)" opacity=".07"/>`;
@@ -202,7 +206,7 @@ function levelsChart(sel, items, opts = {}) {
     s += dot(x, y(m), col, k === "record" ? 6 : 5) + `<text class="n" x="${x}" y="${y(ci ? ci[1] : m) - 8}" text-anchor="middle" style="fill:var(--ink)">${pct(m)}</text>`;
     const words = k === "record" ? ["record"] : [...SHORT[base(k)].split(" "), ...(k.endsWith("-na") ? ["(no anchors)"] : [])];
     s += `<text class="n" x="${x}" y="${top + ph + 16}" text-anchor="middle" style="fill:${col}">${words.map((w, q) => `<tspan x="${x}" dy="${q ? 12 : 0}">${w}</tspan>`).join("")}</text>`; });
-  svgIn(sel, s, top + ph + 52);
+  svgIn(sel, s, top + ph + 52); $(sel).insertAdjacentHTML("beforeend", legend([["dot", "var(--obs)", "record"], ["band", "var(--obs)", "95% interval of the record"], ...items0.filter(([k]) => k !== "record").map(([k, , , col]) => ["dot", col, SHORT[base(k)] + (k.endsWith("-na") ? " (no anchors)" : "")]), ["line", "var(--sec)", "95% interval from resampling firms"]]));
 }
 
 /* 1 strategy */
@@ -235,7 +239,7 @@ function drawSimulator() {
   const body = $("#wb-body"), note = $("#wb-note");
   if (Q.out === "hotstove") { const hs = D.hotstove && D.hotstove[S.model];
     $("#wb-h").textContent = "The firm's own history"; $("#wb-sub").textContent = hs ? hotstoveHead(hs) + `. ${D.models[S.model]}, considerations framing, ${hs.firm_windows} firm-windows, ${hs.n_draws} histories drawn from the agent's own first-year probabilities; independent of the data selection above.` : "No own-history run for this model yet.";
-    body.innerHTML = `<div id="own2"></div>`; if (hs) { ownHistory("#own2", hs, W); body.innerHTML += `<div class="tbl">${hotstoveTable(hs)}</div>`; }
+    body.innerHTML = `<div id="own2"></div>` + (hs ? `<div class="tbl">${hotstoveTable(hs)}</div>` : ""); if (hs) ownHistory("#own2", hs, W);
     note.textContent = "The second decision year of each window is simulated with the agent's own first-year decisions as its past. Persistence compares the second-year withdrawal of products the agent ruled for with its own ruling as memory (filled) and without a memory (hollow), with the firms' withdrawal of the same products as the navy tick. Hardening is the extra withdrawal of products the agent itself doubted in the first year, own memory minus no memory, with 95 percent intervals from resampling firms. The survival lines show the first-year cohort over time, the record at every archived year and the agents at launch, after their own first-year decisions, and after the second year."; return; }
   if (!rows.length) { $("#wb-h").textContent = "No decisions in this selection"; $("#wb-sub").textContent = where; body.innerHTML = ""; note.textContent = ""; return; }
   if (Q.out === "levels") { const ms = keys.map(k => [k, st[k].mean]).sort((a, b) => a[1] - b[1]);
@@ -250,7 +254,7 @@ function drawSimulator() {
     if (Q.win !== "exploration") s += `<line x1="${x(D.record.ceiling.holdout)}" x2="${x(D.record.ceiling.holdout)}" y1="${top - 6}" y2="${top + keys.length * rh}" stroke="var(--obs)" stroke-width="1.3"/><text class="n" x="${x(D.record.ceiling.holdout)}" y="${top + keys.length * rh + 30}" text-anchor="middle" style="fill:var(--obs)">cue ceiling, all firms</text>`;
     keys.forEach((k, j) => { const yy = top + j * rh + rh / 2, col = COL[base(k)]; s += `<text class="t" x="0" y="${yy + 4}">${NAME(k)}${k.endsWith("-na") ? " (no anchors)" : ""}</text>` + (st[k].auc == null ? `<text class="n" x="${x(0.5)}" y="${yy + 4}" text-anchor="middle">needs withdrawals and survivals</text>` : dot(x(Math.min(0.8, Math.max(0.3, st[k].auc))), yy, col, 5.5) + `<text class="n" x="${x(Math.min(0.8, Math.max(0.3, st[k].auc))) + 9}" y="${yy + 4}" style="fill:var(--ink)">${f2(st[k].auc)}</text>`); });
     body.innerHTML = `<div id="wb-auc"></div><table class="t" style="margin-top:14px"><tr><th>Condition</th><th class="num">n</th><th class="num">Mean p</th><th class="num">Recorded</th><th class="num">Drop decisions</th><th class="num">AUC</th></tr>` + keys.map(k => `<tr><td><span class="sw" style="background:${COL[base(k)]};margin-right:8px"></span>${NAME(k)}${k.endsWith("-na") ? " (no anchors)" : ""}</td><td class="num">${st[k].n}</td><td class="num">${pct1(st[k].mean)}</td><td class="num">${pct1(st[k].rec)}</td><td class="num">${pct(st[k].drop)}</td><td class="num">${f2(st[k].auc)}</td></tr>`).join("") + `</table>`;
-    svgIn("#wb-auc", s, top + keys.length * rh + 40); note.textContent = `${where}. AUC scores the ranking of the withdrawn products above the kept ones; 0.5 is chance.`; return; }
+    svgIn("#wb-auc", s, top + keys.length * rh + 40); $("#wb-auc").insertAdjacentHTML("beforeend", legend([...keys.map(k => ["dot", COL[base(k)], SHORT[base(k)] + (k.endsWith("-na") ? " (no anchors)" : "")]), ["tick", "var(--obs)", "regression on the cues, all firms"]])); note.textContent = `${where}. AUC scores the ranking of the withdrawn products above the kept ones; 0.5 is chance.`; return; }
   const show = Q.all ? rows : rows.slice(0, 60);
   $("#wb-h").textContent = "Decisions and reasons"; $("#wb-sub").textContent = `${rows.length} decisions of the selection, each with the probability, the decision, and the reason the agent gave.`;
   body.innerHTML = `<p class="cap" style="margin:0 0 10px"><a class="linkish" id="wb-csv" href="#" download="whatif_selection.csv">Download the selection as CSV</a>${rows.length > 60 && !Q.all ? ` · <a class="linkish" id="wb-all">Show all ${rows.length}</a>` : ""}</p><div style="overflow-x:auto"><table class="t" id="wb-tab"><tr><th>Firm</th><th class="num">Year</th><th>Product</th>${keys.map(k => `<th><span class="sw" style="background:${COL[base(k)]};margin-right:6px"></span>${NAME(k)}${k.endsWith("-na") ? " (na)" : ""}</th>`).join("")}<th>Record</th></tr>` +
@@ -275,11 +279,11 @@ function rowsChart(sel, cs, draw, xmin, xmax, ticks, fmt, width, l = 118, rh = 3
 function persistChart(sel, hs, width = W) { const cs = HSC().filter(c => hs.rows[c] && hs.rows[c].p2_own != null), vals = cs.flatMap(c => [hs.rows[c].p2_own, hs.rows[c].p2_record, hs.rows[c].firm_drop2]);
   const xmin = Math.max(0, Math.min(...vals) - 0.04), xmax = Math.max(...vals) + 0.04;
   rowsChart(sel, cs, (c, yy, x) => { const r = hs.rows[c], col = COL[base(c)]; return `<line x1="${x(r.p2_record)}" x2="${x(r.p2_own)}" y1="${yy}" y2="${yy}" stroke="${col}" stroke-width="2"/><circle cx="${x(r.p2_record)}" cy="${yy}" r="5" fill="var(--card)" stroke="${col}" stroke-width="2"/>` + dot(x(r.p2_own), yy, col, 5.5) + `<line x1="${x(r.firm_drop2)}" x2="${x(r.firm_drop2)}" y1="${yy - 8}" y2="${yy + 8}" stroke="var(--obs)" stroke-width="2.2"/>`; },
-    xmin, xmax, [0.1, 0.15, 0.2, 0.25, 0.3, 0.35], pct, width, 118, 30, 22, () => ""); }
+    xmin, xmax, [0.1, 0.15, 0.2, 0.25, 0.3, 0.35], pct, width, 118, 30, 22, () => ""); $(sel).insertAdjacentHTML("beforeend", legend([["dot", "var(--sec)", "with its own ruling as memory"], ["hollow", "var(--sec)", "without a memory"], ["tick", "var(--obs)", "the firms' withdrawal of the same products"]])); }
 function hardenChart(sel, hs, width = W) { const cs = HSC().filter(c => hs.rows[c] && hs.rows[c].doubt_excess != null), vals = cs.flatMap(c => [hs.rows[c].doubt_lo, hs.rows[c].doubt_hi]);
   const xmin = Math.min(-0.02, Math.min(...vals) - 0.01), xmax = Math.max(0.1, Math.max(...vals) + 0.01);
   rowsChart(sel, cs, (c, yy, x) => { const r = hs.rows[c], col = COL[base(c)]; return `<line x1="${x(r.doubt_lo)}" x2="${x(r.doubt_hi)}" y1="${yy}" y2="${yy}" stroke="${col}" stroke-width="1.6"/>` + dot(x(r.doubt_excess), yy, col, 5.5) + `<text class="n" x="${x(r.doubt_hi) + 7}" y="${yy + 4}" style="fill:var(--ink)">${pp(r.doubt_excess)}</text>`; },
-    xmin, xmax, [-0.1, 0, 0.1, 0.2, 0.3], t => `${t > 0 ? "+" : ""}${Math.round(t * 100)} pp`, width, 118, 30, 22, () => ""); }
+    xmin, xmax, [-0.1, 0, 0.1, 0.2, 0.3], t => `${t > 0 ? "+" : ""}${Math.round(t * 100)} pp`, width, 118, 30, 22, () => ""); $(sel).insertAdjacentHTML("beforeend", legend([["dot", "var(--sec)", "own memory minus no memory, percentage points"], ["line", "var(--sec)", "95% interval from resampling firms"]])); }
 function curvesChart(sel, hs, width = W) { const cv = hs.curves; if (!cv) { $(sel).innerHTML = ""; return; }
   const WS = Object.keys(cv).filter(w => Object.keys(cv[w].conditions).length); if (!WS.includes(S.cohort)) S.cohort = WS[WS.length - 1]; const c = cv[S.cohort], ys = c.years;
   const vals = Object.values(c.conditions).flatMap(v => [...v.agent, ...v.record]), ymin = Math.max(0.4, Math.floor((Math.min(...vals) - 0.06) * 10) / 10), left = 44, pw = width - left - 150, ph = 170, top = 22, y = v => top + (1 - (Math.max(ymin, v) - ymin) / (1 - ymin)) * ph, x = yr => left + ys.indexOf(yr) / (ys.length - 1) * pw;
@@ -293,7 +297,7 @@ function curvesChart(sel, hs, width = W) { const cv = hs.curves; if (!cv) { $(se
   ends.forEach(([yy, lab, col, xx]) => s += `<text class="n" x="${left + pw + 10}" y="${yy + 4}" style="fill:${col}">${lab}</text>`);
   $(sel).innerHTML = `<div class="r" style="display:flex;gap:10px;align-items:center;margin:0 0 8px"><label style="font:400 12.5px var(--font);color:var(--sec)">Cohort</label><div class="seg" id="${sel.slice(1)}-seg"></div><span style="font:400 12px var(--font);color:var(--sec)">${first ? first.n_firm_windows + " firm-windows" : ""}</span></div><div id="${sel.slice(1)}-svg"></div>`;
   seg($(`${sel}-seg`), WS.map(w => [w, w === "exploration" ? "Products of 2018" : "Products of 2023", w === "exploration" ? "Decided in 2019 and, across the pandemic gap, in 2022." : "Decided in 2024 and 2025."]), S.cohort, k => { S.cohort = k; curvesChart(sel, hs, width); });
-  svgIn(`${sel}-svg`, s, top + ph + 40, width); }
+  svgIn(`${sel}-svg`, s, top + ph + 40, width); $(`${sel}-svg`).insertAdjacentHTML("beforeend", legend([["line", "var(--obs)", "record, every archived year"], ...THLEG().map(([a, b, c]) => ["line", b, c + ", agent"]), ["band", "var(--sec)", "pandemic gap"]])); }
 function hotstoveTable(hs) { const cs = HSC().filter(c => hs.rows[c]); return `<table class="t" style="margin-top:14px"><tr><th>Theory</th><th class="num">Withdrawn in year 2, own memory</th><th class="num">No memory</th><th class="num">Firms</th><th class="num">Hardening [95%]</th><th class="num">Cohort after year 2, agent</th><th class="num">Record</th></tr>` +
   cs.map(c => { const r = hs.rows[c]; return `<tr><td style="white-space:nowrap"><span class="sw" style="background:${COL[base(c)]};margin-right:8px"></span>${NAME(c)}</td><td class="num">${pct1(r.p2_own)}</td><td class="num">${pct1(r.p2_record)}</td><td class="num">${pct1(r.firm_drop2)}</td><td class="num">${r.doubt_excess == null ? "–" : `${pp(r.doubt_excess)} [${pp(r.doubt_lo)}, ${pp(r.doubt_hi)}]`}</td><td class="num">${pct1(r.s2)}</td><td class="num">${pct1(r.r2)}</td></tr>`; }).join("") + `</table>`; }
 function ownHistory(prefix, hs, width) { const w2 = (width - 16) / 2;
@@ -307,11 +311,12 @@ function layersChart(sel, a, t, width = W) { const th = `${t}_F`, rows = [["Lang
     if (ref != null) s += `<line x1="${x(ref)}" x2="${x(ref)}" y1="${top - 8}" y2="${top + rows.length * rh}" stroke="var(--obs)" stroke-width="1.6"/><text class="n" x="${x(ref)}" y="${top - 1}" text-anchor="middle" style="fill:var(--obs);font-size:10px">${key === "auc_holdout" ? "cues " + f2(ref) : "record " + pct(ref)}</text>`;
     rows.forEach(([name, v], k) => { const yy = top + k * rh + rh / 2, col = k < 2 ? COL.none : COL[t], val = v[key]; if (val == null) return; s += `<line x1="${x0}" x2="${x(val)}" y1="${yy}" y2="${yy}" stroke="${col}" stroke-width="1.2" opacity=".35"/>` + dot(x(val), yy, col, 5) + `<text class="n" x="${x(val) + 8}" y="${yy + 4}" style="fill:var(--ink)">${key === "auc_holdout" ? f2(val) : pct(val)}</text>`; }); });
   rows.forEach(([name], k) => { const yy = top + k * rh + rh / 2; s += `<text class="t" x="0" y="${yy + 4}" style="font-size:11.5px">${name}</text>`; });
-  svgIn(sel, s, top + rows.length * rh + 24, width); }
+  svgIn(sel, s, top + rows.length * rh + 24, width); $(sel).insertAdjacentHTML("beforeend", legend([["dot", COL.none, "without a theory"], ["dot", COL[t], SHORT[t]], ["tick", "var(--obs)", "record, or the regression on the cues"]])); }
 function attentionChart(sel, a, key, rec, width) { const cs = ["none", ...HSC()].filter(c => a[c]), vals = cs.flatMap(c => [a[c].web[key], a[c].none[key], a[c].own ? a[c].own[key] : 0, rec]);
   const xmax = Math.max(...vals) + 0.05;
   rowsChart(sel, cs, (c, yy, x) => { const col = COL[base(c)], wv = a[c].web, nv = a[c].none, ov = a[c].own; return `<line x1="${x(wv[key])}" x2="${x(nv[key])}" y1="${yy}" y2="${yy}" stroke="${col}" stroke-width="1.2" opacity=".5"/><circle cx="${x(nv[key])}" cy="${yy}" r="5" fill="var(--card)" stroke="${col}" stroke-width="2"><title>without the web anchors ${pct(nv[key])}</title></circle>` + (ov ? `<rect x="${x(ov[key]) - 4.5}" y="${yy - 4.5}" width="9" height="9" fill="${col}" stroke="var(--card)" stroke-width="1.5"><title>without its own anchors ${pct(ov[key])}</title></rect>` : "") + dot(x(wv[key]), yy, col, 6) + `<text class="n" x="${x(wv[key])}" y="${yy - 9}" text-anchor="middle" style="fill:var(--ink)">${pct(wv[key])}</text>`; },
-    0, xmax, [0, 0.2, 0.4, 0.6, 0.8], pct, width, 118, 32, 24, (x, top, h) => `<line x1="${x(rec)}" x2="${x(rec)}" y1="${top - 12}" y2="${top + h}" stroke="var(--obs)" stroke-width="1.6"/><text class="n" x="${x(rec) + 5}" y="${top - 2}" style="fill:var(--obs)">record ${pct(rec)}</text>`); }
+    0, xmax, [0, 0.2, 0.4, 0.6, 0.8], pct, width, 118, 32, 24, (x, top, h) => `<line x1="${x(rec)}" x2="${x(rec)}" y1="${top - 12}" y2="${top + h}" stroke="var(--obs)" stroke-width="1.6"/><text class="n" x="${x(rec) + 5}" y="${top - 2}" style="fill:var(--obs)">record ${pct(rec)}</text>`);
+  $(sel).insertAdjacentHTML("beforeend", legend([["dot", "var(--sec)", "with the firm's web anchors"], ["hollow", "var(--sec)", "without web anchors"], ["box", "var(--sec)", "without the theory's own anchors"], ["tick", "var(--obs)", "record"]])); }
 function acrossModels(sel, width = W) { const ms = Object.keys(D.models).filter(m => D.reference[m]), w3 = (width - 24) / 3, cs = HSC();
   $(sel).innerHTML = `<div class="row c3" style="gap:12px"><div><p class="k3">Withdrawn on the held-out window</p><div id="am-l"></div></div><div><p class="k3">Hardening of an early doubt</p><div id="am-h"></div></div><div><p class="k3">Ranking on the held-out window, AUC</p><div id="am-a"></div></div></div>`;
   const panel = (id, val, xmin, xmax, ticks, fmt, extra) => { const l = 96, pw = w3 - l - 30, rh = 30, top = 22, x = v => l + (Math.min(xmax, Math.max(xmin, v)) - xmin) / (xmax - xmin) * pw;
@@ -322,7 +327,8 @@ function acrossModels(sel, width = W) { const ms = Object.keys(D.models).filter(
   panel("#am-l", (m, c) => (D.reference[m].levels.holdout[c] || [null])[0], 0.05, 0.3, [0.1, 0.2, 0.3], pct, (x, top, h) => `<line x1="${x(recH)}" x2="${x(recH)}" y1="${top - 10}" y2="${top + h}" stroke="var(--obs)" stroke-width="1.6"/><text class="n" x="${x(recH) + 5}" y="${top - 1}" style="fill:var(--obs)">record ${pct(recH)}</text>`);
   panel("#am-h", (m, c) => D.hotstove[m] && D.hotstove[m].rows[c] ? D.hotstove[m].rows[c].doubt_excess : null, -0.05, 0.25, [0, 0.1, 0.2], t => `${t > 0 ? "+" : ""}${Math.round(t * 100)} pp`);
   const ceil = D.record.ceiling.holdout;
-  panel("#am-a", (m, c) => { const w = (D.weights[m] || {}).F; const q = w && w.validation.find(v => v.predictor === c); return q ? q.auc : null; }, 0.4, 0.7, [0.4, 0.5, 0.6, 0.7], f2, (x, top, h) => `<line x1="${x(ceil)}" x2="${x(ceil)}" y1="${top - 10}" y2="${top + h}" stroke="var(--obs)" stroke-width="1.6"/><text class="n" x="${x(ceil) + 5}" y="${top - 1}" style="fill:var(--obs)">cues ${f2(ceil)}</text>`); }
+  panel("#am-a", (m, c) => { const w = (D.weights[m] || {}).F; const q = w && w.validation.find(v => v.predictor === c); return q ? q.auc : null; }, 0.4, 0.7, [0.4, 0.5, 0.6, 0.7], f2, (x, top, h) => `<line x1="${x(ceil)}" x2="${x(ceil)}" y1="${top - 10}" y2="${top + h}" stroke="var(--obs)" stroke-width="1.6"/><text class="n" x="${x(ceil) + 5}" y="${top - 1}" style="fill:var(--obs)">cues ${f2(ceil)}</text>`);
+  $(sel).insertAdjacentHTML("beforeend", legend([...THLEG(), ["tick", "var(--obs)", "record, or the regression on the cues"]])); }
 
 /* 3 firms: database and detail */
 let sortKey = "domain", sortDir = 1;
@@ -331,6 +337,7 @@ function firmRows() { const rows = buildCases(S.model); return Object.entries(D.
 function drawFirms() {
   const rows = firmRows(), tot = k => rows.reduce((a, r) => a + (r[k] || 0), 0);
   $("#firms-h").textContent = `${rows.length} firms, measured from their archived websites.`;
+  const fp = $("#firm-pick"); fp.innerHTML = Object.entries(D.firms).sort((a, b) => a[1].domain.localeCompare(b[1].domain)).map(([k, f]) => `<option value="${k}" ${k === S.firm ? "selected" : ""}>${esc(f.domain)}</option>`).join(""); fp.onchange = e => { S.firm = e.target.value; S.open = null; drawFirms(); setHash(); };
   $("#dbstats").innerHTML = [[rows.length, "firms"], [tot("pages").toLocaleString(), "archived pages read"], [Math.round(tot("chars") / 1e6).toLocaleString() + " M", "characters of website text"], [tot("products").toLocaleString(), `new products, ${tot("withdrawn")} taken off the market`]].map(([b, s]) => `<div class="card stat" style="margin:0"><b>${b}</b><span>${s}</span></div>`).join("");
   const cols = [["domain", "Firm"], ["regime", "Regime"], ["pages", "Pages read", 1], ["products", "New products", 1], ["withdrawn", "Withdrawn", 1], ["cases", "Decisions", 1], ["rec", "Withdrawn, record", 1], ["p", "Withdrawn, theories", 1]];
   rows.sort((a, b) => { const va = a[sortKey], vb = b[sortKey]; return (typeof va === "string" ? va.localeCompare(vb) : (va ?? -1) - (vb ?? -1)) * sortDir; });
@@ -380,12 +387,12 @@ function drawValidation() {
   C.forEach((k, j) => { const [m, a, b] = h[k], x = left + (j + 0.5) * pw / C.length, col = COL[base(k)]; if (k === "record") s += `<rect x="${left}" y="${y(b)}" width="${pw}" height="${Math.max(0, y(a) - y(b))}" fill="var(--obs)" opacity=".07"/>`;
     s += `<line x1="${x}" x2="${x}" y1="${y(a)}" y2="${y(b)}" stroke="${col}" stroke-width="${k === "record" ? 2 : 1.4}"/>` + dot(x, y(m), col, k === "record" ? 6 : 5) + `<text class="n" x="${x}" y="${y(b) - 7}" text-anchor="middle" style="fill:var(--ink)">${pct(m)}</text>`;
     const words = k === "record" ? ["record"] : SHORT[base(k)].split(" "); s += `<text class="n" x="${x}" y="${top + ph + 14}" text-anchor="middle" style="fill:${col};font-size:10.5px">${words.map((wd, q) => `<tspan x="${x}" dy="${q ? 12 : 0}">${wd}</tspan>`).join("")}</text>`; });
-  svgIn("#levels", s, top + ph + 44, HW);
+  svgIn("#levels", s, top + ph + 44, HW); $("#levels").insertAdjacentHTML("beforeend", legend([["dot", "var(--obs)", "record"], ["band", "var(--obs)", "95% interval of the record"], ...THLEG(), ["line", "var(--sec)", "95% interval from resampling firms"]]));
   // ranking against the ceiling
   const w = wts(); if (w) { const v = w.validation.filter(q => !["none", "regime", "firm", "base rate"].includes(q.predictor)), label = k => ({common: "fitted mix"}[k] || SHORT[base(k)]), l2 = 118, pw2 = HW - l2 - 30, rh = 26, t2 = 22, x2 = q => l2 + (Math.min(0.7, Math.max(0.4, q)) - 0.4) / 0.3 * pw2;
     let s2 = [0.4, 0.5, 0.6, 0.7].map(t => `<line x1="${x2(t)}" x2="${x2(t)}" y1="${t2 - 6}" y2="${t2 + v.length * rh}" stroke="${t === 0.5 ? "var(--ter)" : "var(--hair)"}" stroke-width="1" ${t === 0.5 ? 'stroke-dasharray="3 3"' : ""}/><text class="n" x="${x2(t)}" y="${t2 + v.length * rh + 16}" text-anchor="middle">${t.toFixed(1)}</text>`).join("") + `<line x1="${x2(ceil)}" x2="${x2(ceil)}" y1="${t2 - 6}" y2="${t2 + v.length * rh}" stroke="var(--obs)" stroke-width="1.3"/><text class="n" x="${x2(ceil)}" y="${t2 + v.length * rh + 30}" text-anchor="middle" style="fill:var(--obs)">cues ${f2(ceil)}</text><text class="n" x="${x2(0.5)}" y="${t2 + v.length * rh + 30}" text-anchor="middle">chance</text>`;
     v.forEach((q, k) => { const yy = t2 + k * rh + rh / 2, col = COL[base(q.predictor)] || "var(--ink)"; s2 += `<text class="t" x="0" y="${yy + 4}" style="font-size:11.5px">${label(q.predictor)}</text>` + dot(x2(q.auc), yy, col, 5.5) + `<text class="n" x="${x2(q.auc) + 9}" y="${yy + 4}" style="fill:var(--ink)">${f2(q.auc)}</text>`; });
-    svgIn("#valfig", s2, t2 + v.length * rh + 40, HW); const best = Math.max(...v.map(q => q.auc)), worst = Math.min(...v.map(q => q.auc));
+    svgIn("#valfig", s2, t2 + v.length * rh + 40, HW); $("#valfig").insertAdjacentHTML("beforeend", legend([...THLEG(), ["dot", "var(--ink)", "fitted mix"], ["tick", "var(--obs)", "regression on the cues"]])); const best = Math.max(...v.map(q => q.auc)), worst = Math.min(...v.map(q => q.auc));
     $("#f7-arg").textContent = `${best < ceil ? "No theory ranks the withdrawn products above the kept ones better than the cues it reads" : "Some theories rank the withdrawn products above the cues"}: AUC ${f2(worst)} to ${f2(best)} against ${f2(ceil)} for a regression on the same cues, where 0.5 is chance.`;
     const top2 = Object.entries(w.common).sort((a, b) => b[1] - a[1]).slice(0, 3), sdmax = Math.max(...w.conditions.map(c => w.firm_sd[c] || 0));
     $("#f7-note").textContent = `Held-out window; the navy line is a logistic regression on the cues the agents see, fitted on the 2019 decisions. The fitted mix weights the conditions by log loss on the 2019 decisions, ${list(top2.map(([c, q]) => `${SHORT[base(c)]} ${f2(q)}`))}; weights by regime and by firm depart from it by at most ${f2(sdmax)}, so that they are not identified on this many products.`; }

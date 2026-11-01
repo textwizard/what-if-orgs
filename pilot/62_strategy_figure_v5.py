@@ -261,14 +261,14 @@ gx0, gx1, gy0, gy1 = px + 20, px + 108, top - 160, top - 96
 ax.plot([gx0, gx0], [gy0, gy1], color=FAINT, lw=0.5); ax.plot([gx0, gx1], [gy0, gy0], color=FAINT, lw=0.5)
 text(gx0 - 3, gy1, "100%", ha="right", color=FAINT, fontsize=5); text(gx0 - 3, gy0, "50%", ha="right", color=FAINT, fontsize=5)
 sc = lambda v: (v - 0.5) / 0.5
-for t_, lab in enumerate(("launch", "year 1", "year 2", "later")):
-    text(gx0 + t_ * (gx1 - gx0) / 3, gy0 - 6, lab, ha="center", color=FAINT, fontsize=5)
-ax.plot([gx0 + t_ * (gx1 - gx0) / 3 for t_ in range(4)], [gy0 + sc(q) * (gy1 - gy0) for q in [1, 0.88, 0.80, 0.76]], color=OBS, lw=1.4, zorder=4)
+for t_, lab in enumerate(("launch", "year 1", "year 2")):
+    text(gx0 + t_ * (gx1 - gx0) / 2, gy0 - 6, lab, ha="center", color=FAINT, fontsize=5)
+ax.plot([gx0 + t_ * (gx1 - gx0) / 2 for t_ in range(3)], [gy0 + sc(q) * (gy1 - gy0) for q in [1, 0.88, 0.80]], color=OBS, lw=1.4, zorder=4)
 curves = (("esc", [1, 0.93, 0.90]), ("ac", [1, 0.86, 0.78]), ("ro", [1, 0.90, 0.66]), ("btf", [1, 0.78, 0.62]))
 for k, v in curves:
-    ax.plot([gx0 + t_ * (gx1 - gx0) / 3 for t_ in range(3)], [gy0 + sc(q) * (gy1 - gy0) for q in v], color=THEORY[k], lw=1.1, zorder=3)
-    ax.add_patch(Circle((gx0 + 2 * (gx1 - gx0) / 3, gy0 + sc(v[2]) * (gy1 - gy0)), 1.6, fc=THEORY[k], ec="none", zorder=5))
-for q, lab, col in ((0.91, "ESC", THEORY["esc"]), (0.81, "AC", THEORY["ac"]), (0.74, "record", OBS), (0.66, "RO", THEORY["ro"]), (0.59, "BTF", THEORY["btf"])):
+    ax.plot([gx0 + t_ * (gx1 - gx0) / 2 for t_ in range(3)], [gy0 + sc(q) * (gy1 - gy0) for q in v], color=THEORY[k], lw=1.1, zorder=3)
+    ax.add_patch(Circle((gx1, gy0 + sc(v[2]) * (gy1 - gy0)), 1.6, fc=THEORY[k], ec="none", zorder=5))
+for q, lab, col in ((0.91, "ESC", THEORY["esc"]), (0.83, "record", OBS), (0.76, "AC", THEORY["ac"]), (0.66, "RO", THEORY["ro"]), (0.59, "BTF", THEORY["btf"])):
     text(gx1 + 3, gy0 + sc(q) * (gy1 - gy0), lab, fontsize=5, color=col)
 lines_(px + 138, top - 100, ["the agent decides year 1,", "then carries its own", "decisions into year 2;", "the cohort is compared", "with the record", "", "escalation persists,", "the behavioral theory", "withdraws on weak results"], dy=7, color=MUTE, fontsize=4.8)
 
