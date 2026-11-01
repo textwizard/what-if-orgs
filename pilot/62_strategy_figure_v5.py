@@ -268,9 +268,9 @@ curves = (("esc", [1, 0.93, 0.90]), ("ac", [1, 0.86, 0.78]), ("ro", [1, 0.90, 0.
 for k, v in curves:
     ax.plot([gx0 + t_ * (gx1 - gx0) / 3 for t_ in range(3)], [gy0 + sc(q) * (gy1 - gy0) for q in v], color=THEORY[k], lw=1.1, zorder=3)
     ax.add_patch(Circle((gx0 + 2 * (gx1 - gx0) / 3, gy0 + sc(v[2]) * (gy1 - gy0)), 1.6, fc=THEORY[k], ec="none", zorder=5))
-for q, lab, col in ((0.90, "ESC", THEORY["esc"]), (0.78, "AC", THEORY["ac"]), (0.72, "record", OBS), (0.66, "RO", THEORY["ro"]), (0.60, "BTF", THEORY["btf"])):
+for q, lab, col in ((0.91, "ESC", THEORY["esc"]), (0.81, "AC", THEORY["ac"]), (0.74, "record", OBS), (0.66, "RO", THEORY["ro"]), (0.59, "BTF", THEORY["btf"])):
     text(gx1 + 3, gy0 + sc(q) * (gy1 - gy0), lab, fontsize=5, color=col)
-lines_(px + 150, top - 100, ["the agent decides year 1,", "then carries its own", "decisions into year 2;", "the cohort is compared", "with the record", "", "escalation persists,", "the behavioral theory", "withdraws on weak results"], dy=7, color=MUTE, fontsize=5)
+lines_(px + 138, top - 100, ["the agent decides year 1,", "then carries its own", "decisions into year 2;", "the cohort is compared", "with the record", "", "escalation persists,", "the behavioral theory", "withdraws on weak results"], dy=7, color=MUTE, fontsize=4.8)
 
 out = HERE / "analysis" / "figures"; out.mkdir(parents=True, exist_ok=True)
 for ext in ("pdf", "svg", "png"):
