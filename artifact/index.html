@@ -4272,9 +4272,18 @@ function drawValidation() {
 }
 
 /* routing */
-function setHash() { const h = `#${S.page}/${S.model}/${S.framing}/${S.firm || ""}/${Q.scope}:${encodeURIComponent(Q.value)}:${Q.win}:${Q.conds.join(",")}:${Q.anchors}:${Q.out}`; try { history.replaceState(null, "", h); } catch (e) { try { location.hash = h; } catch (e2) {} } }
-function readHash() { const h = location.hash.replace(/^#/, "").split("/"); if (h[0] && document.getElementById(h[0])) S.page = h[0]; if (h[1] && D.models[h[1]]) S.model = h[1]; if (h[2] && D.framings[h[2]]) S.framing = h[2]; if (h[3] && D.firms[h[3]]) S.firm = h[3];
-  if (h[4]) { const q = h[4].split(":"); if (["all", "regime", "size", "firm"].includes(q[0])) Q.scope = q[0]; Q.value = decodeURIComponent(q[1] || ""); if (["both", "exploration", "holdout"].includes(q[2])) Q.win = q[2]; if (q[3]) Q.conds = q[3].split(",").filter(c => D.theories[c] && c !== "none"); if (["with", "without"].includes(q[4])) Q.anchors = q[4]; if (["levels", "ranking", "cases", "hotstove"].includes(q[5])) Q.out = q[5]; } }
+const DEF = () => ({model: D.main_model, framing: "F", firm: Object.keys(D.firms).sort((a, b) => D.firms[a].domain.localeCompare(D.firms[b].domain))[0], scope: "all", win: "holdout", conds: THEORIES().join(","), anchors: "with", out: "levels"});
+function setHash() { const d = DEF(), q = [];
+  if (S.model !== d.model) q.push("model=" + S.model); if (S.framing !== d.framing) q.push("texts=" + S.framing);
+  if (S.page === "firms" && S.firm && S.firm !== d.firm) q.push("firm=" + S.firm);
+  if (S.page === "simulator") { if (Q.scope !== d.scope) q.push("firms=" + Q.scope + (Q.value ? ":" + encodeURIComponent(Q.value) : "")); if (Q.win !== d.win) q.push("decisions=" + Q.win); if (Q.conds.join(",") !== d.conds) q.push("theories=" + Q.conds.join(",")); if (Q.anchors !== d.anchors) q.push("anchors=" + Q.anchors); if (Q.out !== d.out) q.push("output=" + Q.out); }
+  const h = "#" + (S.page === "intro" && !q.length ? "" : S.page) + (q.length ? "?" + q.join("&") : ""); try { history.replaceState(null, "", h || location.pathname); } catch (e) { try { location.hash = h; } catch (e2) {} } }
+function readHash() { const raw = location.hash.replace(/^#/, ""), [page, query] = raw.split("?"); if (page && document.getElementById(page)) S.page = page;
+  const q = Object.fromEntries((query || "").split("&").filter(Boolean).map(kv => { const k = kv.indexOf("="); return [kv.slice(0, k), decodeURIComponent(kv.slice(k + 1))]; }));
+  if (q.model && D.models[q.model]) S.model = q.model; if (q.texts && D.framings[q.texts]) S.framing = q.texts; if (q.firm && D.firms[q.firm]) S.firm = q.firm;
+  if (q.firms) { const [sc, val] = q.firms.split(":"); if (["all", "regime", "size", "firm"].includes(sc)) { Q.scope = sc; Q.value = val || ""; } }
+  if (q.decisions && ["both", "exploration", "holdout"].includes(q.decisions)) Q.win = q.decisions; if (q.theories) Q.conds = q.theories.split(",").filter(c => D.theories[c] && c !== "none"); if (!Q.conds.length) Q.conds = THEORIES();
+  if (q.anchors && ["with", "without"].includes(q.anchors)) Q.anchors = q.anchors; if (q.output && ["levels", "ranking", "cases", "hotstove"].includes(q.output)) Q.out = q.output; }
 function show(page, scroll = true) { S.page = page; document.querySelectorAll("section.page, #nav a").forEach(e => e.classList.toggle("on", e.id === page || e.dataset.page === page)); setHash(); if (scroll) window.scrollTo(0, 0); }
 document.addEventListener("click", e => { const a = e.target.closest("[data-page]"); if (a) { e.preventDefault(); show(a.dataset.page); } });
 window.addEventListener("hashchange", () => { readHash(); show(S.page, false); });
