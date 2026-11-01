@@ -41,7 +41,7 @@ web:
   retries: 6
   delay: 1.0              # seconds between requests of one worker
   backoff: 30             # seconds before the first retry after a refusal
-  user_agent: "WhatIfOrganizations/0.1 (academic research, University of Twente)"
+  user_agent: "WhatIfOrganizations/0.1 (academic research)"
 
 coding:
   page_chars: 2500         # characters per page in a dossier

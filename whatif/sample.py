@@ -1,4 +1,4 @@
-"""Draw the main sample and the pilot subsample from the sample frame of Dahlke et al. (2026).
+"""Draw the main sample and the pilot subsample from the sample frame of the companion paper.
 
 Firms are eligible if Common Crawl holds their website in the exploration, pandemic, and hold-out periods and if
 Eurostat reports annual turnover for their industry, which the pandemic test needs to set the shock by industry. Cells
