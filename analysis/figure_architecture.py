@@ -147,7 +147,7 @@ for r_, role in enumerate(["home", "products", "news", "about", "careers"]):
         for q in range(random.choice([1, 2, 2, 3])):
             ax.add_patch(Circle((XC(i) - 3 + q * 3, yy + 1.3 - q * 1.6), 1.2, fc=OBS, ec="none", alpha=0.85, zorder=3))
 ax.add_patch(Rectangle((XC(3) - 6, top - 96), 12, 66, fc=PANEL, ec="none", zorder=2)); text(XC(3), top - 101, "pandemic", ha="center", color=FAINT, fontsize=5)
-lines_(px, top - 122, ["every page carries a Common Crawl pointer (file, offset, length,", "digest), so that anyone can fetch the same page and repeat the coding", "", "per firm and year, 15 to 50 pages are read, up to 45,000 characters,", "with quotas by page role"], dy=7, color=MUTE, fontsize=5.3)
+lines_(px, top - 122, ["every page carries a Common Crawl pointer (file, offset,", "length, digest), so that anyone can fetch the same page", "and repeat the coding", "", "per firm and year, 15 to 50 pages are read, up to 45,000", "characters, with quotas by page role"], dy=7, color=MUTE, fontsize=5.3)
 
 # ---- c measurement ----
 px, py = cells["c"]; px += IN; top = py + PH - 10
@@ -238,7 +238,7 @@ for r_, (lab, rec, pred) in enumerate((("regime 1", 0.42, 0.38), ("regime 2", 0.
     ax.add_patch(Circle((gx0 + rec * (gx1 - gx0), yy), 2.3, fc=OBS, ec="none", zorder=4)); ax.add_patch(Circle((gx0 + pred * (gx1 - gx0), yy), 2.3, fc=PAPER, ec=MUTE, lw=0.7, zorder=4))
 ax.add_patch(Circle((px + 3, top - 160), 2.2, fc=OBS, ec="none")); text(px + 8, top - 160, "recorded share withdrawn", color=MUTE, fontsize=5)
 ax.add_patch(Circle((px + 96, top - 160), 2.2, fc=PAPER, ec=MUTE, lw=0.7)); text(px + 101, top - 160, "predicted by the fitted mix", color=MUTE, fontsize=5)
-text(px, top - 170, "scored by level, log loss and ranking against the record", color=FAINT, fontsize=5)
+text(px, top - 170, "scored by level and ranking against the record", color=FAINT, fontsize=5)
 
 # ---- g what-if experiments ----
 px, py = cells["g"]; px += IN; top = py + PH - 10
@@ -265,7 +265,7 @@ for k, v in curves:
     ax.add_patch(Circle((gx1, gy0 + sc(v[2]) * (gy1 - gy0)), 1.6, fc=THEORY[k], ec="none", zorder=5))
 for q, lab, col in ((0.91, "ESC", THEORY["esc"]), (0.83, "record", OBS), (0.76, "AC", THEORY["ac"]), (0.66, "RO", THEORY["ro"]), (0.59, "BTF", THEORY["btf"])):
     text(gx1 + 3, gy0 + sc(q) * (gy1 - gy0), lab, fontsize=5, color=col)
-lines_(px + 138, top - 100, ["the agent decides year 1,", "then carries its own", "decisions into year 2;", "the cohort is compared", "with the record", "", "escalation persists,", "the behavioral theory", "withdraws on weak results"], dy=7, color=MUTE, fontsize=4.8)
+lines_(px + 138, top - 100, ["the agent decides year 1,", "then carries its own", "decisions into year 2;", "the cohort is compared", "with the record", "", "escalation persists,", "the behavioral theory", "withdraws when the", "results are weak"], dy=7, color=MUTE, fontsize=4.8)
 
 out = HERE / "figures"; out.mkdir(parents=True, exist_ok=True)
 for ext in ("pdf", "svg", "png"):
