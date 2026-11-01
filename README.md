@@ -1,6 +1,6 @@
 # What-If Organizations
 
-Code, public data, and research artifact for *What-If Organizations: Synthetic Agents for Organization Science Research* (Dahlke and Calvino, Stage 1 proposal to the *Organization Science* special issue AI-Assisted Frontiers in Organizational Science).
+Code, public data, and research artifact for *What-If Organizations: Synthetic Agents for Organization Science Research* (Stage 1 proposal to the *Organization Science* special issue AI-Assisted Frontiers in Organizational Science).
 
 What-if organizations are language-model agents that represent specific real organizations. Each agent combines a language model, anchors measured from the archived websites of the organization, and an assigned behavioral theory given as a short text. The reference organization reads the firm's own record of new products year by year and decides about each of them; what-if organizations are the same firm simulated under alternative theories, without its anchors, or with its own earlier decisions as its past in place of the record. The proof of concept applies the agents to how 50 German firms respond to the early results of their new products, measured on their archived websites from 2017 to 2026.
 
